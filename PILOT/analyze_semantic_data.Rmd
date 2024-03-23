@@ -1,0 +1,162 @@
+---
+title: "analyze_semantic_data"
+output: html_document
+date: "2024-03-21"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+# set the directory (need to make it more general)
+# setwd('Documents/Postdoc/Semantic_Fluency/Semantic_Data_Analysis/PILOT')
+
+data_dir = 'DATA/Grouped'
+forager_suffix = "_outputs_forager_results"
+library(ggplot2)
+library(dplyr)
+```
+
+## Plot the semantic similarity and the 
+
+Read in the relevant .csv file for analysis
+
+```{r import_file}
+category = 'FRUITS'
+category_dir = file.path(data_dir, paste0(category, forager_suffix))
+lexical_fn= 'lexical_results.csv'
+
+lexical_file = file.path(category_dir, lexical_fn)
+
+lexical_data = read.csv(lexical_file)
+
+lexical_data = lexical_data %>% group_by(Subject) %>% mutate(Item = row_number())
+
+```
+
+## Plot Semantic Similarity and Frequency by subject
+
+First, plot frequency
+```{r freq_plot, echo=FALSE}
+
+plt_freq_subj =  ggplot(data = lexical_data) + geom_line(aes( x = Item, y = Frequency_Value, color = Subject, group = Subject))+
+  facet_wrap(~Subject, nrow = 4, scales = "free_x")+ 
+  ggtitle(category)+
+  theme(legend.position="none",plot.title = element_text(size=22, hjust = 0.5))
+
+plt_freq_subj
+ggsave(file.path('Plots',paste0(category, '_freqency_subj.png')), plt_freq_subj, units = "in", width = 8, height = 5)
+  
+```
+
+Aggregate Data and check
+
+```{r}
+
+lex_avg_subj = lexical_data %>% group_by(Item) %>% summarise(mean_freq = mean(Frequency_Value), sd_freq = sd(Frequency_Value), mean_ss= mean(Semantic_Similarity), sd_ss = sd(Semantic_Similarity))
+
+lex_avg_subj = lex_avg_subj %>% mutate(freq_min = mean_freq - sd_freq, freq_max = mean_freq + sd_freq, ss_min = mean_ss - sd_ss, ss_max = mean_ss + sd_ss)
+
+plt_avg_freq = ggplot(data=lex_avg_subj) + geom_line(aes(x = Item, y = mean_freq))+
+  geom_errorbar(aes(x = Item, ymin = freq_min, ymax = freq_max))+
+  ggtitle(category)+
+  theme(legend.position="none",plot.title = element_text(size=22, hjust = 0.5))
+
+
+plt_avg_freq
+ggsave(file.path('Plots',paste0(category, '_freqency_avg.png')), plt_avg_freq, units = "in", width = 8, height = 5)
+
+lex_filter_outliers = lexical_data %>% group_by(Item) %>% filter((Frequency_Value < 2 *sd(Frequency_Value) + mean(Frequency_Value)))
+
+lex_avg_subj_outl = lex_filter_outliers %>% group_by(Item) %>% summarise(mean_freq = mean(Frequency_Value), sd_freq = sd(Frequency_Value))
+
+lex_avg_subj_outl = lex_avg_subj_outl %>% mutate(freq_min = mean_freq - sd_freq, freq_max = mean_freq + sd_freq)
+
+ggplot(data=lex_avg_subj_outl) + geom_line(aes(x = Item, y = mean_freq))+
+  geom_errorbar(aes(x = Item, ymin = freq_min, ymax = freq_max))+
+  ggtitle(category)+
+  theme(legend.position="none",plot.title = element_text(size=22, hjust = 0.5))
+
+```
+
+Next, semantic similarity 
+```{r freq_plot, echo=FALSE}
+
+plt_ss_subj = ggplot(data = lexical_data) + geom_line(aes( x = Item, y = Semantic_Similarity, color = Subject, group = Subject))+
+  facet_wrap(~Subject, nrow = 4, scales = "free_x")+ 
+  ggtitle(category)+
+  theme(legend.position="none",plot.title = element_text(size=22, hjust = 0.5))
+  
+plt_ss_subj
+ggsave(file.path('Plots',paste0(category, '_semanticsim_subj.png')), plt_ss_subj, units = "in", width = 8, height = 5)
+
+```
+Aggregate the data
+
+```{r}
+plt_ss_avg = ggplot(data=lex_avg_subj) + geom_line(aes(x = Item, y = mean_ss))+
+  geom_errorbar(aes(x = Item, ymin = ss_min, ymax = ss_max))+
+  ggtitle(category)+
+  theme(legend.position="none",plot.title = element_text(size=22, hjust = 0.5))
+
+plt_ss_avg
+ggsave(file.path('Plots',paste0(category, '_semanticsim_avg.png')), plt_ss_avg, units = "in", width = 8, height = 5)
+
+
+lex_filter_outliers = lexical_data %>% group_by(Item) %>% filter((Semantic_Similarity < 2 *sd(Semantic_Similarity) + mean(Semantic_Similarity)))
+
+lex_avg_subj_outl = lex_filter_outliers %>% group_by(Item) %>% summarise(mean_ss = mean(Semantic_Similarity), sd_ss = sd(Semantic_Similarity))
+
+lex_avg_subj_outl = lex_avg_subj_outl %>% mutate(ss_min = mean_ss - sd_ss, ss_max = mean_ss + sd_ss)
+
+ggplot(data=lex_avg_subj_outl) + geom_line(aes(x = Item, y = mean_ss))+
+  geom_errorbar(aes(x = Item, ymin = ss_min, ymax = ss_max))+
+  ggtitle(category)+
+  theme(legend.position="none",plot.title = element_text(size=22, hjust = 0.5))
+
+```
+Across all categories, find the average number of words uttered 
+
+```{r}
+
+categories = c('ANIMALS','BODY PARTS', 'FRUITS', 'HOBBIES', 'HOLIDAYS', 'HOME APPLIANCES', 'LIQUIDS', 'MEANS OF TRANSPORT', 'MEDICAL CONDITIONS', 'MUSICAL INSTRUMENTS', 'OCCUPATIONS', 'TOOLS', 'VEGETABLES')
+
+desc_stats_fn = "individual_descriptive_stats.csv"
+
+num_items_df = data.frame()
+for (category in categories){
+  category_dir = file.path(data_dir, paste0(category, forager_suffix))
+  desc_stats_file = file.path(category_dir, desc_stats_fn)
+  desc_df = read.csv(desc_stats_file)
+  desc_df = desc_df %>% mutate(Category = category)
+  print(desc_df)
+  if (ncol(desc_df) == 9){
+    desc_df = desc_df %>% select(-c(Phonological_Similarity_mean, Phonological_Similarity_std))
+  }
+  num_items_df = rbind(num_items_df, desc_df)
+}
+
+num_items_cat = num_items_df %>% group_by(Category) %>% summarise( mean_num_items = mean(X._of_Items), sd_num_items = sd(X._of_Items))
+num_items_cat = num_items_cat%>% mutate(num_items_min = mean_num_items - sd_num_items, num_items_max = mean_num_items + sd_num_items)
+
+plt_category_words = ggplot(data= num_items_cat) + geom_bar(aes(x= Category,  y = mean_num_items, fill = Category), stat='identity')+
+  geom_errorbar(aes(x= Category, ymin = num_items_min, ymax= num_items_max), width = 0)+
+  theme(legend.position="none", axis.text.x = element_text(angle = 45, vjust =1, hjust=1))
+
+ggsave(file.path('Plots','plt_category_words_avg.png'), plt_category_words, units = "in", width = 8, height = 5)
+
+
+# num_items_subj = num_items_df %>% group_by(Subject) %>% summarise( mean_num_items = mean(X._of_Items), sd_num_items = sd(X._of_Items))
+```
+
+Check performance by subject
+
+
+```{r}
+plt_category_words_subj = ggplot(data= num_items_df) + geom_bar(aes(x= Category,  y = X._of_Items, fill = Category), stat='identity')+
+  facet_wrap(~Subject, nrow= 4)+
+  theme(legend.position="none", axis.text.x = element_text(angle = 45, vjust =1, hjust=1))
+
+ggsave(file.path('Plots','plt_category_words_subj.png'), plt_category_words_subj, units = "in", width = 8, height = 5)
+
+
+```
+
