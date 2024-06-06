@@ -1,0 +1,257 @@
+SID,entry,evaluation,replacement
+610108,thumb,FOUND,thumb
+610108,index,REPLACE,spine
+610108,finger,REPLACE,fingertip
+610108,middle,EXCLUDE,EXCLUDE
+610108,finger,REPLACE,fingertip
+610108,ring,REPLACE,groin
+610108,finger,REPLACE,fingertip
+610108,pinky,REPLACE,spine
+610108,hand,FOUND,hand
+610108,wrist,FOUND,wrist
+610108,elbow,FOUND,elbow
+610108,forearm,FOUND,forearm
+610108,shoulder,FOUND,shoulder
+610108,neck,FOUND,neck
+610108,toe,FOUND,toe
+610108,foot,FOUND,foot
+610108,a,EXCLUDE,EXCLUDE
+610108,knee,FOUND,knee
+610108,nose,FOUND,nose
+610108,eyes,REPLACE,eye
+610108,ears,REPLACE,ear
+610108,mouth,FOUND,mouth
+610108,teeth,FOUND,teeth
+610108,tongue,FOUND,tongue
+610108,lips,REPLACE,lip
+610108,head,FOUND,head
+610108,hair,FOUND,hair
+610108,back,FOUND,back
+610108,but,REPLACE,buttock
+610108,foot,FOUND,foot
+610108,Jen,EXCLUDE,EXCLUDE
+610108,fingernail,FOUND,fingernail
+610108,toenail,REPLACE,tonsil
+610108,eyebrow,FOUND,eyebrow
+610108,eyelashes,REPLACE,eyelash
+610108,inner,EXCLUDE,EXCLUDE
+610108,ear,FOUND,ear
+610108,outer,REPLACE,uterus
+610108,ear,FOUND,ear
+610108,chest,FOUND,chest
+610108,cheeks,REPLACE,cheek
+610108,cheekbone,REPLACE,cheek
+610108,forehead,FOUND,forehead
+610108,Chen,EXCLUDE,EXCLUDE
+610108,arm,FOUND,arm
+610108,leg,EXCLUDE,EXCLUDE
+610108,stomach,FOUND,stomach
+547183,body,REPLACE,blood
+547183,parts,REPLACE,pancreas
+547183,arm,FOUND,arm
+547183,leg,EXCLUDE,EXCLUDE
+547183,I guess we,EXCLUDE,EXCLUDE
+547183,mean like,EXCLUDE,EXCLUDE
+547183,kind of,EXCLUDE,EXCLUDE
+547183,vague,REPLACE,valve
+547183,but I guess,EXCLUDE,EXCLUDE
+547183,I'll,EXCLUDE,EXCLUDE
+547183,just,EXCLUDE,EXCLUDE
+547183,list,REPLACE,wrist
+547183,every,REPLACE,ovary
+547183,part of a,EXCLUDE,EXCLUDE
+547183,guy,EXCLUDE,EXCLUDE
+547183,fingers,REPLACE,fingertip
+547183,femur,FOUND,femur
+547183,bone,FOUND,bone
+547183,ears,REPLACE,ear
+547183,eyes,REPLACE,eye
+547183,nose,FOUND,nose
+547183,mouth,FOUND,mouth
+547183,eyelashes,REPLACE,eyelash
+547183,mouth,FOUND,mouth
+547183,teeth,FOUND,teeth
+547183,tongue,FOUND,tongue
+547183,toes,REPLACE,toe
+547183,do you have your,EXCLUDE,EXCLUDE
+547183,organs,REPLACE,anus
+547183,like,REPLACE,liver
+547183,long,REPLACE,lungs
+547183,hearts,REPLACE,heart
+547183,turn,EXCLUDE,EXCLUDE
+547183,valves,REPLACE,valve
+547183,your,EXCLUDE,EXCLUDE
+547183,pancreas,FOUND,pancreas
+547183,have your,EXCLUDE,EXCLUDE
+547183,gallbladder,FOUND,gallbladder
+547183,trachea,FOUND,trachea
+547183,neighbor,EXCLUDE,EXCLUDE
+547183,kidneys,REPLACE,kidney
+547183,your hair,EXCLUDE,EXCLUDE
+547183,their skin is,EXCLUDE,EXCLUDE
+547183,technically,EXCLUDE,EXCLUDE
+547183,a living,EXCLUDE,EXCLUDE
+547183,Oregon,EXCLUDE,EXCLUDE
+898793,party,REPLACE,artery
+898793,singers,REPLACE,spine
+898793,hands,REPLACE,hand
+898793,wrist,FOUND,wrist
+898793,forearm,FOUND,forearm
+898793,elbow,FOUND,elbow
+898793,the back of,EXCLUDE,EXCLUDE
+898793,your arm,REPLACE,forearm
+898793,I,EXCLUDE,EXCLUDE
+898793,don't,REPLACE,joint
+898793,know what,EXCLUDE,EXCLUDE
+898793,that's,REPLACE,throat
+898793,good,REPLACE,blood
+898793,your,EXCLUDE,EXCLUDE
+898793,shoulder,FOUND,shoulder
+898793,collarbone,EXCLUDE,EXCLUDE
+898793,head,FOUND,head
+898793,brain,FOUND,brain
+898793,bones in,REPLACE,bone
+898793,general,EXCLUDE,EXCLUDE
+898793,my eyes,REPLACE,eye
+898793,ears,REPLACE,ear
+898793,nose,FOUND,nose
+898793,mouth,FOUND,mouth
+898793,cheeks,REPLACE,cheek
+898793,and,REPLACE,hand
+898793,forehead,FOUND,forehead
+898793,neck and,REPLACE,neck
+898793,chest,FOUND,chest
+898793,abdomen,FOUND,abdomen
+898793,in general,EXCLUDE,EXCLUDE
+898793,my back,REPLACE,back
+898793,my,EXCLUDE,EXCLUDE
+898793,hips,REPLACE,hip
+898793,my knees,REPLACE,knee
+898793,my knees and,EXCLUDE,EXCLUDE
+898793,calves,REPLACE,valve
+898793,the lower,EXCLUDE,EXCLUDE
+898793,part of my,EXCLUDE,EXCLUDE
+898793,leg in,REPLACE,vein
+898793,general,EXCLUDE,EXCLUDE
+898793,and,REPLACE,hand
+898793,goals,EXCLUDE,EXCLUDE
+898793,toes,REPLACE,toe
+898793,yes,REPLACE,eye
+898793,how old,EXCLUDE,EXCLUDE
+898793,is,REPLACE,ribs
+898793,Ithaca,REPLACE,trachea
+898793,should I get,EXCLUDE,EXCLUDE
+898793,internal,REPLACE,fingernail
+898793,organs,REPLACE,anus
+898793,I guess,EXCLUDE,EXCLUDE
+898793,of my,EXCLUDE,EXCLUDE
+898793,heart,FOUND,heart
+898793,and,REPLACE,hand
+898793,liver,FOUND,liver
+898793,and,REPLACE,hand
+898793,kidneys,REPLACE,kidney
+898793,and,REPLACE,hand
+898793,appendix,FOUND,appendix
+898793,I think you,EXCLUDE,EXCLUDE
+898793,still,REPLACE,testicle
+898793,there,REPLACE,heel
+898793,but,REPLACE,buttock
+898793,you're,REPLACE,pore
+898793,my other,EXCLUDE,EXCLUDE
+898793,my,EXCLUDE,EXCLUDE
+898793,intestines,REPLACE,intestine
+898793,I think,EXCLUDE,EXCLUDE
+898793,there's,REPLACE,uterus
+898793,like a,EXCLUDE,EXCLUDE
+898793,big,REPLACE,big toe
+898793,intestine,FOUND,intestine
+898793,and small,EXCLUDE,EXCLUDE
+898793,intestine,FOUND,intestine
+898793,or,REPLACE,pore
+898793,separating,EXCLUDE,EXCLUDE
+898793,those,REPLACE,toe
+898793,so,REPLACE,sole
+898793,no,REPLACE,nose
+898793,bodily fluids,EXCLUDE,EXCLUDE
+898793,counts,EXCLUDE,EXCLUDE
+898793,like blood,EXCLUDE,EXCLUDE
+898793,I guess my,EXCLUDE,EXCLUDE
+898793,rear,REPLACE,ear
+898793,end,REPLACE,tendon
+898793,would be,EXCLUDE,EXCLUDE
+898793,one,REPLACE,bone
+898793,I'm,EXCLUDE,EXCLUDE
+898793,trying to,EXCLUDE,EXCLUDE
+898793,think of,EXCLUDE,EXCLUDE
+898793,more,REPLACE,pore
+898793,internal,REPLACE,fingernail
+898793,organs,REPLACE,anus
+898793,paid attention,EXCLUDE,EXCLUDE
+898793,more,REPLACE,pore
+898793,In,EXCLUDE,EXCLUDE
+898793,and,REPLACE,hand
+898793,Out,EXCLUDE,EXCLUDE
+898793,Of,EXCLUDE,EXCLUDE
+898793,Me,EXCLUDE,EXCLUDE
+898793,Maybe,EXCLUDE,EXCLUDE
+898793,snowflake,EXCLUDE,EXCLUDE
+898793,veins,REPLACE,vein
+898793,and stuff,EXCLUDE,EXCLUDE
+898793,account,EXCLUDE,EXCLUDE
+787646,finger,REPLACE,fingertip
+787646,hand,FOUND,hand
+787646,elbow,FOUND,elbow
+787646,knee,FOUND,knee
+787646,toe,FOUND,toe
+787646,foot,FOUND,foot
+787646,leg,EXCLUDE,EXCLUDE
+787646,nose,FOUND,nose
+787646,eyes,REPLACE,eye
+787646,mouth,FOUND,mouth
+787646,teeth,FOUND,teeth
+787646,castration,EXCLUDE,EXCLUDE
+787646,ear,FOUND,ear
+787646,neck,FOUND,neck
+787646,abdomen,FOUND,abdomen
+787646,shoulder,FOUND,shoulder
+787646,wrist,FOUND,wrist
+787646,ankle,FOUND,ankle
+787646,thighs,REPLACE,thigh
+787646,forearm,FOUND,forearm
+787646,hair,FOUND,hair
+787646,eyelash,FOUND,eyelash
+787646,eyebrow,FOUND,eyebrow
+787646,lips,REPLACE,lip
+787646,bicep,REPLACE,biceps
+787646,but,REPLACE,buttock
+787646,abdomen,FOUND,abdomen
+920371,hands,REPLACE,hand
+920371,fingers,REPLACE,fingertip
+920371,Pinky's,EXCLUDE,EXCLUDE
+920371,toes,REPLACE,toe
+920371,legs,REPLACE,lens
+920371,5,EXCLUDE,EXCLUDE
+920371,eyeballs,REPLACE,eyelash
+920371,arms,REPLACE,arm
+920371,skin,FOUND,skin
+920371,ears,REPLACE,ear
+920371,nose,FOUND,nose
+920371,smell,REPLACE,skull
+920371,flips,REPLACE,lip
+920371,thumbs,REPLACE,thumb
+920371,lungs,FOUND,lungs
+920371,the heart,REPLACE,heart
+920371,Whipper,REPLACE,nipple
+920371,stomach,FOUND,stomach
+920371,large,EXCLUDE,EXCLUDE
+920371,intestine,FOUND,intestine
+920371,small,REPLACE,maxilla
+920371,intestine,FOUND,intestine
+920371,and,REPLACE,hand
+920371,colon,FOUND,colon
+920371,arrest,EXCLUDE,EXCLUDE
+920371,play,EXCLUDE,EXCLUDE
+920371,Ox,EXCLUDE,EXCLUDE
+920371,penis,FOUND,penis
+920371,vagina,FOUND,vagina
+920371,kidneys,REPLACE,kidney

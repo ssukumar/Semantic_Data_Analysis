@@ -1,0 +1,284 @@
+Subject,Fluency_Item,Switch_Value,Switch_Method
+5d7ff4aa50fda7001a863736,a,2,simdrop
+5d7ff4aa50fda7001a863736,hammer,0,simdrop
+5d7ff4aa50fda7001a863736,screwdriver,0,simdrop
+5d7ff4aa50fda7001a863736,drill,1,simdrop
+5d7ff4aa50fda7001a863736,saw,0,simdrop
+5d7ff4aa50fda7001a863736,chainsaw,0,simdrop
+5d7ff4aa50fda7001a863736,axe,0,simdrop
+5d7ff4aa50fda7001a863736,pliers,1,simdrop
+5d7ff4aa50fda7001a863736,nails,0,simdrop
+5d7ff4aa50fda7001a863736,wrench,1,simdrop
+5d7ff4aa50fda7001a863736,crowbar,2,simdrop
+5f5aa60bef062519ff711fe6,shovel,2,simdrop
+5f5aa60bef062519ff711fe6,rake,0,simdrop
+5f5aa60bef062519ff711fe6,lawn mower,1,simdrop
+5f5aa60bef062519ff711fe6,weed wacker,0,simdrop
+5f5aa60bef062519ff711fe6,blower,1,simdrop
+5f5aa60bef062519ff711fe6,broom,0,simdrop
+5f5aa60bef062519ff711fe6,screwdriver,1,simdrop
+5f5aa60bef062519ff711fe6,wrench,0,simdrop
+5f5aa60bef062519ff711fe6,scissors,1,simdrop
+5f5aa60bef062519ff711fe6,knife,0,simdrop
+5f5aa60bef062519ff711fe6,tongs,0,simdrop
+5f5aa60bef062519ff711fe6,switch blade,1,simdrop
+5f5aa60bef062519ff711fe6,hammer,0,simdrop
+5f5aa60bef062519ff711fe6,mallet,0,simdrop
+5f5aa60bef062519ff711fe6,pickaxe,0,simdrop
+5f5aa60bef062519ff711fe6,axe,0,simdrop
+5f5aa60bef062519ff711fe6,trimmer,1,simdrop
+5f5aa60bef062519ff711fe6,clippers,0,simdrop
+5f5aa60bef062519ff711fe6,sword,1,simdrop
+5f5aa60bef062519ff711fe6,club,2,simdrop
+60a48adfe091e410f4eaba34,hammer,2,simdrop
+60a48adfe091e410f4eaba34,drill,0,simdrop
+60a48adfe091e410f4eaba34,chisel,0,simdrop
+60a48adfe091e410f4eaba34,screwdriver,0,simdrop
+60a48adfe091e410f4eaba34,drill bit,0,simdrop
+60a48adfe091e410f4eaba34,mallet,1,simdrop
+60a48adfe091e410f4eaba34,shovel,0,simdrop
+60a48adfe091e410f4eaba34,rifle,1,simdrop
+60a48adfe091e410f4eaba34,chainsaw,0,simdrop
+60a48adfe091e410f4eaba34,axe,0,simdrop
+60a48adfe091e410f4eaba34,air compressor,1,simdrop
+60a48adfe091e410f4eaba34,trimmer,0,simdrop
+60a48adfe091e410f4eaba34,edger,0,simdrop
+60a48adfe091e410f4eaba34,hedge cutters,1,simdrop
+60a48adfe091e410f4eaba34,lawn mower,2,simdrop
+60d731567049e5132e3cc4d4,hammer,2,simdrop
+60d731567049e5132e3cc4d4,screwdriver,0,simdrop
+60d731567049e5132e3cc4d4,wrench,0,simdrop
+60d731567049e5132e3cc4d4,ruler,0,simdrop
+60d731567049e5132e3cc4d4,square,0,simdrop
+60d731567049e5132e3cc4d4,clamp,0,simdrop
+60d731567049e5132e3cc4d4,flashlight,0,simdrop
+60d731567049e5132e3cc4d4,vice,1,simdrop
+60d731567049e5132e3cc4d4,saw,0,simdrop
+60d731567049e5132e3cc4d4,file,0,simdrop
+60d731567049e5132e3cc4d4,sandpaper,0,simdrop
+60d731567049e5132e3cc4d4,ramp,1,simdrop
+60d731567049e5132e3cc4d4,staple gun,0,simdrop
+60d731567049e5132e3cc4d4,drill,0,simdrop
+60d731567049e5132e3cc4d4,level,0,simdrop
+60d731567049e5132e3cc4d4,fastener,1,simdrop
+60d731567049e5132e3cc4d4,nail,0,simdrop
+60d731567049e5132e3cc4d4,screw,0,simdrop
+60d731567049e5132e3cc4d4,nut,1,simdrop
+60d731567049e5132e3cc4d4,bolt,0,simdrop
+60d731567049e5132e3cc4d4,shovel,1,simdrop
+60d731567049e5132e3cc4d4,rake,0,simdrop
+60d731567049e5132e3cc4d4,ho,1,simdrop
+60d731567049e5132e3cc4d4,tiller,0,simdrop
+60d731567049e5132e3cc4d4,weed wacker,1,simdrop
+60d731567049e5132e3cc4d4,shears,0,simdrop
+60d731567049e5132e3cc4d4,clippers,0,simdrop
+60d731567049e5132e3cc4d4,owl,1,simdrop
+60d731567049e5132e3cc4d4,hole punch,0,simdrop
+60d731567049e5132e3cc4d4,stapler,0,simdrop
+60d731567049e5132e3cc4d4,soldering iron,2,simdrop
+63e802622f8052bd67d6c5f0,hammer,2,simdrop
+63e802622f8052bd67d6c5f0,screwdriver,0,simdrop
+63e802622f8052bd67d6c5f0,drill,0,simdrop
+63e802622f8052bd67d6c5f0,tire wrench,0,simdrop
+63e802622f8052bd67d6c5f0,tape measure,0,simdrop
+63e802622f8052bd67d6c5f0,hard hat,1,simdrop
+63e802622f8052bd67d6c5f0,knee pads,0,simdrop
+63e802622f8052bd67d6c5f0,ladder,1,simdrop
+63e802622f8052bd67d6c5f0,scaffolding,0,simdrop
+63e802622f8052bd67d6c5f0,concrete,0,simdrop
+63e802622f8052bd67d6c5f0,mixer,2,simdrop
+63ea4ab1ce4168cbe9f63775,hammer,2,simdrop
+63ea4ab1ce4168cbe9f63775,hand saw,0,simdrop
+63ea4ab1ce4168cbe9f63775,zaza,1,simdrop
+63ea4ab1ce4168cbe9f63775,wrench,0,simdrop
+63ea4ab1ce4168cbe9f63775,ratchet,0,simdrop
+63ea4ab1ce4168cbe9f63775,allen wrench,1,simdrop
+63ea4ab1ce4168cbe9f63775,screwdriver,0,simdrop
+63ea4ab1ce4168cbe9f63775,phillips head screwdriver,0,simdrop
+63ea4ab1ce4168cbe9f63775,drill,1,simdrop
+63ea4ab1ce4168cbe9f63775,hole punch,0,simdrop
+63ea4ab1ce4168cbe9f63775,nail gun,1,simdrop
+63ea4ab1ce4168cbe9f63775,pressurized hammer,0,simdrop
+63ea4ab1ce4168cbe9f63775,automatic wrench,1,simdrop
+63ea4ab1ce4168cbe9f63775,vise grip,0,simdrop
+63ea4ab1ce4168cbe9f63775,table saw,1,simdrop
+63ea4ab1ce4168cbe9f63775,jigsaw,0,simdrop
+63ea4ab1ce4168cbe9f63775,circular saw,0,simdrop
+63ea4ab1ce4168cbe9f63775,pliers,1,simdrop
+63ea4ab1ce4168cbe9f63775,wire cutters,0,simdrop
+63ea4ab1ce4168cbe9f63775,swiss army knife,1,simdrop
+63ea4ab1ce4168cbe9f63775,pocket knife,0,simdrop
+63ea4ab1ce4168cbe9f63775,box cutter,0,simdrop
+63ea4ab1ce4168cbe9f63775,stud finder,0,simdrop
+63ea4ab1ce4168cbe9f63775,level,1,simdrop
+63ea4ab1ce4168cbe9f63775,laser level,0,simdrop
+63ea4ab1ce4168cbe9f63775,putty knife,1,simdrop
+63ea4ab1ce4168cbe9f63775,sand block,2,simdrop
+65b15afd94153c1f50c92493,wrench,2,simdrop
+65b15afd94153c1f50c92493,screwdriver,0,simdrop
+65b15afd94153c1f50c92493,hammer,1,simdrop
+65b15afd94153c1f50c92493,mallet,0,simdrop
+65b15afd94153c1f50c92493,drill,0,simdrop
+65b15afd94153c1f50c92493,scissors,0,simdrop
+65b15afd94153c1f50c92493,a,1,simdrop
+65b15afd94153c1f50c92493,axe,0,simdrop
+65b15afd94153c1f50c92493,saw,0,simdrop
+65b15afd94153c1f50c92493,allen key,0,simdrop
+65b15afd94153c1f50c92493,tape measure,1,simdrop
+65b15afd94153c1f50c92493,tape,0,simdrop
+65b15afd94153c1f50c92493,pliers,1,simdrop
+65b15afd94153c1f50c92493,chisel,0,simdrop
+65b15afd94153c1f50c92493,clamps,0,simdrop
+65b15afd94153c1f50c92493,file,0,simdrop
+65b15afd94153c1f50c92493,orc,1,simdrop
+65b15afd94153c1f50c92493,pocket knife,0,simdrop
+65b15afd94153c1f50c92493,corkscrew,0,simdrop
+65b15afd94153c1f50c92493,bolt,0,simdrop
+65b15afd94153c1f50c92493,nut,0,simdrop
+65b15afd94153c1f50c92493,saw,1,simdrop
+65b15afd94153c1f50c92493,chain saw,0,simdrop
+65b15afd94153c1f50c92493,ladder,0,simdrop
+65b15afd94153c1f50c92493,paintbrush,1,simdrop
+65b15afd94153c1f50c92493,paint roller,0,simdrop
+65b15afd94153c1f50c92493,utility knife,0,simdrop
+65b15afd94153c1f50c92493,leveler,1,simdrop
+65b15afd94153c1f50c92493,nail gun,2,simdrop
+65c25cf77dca9d7ca7d9ebdb,hammer,2,simdrop
+65c25cf77dca9d7ca7d9ebdb,saw,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,chisel,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,crowbar,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,axe,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,axel,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,power drill,1,simdrop
+65c25cf77dca9d7ca7d9ebdb,screwdriver,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,flathead,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,pincers,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,scissors,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,meter stick,1,simdrop
+65c25cf77dca9d7ca7d9ebdb,yard stick,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,nail gun,1,simdrop
+65c25cf77dca9d7ca7d9ebdb,bolts,2,simdrop
+65cb63e160bb47fbf9349269,hammer,2,simdrop
+65cb63e160bb47fbf9349269,drill,0,simdrop
+65cb63e160bb47fbf9349269,wrench,1,simdrop
+65cb63e160bb47fbf9349269,shovel,0,simdrop
+65cb63e160bb47fbf9349269,ladder,0,simdrop
+65cb63e160bb47fbf9349269,skewers,1,simdrop
+65cb63e160bb47fbf9349269,knives,0,simdrop
+65cb63e160bb47fbf9349269,sharpener,0,simdrop
+65cb63e160bb47fbf9349269,bucket,0,simdrop
+65cb63e160bb47fbf9349269,power drills,0,simdrop
+65cb63e160bb47fbf9349269,spoons,1,simdrop
+65cb63e160bb47fbf9349269,forks,0,simdrop
+65cb63e160bb47fbf9349269,can opener,1,simdrop
+65cb63e160bb47fbf9349269,wine opener,0,simdrop
+65cb63e160bb47fbf9349269,tongs,1,simdrop
+65cb63e160bb47fbf9349269,brushes,0,simdrop
+65cb63e160bb47fbf9349269,levelers,0,simdrop
+65cb63e160bb47fbf9349269,tape measure,0,simdrop
+65cb63e160bb47fbf9349269,pencils,1,simdrop
+65cb63e160bb47fbf9349269,pens,0,simdrop
+65cb63e160bb47fbf9349269,rulers,2,simdrop
+65cc19b4b3d48a22dfc6756d,screwdriver,2,simdrop
+65cc19b4b3d48a22dfc6756d,wrench,0,simdrop
+65cc19b4b3d48a22dfc6756d,hammer,0,simdrop
+65cc19b4b3d48a22dfc6756d,drill,0,simdrop
+65cc19b4b3d48a22dfc6756d,nail gun,0,simdrop
+65cc19b4b3d48a22dfc6756d,saw,2,simdrop
+65d54b3b524fcafb543d1b23,hammer,2,simdrop
+65d54b3b524fcafb543d1b23,wrench,0,simdrop
+65d54b3b524fcafb543d1b23,pipe,0,simdrop
+65d54b3b524fcafb543d1b23,saw,0,simdrop
+65d54b3b524fcafb543d1b23,hand wrench,1,simdrop
+65d54b3b524fcafb543d1b23,screwdriver,0,simdrop
+65d54b3b524fcafb543d1b23,ruler,1,simdrop
+65d54b3b524fcafb543d1b23,scissors,0,simdrop
+65d54b3b524fcafb543d1b23,knife,2,simdrop
+65d6a09286a0c99e632a46dd,wrench,2,simdrop
+65d6a09286a0c99e632a46dd,an automatic wrench,0,simdrop
+65d6a09286a0c99e632a46dd,screwdriver,0,simdrop
+65d6a09286a0c99e632a46dd,saw,0,simdrop
+65d6a09286a0c99e632a46dd,a,0,simdrop
+65d6a09286a0c99e632a46dd,lawn mower,1,simdrop
+65d6a09286a0c99e632a46dd,blade,0,simdrop
+65d6a09286a0c99e632a46dd,wd-40,1,simdrop
+65d6a09286a0c99e632a46dd,lubricant,0,simdrop
+65d6a09286a0c99e632a46dd,wd-40,0,simdrop
+65d6a09286a0c99e632a46dd,nuts,1,simdrop
+65d6a09286a0c99e632a46dd,bolts,0,simdrop
+65d6a09286a0c99e632a46dd,hammer,0,simdrop
+65d6a09286a0c99e632a46dd,tape measure,1,simdrop
+65d6a09286a0c99e632a46dd,ladder,0,simdrop
+65d6a09286a0c99e632a46dd,flashlight,0,simdrop
+65d6a09286a0c99e632a46dd,knife,0,simdrop
+65d6a09286a0c99e632a46dd,mallet,1,simdrop
+65d6a09286a0c99e632a46dd,paintbrush,0,simdrop
+65d6a09286a0c99e632a46dd,hatchet,1,simdrop
+65d6a09286a0c99e632a46dd,pliers,2,simdrop
+65e1f75ab3efd22e847cfbf0,phillips screwdriver,2,simdrop
+65e1f75ab3efd22e847cfbf0,wrench,0,simdrop
+65e1f75ab3efd22e847cfbf0,socket,0,simdrop
+65e1f75ab3efd22e847cfbf0,drill,1,simdrop
+65e1f75ab3efd22e847cfbf0,hammer,0,simdrop
+65e1f75ab3efd22e847cfbf0,axe,0,simdrop
+65e1f75ab3efd22e847cfbf0,pliers,2,simdrop
+65e358d9c5e3ee026268b2a7,hammer,2,simdrop
+65e358d9c5e3ee026268b2a7,screwdriver,0,simdrop
+65e358d9c5e3ee026268b2a7,wrench,0,simdrop
+65e358d9c5e3ee026268b2a7,allen wrench,0,simdrop
+65e358d9c5e3ee026268b2a7,tile saw,1,simdrop
+65e358d9c5e3ee026268b2a7,drill,0,simdrop
+65e358d9c5e3ee026268b2a7,regular saw,0,simdrop
+65e358d9c5e3ee026268b2a7,allen wrenches,1,simdrop
+65e358d9c5e3ee026268b2a7,wrenches,0,simdrop
+65e358d9c5e3ee026268b2a7,allen keys,0,simdrop
+65e358d9c5e3ee026268b2a7,a,1,simdrop
+65e358d9c5e3ee026268b2a7,mallet,0,simdrop
+65e358d9c5e3ee026268b2a7,knacks,0,simdrop
+65e358d9c5e3ee026268b2a7,tape measure,1,simdrop
+65e358d9c5e3ee026268b2a7,pliers,0,simdrop
+65e358d9c5e3ee026268b2a7,a table saw,0,simdrop
+65e358d9c5e3ee026268b2a7,nail gun,1,simdrop
+65e358d9c5e3ee026268b2a7,a hand sander,0,simdrop
+65e358d9c5e3ee026268b2a7,a level,0,simdrop
+65e358d9c5e3ee026268b2a7,utility knife,2,simdrop
+65e862f844f1b7a803bb3c5a,scissors,2,simdrop
+65e862f844f1b7a803bb3c5a,axe,0,simdrop
+65e862f844f1b7a803bb3c5a,thermometer,0,simdrop
+65e862f844f1b7a803bb3c5a,cutting board,1,simdrop
+65e862f844f1b7a803bb3c5a,can opener,0,simdrop
+65e862f844f1b7a803bb3c5a,armor,1,simdrop
+65e862f844f1b7a803bb3c5a,screwdriver,0,simdrop
+65e862f844f1b7a803bb3c5a,chisel,0,simdrop
+65e862f844f1b7a803bb3c5a,measuring cups,1,simdrop
+65e862f844f1b7a803bb3c5a,colander,0,simdrop
+65e862f844f1b7a803bb3c5a,driller,0,simdrop
+65e862f844f1b7a803bb3c5a,forks,1,simdrop
+65e862f844f1b7a803bb3c5a,gloves,0,simdrop
+65e862f844f1b7a803bb3c5a,knives,0,simdrop
+65e862f844f1b7a803bb3c5a,baking dish,1,simdrop
+65e862f844f1b7a803bb3c5a,mixing bowl,0,simdrop
+65e862f844f1b7a803bb3c5a,peeler,1,simdrop
+65e862f844f1b7a803bb3c5a,shovel,0,simdrop
+65e862f844f1b7a803bb3c5a,tongues,1,simdrop
+65e862f844f1b7a803bb3c5a,trowel,0,simdrop
+65e862f844f1b7a803bb3c5a,flashlight,0,simdrop
+65e862f844f1b7a803bb3c5a,measuring tape,0,simdrop
+65e862f844f1b7a803bb3c5a,saw,0,simdrop
+65e862f844f1b7a803bb3c5a,soldering iron,1,simdrop
+65e862f844f1b7a803bb3c5a,chainsaw,0,simdrop
+65e862f844f1b7a803bb3c5a,nail gun,0,simdrop
+65e862f844f1b7a803bb3c5a,wrench,1,simdrop
+65e862f844f1b7a803bb3c5a,pliers,0,simdrop
+65e862f844f1b7a803bb3c5a,mallet,0,simdrop
+65e862f844f1b7a803bb3c5a,scraper,0,simdrop
+65e862f844f1b7a803bb3c5a,hatchet,1,simdrop
+65e862f844f1b7a803bb3c5a,bolt,0,simdrop
+65e862f844f1b7a803bb3c5a,screw,0,simdrop
+65e862f844f1b7a803bb3c5a,knot,1,simdrop
+65e862f844f1b7a803bb3c5a,nail,0,simdrop
+65e862f844f1b7a803bb3c5a,spade,0,simdrop
+65e862f844f1b7a803bb3c5a,shovel,0,simdrop
+65e862f844f1b7a803bb3c5a,lawn mower,1,simdrop
+65e862f844f1b7a803bb3c5a,pruning shears,0,simdrop
+65e862f844f1b7a803bb3c5a,step ladder,2,simdrop

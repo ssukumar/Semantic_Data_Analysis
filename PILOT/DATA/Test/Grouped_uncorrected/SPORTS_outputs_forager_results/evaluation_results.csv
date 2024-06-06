@@ -1,0 +1,109 @@
+SID,entry,evaluation,replacement
+65778c02cde55736bb830eca,football,FOUND,football
+65778c02cde55736bb830eca,basketball,FOUND,basketball
+65778c02cde55736bb830eca,badminton,FOUND,badminton
+65778c02cde55736bb830eca,tennis,FOUND,tennis
+65778c02cde55736bb830eca,hockey,FOUND,hockey
+65778c02cde55736bb830eca,lacrosse,EXCLUDE,EXCLUDE
+65778c02cde55736bb830eca,soccer,FOUND,soccer
+65778c02cde55736bb830eca,rugby,FOUND,rugby
+65778c02cde55736bb830eca,volleyball,FOUND,volleyball
+65778c02cde55736bb830eca,baseball,FOUND,baseball
+65778c02cde55736bb830eca,flag,EXCLUDE,EXCLUDE
+65778c02cde55736bb830eca,football,FOUND,football
+65778c02cde55736bb830eca,running,REPLACE,rowing
+65778c02cde55736bb830eca,bobsledding,FOUND,bobsledding
+65778c02cde55736bb830eca,skiing and,REPLACE,skiing
+65778c02cde55736bb830eca,snowboarding,FOUND,snowboarding
+65778c02cde55736bb830eca,golf,FOUND,golf
+65778c02cde55736bb830eca,field hockey,REPLACE,ice hockey
+65778c02cde55736bb830eca,archery,FOUND,archery
+65778c02cde55736bb830eca,Box,EXCLUDE,EXCLUDE
+65778c02cde55736bb830eca,Lacrosse,EXCLUDE,EXCLUDE
+65778c02cde55736bb830eca,cheer,REPLACE,archery
+65778c02cde55736bb830eca,gymnastics,FOUND,gymnastics
+65778c02cde55736bb830eca,ice,REPLACE,cricket
+65778c02cde55736bb830eca,skating,REPLACE,ice skating
+61035836646fb6ee2152f950,tennis,FOUND,tennis
+61035836646fb6ee2152f950,baseball,FOUND,baseball
+61035836646fb6ee2152f950,badminton,FOUND,badminton
+61035836646fb6ee2152f950,Cricket,REPLACE,cricket
+61035836646fb6ee2152f950,bowling,REPLACE,rowing
+61035836646fb6ee2152f950,football,FOUND,football
+61035836646fb6ee2152f950,pickleball,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,dodgeball,REPLACE,horseball
+61035836646fb6ee2152f950,wall,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,ball,REPLACE,football
+61035836646fb6ee2152f950,skiing,FOUND,skiing
+61035836646fb6ee2152f950,snowboarding,FOUND,snowboarding
+61035836646fb6ee2152f950,surfing,FOUND,surfing
+61035836646fb6ee2152f950,running,REPLACE,rowing
+61035836646fb6ee2152f950,cycling,FOUND,cycling
+61035836646fb6ee2152f950,shooting,FOUND,shooting
+61035836646fb6ee2152f950,archery,FOUND,archery
+61035836646fb6ee2152f950,NASCAR,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,monster,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,trucking,REPLACE,tumbling
+61035836646fb6ee2152f950,shot,REPLACE,shot put
+61035836646fb6ee2152f950,put,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,long,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,jumping,REPLACE,ski jumping
+61035836646fb6ee2152f950,boat,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,racing,REPLACE,rafting
+61035836646fb6ee2152f950,paragliding,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,swimming,FOUND,swimming
+61035836646fb6ee2152f950,fishing,FOUND,fishing
+61035836646fb6ee2152f950,gaming,REPLACE,grappling
+6595e3b4dc9090390e4edb5f,basketball,FOUND,basketball
+6595e3b4dc9090390e4edb5f,baseball,FOUND,baseball
+6595e3b4dc9090390e4edb5f,football,FOUND,football
+6595e3b4dc9090390e4edb5f,soccer,FOUND,soccer
+6595e3b4dc9090390e4edb5f,tennis,FOUND,tennis
+6595e3b4dc9090390e4edb5f,net,EXCLUDE,EXCLUDE
+6595e3b4dc9090390e4edb5f,in,EXCLUDE,EXCLUDE
+6595e3b4dc9090390e4edb5f,volleyball,FOUND,volleyball
+6595e3b4dc9090390e4edb5f,snowboarding,FOUND,snowboarding
+6595e3b4dc9090390e4edb5f,skiing,FOUND,skiing
+6595e3b4dc9090390e4edb5f,archery,FOUND,archery
+6595e3b4dc9090390e4edb5f,softball,REPLACE,football
+6595e3b4dc9090390e4edb5f,cricket,FOUND,cricket
+6595e3b4dc9090390e4edb5f,pickleball,EXCLUDE,EXCLUDE
+6595e3b4dc9090390e4edb5f,hockey,FOUND,hockey
+6595e3b4dc9090390e4edb5f,ice,REPLACE,cricket
+6595e3b4dc9090390e4edb5f,hockey,FOUND,hockey
+6595e3b4dc9090390e4edb5f,she'll,EXCLUDE,EXCLUDE
+6595e3b4dc9090390e4edb5f,talk to me,EXCLUDE,EXCLUDE
+6595e3b4dc9090390e4edb5f,water polo,FOUND,water polo
+6595e3b4dc9090390e4edb5f,rugby,FOUND,rugby
+6595e3b4dc9090390e4edb5f,rowing,FOUND,rowing
+6595e3b4dc9090390e4edb5f,I can,EXCLUDE,EXCLUDE
+6595e3b4dc9090390e4edb5f,feel,EXCLUDE,EXCLUDE
+6595e3b4dc9090390e4edb5f,the name,EXCLUDE,EXCLUDE
+6595e3b4dc9090390e4edb5f,bowling,REPLACE,rowing
+6595e3b4dc9090390e4edb5f,boxing,FOUND,boxing
+6595e3b4dc9090390e4edb5f,surfing,FOUND,surfing
+6595e3b4dc9090390e4edb5f,pearling,EXCLUDE,EXCLUDE
+6595e3b4dc9090390e4edb5f,figure,EXCLUDE,EXCLUDE
+6595e3b4dc9090390e4edb5f,skating,REPLACE,ice skating
+6595e3b4dc9090390e4edb5f,doll,EXCLUDE,EXCLUDE
+6595e3b4dc9090390e4edb5f,table,EXCLUDE,EXCLUDE
+6595e3b4dc9090390e4edb5f,tennis,FOUND,tennis
+6595e3b4dc9090390e4edb5f,bodybuilding,FOUND,bodybuilding
+6595e3b4dc9090390e4edb5f,cycling,FOUND,cycling
+65512e3cc12f463bc327b7c3,hockey,FOUND,hockey
+65512e3cc12f463bc327b7c3,basketball,FOUND,basketball
+65512e3cc12f463bc327b7c3,golf,FOUND,golf
+65512e3cc12f463bc327b7c3,rugby,FOUND,rugby
+65512e3cc12f463bc327b7c3,Football,REPLACE,football
+65512e3cc12f463bc327b7c3,lacrosse,EXCLUDE,EXCLUDE
+65512e3cc12f463bc327b7c3,badminton,FOUND,badminton
+65512e3cc12f463bc327b7c3,tennis,FOUND,tennis
+65512e3cc12f463bc327b7c3,running,REPLACE,rowing
+65512e3cc12f463bc327b7c3,weightlifting,FOUND,weightlifting
+65512e3cc12f463bc327b7c3,cycling,FOUND,cycling
+65512e3cc12f463bc327b7c3,swimming,FOUND,swimming
+65512e3cc12f463bc327b7c3,Polo,REPLACE,polo
+65512e3cc12f463bc327b7c3,baseball,FOUND,baseball
+65512e3cc12f463bc327b7c3,cricket,FOUND,cricket
+65512e3cc12f463bc327b7c3,lacrosse,EXCLUDE,EXCLUDE
+65512e3cc12f463bc327b7c3,climbing,FOUND,climbing

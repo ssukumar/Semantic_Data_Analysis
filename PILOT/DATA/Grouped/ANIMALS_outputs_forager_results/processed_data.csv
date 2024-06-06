@@ -1,9 +1,11 @@
 SID,entry
 65cb63e160bb47fbf9349269,dogs
+65cb63e160bb47fbf9349269,huntsman
 65cb63e160bb47fbf9349269,rabbit
 65cb63e160bb47fbf9349269,turtle
 65cb63e160bb47fbf9349269,squirrel
 65cb63e160bb47fbf9349269,loris
+65cb63e160bb47fbf9349269,hyenas
 65cb63e160bb47fbf9349269,rat
 65cb63e160bb47fbf9349269,opossum
 65cb63e160bb47fbf9349269,bird
@@ -14,6 +16,7 @@ SID,entry
 65cb63e160bb47fbf9349269,tiger
 65cb63e160bb47fbf9349269,elephant
 65cb63e160bb47fbf9349269,giraffe
+65cb63e160bb47fbf9349269,brachiosaurus
 65cb63e160bb47fbf9349269,snake
 65cb63e160bb47fbf9349269,buffalo
 65cb63e160bb47fbf9349269,lab
@@ -26,6 +29,7 @@ SID,entry
 65cb63e160bb47fbf9349269,penguin
 65cb63e160bb47fbf9349269,polar
 65cb63e160bb47fbf9349269,bear
+65cb63e160bb47fbf9349269,blackfly
 65cb63e160bb47fbf9349269,bear
 65cb63e160bb47fbf9349269,bronc
 65cb63e160bb47fbf9349269,bear
@@ -36,6 +40,7 @@ SID,entry
 65cb63e160bb47fbf9349269,crow
 65cb63e160bb47fbf9349269,seahorse
 65cb63e160bb47fbf9349269,dolphin
+65cb63e160bb47fbf9349269,loris
 65cb63e160bb47fbf9349269,jellyfish
 65d6a09286a0c99e632a46dd,bird
 65d6a09286a0c99e632a46dd,cat
@@ -71,12 +76,14 @@ SID,entry
 600f9342e7bc5518fa9ca92a,dog
 600f9342e7bc5518fa9ca92a,cat
 600f9342e7bc5518fa9ca92a,horse
+600f9342e7bc5518fa9ca92a,adder
 600f9342e7bc5518fa9ca92a,whiting
 600f9342e7bc5518fa9ca92a,lion
 600f9342e7bc5518fa9ca92a,snake
 600f9342e7bc5518fa9ca92a,bird
 600f9342e7bc5518fa9ca92a,betta
 600f9342e7bc5518fa9ca92a,fish
+600f9342e7bc5518fa9ca92a,dragon
 600f9342e7bc5518fa9ca92a,scrod
 600f9342e7bc5518fa9ca92a,turtle
 600f9342e7bc5518fa9ca92a,jellyfish
@@ -95,6 +102,8 @@ SID,entry
 65e1f75ab3efd22e847cfbf0,coyote
 65e1f75ab3efd22e847cfbf0,goby
 65e1f75ab3efd22e847cfbf0,chicken
+65e1f75ab3efd22e847cfbf0,towhee
+65e1f75ab3efd22e847cfbf0,guineafowl
 65e1f75ab3efd22e847cfbf0,pig
 65e1f75ab3efd22e847cfbf0,penguin
 65e1f75ab3efd22e847cfbf0,mare
@@ -102,6 +111,7 @@ SID,entry
 65e1f75ab3efd22e847cfbf0,hermit
 65e1f75ab3efd22e847cfbf0,lizard
 65e1f75ab3efd22e847cfbf0,akita
+65e1f75ab3efd22e847cfbf0,pollywog
 65e1f75ab3efd22e847cfbf0,loon
 65e1f75ab3efd22e847cfbf0,ox
 65e1f75ab3efd22e847cfbf0,hart
@@ -118,6 +128,10 @@ SID,entry
 65e1f75ab3efd22e847cfbf0,hart
 65e1f75ab3efd22e847cfbf0,beagle
 65e1f75ab3efd22e847cfbf0,beaver
+65e1f75ab3efd22e847cfbf0,westie
+65e1f75ab3efd22e847cfbf0,whale
+65e1f75ab3efd22e847cfbf0,whale
+65e1f75ab3efd22e847cfbf0,whale
 65e1f75ab3efd22e847cfbf0,panda
 65e1f75ab3efd22e847cfbf0,cobra
 65e1f75ab3efd22e847cfbf0,camel
@@ -134,10 +148,12 @@ SID,entry
 65e1f75ab3efd22e847cfbf0,zebra
 65e1f75ab3efd22e847cfbf0,mouse
 65e862f844f1b7a803bb3c5a,gorilla
+65e862f844f1b7a803bb3c5a,harrier
 65e862f844f1b7a803bb3c5a,alligator
 65e862f844f1b7a803bb3c5a,eagle
 65e862f844f1b7a803bb3c5a,wolf
 65e862f844f1b7a803bb3c5a,dear
+65e862f844f1b7a803bb3c5a,bearcat
 65e862f844f1b7a803bb3c5a,monkey
 65e862f844f1b7a803bb3c5a,giraffe
 65e862f844f1b7a803bb3c5a,kangaroo
@@ -146,7 +162,9 @@ SID,entry
 65e862f844f1b7a803bb3c5a,zebra
 65e862f844f1b7a803bb3c5a,hippopotamus
 65e862f844f1b7a803bb3c5a,sheep
+65e862f844f1b7a803bb3c5a,towhee
 65e862f844f1b7a803bb3c5a,tiger
+65e862f844f1b7a803bb3c5a,snail
 65e862f844f1b7a803bb3c5a,dolphin
 65e862f844f1b7a803bb3c5a,elephant
 65e862f844f1b7a803bb3c5a,ox
@@ -159,6 +177,7 @@ SID,entry
 65e862f844f1b7a803bb3c5a,bear
 65e862f844f1b7a803bb3c5a,stork
 65e862f844f1b7a803bb3c5a,tody
+65e862f844f1b7a803bb3c5a,porcupine
 65e862f844f1b7a803bb3c5a,rabbit
 65e862f844f1b7a803bb3c5a,pigeon
 65e862f844f1b7a803bb3c5a,fish
@@ -175,6 +194,8 @@ SID,entry
 65e862f844f1b7a803bb3c5a,calf
 65e862f844f1b7a803bb3c5a,raccoon
 65e862f844f1b7a803bb3c5a,baboon
+65e862f844f1b7a803bb3c5a,rockfish
+65e862f844f1b7a803bb3c5a,bluefin
 65e862f844f1b7a803bb3c5a,whale
 65e862f844f1b7a803bb3c5a,cock
 6081806ab383aa89f6c61940,dog
@@ -199,6 +220,7 @@ SID,entry
 6081806ab383aa89f6c61940,jaguar
 6081806ab383aa89f6c61940,cheetah
 6081806ab383aa89f6c61940,panther
+6081806ab383aa89f6c61940,mountain cat
 6081806ab383aa89f6c61940,lion
 6081806ab383aa89f6c61940,ostrich
 6081806ab383aa89f6c61940,flamingo
@@ -222,6 +244,7 @@ SID,entry
 6081806ab383aa89f6c61940,goat
 6081806ab383aa89f6c61940,sheep
 6081806ab383aa89f6c61940,dinosaur
+63619eb02e5bd8f4f7bd138a,warthog
 63619eb02e5bd8f4f7bd138a,horse
 63619eb02e5bd8f4f7bd138a,sheep
 63619eb02e5bd8f4f7bd138a,duck
@@ -301,6 +324,7 @@ SID,entry
 65b15afd94153c1f50c92493,wolf
 65b15afd94153c1f50c92493,octopus
 65b15afd94153c1f50c92493,lizard
+65b15afd94153c1f50c92493,sturgeon
 65b15afd94153c1f50c92493,pig
 65b15afd94153c1f50c92493,raccoon
 65b15afd94153c1f50c92493,ormer
@@ -314,6 +338,7 @@ SID,entry
 65b15afd94153c1f50c92493,squirrel
 65b15afd94153c1f50c92493,goby
 65b15afd94153c1f50c92493,cow
+65b15afd94153c1f50c92493,foxhound
 65b15afd94153c1f50c92493,camel
 65b15afd94153c1f50c92493,kangaroo
 65b15afd94153c1f50c92493,cheetah
@@ -349,6 +374,7 @@ SID,entry
 65d54b3b524fcafb543d1b23,fish
 65d54b3b524fcafb543d1b23,dolphin
 65d54b3b524fcafb543d1b23,panda
+65d54b3b524fcafb543d1b23,terrapin
 6073e0d481953bbd2cd61145,jaguar
 6073e0d481953bbd2cd61145,tiger
 6073e0d481953bbd2cd61145,alligator
@@ -362,11 +388,13 @@ SID,entry
 6073e0d481953bbd2cd61145,mice
 6073e0d481953bbd2cd61145,bird
 6073e0d481953bbd2cd61145,snake
+6073e0d481953bbd2cd61145,kangaroo
 6073e0d481953bbd2cd61145,zebra
 6073e0d481953bbd2cd61145,donkey
 6073e0d481953bbd2cd61145,bear
 6073e0d481953bbd2cd61145,polar
 6073e0d481953bbd2cd61145,bear
+6073e0d481953bbd2cd61145,blackfly
 6073e0d481953bbd2cd61145,bear
 6073e0d481953bbd2cd61145,panda
 6073e0d481953bbd2cd61145,bear
@@ -383,7 +411,9 @@ SID,entry
 654108d38225e168af4b1fa0,bear
 654108d38225e168af4b1fa0,chinchilla
 654108d38225e168af4b1fa0,hamster
+654108d38225e168af4b1fa0,guineafowl
 654108d38225e168af4b1fa0,pig
+654108d38225e168af4b1fa0,crappie
 654108d38225e168af4b1fa0,mouse
 654108d38225e168af4b1fa0,bird
 654108d38225e168af4b1fa0,alligator
@@ -403,6 +433,7 @@ SID,entry
 654108d38225e168af4b1fa0,chicken
 654108d38225e168af4b1fa0,lamb
 654108d38225e168af4b1fa0,penguin
+63e802622f8052bd67d6c5f0,lapdog
 63e802622f8052bd67d6c5f0,giraffe
 63e802622f8052bd67d6c5f0,zebra
 63e802622f8052bd67d6c5f0,monkey
@@ -438,6 +469,7 @@ SID,entry
 65e358d9c5e3ee026268b2a7,zebra
 65e358d9c5e3ee026268b2a7,elephant
 65e358d9c5e3ee026268b2a7,giraffe
+65e358d9c5e3ee026268b2a7,prairie dog
 65e358d9c5e3ee026268b2a7,dog
 65e358d9c5e3ee026268b2a7,lizard
 65e358d9c5e3ee026268b2a7,rat
@@ -470,6 +502,7 @@ SID,entry
 65e358d9c5e3ee026268b2a7,bear
 65e358d9c5e3ee026268b2a7,bronc
 65e358d9c5e3ee026268b2a7,bear
+65e358d9c5e3ee026268b2a7,blackfly
 65e358d9c5e3ee026268b2a7,bear
 65e358d9c5e3ee026268b2a7,ferret
 65e358d9c5e3ee026268b2a7,kangaroo
@@ -493,6 +526,7 @@ SID,entry
 5f5aa60bef062519ff711fe6,bear
 5f5aa60bef062519ff711fe6,bronc
 5f5aa60bef062519ff711fe6,bear
+5f5aa60bef062519ff711fe6,blackfly
 5f5aa60bef062519ff711fe6,bear
 5f5aa60bef062519ff711fe6,squirrel
 5f5aa60bef062519ff711fe6,meerkat
@@ -517,6 +551,7 @@ SID,entry
 5885f97f41da4500014d3645,cat
 5885f97f41da4500014d3645,lion
 5885f97f41da4500014d3645,chigger
+5885f97f41da4500014d3645,prawn
 5885f97f41da4500014d3645,cheetah
 5885f97f41da4500014d3645,zebra
 5885f97f41da4500014d3645,elephant
@@ -576,7 +611,9 @@ SID,entry
 5d7ff4aa50fda7001a863736,bear
 5d7ff4aa50fda7001a863736,porcupine
 5d7ff4aa50fda7001a863736,mare
+5d7ff4aa50fda7001a863736,rhinoceros
 5d7ff4aa50fda7001a863736,hippo
+5d7ff4aa50fda7001a863736,mountain cat
 5d7ff4aa50fda7001a863736,lion
 5d7ff4aa50fda7001a863736,panther
 5d7ff4aa50fda7001a863736,leopard
@@ -585,6 +622,7 @@ SID,entry
 5d7ff4aa50fda7001a863736,seal
 5d7ff4aa50fda7001a863736,lion
 5d7ff4aa50fda7001a863736,walrus
+5d7ff4aa50fda7001a863736,gazelle
 5d7ff4aa50fda7001a863736,shark
 5d7ff4aa50fda7001a863736,mouse
 5d7ff4aa50fda7001a863736,rat
@@ -604,6 +642,7 @@ SID,entry
 610c59ee34cc312d7ca55e45,hippo
 610c59ee34cc312d7ca55e45,rhinoceros
 610c59ee34cc312d7ca55e45,giraffe
+610c59ee34cc312d7ca55e45,adder
 610c59ee34cc312d7ca55e45,zebra
 610c59ee34cc312d7ca55e45,beaver
 610c59ee34cc312d7ca55e45,platypus
@@ -615,6 +654,7 @@ SID,entry
 610c59ee34cc312d7ca55e45,bear
 610c59ee34cc312d7ca55e45,bronc
 610c59ee34cc312d7ca55e45,bear
+610c59ee34cc312d7ca55e45,blackfly
 610c59ee34cc312d7ca55e45,bear
 610c59ee34cc312d7ca55e45,whelp
 610c59ee34cc312d7ca55e45,dolphin
@@ -622,10 +662,13 @@ SID,entry
 610c59ee34cc312d7ca55e45,salmon
 610c59ee34cc312d7ca55e45,turkey
 610c59ee34cc312d7ca55e45,iguana
+6596a5cad60ef105b6c18897,doberman
 6596a5cad60ef105b6c18897,shepherd
+6596a5cad60ef105b6c18897,rodent
 6596a5cad60ef105b6c18897,retriever
 6596a5cad60ef105b6c18897,gnu
 6596a5cad60ef105b6c18897,mastiff
+6596a5cad60ef105b6c18897,yorkie
 6596a5cad60ef105b6c18897,terrier
 6596a5cad60ef105b6c18897,ant
 6596a5cad60ef105b6c18897,gurnard
@@ -634,19 +677,23 @@ SID,entry
 6596a5cad60ef105b6c18897,cheetah
 6596a5cad60ef105b6c18897,tiger
 6596a5cad60ef105b6c18897,lion
+6596a5cad60ef105b6c18897,arctic fox
 6596a5cad60ef105b6c18897,fox
 6596a5cad60ef105b6c18897,polar
 6596a5cad60ef105b6c18897,bear
 6596a5cad60ef105b6c18897,bronc
 6596a5cad60ef105b6c18897,bear
+6596a5cad60ef105b6c18897,blackfly
 6596a5cad60ef105b6c18897,bear
 6596a5cad60ef105b6c18897,giraffe
 6596a5cad60ef105b6c18897,elephant
 6596a5cad60ef105b6c18897,spider
+6596a5cad60ef105b6c18897,mammal
 6596a5cad60ef105b6c18897,squirrel
 6596a5cad60ef105b6c18897,eagle
 6596a5cad60ef105b6c18897,parrot
 6596a5cad60ef105b6c18897,geese
+6596a5cad60ef105b6c18897,locust
 6596a5cad60ef105b6c18897,dear
 6596a5cad60ef105b6c18897,moose
 6596a5cad60ef105b6c18897,elk
@@ -654,6 +701,7 @@ SID,entry
 6596a5cad60ef105b6c18897,penguin
 6596a5cad60ef105b6c18897,antelope
 6596a5cad60ef105b6c18897,cat
+6596a5cad60ef105b6c18897,rhino
 6596a5cad60ef105b6c18897,dogs
 6596a5cad60ef105b6c18897,chameleon
 6596a5cad60ef105b6c18897,dragon
@@ -667,10 +715,15 @@ SID,entry
 65cc19b4b3d48a22dfc6756d,flamingo
 65cc19b4b3d48a22dfc6756d,dolphin
 65cc19b4b3d48a22dfc6756d,shark
+65cc19b4b3d48a22dfc6756d,lion
+65cc19b4b3d48a22dfc6756d,mackerel
 65cc19b4b3d48a22dfc6756d,swine
+65cc19b4b3d48a22dfc6756d,wheatear
 65cc19b4b3d48a22dfc6756d,panda
 65cc19b4b3d48a22dfc6756d,panda
 65cc19b4b3d48a22dfc6756d,meerkat
+65cc19b4b3d48a22dfc6756d,owl
+65cc19b4b3d48a22dfc6756d,roe
 65cc19b4b3d48a22dfc6756d,raven
 65cc19b4b3d48a22dfc6756d,eagle
 65cc19b4b3d48a22dfc6756d,squirrel
@@ -696,6 +749,7 @@ SID,entry
 63ea4ab1ce4168cbe9f63775,ormer
 63ea4ab1ce4168cbe9f63775,groundhog
 63ea4ab1ce4168cbe9f63775,raccoon
+63ea4ab1ce4168cbe9f63775,yorkie
 63ea4ab1ce4168cbe9f63775,coot
 63ea4ab1ce4168cbe9f63775,lion
 63ea4ab1ce4168cbe9f63775,zebra
@@ -740,6 +794,7 @@ SID,entry
 6001487015e5f62961639e7d,jaguar
 6001487015e5f62961639e7d,cheetah
 6001487015e5f62961639e7d,panther
+6001487015e5f62961639e7d,mountain cat
 6001487015e5f62961639e7d,lion
 6001487015e5f62961639e7d,capybara
 6001487015e5f62961639e7d,anteater
@@ -758,21 +813,33 @@ SID,entry
 6554de7d91c1b1bf51104fda,octopus
 6554de7d91c1b1bf51104fda,bird
 6554de7d91c1b1bf51104fda,monkeys
+6554de7d91c1b1bf51104fda,wolf
 6554de7d91c1b1bf51104fda,tiger
 6554de7d91c1b1bf51104fda,goby
 6554de7d91c1b1bf51104fda,chicken
 6554de7d91c1b1bf51104fda,donkey
 6554de7d91c1b1bf51104fda,alligator
 6554de7d91c1b1bf51104fda,fish
+6554de7d91c1b1bf51104fda,dingo
+6554de7d91c1b1bf51104fda,tortes
 6554de7d91c1b1bf51104fda,xerus
+6554de7d91c1b1bf51104fda,omnivore
 6554de7d91c1b1bf51104fda,cod
+6554de7d91c1b1bf51104fda,bloodhound
 6554de7d91c1b1bf51104fda,penguin
+6554de7d91c1b1bf51104fda,quail
 6554de7d91c1b1bf51104fda,gorilla
 6554de7d91c1b1bf51104fda,kangaroo
 6554de7d91c1b1bf51104fda,flamingo
 6554de7d91c1b1bf51104fda,squid
 6554de7d91c1b1bf51104fda,starfish
 6554de7d91c1b1bf51104fda,invertebrate
+6554de7d91c1b1bf51104fda,oyster
+6554de7d91c1b1bf51104fda,wildebeest
+6554de7d91c1b1bf51104fda,foxhound
+6554de7d91c1b1bf51104fda,urchin
+6554de7d91c1b1bf51104fda,elephant
+6554de7d91c1b1bf51104fda,insect
 60a48adfe091e410f4eaba34,cat
 60a48adfe091e410f4eaba34,dogs
 60a48adfe091e410f4eaba34,lions
@@ -805,16 +872,21 @@ SID,entry
 65c25cf77dca9d7ca7d9ebdb,chimpanzee
 65c25cf77dca9d7ca7d9ebdb,orangutan
 65c25cf77dca9d7ca7d9ebdb,frog
+65c25cf77dca9d7ca7d9ebdb,person
+65c25cf77dca9d7ca7d9ebdb,scarab
 65c25cf77dca9d7ca7d9ebdb,catfish
+65c25cf77dca9d7ca7d9ebdb,ratite
 65c25cf77dca9d7ca7d9ebdb,oarfish
 65c25cf77dca9d7ca7d9ebdb,polar
 65c25cf77dca9d7ca7d9ebdb,bear
+65c25cf77dca9d7ca7d9ebdb,blackfly
 65c25cf77dca9d7ca7d9ebdb,bear
 65c25cf77dca9d7ca7d9ebdb,crow
 65c25cf77dca9d7ca7d9ebdb,yearling
 65c25cf77dca9d7ca7d9ebdb,kangaroo
 65c25cf77dca9d7ca7d9ebdb,rat
 65c25cf77dca9d7ca7d9ebdb,starling
+65c25cf77dca9d7ca7d9ebdb,bighorn
 65c25cf77dca9d7ca7d9ebdb,cobra
 65c25cf77dca9d7ca7d9ebdb,cottonmouth
 65c25cf77dca9d7ca7d9ebdb,groundhog
@@ -827,8 +899,11 @@ SID,entry
 65c25cf77dca9d7ca7d9ebdb,jaguar
 65c25cf77dca9d7ca7d9ebdb,cheetah
 65c25cf77dca9d7ca7d9ebdb,lions
+65c25cf77dca9d7ca7d9ebdb,hyenas
 65c25cf77dca9d7ca7d9ebdb,elephant
+65c25cf77dca9d7ca7d9ebdb,sea bass
 65c25cf77dca9d7ca7d9ebdb,horse
+65c25cf77dca9d7ca7d9ebdb,rat
 65c25cf77dca9d7ca7d9ebdb,seal
 65c25cf77dca9d7ca7d9ebdb,lionfish
 65c25cf77dca9d7ca7d9ebdb,orca
@@ -862,6 +937,7 @@ SID,entry
 629e241d171ec6698e05f149,groundhog
 629e241d171ec6698e05f149,mole
 629e241d171ec6698e05f149,monkey
+629e241d171ec6698e05f149,warthog
 629e241d171ec6698e05f149,lizard
 629e241d171ec6698e05f149,crocodile
 629e241d171ec6698e05f149,gecko
@@ -874,23 +950,28 @@ SID,entry
 629e241d171ec6698e05f149,mackerel
 629e241d171ec6698e05f149,shrimp
 629e241d171ec6698e05f149,lobster
+629e241d171ec6698e05f149,takin
 629e241d171ec6698e05f149,crab
+629e241d171ec6698e05f149,bluefin
 629e241d171ec6698e05f149,crab
 629e241d171ec6698e05f149,spider
 629e241d171ec6698e05f149,crab
 629e241d171ec6698e05f149,spider
 629e241d171ec6698e05f149,stag
 629e241d171ec6698e05f149,beetle
+629e241d171ec6698e05f149,blackfly
 629e241d171ec6698e05f149,beetle
 629e241d171ec6698e05f149,ladybug
 629e241d171ec6698e05f149,silverfish
 629e241d171ec6698e05f149,butterfly
 60d731567049e5132e3cc4d4,dog
 60d731567049e5132e3cc4d4,cat
+60d731567049e5132e3cc4d4,turtle dove
 60d731567049e5132e3cc4d4,iguana
 60d731567049e5132e3cc4d4,lion
 60d731567049e5132e3cc4d4,tiger
 60d731567049e5132e3cc4d4,cheetah
+60d731567049e5132e3cc4d4,mountain cat
 60d731567049e5132e3cc4d4,lion
 60d731567049e5132e3cc4d4,lynx
 60d731567049e5132e3cc4d4,bobcat
@@ -921,6 +1002,7 @@ SID,entry
 60d731567049e5132e3cc4d4,bear
 60d731567049e5132e3cc4d4,grizzly
 60d731567049e5132e3cc4d4,bear
+60d731567049e5132e3cc4d4,blackfly
 60d731567049e5132e3cc4d4,bear
 60d731567049e5132e3cc4d4,llama
 60d731567049e5132e3cc4d4,alpaca
@@ -928,6 +1010,7 @@ SID,entry
 60d731567049e5132e3cc4d4,boa constrictor
 60d731567049e5132e3cc4d4,wolf
 60d731567049e5132e3cc4d4,coyote
+60d731567049e5132e3cc4d4,sockeye
 60d731567049e5132e3cc4d4,owl
 60d731567049e5132e3cc4d4,pelican
 60d731567049e5132e3cc4d4,flamingo
@@ -955,9 +1038,11 @@ SID,entry
 656e3caa43f1f7f0615252ff,giraffe
 656e3caa43f1f7f0615252ff,bronc
 656e3caa43f1f7f0615252ff,bear
+656e3caa43f1f7f0615252ff,blackfly
 656e3caa43f1f7f0615252ff,bear
 656e3caa43f1f7f0615252ff,polar
 656e3caa43f1f7f0615252ff,bear
+656e3caa43f1f7f0615252ff,greenfly
 656e3caa43f1f7f0615252ff,wolf
 656e3caa43f1f7f0615252ff,greyhound
 656e3caa43f1f7f0615252ff,whale
@@ -967,18 +1052,23 @@ SID,entry
 656e3caa43f1f7f0615252ff,whale
 656e3caa43f1f7f0615252ff,shark
 656e3caa43f1f7f0615252ff,crab
+656e3caa43f1f7f0615252ff,takin
 656e3caa43f1f7f0615252ff,crab
 656e3caa43f1f7f0615252ff,lobster
 656e3caa43f1f7f0615252ff,hermit
 656e3caa43f1f7f0615252ff,crab
 656e3caa43f1f7f0615252ff,goldfish
+656e3caa43f1f7f0615252ff,dodo
 656e3caa43f1f7f0615252ff,dragon
 656e3caa43f1f7f0615252ff,chameleon
 656e3caa43f1f7f0615252ff,giant
+656e3caa43f1f7f0615252ff,wheatear
 656e3caa43f1f7f0615252ff,mouse
 656e3caa43f1f7f0615252ff,cat
+656e3caa43f1f7f0615252ff,gal
 656e3caa43f1f7f0615252ff,tiger
 656e3caa43f1f7f0615252ff,tunny
+656e3caa43f1f7f0615252ff,auklet
 656e3caa43f1f7f0615252ff,monkey
 656e3caa43f1f7f0615252ff,gorilla
 656e3caa43f1f7f0615252ff,chimpanzee
@@ -986,8 +1076,10 @@ SID,entry
 656e3caa43f1f7f0615252ff,tortoise
 656e3caa43f1f7f0615252ff,turtle
 656e3caa43f1f7f0615252ff,penguin
+656e3caa43f1f7f0615252ff,perro
 656e3caa43f1f7f0615252ff,penguin
 61363ce02e6022a741d63a6e,dog
+61363ce02e6022a741d63a6e,sand cat
 61363ce02e6022a741d63a6e,mouse
 61363ce02e6022a741d63a6e,hamster
 61363ce02e6022a741d63a6e,tiger
@@ -1018,8 +1110,10 @@ SID,entry
 61363ce02e6022a741d63a6e,goldfish
 61363ce02e6022a741d63a6e,hamster
 61363ce02e6022a741d63a6e,shrimp
+5f1f3581b5cf3e103cc545c9,gerbil
 5f1f3581b5cf3e103cc545c9,dolphin
 5f1f3581b5cf3e103cc545c9,roach
 5f1f3581b5cf3e103cc545c9,spider
 5f1f3581b5cf3e103cc545c9,sea bear
+5f1f3581b5cf3e103cc545c9,towhee
 5f1f3581b5cf3e103cc545c9,jackal

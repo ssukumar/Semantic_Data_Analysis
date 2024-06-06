@@ -1,0 +1,457 @@
+Subject,Fluency_Item,Switch_Value,Switch_Method
+5885f97f41da4500014d3645,water,2,simdrop
+5885f97f41da4500014d3645,juice,0,simdrop
+5885f97f41da4500014d3645,soda,0,simdrop
+5885f97f41da4500014d3645,beer,1,simdrop
+5885f97f41da4500014d3645,wine,0,simdrop
+5885f97f41da4500014d3645,vodka,0,simdrop
+5885f97f41da4500014d3645,sprite,0,simdrop
+5885f97f41da4500014d3645,flavored tea,0,simdrop
+5885f97f41da4500014d3645,water,0,simdrop
+5885f97f41da4500014d3645,marinade,0,simdrop
+5885f97f41da4500014d3645,water,0,simdrop
+5885f97f41da4500014d3645,gasoline,0,simdrop
+5885f97f41da4500014d3645,stock,1,simdrop
+5885f97f41da4500014d3645,beer,0,simdrop
+5885f97f41da4500014d3645,coffee,0,simdrop
+5885f97f41da4500014d3645,butane,0,simdrop
+5885f97f41da4500014d3645,lemonade,1,simdrop
+5885f97f41da4500014d3645,lime cider,2,simdrop
+5d7ff4aa50fda7001a863736,water,2,simdrop
+5d7ff4aa50fda7001a863736,orange juice,0,simdrop
+5d7ff4aa50fda7001a863736,milk,0,simdrop
+5d7ff4aa50fda7001a863736,wine,0,simdrop
+5d7ff4aa50fda7001a863736,coffee,1,simdrop
+5d7ff4aa50fda7001a863736,soda,0,simdrop
+5d7ff4aa50fda7001a863736,tea,0,simdrop
+5d7ff4aa50fda7001a863736,hot chocolate,0,simdrop
+5d7ff4aa50fda7001a863736,smoothie,1,simdrop
+5d7ff4aa50fda7001a863736,lemonade,2,simdrop
+5f1f3581b5cf3e103cc545c9,bleach,2,simdrop
+5f1f3581b5cf3e103cc545c9,brine,0,simdrop
+5f1f3581b5cf3e103cc545c9,water,2,simdrop
+5f5aa60bef062519ff711fe6,orange juice,2,simdrop
+5f5aa60bef062519ff711fe6,juice,0,simdrop
+5f5aa60bef062519ff711fe6,water,0,simdrop
+5f5aa60bef062519ff711fe6,dr. pepper,1,simdrop
+5f5aa60bef062519ff711fe6,fanta,0,simdrop
+5f5aa60bef062519ff711fe6,coconut oil,1,simdrop
+5f5aa60bef062519ff711fe6,water,0,simdrop
+5f5aa60bef062519ff711fe6,milk,0,simdrop
+5f5aa60bef062519ff711fe6,lemonade,0,simdrop
+5f5aa60bef062519ff711fe6,milk,0,simdrop
+5f5aa60bef062519ff711fe6,lemonade,0,simdrop
+5f5aa60bef062519ff711fe6,sprite,0,simdrop
+5f5aa60bef062519ff711fe6,broth,0,simdrop
+5f5aa60bef062519ff711fe6,beer,1,simdrop
+5f5aa60bef062519ff711fe6,gasoline,2,simdrop
+6001487015e5f62961639e7d,water,2,simdrop
+6001487015e5f62961639e7d,juice,0,simdrop
+6001487015e5f62961639e7d,lemonade,0,simdrop
+6001487015e5f62961639e7d,tea,1,simdrop
+6001487015e5f62961639e7d,soda,0,simdrop
+6001487015e5f62961639e7d,bleach,1,simdrop
+6001487015e5f62961639e7d,brandy,0,simdrop
+6001487015e5f62961639e7d,broth,1,simdrop
+6001487015e5f62961639e7d,liquor,0,simdrop
+6001487015e5f62961639e7d,soup,1,simdrop
+6001487015e5f62961639e7d,syrup,0,simdrop
+6001487015e5f62961639e7d,pear cider,1,simdrop
+6001487015e5f62961639e7d,brandy,0,simdrop
+6001487015e5f62961639e7d,fanta,2,simdrop
+600f9342e7bc5518fa9ca92a,water,2,simdrop
+600f9342e7bc5518fa9ca92a,gasoline,0,simdrop
+600f9342e7bc5518fa9ca92a,coffee,0,simdrop
+600f9342e7bc5518fa9ca92a,vinegar,1,simdrop
+600f9342e7bc5518fa9ca92a,milk,0,simdrop
+600f9342e7bc5518fa9ca92a,gasoline,2,simdrop
+601f6a2231a2904b79df1671,water,2,simdrop
+601f6a2231a2904b79df1671,soda,0,simdrop
+601f6a2231a2904b79df1671,orange juice,1,simdrop
+601f6a2231a2904b79df1671,juice,0,simdrop
+601f6a2231a2904b79df1671,apple juice,0,simdrop
+601f6a2231a2904b79df1671,juice,0,simdrop
+601f6a2231a2904b79df1671,juice,0,simdrop
+601f6a2231a2904b79df1671,juice,0,simdrop
+601f6a2231a2904b79df1671,gasoline,1,simdrop
+601f6a2231a2904b79df1671,petroleum,0,simdrop
+601f6a2231a2904b79df1671,water,1,simdrop
+601f6a2231a2904b79df1671,tea,0,simdrop
+601f6a2231a2904b79df1671,brine,1,simdrop
+601f6a2231a2904b79df1671,salsa,0,simdrop
+601f6a2231a2904b79df1671,whiskey,1,simdrop
+601f6a2231a2904b79df1671,vodka,0,simdrop
+601f6a2231a2904b79df1671,beer,0,simdrop
+601f6a2231a2904b79df1671,wine,0,simdrop
+601f6a2231a2904b79df1671,cider,1,simdrop
+601f6a2231a2904b79df1671,cider,0,simdrop
+601f6a2231a2904b79df1671,tequila,0,simdrop
+601f6a2231a2904b79df1671,asphalt,2,simdrop
+6073e0d481953bbd2cd61145,water,2,simdrop
+6073e0d481953bbd2cd61145,soda,0,simdrop
+6073e0d481953bbd2cd61145,ketchup,1,simdrop
+6073e0d481953bbd2cd61145,mustard,0,simdrop
+6073e0d481953bbd2cd61145,mayonnaise,0,simdrop
+6073e0d481953bbd2cd61145,olive oil,0,simdrop
+6073e0d481953bbd2cd61145,wine,1,simdrop
+6073e0d481953bbd2cd61145,beer,0,simdrop
+6073e0d481953bbd2cd61145,vodka,0,simdrop
+6073e0d481953bbd2cd61145,tequila,0,simdrop
+6073e0d481953bbd2cd61145,milk,2,simdrop
+6081806ab383aa89f6c61940,water,2,simdrop
+6081806ab383aa89f6c61940,soup,0,simdrop
+6081806ab383aa89f6c61940,coffee,1,simdrop
+6081806ab383aa89f6c61940,milk,0,simdrop
+6081806ab383aa89f6c61940,soda,0,simdrop
+6081806ab383aa89f6c61940,gasoline,1,simdrop
+6081806ab383aa89f6c61940,vinegar,0,simdrop
+6081806ab383aa89f6c61940,hot chocolate,1,simdrop
+6081806ab383aa89f6c61940,syrup,0,simdrop
+6081806ab383aa89f6c61940,fanta,1,simdrop
+6081806ab383aa89f6c61940,juice,0,simdrop
+6081806ab383aa89f6c61940,lemonade,0,simdrop
+6081806ab383aa89f6c61940,milk,1,simdrop
+6081806ab383aa89f6c61940,milk,0,simdrop
+6081806ab383aa89f6c61940,coconut oil,0,simdrop
+6081806ab383aa89f6c61940,milk,0,simdrop
+6081806ab383aa89f6c61940,milk,0,simdrop
+6081806ab383aa89f6c61940,milk,0,simdrop
+6081806ab383aa89f6c61940,hot chocolate,0,simdrop
+6081806ab383aa89f6c61940,milk,0,simdrop
+6081806ab383aa89f6c61940,vegetable oil,1,simdrop
+6081806ab383aa89f6c61940,broth,0,simdrop
+6081806ab383aa89f6c61940,broth,0,simdrop
+6081806ab383aa89f6c61940,beer,0,simdrop
+6081806ab383aa89f6c61940,broth,2,simdrop
+60a48adfe091e410f4eaba34,water,2,simdrop
+60a48adfe091e410f4eaba34,cola,0,simdrop
+60a48adfe091e410f4eaba34,milk,1,simdrop
+60a48adfe091e410f4eaba34,orange juice,0,simdrop
+60a48adfe091e410f4eaba34,juice,0,simdrop
+60a48adfe091e410f4eaba34,vodka,1,simdrop
+60a48adfe091e410f4eaba34,rum,0,simdrop
+60a48adfe091e410f4eaba34,whiskey,0,simdrop
+60a48adfe091e410f4eaba34,bleach,1,simdrop
+60a48adfe091e410f4eaba34,tea,0,simdrop
+60a48adfe091e410f4eaba34,coffee,0,simdrop
+60a48adfe091e410f4eaba34,dressing,2,simdrop
+60d731567049e5132e3cc4d4,water,2,simdrop
+60d731567049e5132e3cc4d4,gasoline,0,simdrop
+60d731567049e5132e3cc4d4,beer,0,simdrop
+60d731567049e5132e3cc4d4,wine,0,simdrop
+60d731567049e5132e3cc4d4,rum,1,simdrop
+60d731567049e5132e3cc4d4,vodka,0,simdrop
+60d731567049e5132e3cc4d4,milk,1,simdrop
+60d731567049e5132e3cc4d4,juice,0,simdrop
+60d731567049e5132e3cc4d4,mustard,0,simdrop
+60d731567049e5132e3cc4d4,wax remover,0,simdrop
+60d731567049e5132e3cc4d4,wine,1,simdrop
+60d731567049e5132e3cc4d4,bleach,0,simdrop
+60d731567049e5132e3cc4d4,brandy,0,simdrop
+60d731567049e5132e3cc4d4,lemonade,0,simdrop
+60d731567049e5132e3cc4d4,juice,0,simdrop
+60d731567049e5132e3cc4d4,soda,0,simdrop
+60d731567049e5132e3cc4d4,whiskey,0,simdrop
+60d731567049e5132e3cc4d4,coffee,0,simdrop
+60d731567049e5132e3cc4d4,degreaser,0,simdrop
+60d731567049e5132e3cc4d4,smoothie,1,simdrop
+60d731567049e5132e3cc4d4,kombucha,2,simdrop
+610c59ee34cc312d7ca55e45,water,2,simdrop
+610c59ee34cc312d7ca55e45,honey,0,simdrop
+610c59ee34cc312d7ca55e45,juice,0,simdrop
+610c59ee34cc312d7ca55e45,milk,0,simdrop
+610c59ee34cc312d7ca55e45,tequila,1,simdrop
+610c59ee34cc312d7ca55e45,whiskey,0,simdrop
+610c59ee34cc312d7ca55e45,wine,1,simdrop
+610c59ee34cc312d7ca55e45,beer,0,simdrop
+610c59ee34cc312d7ca55e45,bleach,1,simdrop
+610c59ee34cc312d7ca55e45,air freshener,2,simdrop
+61363ce02e6022a741d63a6e,water,2,simdrop
+61363ce02e6022a741d63a6e,mountain dew,0,simdrop
+61363ce02e6022a741d63a6e,7up,0,simdrop
+61363ce02e6022a741d63a6e,sprite,0,simdrop
+61363ce02e6022a741d63a6e,dr. pepper,0,simdrop
+61363ce02e6022a741d63a6e,orange juice,1,simdrop
+61363ce02e6022a741d63a6e,lemonade,0,simdrop
+61363ce02e6022a741d63a6e,fanta,0,simdrop
+61363ce02e6022a741d63a6e,juice,1,simdrop
+61363ce02e6022a741d63a6e,juice,0,simdrop
+61363ce02e6022a741d63a6e,juice,0,simdrop
+61363ce02e6022a741d63a6e,juice,0,simdrop
+61363ce02e6022a741d63a6e,beer,1,simdrop
+61363ce02e6022a741d63a6e,wine,0,simdrop
+61363ce02e6022a741d63a6e,sprite,1,simdrop
+61363ce02e6022a741d63a6e,vodka,0,simdrop
+61363ce02e6022a741d63a6e,tea,1,simdrop
+61363ce02e6022a741d63a6e,coffee,0,simdrop
+61363ce02e6022a741d63a6e,mint water,0,simdrop
+61363ce02e6022a741d63a6e,juice,2,simdrop
+629e241d171ec6698e05f149,water,2,simdrop
+629e241d171ec6698e05f149,juice,0,simdrop
+629e241d171ec6698e05f149,soda,1,simdrop
+629e241d171ec6698e05f149,water,0,simdrop
+629e241d171ec6698e05f149,water,0,simdrop
+629e241d171ec6698e05f149,tequila,1,simdrop
+629e241d171ec6698e05f149,whiskey,0,simdrop
+629e241d171ec6698e05f149,beer,0,simdrop
+629e241d171ec6698e05f149,marinade,0,simdrop
+629e241d171ec6698e05f149,cocktails,1,simdrop
+629e241d171ec6698e05f149,water,0,simdrop
+629e241d171ec6698e05f149,honey,1,simdrop
+629e241d171ec6698e05f149,molasses,0,simdrop
+629e241d171ec6698e05f149,molasses,0,simdrop
+629e241d171ec6698e05f149,pesto,1,simdrop
+629e241d171ec6698e05f149,sauce,0,simdrop
+629e241d171ec6698e05f149,marinade,0,simdrop
+629e241d171ec6698e05f149,sauce,0,simdrop
+629e241d171ec6698e05f149,juice,1,simdrop
+629e241d171ec6698e05f149,orange juice,0,simdrop
+629e241d171ec6698e05f149,juice,0,simdrop
+629e241d171ec6698e05f149,apple juice,0,simdrop
+629e241d171ec6698e05f149,broth,1,simdrop
+629e241d171ec6698e05f149,broth,0,simdrop
+629e241d171ec6698e05f149,water,1,simdrop
+629e241d171ec6698e05f149,water,0,simdrop
+629e241d171ec6698e05f149,jelly,0,simdrop
+629e241d171ec6698e05f149,water,0,simdrop
+629e241d171ec6698e05f149,mint water,0,simdrop
+629e241d171ec6698e05f149,soda water,0,simdrop
+629e241d171ec6698e05f149,milk,1,simdrop
+629e241d171ec6698e05f149,soup,2,simdrop
+63619eb02e5bd8f4f7bd138a,water,2,simdrop
+63619eb02e5bd8f4f7bd138a,juice,0,simdrop
+63619eb02e5bd8f4f7bd138a,milk,0,simdrop
+63619eb02e5bd8f4f7bd138a,beer,1,simdrop
+63619eb02e5bd8f4f7bd138a,wine,0,simdrop
+63619eb02e5bd8f4f7bd138a,vodka,1,simdrop
+63619eb02e5bd8f4f7bd138a,whiskey,0,simdrop
+63619eb02e5bd8f4f7bd138a,cola,0,simdrop
+63619eb02e5bd8f4f7bd138a,champagne,0,simdrop
+63619eb02e5bd8f4f7bd138a,coffee,1,simdrop
+63619eb02e5bd8f4f7bd138a,soda,0,simdrop
+63619eb02e5bd8f4f7bd138a,rum,1,simdrop
+63619eb02e5bd8f4f7bd138a,marinade,2,simdrop
+63e802622f8052bd67d6c5f0,water,2,simdrop
+63e802622f8052bd67d6c5f0,honey,0,simdrop
+63e802622f8052bd67d6c5f0,beer,1,simdrop
+63e802622f8052bd67d6c5f0,liquor,0,simdrop
+63e802622f8052bd67d6c5f0,soda,2,simdrop
+63ea4ab1ce4168cbe9f63775,water,2,simdrop
+63ea4ab1ce4168cbe9f63775,liquor,0,simdrop
+63ea4ab1ce4168cbe9f63775,beer,0,simdrop
+63ea4ab1ce4168cbe9f63775,whiskey,0,simdrop
+63ea4ab1ce4168cbe9f63775,beer,0,simdrop
+63ea4ab1ce4168cbe9f63775,tequila,1,simdrop
+63ea4ab1ce4168cbe9f63775,vodka,0,simdrop
+63ea4ab1ce4168cbe9f63775,coffee,1,simdrop
+63ea4ab1ce4168cbe9f63775,smoothie,0,simdrop
+63ea4ab1ce4168cbe9f63775,coffee,0,simdrop
+63ea4ab1ce4168cbe9f63775,motor oil,1,simdrop
+63ea4ab1ce4168cbe9f63775,gasoline,0,simdrop
+63ea4ab1ce4168cbe9f63775,fanta,0,simdrop
+63ea4ab1ce4168cbe9f63775,wax remover,1,simdrop
+63ea4ab1ce4168cbe9f63775,gasoline,0,simdrop
+63ea4ab1ce4168cbe9f63775,wine,0,simdrop
+63ea4ab1ce4168cbe9f63775,bleach,1,simdrop
+63ea4ab1ce4168cbe9f63775,brandy,0,simdrop
+63ea4ab1ce4168cbe9f63775,solvent,1,simdrop
+63ea4ab1ce4168cbe9f63775,juice,0,simdrop
+63ea4ab1ce4168cbe9f63775,apple juice,2,simdrop
+654108d38225e168af4b1fa0,water,2,simdrop
+654108d38225e168af4b1fa0,brine,0,simdrop
+654108d38225e168af4b1fa0,juice,0,simdrop
+654108d38225e168af4b1fa0,brine,0,simdrop
+654108d38225e168af4b1fa0,soda,1,simdrop
+654108d38225e168af4b1fa0,gasoline,0,simdrop
+654108d38225e168af4b1fa0,iced tea,1,simdrop
+654108d38225e168af4b1fa0,coffee,2,simdrop
+6554de7d91c1b1bf51104fda,soda,2,simdrop
+6554de7d91c1b1bf51104fda,water,0,simdrop
+6554de7d91c1b1bf51104fda,milk,0,simdrop
+6554de7d91c1b1bf51104fda,juice,0,simdrop
+6554de7d91c1b1bf51104fda,beer,0,simdrop
+6554de7d91c1b1bf51104fda,olive oil,0,simdrop
+6554de7d91c1b1bf51104fda,beer,0,simdrop
+6554de7d91c1b1bf51104fda,dressing,0,simdrop
+6554de7d91c1b1bf51104fda,dressing,0,simdrop
+6554de7d91c1b1bf51104fda,sprite,1,simdrop
+6554de7d91c1b1bf51104fda,soup,0,simdrop
+6554de7d91c1b1bf51104fda,syrup,0,simdrop
+6554de7d91c1b1bf51104fda,bleach,0,simdrop
+6554de7d91c1b1bf51104fda,antifreeze,0,simdrop
+6554de7d91c1b1bf51104fda,cola,0,simdrop
+6554de7d91c1b1bf51104fda,smoothie,0,simdrop
+6554de7d91c1b1bf51104fda,sauce,2,simdrop
+656e3caa43f1f7f0615252ff,honey,2,simdrop
+656e3caa43f1f7f0615252ff,water,0,simdrop
+656e3caa43f1f7f0615252ff,sprite,0,simdrop
+656e3caa43f1f7f0615252ff,mountain dew,0,simdrop
+656e3caa43f1f7f0615252ff,milk,1,simdrop
+656e3caa43f1f7f0615252ff,orange juice,0,simdrop
+656e3caa43f1f7f0615252ff,juice,0,simdrop
+656e3caa43f1f7f0615252ff,juice,0,simdrop
+656e3caa43f1f7f0615252ff,lemonade,0,simdrop
+656e3caa43f1f7f0615252ff,milk,1,simdrop
+656e3caa43f1f7f0615252ff,oat milk,0,simdrop
+656e3caa43f1f7f0615252ff,milk,0,simdrop
+656e3caa43f1f7f0615252ff,broth,0,simdrop
+656e3caa43f1f7f0615252ff,beer,1,simdrop
+656e3caa43f1f7f0615252ff,wine,0,simdrop
+656e3caa43f1f7f0615252ff,hot chocolate,0,simdrop
+656e3caa43f1f7f0615252ff,liquor,1,simdrop
+656e3caa43f1f7f0615252ff,fanta,2,simdrop
+6596a5cad60ef105b6c18897,water,2,simdrop
+6596a5cad60ef105b6c18897,juice,0,simdrop
+6596a5cad60ef105b6c18897,apple juice,0,simdrop
+6596a5cad60ef105b6c18897,soda,0,simdrop
+6596a5cad60ef105b6c18897,wine,0,simdrop
+6596a5cad60ef105b6c18897,juice,1,simdrop
+6596a5cad60ef105b6c18897,vodka,0,simdrop
+6596a5cad60ef105b6c18897,tequila,0,simdrop
+6596a5cad60ef105b6c18897,honey,1,simdrop
+6596a5cad60ef105b6c18897,soy sauce,0,simdrop
+6596a5cad60ef105b6c18897,coffee,0,simdrop
+6596a5cad60ef105b6c18897,jelly,0,simdrop
+6596a5cad60ef105b6c18897,coffee,0,simdrop
+6596a5cad60ef105b6c18897,coffee,0,simdrop
+6596a5cad60ef105b6c18897,beer,1,simdrop
+6596a5cad60ef105b6c18897,beer,0,simdrop
+6596a5cad60ef105b6c18897,brine,0,simdrop
+6596a5cad60ef105b6c18897,milk,2,simdrop
+65b15afd94153c1f50c92493,water,2,simdrop
+65b15afd94153c1f50c92493,milk,0,simdrop
+65b15afd94153c1f50c92493,green tea,1,simdrop
+65b15afd94153c1f50c92493,coffee,0,simdrop
+65b15afd94153c1f50c92493,juice,0,simdrop
+65b15afd94153c1f50c92493,marinade,0,simdrop
+65b15afd94153c1f50c92493,soup,1,simdrop
+65b15afd94153c1f50c92493,dressing,0,simdrop
+65b15afd94153c1f50c92493,soda,1,simdrop
+65b15afd94153c1f50c92493,ketchup,0,simdrop
+65b15afd94153c1f50c92493,vinegar,0,simdrop
+65b15afd94153c1f50c92493,fanta,2,simdrop
+65c25cf77dca9d7ca7d9ebdb,water,2,simdrop
+65c25cf77dca9d7ca7d9ebdb,bleach,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,marinade,1,simdrop
+65c25cf77dca9d7ca7d9ebdb,milk,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,wine,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,tar,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,olive oil,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,cola,1,simdrop
+65c25cf77dca9d7ca7d9ebdb,brandy,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,water,1,simdrop
+65c25cf77dca9d7ca7d9ebdb,soda,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,beer,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,brandy,1,simdrop
+65c25cf77dca9d7ca7d9ebdb,vodka,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,whiskey,2,simdrop
+65cb63e160bb47fbf9349269,water,2,simdrop
+65cb63e160bb47fbf9349269,soup,0,simdrop
+65cb63e160bb47fbf9349269,soda,1,simdrop
+65cb63e160bb47fbf9349269,juice,0,simdrop
+65cb63e160bb47fbf9349269,wine,1,simdrop
+65cb63e160bb47fbf9349269,beer,0,simdrop
+65cb63e160bb47fbf9349269,liquor,0,simdrop
+65cb63e160bb47fbf9349269,pear cider,0,simdrop
+65cb63e160bb47fbf9349269,milk,1,simdrop
+65cb63e160bb47fbf9349269,stock,0,simdrop
+65cb63e160bb47fbf9349269,brine,1,simdrop
+65cb63e160bb47fbf9349269,water,0,simdrop
+65cb63e160bb47fbf9349269,salsa,2,simdrop
+65cc19b4b3d48a22dfc6756d,water,2,simdrop
+65cc19b4b3d48a22dfc6756d,coffee,0,simdrop
+65cc19b4b3d48a22dfc6756d,juice,0,simdrop
+65cc19b4b3d48a22dfc6756d,hot sauce,1,simdrop
+65cc19b4b3d48a22dfc6756d,soy sauce,0,simdrop
+65cc19b4b3d48a22dfc6756d,vinegar,0,simdrop
+65cc19b4b3d48a22dfc6756d,soda,1,simdrop
+65cc19b4b3d48a22dfc6756d,cider,0,simdrop
+65cc19b4b3d48a22dfc6756d,whiskey,0,simdrop
+65cc19b4b3d48a22dfc6756d,wine,2,simdrop
+65d54b3b524fcafb543d1b23,water,2,simdrop
+65d54b3b524fcafb543d1b23,mountain dew,0,simdrop
+65d54b3b524fcafb543d1b23,sprite,0,simdrop
+65d54b3b524fcafb543d1b23,juice,1,simdrop
+65d54b3b524fcafb543d1b23,juice,0,simdrop
+65d54b3b524fcafb543d1b23,apple juice,0,simdrop
+65d54b3b524fcafb543d1b23,juice,0,simdrop
+65d54b3b524fcafb543d1b23,marinade,0,simdrop
+65d54b3b524fcafb543d1b23,sprite,1,simdrop
+65d54b3b524fcafb543d1b23,water,0,simdrop
+65d54b3b524fcafb543d1b23,water,0,simdrop
+65d54b3b524fcafb543d1b23,fanta,0,simdrop
+65d54b3b524fcafb543d1b23,kombucha,2,simdrop
+65d6a09286a0c99e632a46dd,liquor,2,simdrop
+65d6a09286a0c99e632a46dd,water,0,simdrop
+65d6a09286a0c99e632a46dd,soda,0,simdrop
+65d6a09286a0c99e632a46dd,marinade,1,simdrop
+65d6a09286a0c99e632a46dd,wine,0,simdrop
+65d6a09286a0c99e632a46dd,salsa,0,simdrop
+65d6a09286a0c99e632a46dd,liquor,1,simdrop
+65d6a09286a0c99e632a46dd,tar,0,simdrop
+65d6a09286a0c99e632a46dd,water,0,simdrop
+65d6a09286a0c99e632a46dd,tea,0,simdrop
+65d6a09286a0c99e632a46dd,liquor,1,simdrop
+65d6a09286a0c99e632a46dd,liquor,0,simdrop
+65d6a09286a0c99e632a46dd,solvent,1,simdrop
+65d6a09286a0c99e632a46dd,water,0,simdrop
+65d6a09286a0c99e632a46dd,beer,2,simdrop
+65e1f75ab3efd22e847cfbf0,soda,2,simdrop
+65e1f75ab3efd22e847cfbf0,juice,0,simdrop
+65e1f75ab3efd22e847cfbf0,water,0,simdrop
+65e1f75ab3efd22e847cfbf0,fanta,1,simdrop
+65e1f75ab3efd22e847cfbf0,sprite,0,simdrop
+65e1f75ab3efd22e847cfbf0,orange juice,1,simdrop
+65e1f75ab3efd22e847cfbf0,juice,0,simdrop
+65e1f75ab3efd22e847cfbf0,juice,0,simdrop
+65e1f75ab3efd22e847cfbf0,juice,0,simdrop
+65e1f75ab3efd22e847cfbf0,dr. pepper,0,simdrop
+65e1f75ab3efd22e847cfbf0,lemonade,1,simdrop
+65e1f75ab3efd22e847cfbf0,whiskey,0,simdrop
+65e1f75ab3efd22e847cfbf0,ammonia,0,simdrop
+65e1f75ab3efd22e847cfbf0,apple juice,2,simdrop
+65e358d9c5e3ee026268b2a7,water,2,simdrop
+65e358d9c5e3ee026268b2a7,water,0,simdrop
+65e358d9c5e3ee026268b2a7,soup,0,simdrop
+65e358d9c5e3ee026268b2a7,beer,1,simdrop
+65e358d9c5e3ee026268b2a7,liquor,0,simdrop
+65e358d9c5e3ee026268b2a7,vodka,0,simdrop
+65e358d9c5e3ee026268b2a7,gin,0,simdrop
+65e358d9c5e3ee026268b2a7,tequila,0,simdrop
+65e358d9c5e3ee026268b2a7,juice,1,simdrop
+65e358d9c5e3ee026268b2a7,orange juice,0,simdrop
+65e358d9c5e3ee026268b2a7,juice,0,simdrop
+65e358d9c5e3ee026268b2a7,juice,0,simdrop
+65e358d9c5e3ee026268b2a7,apple juice,0,simdrop
+65e358d9c5e3ee026268b2a7,soda,1,simdrop
+65e358d9c5e3ee026268b2a7,7up,0,simdrop
+65e358d9c5e3ee026268b2a7,tar,1,simdrop
+65e358d9c5e3ee026268b2a7,wine,0,simdrop
+65e358d9c5e3ee026268b2a7,bleach,1,simdrop
+65e358d9c5e3ee026268b2a7,water,0,simdrop
+65e358d9c5e3ee026268b2a7,brine,0,simdrop
+65e358d9c5e3ee026268b2a7,liquor,1,simdrop
+65e358d9c5e3ee026268b2a7,mocktails,0,simdrop
+65e358d9c5e3ee026268b2a7,olive oil,1,simdrop
+65e358d9c5e3ee026268b2a7,vegetable oil,0,simdrop
+65e358d9c5e3ee026268b2a7,cola,1,simdrop
+65e358d9c5e3ee026268b2a7,liquor,0,simdrop
+65e358d9c5e3ee026268b2a7,milk,1,simdrop
+65e358d9c5e3ee026268b2a7,lemonade,0,simdrop
+65e358d9c5e3ee026268b2a7,milk,0,simdrop
+65e358d9c5e3ee026268b2a7,milk,2,simdrop
+65e862f844f1b7a803bb3c5a,broth,2,simdrop
+65e862f844f1b7a803bb3c5a,brine,0,simdrop
+65e862f844f1b7a803bb3c5a,cider,1,simdrop
+65e862f844f1b7a803bb3c5a,wine,0,simdrop
+65e862f844f1b7a803bb3c5a,beer,0,simdrop
+65e862f844f1b7a803bb3c5a,coffee,0,simdrop
+65e862f844f1b7a803bb3c5a,pesto,0,simdrop
+65e862f844f1b7a803bb3c5a,diesel,1,simdrop
+65e862f844f1b7a803bb3c5a,gasoline,0,simdrop
+65e862f844f1b7a803bb3c5a,diesel,0,simdrop
+65e862f844f1b7a803bb3c5a,honey,1,simdrop
+65e862f844f1b7a803bb3c5a,tar,0,simdrop
+65e862f844f1b7a803bb3c5a,juice,1,simdrop
+65e862f844f1b7a803bb3c5a,coconut oil,0,simdrop
+65e862f844f1b7a803bb3c5a,water,2,simdrop

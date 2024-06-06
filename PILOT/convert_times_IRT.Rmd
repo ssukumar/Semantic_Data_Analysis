@@ -1,0 +1,44 @@
+---
+title: "convert_times_IRT"
+output: html_document
+date: "2024-05-13"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+Online_data = TRUE # IF true, then data is collected on prolific, else in person data
+if (Online_data){
+  data_dir = 'DATA/Corrected/Grouped_corrected'
+  plots_dir = 'Plots_corrected'
+} else {
+  data_dir = 'DATA/In_Person/Grouped'
+  plots_dir = 'Plots_in_person'
+}
+forager_suffix = "_outputs_forager_results"
+library(ggplot2)
+library(dplyr)
+
+```
+
+# Manipulate grouped dataframes
+
+```{r}
+categories = c('ANIMALS','BODY PARTS', 'FRUITS', 'HOBBIES', 'HOLIDAYS', 'HOME APPLIANCES', 'LIQUIDS', 'MEANS OF TRANSPORT', 'MEDICAL CONDITIONS', 'MUSICAL INSTRUMENTS', 'OCCUPATIONS', 'TOOLS', 'VEGETABLES')
+
+categories = c('ACCOMODATIONS', 'CLOTHING', 'COUNTRIES', 'FLOWERS', 'FOODS', 'FURNITURE', 'NATURAL ENVIRONMENT', 'NON-FOOD ITEMS FOUND IN SUPERMARKET', 'OFFICE SUPPLIES', 'SPORTS', 'TECHNOLOGY GADGETS & DEVICES', 'THINGS FOUND IN KITCHENS', 'TOYS')
+
+for (category in categories){
+  outputs_fn = file.path(data_dir, paste0(category, "_outputs.csv"))
+  outputs_csv = read.table(outputs_fn, quote = "",  header = TRUE, sep = "\t")
+  outputs_csv$End_time = as.double(outputs_csv$End_time)
+  outputs_csv = outputs_csv %>% group_by(subj_id) %>% mutate(IRT = Start_time - lag(End_time))
+  outputs_csv = outputs_csv %>% relocate(IRT, .before=Start_time)
+  outputs_csv$IRT[is.na(outputs_csv$IRT)] = 0
+  write.csv(outputs_csv, outputs_fn, append = FALSE, row.names= FALSE)
+}
+
+```
+
+
+
+

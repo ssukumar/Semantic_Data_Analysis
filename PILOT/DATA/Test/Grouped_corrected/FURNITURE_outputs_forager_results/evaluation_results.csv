@@ -1,0 +1,85 @@
+SID,entry,evaluation,replacement
+6595e3b4dc9090390e4edb5f,bed,FOUND,bed
+6595e3b4dc9090390e4edb5f,sofa,FOUND,sofa
+6595e3b4dc9090390e4edb5f,loveseat,FOUND,loveseat
+6595e3b4dc9090390e4edb5f,armchair,FOUND,armchair
+6595e3b4dc9090390e4edb5f,ottoman,FOUND,ottoman
+6595e3b4dc9090390e4edb5f,coffee table,FOUND,coffee table
+6595e3b4dc9090390e4edb5f,dining table,FOUND,dining table
+6595e3b4dc9090390e4edb5f,television stand,EXCLUDE,EXCLUDE
+6595e3b4dc9090390e4edb5f,lamps,EXCLUDE,EXCLUDE
+6595e3b4dc9090390e4edb5f,cupboard,EXCLUDE,EXCLUDE
+6595e3b4dc9090390e4edb5f,shelves,REPLACE,server
+6595e3b4dc9090390e4edb5f,desk,FOUND,desk
+6595e3b4dc9090390e4edb5f,side tables,REPLACE,side table
+6595e3b4dc9090390e4edb5f,vanity,FOUND,vanity
+6595e3b4dc9090390e4edb5f,patio table,REPLACE,pub table
+6595e3b4dc9090390e4edb5f,patio chairs,EXCLUDE,EXCLUDE
+6595e3b4dc9090390e4edb5f,wardrobe,FOUND,wardrobe
+6595e3b4dc9090390e4edb5f,mirror,EXCLUDE,EXCLUDE
+6595e3b4dc9090390e4edb5f,bookshelf,FOUND,bookshelf
+6595e3b4dc9090390e4edb5f,headboard,FOUND,headboard
+6595e3b4dc9090390e4edb5f,shoe rack,FOUND,shoe rack
+6595e3b4dc9090390e4edb5f,footstool,FOUND,footstool
+6595e3b4dc9090390e4edb5f,bench,FOUND,bench
+6595e3b4dc9090390e4edb5f,crib,EXCLUDE,EXCLUDE
+6595e3b4dc9090390e4edb5f,bar table,REPLACE,pub table
+6595e3b4dc9090390e4edb5f,bar stools,REPLACE,bar stool
+6595e3b4dc9090390e4edb5f,mirrors,EXCLUDE,EXCLUDE
+65512e3cc12f463bc327b7c3,couch,REPLACE,hutch
+65512e3cc12f463bc327b7c3,chair,FOUND,chair
+65512e3cc12f463bc327b7c3,table,FOUND,table
+65512e3cc12f463bc327b7c3,rocking chair,FOUND,rocking chair
+65512e3cc12f463bc327b7c3,futon,FOUND,futon
+65512e3cc12f463bc327b7c3,dresser,FOUND,dresser
+65512e3cc12f463bc327b7c3,bed,FOUND,bed
+65512e3cc12f463bc327b7c3,table,FOUND,table
+65512e3cc12f463bc327b7c3,ottoman,FOUND,ottoman
+65512e3cc12f463bc327b7c3,chaise,REPLACE,chair
+65512e3cc12f463bc327b7c3,nightstand,FOUND,nightstand
+65512e3cc12f463bc327b7c3,recliner,FOUND,recliner
+65512e3cc12f463bc327b7c3,wardrobe,FOUND,wardrobe
+65512e3cc12f463bc327b7c3,bed,FOUND,bed
+65512e3cc12f463bc327b7c3,folding chair,FOUND,folding chair
+65512e3cc12f463bc327b7c3,bunk bed,FOUND,bunk bed
+65778c02cde55736bb830eca,office chair,FOUND,office chair
+65778c02cde55736bb830eca,bar stools,REPLACE,bar stool
+65778c02cde55736bb830eca,dining table,FOUND,dining table
+65778c02cde55736bb830eca,coffee table,FOUND,coffee table
+65778c02cde55736bb830eca,drawer,REPLACE,dresser
+65778c02cde55736bb830eca,bookcase,FOUND,bookcase
+65778c02cde55736bb830eca,dining chairs,REPLACE,dining chair
+65778c02cde55736bb830eca,patio chairs,EXCLUDE,EXCLUDE
+65778c02cde55736bb830eca,patio table,REPLACE,pub table
+65778c02cde55736bb830eca,leather couch,EXCLUDE,EXCLUDE
+65778c02cde55736bb830eca,recliner,FOUND,recliner
+65778c02cde55736bb830eca,bed frame,EXCLUDE,EXCLUDE
+65778c02cde55736bb830eca,sofa,FOUND,sofa
+65778c02cde55736bb830eca,countertop,REPLACE,counter stool
+65778c02cde55736bb830eca,nightstand,FOUND,nightstand
+65778c02cde55736bb830eca,glass table,REPLACE,tray table
+65778c02cde55736bb830eca,sectional,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,sofa,FOUND,sofa
+61035836646fb6ee2152f950,couch,REPLACE,hutch
+61035836646fb6ee2152f950,futon,FOUND,futon
+61035836646fb6ee2152f950,Chair,REPLACE,chair
+61035836646fb6ee2152f950,bench,FOUND,bench
+61035836646fb6ee2152f950,Lazy Boy,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,loveseat,FOUND,loveseat
+61035836646fb6ee2152f950,blanket,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,desk,FOUND,desk
+61035836646fb6ee2152f950,credenza,FOUND,credenza
+61035836646fb6ee2152f950,Shelf,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,coffee table,FOUND,coffee table
+61035836646fb6ee2152f950,recliner,FOUND,recliner
+61035836646fb6ee2152f950,Chaise,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,lounger,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,bed,FOUND,bed
+61035836646fb6ee2152f950,bed frame,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,nightstand,FOUND,nightstand
+61035836646fb6ee2152f950,side table,FOUND,side table
+61035836646fb6ee2152f950,Barstool,REPLACE,bar stool
+61035836646fb6ee2152f950,dresser,FOUND,dresser
+61035836646fb6ee2152f950,armoire,FOUND,armoire
+61035836646fb6ee2152f950,chest,FOUND,chest
+61035836646fb6ee2152f950,pedestal,EXCLUDE,EXCLUDE

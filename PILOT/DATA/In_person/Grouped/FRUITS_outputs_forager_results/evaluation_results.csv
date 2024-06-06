@@ -1,0 +1,160 @@
+SID,entry,evaluation,replacement
+610108,apple,FOUND,apple
+610108,banana,FOUND,banana
+610108,peach,FOUND,peach
+610108,strawberry,FOUND,strawberry
+610108,oranges,REPLACE,orange
+610108,raspberries,REPLACE,raspberry
+610108,watermelon,FOUND,watermelon
+610108,cherries,REPLACE,cherry
+610108,avocado,FOUND,avocado
+610108,cucumber,EXCLUDE,EXCLUDE
+610108,tomato,EXCLUDE,EXCLUDE
+610108,pear,FOUND,pear
+610108,Asian,EXCLUDE,EXCLUDE
+610108,pear,FOUND,pear
+610108,dragon,REPLACE,durian
+610108,fruit,REPLACE,starfruit
+610108,jackfruit,FOUND,jackfruit
+610108,coconut,FOUND,coconut
+610108,mango,FOUND,mango
+610108,kiwi,FOUND,kiwi
+610108,blueberry,FOUND,blueberry
+610108,squash,EXCLUDE,EXCLUDE
+610108,Blackberry,REPLACE,blackberry
+610108,boysenberry,FOUND,boysenberry
+610108,pineapple,FOUND,pineapple
+610108,pumpkin,REPLACE,pepino
+787646,Apple,REPLACE,apple
+787646,orange,FOUND,orange
+787646,Peach,REPLACE,peach
+787646,grapes,REPLACE,grape
+787646,raspberry,FOUND,raspberry
+787646,blackberry,FOUND,blackberry
+787646,blueberry,FOUND,blueberry
+787646,kiwi,FOUND,kiwi
+787646,pomegranate,FOUND,pomegranate
+787646,mango,FOUND,mango
+787646,passion fruit,FOUND,passion fruit
+787646,pair,REPLACE,pear
+787646,tomato,EXCLUDE,EXCLUDE
+787646,banana,FOUND,banana
+787646,lemons,REPLACE,lemon
+787646,kiwi,FOUND,kiwi
+787646,limes,REPLACE,lime
+920371,kiwis,REPLACE,kiwi
+920371,strawberries,REPLACE,strawberry
+920371,oranges,REPLACE,orange
+920371,apples,REPLACE,apple
+920371,grapefruit,FOUND,grapefruit
+920371,grapes,REPLACE,grape
+920371,blueberries,REPLACE,blueberry
+920371,raspberries,REPLACE,raspberry
+920371,bananas,REPLACE,banana
+920371,mangos,REPLACE,mango
+920371,watermelon,FOUND,watermelon
+920371,cantaloupe,FOUND,cantaloupe
+920371,honeydew,FOUND,honeydew
+920371,Bauman's,EXCLUDE,EXCLUDE
+920371,tomatoes,EXCLUDE,EXCLUDE
+920371,Pia,EXCLUDE,EXCLUDE
+920371,dragon,REPLACE,durian
+920371,fruit,REPLACE,starfruit
+920371,kumquats,REPLACE,kumquat
+920371,Tanger,REPLACE,tangerine
+898793,strawberries,REPLACE,strawberry
+898793,"blueberries,",REPLACE,blueberry
+898793,granite,EXCLUDE,EXCLUDE
+898793,pineapple,FOUND,pineapple
+898793,dragon,REPLACE,durian
+898793,fruit,REPLACE,starfruit
+898793,grapefruit,FOUND,grapefruit
+898793,bitter,EXCLUDE,EXCLUDE
+898793,melon,REPLACE,pomelo
+898793,cantaloupe,FOUND,cantaloupe
+898793,honeydew,FOUND,honeydew
+898793,and then,EXCLUDE,EXCLUDE
+898793,bananas,REPLACE,banana
+898793,apple,FOUND,apple
+898793,is,EXCLUDE,EXCLUDE
+898793,oranges,REPLACE,orange
+898793,lemons,REPLACE,lemon
+898793,Limes,REPLACE,lime
+898793,like,REPLACE,lime
+898793,mandarins,EXCLUDE,EXCLUDE
+898793,and,REPLACE,karonda
+898793,clementines,REPLACE,clementine
+898793,tangerines,REPLACE,tangerine
+898793,oranges,REPLACE,orange
+898793,I,EXCLUDE,EXCLUDE
+898793,don't,EXCLUDE,EXCLUDE
+898793,know I,EXCLUDE,EXCLUDE
+898793,think,EXCLUDE,EXCLUDE
+898793,they're,EXCLUDE,EXCLUDE
+898793,all,EXCLUDE,EXCLUDE
+898793,different,EXCLUDE,EXCLUDE
+898793,technically,EXCLUDE,EXCLUDE
+898793,what else,EXCLUDE,EXCLUDE
+898793,do I need,EXCLUDE,EXCLUDE
+898793,I'll,EXCLUDE,EXCLUDE
+898793,show you,EXCLUDE,EXCLUDE
+898793,I'm,EXCLUDE,EXCLUDE
+898793,pretty sure,EXCLUDE,EXCLUDE
+898793,is a,EXCLUDE,EXCLUDE
+898793,fruit,REPLACE,starfruit
+898793,release,EXCLUDE,EXCLUDE
+898793,acai,EXCLUDE,EXCLUDE
+898793,berry,REPLACE,yumberry
+898793,not the,EXCLUDE,EXCLUDE
+898793,bull,EXCLUDE,EXCLUDE
+898793,and,REPLACE,karonda
+898793,papaya,FOUND,papaya
+898793,pictures of,EXCLUDE,EXCLUDE
+898793,the D,EXCLUDE,EXCLUDE
+898793,that somewhere,EXCLUDE,EXCLUDE
+898793,to buy a,EXCLUDE,EXCLUDE
+898793,tank,EXCLUDE,EXCLUDE
+898793,is,EXCLUDE,EXCLUDE
+898793,star,EXCLUDE,EXCLUDE
+898793,fruit and,EXCLUDE,EXCLUDE
+898793,guava,FOUND,guava
+898793,is what,EXCLUDE,EXCLUDE
+898793,I'm,EXCLUDE,EXCLUDE
+898793,thinking of,EXCLUDE,EXCLUDE
+898793,and,REPLACE,karonda
+898793,things to,EXCLUDE,EXCLUDE
+898793,eat,EXCLUDE,EXCLUDE
+898793,kiwi,FOUND,kiwi
+898793,and,REPLACE,karonda
+898793,cherries,REPLACE,cherry
+898793,and plums,EXCLUDE,EXCLUDE
+898793,and,REPLACE,karonda
+898793,nectarines,REPLACE,nectarine
+898793,and,REPLACE,karonda
+898793,peaches,REPLACE,peach
+898793,and,REPLACE,karonda
+547183,strawberry,FOUND,strawberry
+547183,banana,FOUND,banana
+547183,blueberry,FOUND,blueberry
+547183,kiwi,FOUND,kiwi
+547183,watermelon,FOUND,watermelon
+547183,raspberry,FOUND,raspberry
+547183,just like a,EXCLUDE,EXCLUDE
+547183,star,EXCLUDE,EXCLUDE
+547183,fruit,REPLACE,starfruit
+547183,Pokemon,REPLACE,lemon
+547183,BlackBerry,REPLACE,blackberry
+547183,plum,FOUND,plum
+547183,Orange,REPLACE,orange
+547183,lemon,FOUND,lemon
+547183,tomato,EXCLUDE,EXCLUDE
+547183,because that,EXCLUDE,EXCLUDE
+547183,are they,EXCLUDE,EXCLUDE
+547183,argue,EXCLUDE,EXCLUDE
+547183,that,EXCLUDE,EXCLUDE
+547183,they're,EXCLUDE,EXCLUDE
+547183,both,EXCLUDE,EXCLUDE
+547183,cantaloupe,FOUND,cantaloupe
+547183,I really think,EXCLUDE,EXCLUDE
+547183,of any,EXCLUDE,EXCLUDE
+547183,more,REPLACE,orange

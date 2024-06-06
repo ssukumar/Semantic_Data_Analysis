@@ -1,0 +1,271 @@
+Subject,Fluency_Item,Switch_Value,Switch_Method
+5c1942e200849900010afdcd,soccer,2,simdrop
+5c1942e200849900010afdcd,football,0,simdrop
+5c1942e200849900010afdcd,rugby,0,simdrop
+5c1942e200849900010afdcd,baseball,1,simdrop
+5c1942e200849900010afdcd,cricket,0,simdrop
+5c1942e200849900010afdcd,tennis,0,simdrop
+5c1942e200849900010afdcd,football,1,simdrop
+5c1942e200849900010afdcd,volleyball,0,simdrop
+5c1942e200849900010afdcd,curling,1,simdrop
+5c1942e200849900010afdcd,swimming,0,simdrop
+5c1942e200849900010afdcd,skiing,0,simdrop
+5c1942e200849900010afdcd,snowboarding,0,simdrop
+5c1942e200849900010afdcd,skateboarding,0,simdrop
+5c1942e200849900010afdcd,ice skating,0,simdrop
+5c1942e200849900010afdcd,shooting,1,simdrop
+5c1942e200849900010afdcd,surfing,0,simdrop
+5c1942e200849900010afdcd,skiing,0,simdrop
+5c1942e200849900010afdcd,basketball,1,simdrop
+5c1942e200849900010afdcd,hockey,0,simdrop
+5c1942e200849900010afdcd,ice hockey,0,simdrop
+5c1942e200849900010afdcd,badminton,0,simdrop
+5c1942e200849900010afdcd,golf,0,simdrop
+5c1942e200849900010afdcd,shooting,2,simdrop
+5c4a428161c51f0001e96b3f,football,2,simdrop
+5c4a428161c51f0001e96b3f,golf,0,simdrop
+5c4a428161c51f0001e96b3f,tennis,0,simdrop
+5c4a428161c51f0001e96b3f,hockey,1,simdrop
+5c4a428161c51f0001e96b3f,soccer,0,simdrop
+5c4a428161c51f0001e96b3f,gymnastics,1,simdrop
+5c4a428161c51f0001e96b3f,baseball,0,simdrop
+5c4a428161c51f0001e96b3f,basketball,0,simdrop
+5c4a428161c51f0001e96b3f,polo,1,simdrop
+5c4a428161c51f0001e96b3f,rowing,0,simdrop
+5c4a428161c51f0001e96b3f,yoga,0,simdrop
+5c4a428161c51f0001e96b3f,bodybuilding,0,simdrop
+5c4a428161c51f0001e96b3f,ice skating,1,simdrop
+5c4a428161c51f0001e96b3f,figure skating,0,simdrop
+5c4a428161c51f0001e96b3f,skiing,1,simdrop
+5c4a428161c51f0001e96b3f,snowboarding,0,simdrop
+5c4a428161c51f0001e96b3f,skateboarding,0,simdrop
+5c4a428161c51f0001e96b3f,ice yachting,2,simdrop
+5d3cc9010e510a00013df6f6,baseball,2,simdrop
+5d3cc9010e510a00013df6f6,basketball,0,simdrop
+5d3cc9010e510a00013df6f6,football,1,simdrop
+5d3cc9010e510a00013df6f6,soccer,0,simdrop
+5d3cc9010e510a00013df6f6,cricket,0,simdrop
+5d3cc9010e510a00013df6f6,tennis,1,simdrop
+5d3cc9010e510a00013df6f6,badminton,0,simdrop
+5d3cc9010e510a00013df6f6,football,1,simdrop
+5d3cc9010e510a00013df6f6,hockey,0,simdrop
+5d3cc9010e510a00013df6f6,track and field,1,simdrop
+5d3cc9010e510a00013df6f6,rowing,0,simdrop
+5d3cc9010e510a00013df6f6,swimming,0,simdrop
+5d3cc9010e510a00013df6f6,gymnastics,2,simdrop
+5e7fefe06c12706d47e35211,basketball,2,simdrop
+5e7fefe06c12706d47e35211,hockey,0,simdrop
+5e7fefe06c12706d47e35211,soccer,0,simdrop
+5e7fefe06c12706d47e35211,football,0,simdrop
+5e7fefe06c12706d47e35211,water polo,0,simdrop
+5e7fefe06c12706d47e35211,rowing,0,simdrop
+5e7fefe06c12706d47e35211,pilates,0,simdrop
+5e7fefe06c12706d47e35211,gymnastics,0,simdrop
+5e7fefe06c12706d47e35211,shot put,1,simdrop
+5e7fefe06c12706d47e35211,ice dancing,0,simdrop
+5e7fefe06c12706d47e35211,volleyball,0,simdrop
+5e7fefe06c12706d47e35211,swimming,0,simdrop
+5e7fefe06c12706d47e35211,ice diving,0,simdrop
+5e7fefe06c12706d47e35211,wrestling,1,simdrop
+5e7fefe06c12706d47e35211,cycling,0,simdrop
+5e7fefe06c12706d47e35211,boxing,0,simdrop
+5e7fefe06c12706d47e35211,golf,0,simdrop
+5e7fefe06c12706d47e35211,karate,1,simdrop
+5e7fefe06c12706d47e35211,tennis,0,simdrop
+5e7fefe06c12706d47e35211,skiing,0,simdrop
+5e7fefe06c12706d47e35211,snowboarding,2,simdrop
+5e8a76b3939b3072dc76fb5c,soccer,2,simdrop
+5e8a76b3939b3072dc76fb5c,basketball,0,simdrop
+5e8a76b3939b3072dc76fb5c,baseball,0,simdrop
+5e8a76b3939b3072dc76fb5c,cricket,0,simdrop
+5e8a76b3939b3072dc76fb5c,boxing,0,simdrop
+5e8a76b3939b3072dc76fb5c,tennis,1,simdrop
+5e8a76b3939b3072dc76fb5c,football,0,simdrop
+5e8a76b3939b3072dc76fb5c,wrestling,0,simdrop
+5e8a76b3939b3072dc76fb5c,powerlifting,1,simdrop
+5e8a76b3939b3072dc76fb5c,weightlifting,0,simdrop
+5e8a76b3939b3072dc76fb5c,skiing,1,simdrop
+5e8a76b3939b3072dc76fb5c,rowing,0,simdrop
+5e8a76b3939b3072dc76fb5c,track and field,1,simdrop
+5e8a76b3939b3072dc76fb5c,pole vault,0,simdrop
+5e8a76b3939b3072dc76fb5c,ice diving,2,simdrop
+5ed9311e1a69d449577bb8cf,soccer,2,simdrop
+5ed9311e1a69d449577bb8cf,football,0,simdrop
+5ed9311e1a69d449577bb8cf,tennis,0,simdrop
+5ed9311e1a69d449577bb8cf,rugby,1,simdrop
+5ed9311e1a69d449577bb8cf,rowing,0,simdrop
+5ed9311e1a69d449577bb8cf,javelin throw,0,simdrop
+5ed9311e1a69d449577bb8cf,water polo,1,simdrop
+5ed9311e1a69d449577bb8cf,hockey,0,simdrop
+5ed9311e1a69d449577bb8cf,baseball,0,simdrop
+5ed9311e1a69d449577bb8cf,football,0,simdrop
+5ed9311e1a69d449577bb8cf,volleyball,0,simdrop
+5ed9311e1a69d449577bb8cf,rafting,0,simdrop
+5ed9311e1a69d449577bb8cf,horse racing,2,simdrop
+5f6c102b6ec04317fc9a8127,football,2,simdrop
+5f6c102b6ec04317fc9a8127,soccer,0,simdrop
+5f6c102b6ec04317fc9a8127,tennis,1,simdrop
+5f6c102b6ec04317fc9a8127,golf,0,simdrop
+5f6c102b6ec04317fc9a8127,basketball,1,simdrop
+5f6c102b6ec04317fc9a8127,baseball,0,simdrop
+5f6c102b6ec04317fc9a8127,boxing,0,simdrop
+5f6c102b6ec04317fc9a8127,volleyball,0,simdrop
+5f6c102b6ec04317fc9a8127,swimming,0,simdrop
+5f6c102b6ec04317fc9a8127,hockey,1,simdrop
+5f6c102b6ec04317fc9a8127,table tennis,0,simdrop
+5f6c102b6ec04317fc9a8127,archery,1,simdrop
+5f6c102b6ec04317fc9a8127,skiing,0,simdrop
+5f6c102b6ec04317fc9a8127,football,1,simdrop
+5f6c102b6ec04317fc9a8127,rugby,0,simdrop
+5f6c102b6ec04317fc9a8127,skateboarding,1,simdrop
+5f6c102b6ec04317fc9a8127,bobsledding,0,simdrop
+5f6c102b6ec04317fc9a8127,cycling,0,simdrop
+5f6c102b6ec04317fc9a8127,baseball,0,simdrop
+5f6c102b6ec04317fc9a8127,surfing,0,simdrop
+5f6c102b6ec04317fc9a8127,weightlifting,2,simdrop
+5fc6df58f380620a09116434,football,2,simdrop
+5fc6df58f380620a09116434,soccer,0,simdrop
+5fc6df58f380620a09116434,basketball,1,simdrop
+5fc6df58f380620a09116434,baseball,0,simdrop
+5fc6df58f380620a09116434,cricket,0,simdrop
+5fc6df58f380620a09116434,tennis,1,simdrop
+5fc6df58f380620a09116434,golf,0,simdrop
+5fc6df58f380620a09116434,crossfit,0,simdrop
+5fc6df58f380620a09116434,cricket,1,simdrop
+5fc6df58f380620a09116434,rowing,0,simdrop
+5fc6df58f380620a09116434,tennis,0,simdrop
+5fc6df58f380620a09116434,pilates,0,simdrop
+5fc6df58f380620a09116434,football,1,simdrop
+5fc6df58f380620a09116434,snowboarding,0,simdrop
+5fc6df58f380620a09116434,skiing,0,simdrop
+5fc6df58f380620a09116434,skiing,0,simdrop
+5fc6df58f380620a09116434,rafting,0,simdrop
+5fc6df58f380620a09116434,horse racing,1,simdrop
+5fc6df58f380620a09116434,bobsledding,0,simdrop
+5fc6df58f380620a09116434,tumbling,0,simdrop
+5fc6df58f380620a09116434,cycling,0,simdrop
+5fc6df58f380620a09116434,archery,2,simdrop
+60da4f9aa1ced7efeecca18a,basketball,2,simdrop
+60da4f9aa1ced7efeecca18a,baseball,0,simdrop
+60da4f9aa1ced7efeecca18a,hockey,0,simdrop
+60da4f9aa1ced7efeecca18a,soccer,0,simdrop
+60da4f9aa1ced7efeecca18a,ice hockey,0,simdrop
+60da4f9aa1ced7efeecca18a,volleyball,1,simdrop
+60da4f9aa1ced7efeecca18a,ice volleyball,0,simdrop
+60da4f9aa1ced7efeecca18a,ice skating,0,simdrop
+60da4f9aa1ced7efeecca18a,gymnastics,1,simdrop
+60da4f9aa1ced7efeecca18a,wrestling,0,simdrop
+60da4f9aa1ced7efeecca18a,rugby,0,simdrop
+60da4f9aa1ced7efeecca18a,cricket,0,simdrop
+60da4f9aa1ced7efeecca18a,football,0,simdrop
+60da4f9aa1ced7efeecca18a,luge,1,simdrop
+60da4f9aa1ced7efeecca18a,bobsledding,0,simdrop
+60da4f9aa1ced7efeecca18a,archery,1,simdrop
+60da4f9aa1ced7efeecca18a,badminton,0,simdrop
+60da4f9aa1ced7efeecca18a,tennis,0,simdrop
+60da4f9aa1ced7efeecca18a,water polo,1,simdrop
+60da4f9aa1ced7efeecca18a,polo,0,simdrop
+60da4f9aa1ced7efeecca18a,rowing,0,simdrop
+60da4f9aa1ced7efeecca18a,fencing,2,simdrop
+60fcf1a04c245326d05076e0,baseball,2,simdrop
+60fcf1a04c245326d05076e0,basketball,0,simdrop
+60fcf1a04c245326d05076e0,football,1,simdrop
+60fcf1a04c245326d05076e0,soccer,0,simdrop
+60fcf1a04c245326d05076e0,volleyball,0,simdrop
+60fcf1a04c245326d05076e0,football,0,simdrop
+60fcf1a04c245326d05076e0,cricket,0,simdrop
+60fcf1a04c245326d05076e0,curling,1,simdrop
+60fcf1a04c245326d05076e0,snowboarding,0,simdrop
+60fcf1a04c245326d05076e0,skiing,0,simdrop
+60fcf1a04c245326d05076e0,swimming,1,simdrop
+60fcf1a04c245326d05076e0,ice skating,0,simdrop
+60fcf1a04c245326d05076e0,long jump,1,simdrop
+60fcf1a04c245326d05076e0,high jump,0,simdrop
+60fcf1a04c245326d05076e0,ice diving,1,simdrop
+60fcf1a04c245326d05076e0,synchronized swimming,0,simdrop
+60fcf1a04c245326d05076e0,weightlifting,1,simdrop
+60fcf1a04c245326d05076e0,rowing,2,simdrop
+61035836646fb6ee2152f950,tennis,2,simdrop
+61035836646fb6ee2152f950,baseball,0,simdrop
+61035836646fb6ee2152f950,badminton,1,simdrop
+61035836646fb6ee2152f950,cricket,0,simdrop
+61035836646fb6ee2152f950,rowing,0,simdrop
+61035836646fb6ee2152f950,football,0,simdrop
+61035836646fb6ee2152f950,horseball,0,simdrop
+61035836646fb6ee2152f950,volleyball,1,simdrop
+61035836646fb6ee2152f950,skiing,0,simdrop
+61035836646fb6ee2152f950,snowboarding,0,simdrop
+61035836646fb6ee2152f950,surfing,0,simdrop
+61035836646fb6ee2152f950,rowing,1,simdrop
+61035836646fb6ee2152f950,cycling,0,simdrop
+61035836646fb6ee2152f950,shooting,1,simdrop
+61035836646fb6ee2152f950,archery,0,simdrop
+61035836646fb6ee2152f950,shot put,0,simdrop
+61035836646fb6ee2152f950,long jump,1,simdrop
+61035836646fb6ee2152f950,horse racing,0,simdrop
+61035836646fb6ee2152f950,swimming,0,simdrop
+61035836646fb6ee2152f950,fishing,0,simdrop
+61035836646fb6ee2152f950,grappling,2,simdrop
+65512e3cc12f463bc327b7c3,hockey,2,simdrop
+65512e3cc12f463bc327b7c3,basketball,0,simdrop
+65512e3cc12f463bc327b7c3,golf,0,simdrop
+65512e3cc12f463bc327b7c3,rugby,1,simdrop
+65512e3cc12f463bc327b7c3,football,0,simdrop
+65512e3cc12f463bc327b7c3,badminton,1,simdrop
+65512e3cc12f463bc327b7c3,tennis,0,simdrop
+65512e3cc12f463bc327b7c3,rowing,1,simdrop
+65512e3cc12f463bc327b7c3,weightlifting,0,simdrop
+65512e3cc12f463bc327b7c3,cycling,1,simdrop
+65512e3cc12f463bc327b7c3,swimming,0,simdrop
+65512e3cc12f463bc327b7c3,polo,0,simdrop
+65512e3cc12f463bc327b7c3,baseball,1,simdrop
+65512e3cc12f463bc327b7c3,cricket,0,simdrop
+65512e3cc12f463bc327b7c3,climbing,2,simdrop
+65778c02cde55736bb830eca,football,2,simdrop
+65778c02cde55736bb830eca,basketball,0,simdrop
+65778c02cde55736bb830eca,badminton,1,simdrop
+65778c02cde55736bb830eca,tennis,0,simdrop
+65778c02cde55736bb830eca,hockey,1,simdrop
+65778c02cde55736bb830eca,soccer,0,simdrop
+65778c02cde55736bb830eca,rugby,0,simdrop
+65778c02cde55736bb830eca,volleyball,1,simdrop
+65778c02cde55736bb830eca,baseball,0,simdrop
+65778c02cde55736bb830eca,rowing,1,simdrop
+65778c02cde55736bb830eca,bobsledding,0,simdrop
+65778c02cde55736bb830eca,skiing,0,simdrop
+65778c02cde55736bb830eca,snowboarding,0,simdrop
+65778c02cde55736bb830eca,golf,1,simdrop
+65778c02cde55736bb830eca,ice hockey,0,simdrop
+65778c02cde55736bb830eca,archery,1,simdrop
+65778c02cde55736bb830eca,archery,0,simdrop
+65778c02cde55736bb830eca,gymnastics,1,simdrop
+65778c02cde55736bb830eca,ice skating,2,simdrop
+6595e3b4dc9090390e4edb5f,basketball,2,simdrop
+6595e3b4dc9090390e4edb5f,baseball,0,simdrop
+6595e3b4dc9090390e4edb5f,football,1,simdrop
+6595e3b4dc9090390e4edb5f,soccer,0,simdrop
+6595e3b4dc9090390e4edb5f,tennis,1,simdrop
+6595e3b4dc9090390e4edb5f,badminton,0,simdrop
+6595e3b4dc9090390e4edb5f,volleyball,0,simdrop
+6595e3b4dc9090390e4edb5f,snowboarding,1,simdrop
+6595e3b4dc9090390e4edb5f,skiing,0,simdrop
+6595e3b4dc9090390e4edb5f,archery,0,simdrop
+6595e3b4dc9090390e4edb5f,football,1,simdrop
+6595e3b4dc9090390e4edb5f,cricket,0,simdrop
+6595e3b4dc9090390e4edb5f,hockey,0,simdrop
+6595e3b4dc9090390e4edb5f,ice hockey,0,simdrop
+6595e3b4dc9090390e4edb5f,ice hockey,0,simdrop
+6595e3b4dc9090390e4edb5f,water polo,0,simdrop
+6595e3b4dc9090390e4edb5f,rugby,1,simdrop
+6595e3b4dc9090390e4edb5f,rowing,0,simdrop
+6595e3b4dc9090390e4edb5f,track and field,0,simdrop
+6595e3b4dc9090390e4edb5f,swimming,1,simdrop
+6595e3b4dc9090390e4edb5f,rowing,0,simdrop
+6595e3b4dc9090390e4edb5f,boxing,0,simdrop
+6595e3b4dc9090390e4edb5f,surfing,1,simdrop
+6595e3b4dc9090390e4edb5f,curling,0,simdrop
+6595e3b4dc9090390e4edb5f,figure skating,0,simdrop
+6595e3b4dc9090390e4edb5f,golf,1,simdrop
+6595e3b4dc9090390e4edb5f,table tennis,0,simdrop
+6595e3b4dc9090390e4edb5f,bodybuilding,1,simdrop
+6595e3b4dc9090390e4edb5f,cycling,2,simdrop

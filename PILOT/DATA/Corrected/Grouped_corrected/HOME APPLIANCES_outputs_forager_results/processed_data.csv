@@ -1,0 +1,277 @@
+SID,entry,timepoint
+65c25cf77dca9d7ca7d9ebdb,microwaves,0.0
+65c25cf77dca9d7ca7d9ebdb,fridge,0.9
+65c25cf77dca9d7ca7d9ebdb,freezer,0.0
+65c25cf77dca9d7ca7d9ebdb,toaster,1.3
+65c25cf77dca9d7ca7d9ebdb,stove,0.0
+65c25cf77dca9d7ca7d9ebdb,oven,0.0
+65c25cf77dca9d7ca7d9ebdb,air fryer,1.6
+65c25cf77dca9d7ca7d9ebdb,mixer,1.4
+65c25cf77dca9d7ca7d9ebdb,coffee machine,2.2
+65c25cf77dca9d7ca7d9ebdb,cutting board,15.3
+65c25cf77dca9d7ca7d9ebdb,ice maker,2.9
+65c25cf77dca9d7ca7d9ebdb,rice cooker,10.3
+65c25cf77dca9d7ca7d9ebdb,steamer,5.3
+65c25cf77dca9d7ca7d9ebdb,fryer,3.7
+65c25cf77dca9d7ca7d9ebdb,dishwasher,32.7
+65c25cf77dca9d7ca7d9ebdb,sink,3.3
+65c25cf77dca9d7ca7d9ebdb,humidifier,17.6
+65cb63e160bb47fbf9349269,oven,0.0
+65cb63e160bb47fbf9349269,microwave,0.0
+65cb63e160bb47fbf9349269,fridge,0.0
+65cb63e160bb47fbf9349269,coffee maker,0.0
+65cb63e160bb47fbf9349269,mixers,4.7
+65cb63e160bb47fbf9349269,ovens,8.5
+65cb63e160bb47fbf9349269,toaster ovens,2.0
+65cb63e160bb47fbf9349269,toasters,0.0
+65cb63e160bb47fbf9349269,washing machine,8.6
+65cb63e160bb47fbf9349269,drawing machine,0.0
+65cb63e160bb47fbf9349269,dishwasher,21.8
+65cb63e160bb47fbf9349269,stove fan,11.1
+65d54b3b524fcafb543d1b23,stove top,0.0
+65d54b3b524fcafb543d1b23,oven,0.0
+65d54b3b524fcafb543d1b23,air fryer oven,0.0
+65d54b3b524fcafb543d1b23,air fryer,1.1
+65d54b3b524fcafb543d1b23,microwave,0.0
+65d54b3b524fcafb543d1b23,sink,6.0
+65d54b3b524fcafb543d1b23,laundry washer,2.8
+65d54b3b524fcafb543d1b23,dryer,0.800000000000001
+65d54b3b524fcafb543d1b23,refrigerator,3.7
+65d54b3b524fcafb543d1b23,stand mixer,6.59999999999999
+65d54b3b524fcafb543d1b23,heater tank,12.0
+65d54b3b524fcafb543d1b23,tank heater,0.0
+65d54b3b524fcafb543d1b23,light bulbs,15.9
+65d54b3b524fcafb543d1b23,rice cooker,17.5
+65d54b3b524fcafb543d1b23,slow cooker,1.5
+65d54b3b524fcafb543d1b23,pressure cooker,10.2
+65d54b3b524fcafb543d1b23,timer,12.6
+65e1f75ab3efd22e847cfbf0,fridge,0.0
+65e1f75ab3efd22e847cfbf0,air fryer,0.0
+65e1f75ab3efd22e847cfbf0,microwave,1.0
+65e1f75ab3efd22e847cfbf0,toaster,1.1
+65e1f75ab3efd22e847cfbf0,coffee pot,0.0
+65e1f75ab3efd22e847cfbf0,french press,0.0
+65e1f75ab3efd22e847cfbf0,oven,1.0
+65e1f75ab3efd22e847cfbf0,keurig,3.9
+65e1f75ab3efd22e847cfbf0,washer,3.4
+65e1f75ab3efd22e847cfbf0,dryer,0.0
+65e1f75ab3efd22e847cfbf0,dishwasher,0.0
+65e1f75ab3efd22e847cfbf0,fan,2.7
+65e1f75ab3efd22e847cfbf0,light,3.4
+65e1f75ab3efd22e847cfbf0,lamp,0.0
+65e1f75ab3efd22e847cfbf0,the tv,4.3
+65e1f75ab3efd22e847cfbf0,microwave oven,14.9
+65e1f75ab3efd22e847cfbf0,heater,45.1
+60a48adfe091e410f4eaba34,refrigerator,0.0
+60a48adfe091e410f4eaba34,air conditioner,0.0
+60a48adfe091e410f4eaba34,stove,2.6
+60a48adfe091e410f4eaba34,microwave,1.6
+60a48adfe091e410f4eaba34,fan,1.4
+60a48adfe091e410f4eaba34,washer,5.3
+60a48adfe091e410f4eaba34,dryer,0.0
+60a48adfe091e410f4eaba34,dishwasher,1.2
+60a48adfe091e410f4eaba34,sink,2.0
+60a48adfe091e410f4eaba34,toilet,1.0
+60a48adfe091e410f4eaba34,shower,1.8
+60a48adfe091e410f4eaba34,countertop,4.3
+60a48adfe091e410f4eaba34,toaster,16.1
+60a48adfe091e410f4eaba34,freezer,20.6
+60a48adfe091e410f4eaba34,furnace,22.0
+60a48adfe091e410f4eaba34,heater,16.5
+5d7ff4aa50fda7001a863736,oven,0.0
+5d7ff4aa50fda7001a863736,microwave,0.0
+5d7ff4aa50fda7001a863736,toaster,0.0
+5d7ff4aa50fda7001a863736,air fryer,0.0
+5d7ff4aa50fda7001a863736,toaster oven,6.8
+5d7ff4aa50fda7001a863736,blender,0.0
+5d7ff4aa50fda7001a863736,stand mixer,1.7
+5d7ff4aa50fda7001a863736,hand mixer,2.6
+5d7ff4aa50fda7001a863736,dishwasher,7.3
+5d7ff4aa50fda7001a863736,coffee maker,4.0
+5d7ff4aa50fda7001a863736,refrigerator,0.0
+5d7ff4aa50fda7001a863736,washer,3.7
+5d7ff4aa50fda7001a863736,and,0.0
+5d7ff4aa50fda7001a863736,dryer,0.0
+5d7ff4aa50fda7001a863736,vacuum cleaner,6.3
+5d7ff4aa50fda7001a863736,iron,0.0
+5d7ff4aa50fda7001a863736,freezer,3.8
+5d7ff4aa50fda7001a863736,deep freezer,2.8
+5d7ff4aa50fda7001a863736,rice cooker,2.4
+5d7ff4aa50fda7001a863736,crock pot,1.59999999999999
+5d7ff4aa50fda7001a863736,pressure cooker,3.7
+5d7ff4aa50fda7001a863736,food processor,8.10000000000001
+5d7ff4aa50fda7001a863736,kettle,19.4
+60d731567049e5132e3cc4d4,stove,0.0
+60d731567049e5132e3cc4d4,refrigerator,0.0
+60d731567049e5132e3cc4d4,dishwasher,0.0
+60d731567049e5132e3cc4d4,air fryer,1.9
+60d731567049e5132e3cc4d4,microwave,0.0
+60d731567049e5132e3cc4d4,toaster,3.2
+60d731567049e5132e3cc4d4,air conditioning,2.6
+60d731567049e5132e3cc4d4,heater,0.0
+60d731567049e5132e3cc4d4,record player,1.3
+60d731567049e5132e3cc4d4,lamp,0.0
+60d731567049e5132e3cc4d4,washing machine,1.5
+60d731567049e5132e3cc4d4,dryer,0.0
+60d731567049e5132e3cc4d4,rice cooker,7.3
+60d731567049e5132e3cc4d4,crock pot,2.1
+60d731567049e5132e3cc4d4,blender,8.1
+60d731567049e5132e3cc4d4,hand mixer,3.1
+60d731567049e5132e3cc4d4,humidifier,4.3
+60d731567049e5132e3cc4d4,dehumidifier,0.0
+60d731567049e5132e3cc4d4,hair dryer,12.1
+60d731567049e5132e3cc4d4,wine fridge,6.90000000000001
+60d731567049e5132e3cc4d4,freezer,1.69999999999999
+60d731567049e5132e3cc4d4,radio,23.9
+60d731567049e5132e3cc4d4,computer,5.7
+63e802622f8052bd67d6c5f0,dryer,0.0
+63e802622f8052bd67d6c5f0,washer,0.0
+63e802622f8052bd67d6c5f0,frigerator,0.0
+63e802622f8052bd67d6c5f0,dishwasher,1.0
+63e802622f8052bd67d6c5f0,dehumidifier,10.6
+63e802622f8052bd67d6c5f0,air conditioner,3.7
+63e802622f8052bd67d6c5f0,stove,27.7
+63e802622f8052bd67d6c5f0,television,11.0
+63e802622f8052bd67d6c5f0,that's,20.9
+63e802622f8052bd67d6c5f0,it,0.0
+63e802622f8052bd67d6c5f0,furnace,31.0
+63e802622f8052bd67d6c5f0,heater,0.0
+65cc19b4b3d48a22dfc6756d,toaster,0.0
+65cc19b4b3d48a22dfc6756d,toaster oven,2.6
+65cc19b4b3d48a22dfc6756d,microwave,1.4
+65cc19b4b3d48a22dfc6756d,stove top oven,2.5
+65cc19b4b3d48a22dfc6756d,blender,3.1
+65cc19b4b3d48a22dfc6756d,mixer,0.0
+65cc19b4b3d48a22dfc6756d,air fryer,2.7
+65cc19b4b3d48a22dfc6756d,refrigerator,2.0
+65cc19b4b3d48a22dfc6756d,air conditioner,5.1
+65cc19b4b3d48a22dfc6756d,rice cooker,0.0
+65cc19b4b3d48a22dfc6756d,washing machine,8.0
+65cc19b4b3d48a22dfc6756d,fryer,0.399999999999999
+65cc19b4b3d48a22dfc6756d,air purifier,48.6
+65cc19b4b3d48a22dfc6756d,vacuum,5.3
+65cc19b4b3d48a22dfc6756d,roomba,18.3
+65e862f844f1b7a803bb3c5a,air conditioner,0.0
+65e862f844f1b7a803bb3c5a,blender,1.3
+65e862f844f1b7a803bb3c5a,microwave,0.0
+65e862f844f1b7a803bb3c5a,dryer,0.0
+65e862f844f1b7a803bb3c5a,refrigerator,1.7
+65e862f844f1b7a803bb3c5a,television,1.3
+65e862f844f1b7a803bb3c5a,pressing iron,0.0
+65e862f844f1b7a803bb3c5a,coffee maker,1.3
+65e862f844f1b7a803bb3c5a,fan,1.2
+65e862f844f1b7a803bb3c5a,toaster,0.0
+65e862f844f1b7a803bb3c5a,oven,0.0
+65e862f844f1b7a803bb3c5a,dishwasher,4.9
+65e862f844f1b7a803bb3c5a,kettle,2.8
+65e862f844f1b7a803bb3c5a,vacuum cleaner,8.40000000000001
+65e862f844f1b7a803bb3c5a,lamp,2.0
+65e862f844f1b7a803bb3c5a,bread maker,1.9
+65e862f844f1b7a803bb3c5a,heater,2.7
+65e862f844f1b7a803bb3c5a,rice cooker,0.0
+65e862f844f1b7a803bb3c5a,slow cooker,1.59999999999999
+65e862f844f1b7a803bb3c5a,pressure cooker,0.0
+65e862f844f1b7a803bb3c5a,gas coooker,1.5
+65e862f844f1b7a803bb3c5a,air purifier,1.80000000000001
+65e862f844f1b7a803bb3c5a,mixer,0.0
+65e862f844f1b7a803bb3c5a,air fryer,0.0
+65e862f844f1b7a803bb3c5a,appliance plug,3.09999999999999
+65e862f844f1b7a803bb3c5a,stove,12.5
+65e862f844f1b7a803bb3c5a,griller,1.60000000000001
+65e862f844f1b7a803bb3c5a,grilling pan,0.0
+65e862f844f1b7a803bb3c5a,crock-pot,3.5
+65e862f844f1b7a803bb3c5a,light bulb,0.0
+65e862f844f1b7a803bb3c5a,torch,1.09999999999999
+65e862f844f1b7a803bb3c5a,electric drill,2.3
+65e862f844f1b7a803bb3c5a,kitchen wood,2.0
+65e862f844f1b7a803bb3c5a,hotpot,5.5
+65e862f844f1b7a803bb3c5a,kettle,0.0
+5f5aa60bef062519ff711fe6,microwave,0.0
+5f5aa60bef062519ff711fe6,oven,1.6
+5f5aa60bef062519ff711fe6,refrigerator,1.9
+5f5aa60bef062519ff711fe6,toaster,1.7
+5f5aa60bef062519ff711fe6,air fryer,2.3
+5f5aa60bef062519ff711fe6,blender,2.2
+5f5aa60bef062519ff711fe6,coffee maker,4.0
+5f5aa60bef062519ff711fe6,ice maker,2.4
+5f5aa60bef062519ff711fe6,surround sound system,2.4
+5f5aa60bef062519ff711fe6,sink,7.9
+5f5aa60bef062519ff711fe6,shower,1.2
+5f5aa60bef062519ff711fe6,thermostat,5.7
+5f5aa60bef062519ff711fe6,fire alarm,9.7
+5f5aa60bef062519ff711fe6,ac unit,10.8
+5f5aa60bef062519ff711fe6,boiler,1.59999999999999
+5f5aa60bef062519ff711fe6,waffle maker,25.8
+63ea4ab1ce4168cbe9f63775,blender,0.0
+63ea4ab1ce4168cbe9f63775,microwaves,1.2
+63ea4ab1ce4168cbe9f63775,coffee maker,0.9
+63ea4ab1ce4168cbe9f63775,coffee grinder,0.0
+63ea4ab1ce4168cbe9f63775,dishwasher,0.9
+63ea4ab1ce4168cbe9f63775,oven,1.1
+63ea4ab1ce4168cbe9f63775,stove,1.1
+63ea4ab1ce4168cbe9f63775,hot plate,1.2
+63ea4ab1ce4168cbe9f63775,air fryer,1.2
+63ea4ab1ce4168cbe9f63775,deep fryer,1.0
+63ea4ab1ce4168cbe9f63775,slow cooker,2.2
+63ea4ab1ce4168cbe9f63775,pressure cooker,1.6
+63ea4ab1ce4168cbe9f63775,refrigerator,2.8
+63ea4ab1ce4168cbe9f63775,freezer,1.7
+63ea4ab1ce4168cbe9f63775,washing machine,5.3
+63ea4ab1ce4168cbe9f63775,dryer,1.2
+63ea4ab1ce4168cbe9f63775,vacuum cleaner,1.6
+63ea4ab1ce4168cbe9f63775,floor cleaner,1.8
+63ea4ab1ce4168cbe9f63775,clothes iron,1.5
+63ea4ab1ce4168cbe9f63775,clothes steamer,13.1
+63ea4ab1ce4168cbe9f63775,toaster,11.7
+63ea4ab1ce4168cbe9f63775,toaster oven,1.2
+63ea4ab1ce4168cbe9f63775,food processor,3.0
+63ea4ab1ce4168cbe9f63775,stand mixer,2.0
+63ea4ab1ce4168cbe9f63775,hand mixer,1.0
+63ea4ab1ce4168cbe9f63775,electric griddle,1.90000000000001
+63ea4ab1ce4168cbe9f63775,electric kettle,0.799999999999997
+63ea4ab1ce4168cbe9f63775,waffle iron,4.2
+65e358d9c5e3ee026268b2a7,fridge,0.0
+65e358d9c5e3ee026268b2a7,freezer,0.3
+65e358d9c5e3ee026268b2a7,oven,0.0
+65e358d9c5e3ee026268b2a7,stove top,0.0
+65e358d9c5e3ee026268b2a7,keurig,0.0
+65e358d9c5e3ee026268b2a7,coffee maker,0.199999999999999
+65e358d9c5e3ee026268b2a7,microwave,0.0
+65e358d9c5e3ee026268b2a7,toaster,0.0
+65e358d9c5e3ee026268b2a7,nuwave oven,3.0
+65e358d9c5e3ee026268b2a7,crock pot,1.0
+65e358d9c5e3ee026268b2a7,instapot,0.0
+65e358d9c5e3ee026268b2a7,rice cooker,1.2
+65e358d9c5e3ee026268b2a7,cooker,-0.400000000000002
+65e358d9c5e3ee026268b2a7,hard boiled egg cooker,0.0
+65e358d9c5e3ee026268b2a7,dishwasher,4.1
+65e358d9c5e3ee026268b2a7,washer,1.7
+65e358d9c5e3ee026268b2a7,dryer,0.299999999999997
+65e358d9c5e3ee026268b2a7,hot water kettle,18.4
+65e358d9c5e3ee026268b2a7,food processor,5.9
+65e358d9c5e3ee026268b2a7,juicer,0.0
+65e358d9c5e3ee026268b2a7,waffle maker,1.60000000000001
+65e358d9c5e3ee026268b2a7,griddle,6.2
+65e358d9c5e3ee026268b2a7,grill,0.0
+65e358d9c5e3ee026268b2a7,blender,14.3
+65e358d9c5e3ee026268b2a7,mixer,0.0
+65e358d9c5e3ee026268b2a7,immersion blender,3.8
+65e358d9c5e3ee026268b2a7,air fryer,5.09999999999999
+65e358d9c5e3ee026268b2a7,vacuum,7.90000000000001
+65d6a09286a0c99e632a46dd,stove,0.0
+65d6a09286a0c99e632a46dd,washer,3.4
+65d6a09286a0c99e632a46dd,dryer,0.0
+65d6a09286a0c99e632a46dd,dishwasher,2.3
+65d6a09286a0c99e632a46dd,air fryer,3.6
+65d6a09286a0c99e632a46dd,toaster oven,2.9
+65d6a09286a0c99e632a46dd,toaster,2.3
+65d6a09286a0c99e632a46dd,a,2.6
+65d6a09286a0c99e632a46dd,blender,0.0
+65d6a09286a0c99e632a46dd,a,4.6
+65d6a09286a0c99e632a46dd,juicer,0.0
+65d6a09286a0c99e632a46dd,fridge,2.7
+65d6a09286a0c99e632a46dd,freezer,0.0
+65d6a09286a0c99e632a46dd,dehydrator,6.9
+65d6a09286a0c99e632a46dd,furniture,0.0
+65d6a09286a0c99e632a46dd,mini fridge,9.7
+65d6a09286a0c99e632a46dd,microwave,12.5

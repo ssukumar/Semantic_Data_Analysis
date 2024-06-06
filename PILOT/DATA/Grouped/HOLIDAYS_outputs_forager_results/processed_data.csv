@@ -15,20 +15,26 @@ SID,entry
 65c25cf77dca9d7ca7d9ebdb,christmas
 65c25cf77dca9d7ca7d9ebdb,easter
 65c25cf77dca9d7ca7d9ebdb,halloween
+65c25cf77dca9d7ca7d9ebdb,earth day
 65c25cf77dca9d7ca7d9ebdb,thanksgiving
 61363ce02e6022a741d63a6e,christmas
 61363ce02e6022a741d63a6e,easter
 61363ce02e6022a741d63a6e,independence day
 61363ce02e6022a741d63a6e,labor day
+61363ce02e6022a741d63a6e,easter
 63619eb02e5bd8f4f7bd138a,christmas
 63619eb02e5bd8f4f7bd138a,halloween
 63619eb02e5bd8f4f7bd138a,easter
 63619eb02e5bd8f4f7bd138a,thanksgiving
 63619eb02e5bd8f4f7bd138a,halloween
+63619eb02e5bd8f4f7bd138a,ramadan
 63619eb02e5bd8f4f7bd138a,hanukkah
 63619eb02e5bd8f4f7bd138a,kwanzaa
 63619eb02e5bd8f4f7bd138a,passover
 63619eb02e5bd8f4f7bd138a,ramadan
+610c59ee34cc312d7ca55e45,new year's day
+610c59ee34cc312d7ca55e45,earth day
+610c59ee34cc312d7ca55e45,labor day
 610c59ee34cc312d7ca55e45,labor day
 610c59ee34cc312d7ca55e45,good friday
 610c59ee34cc312d7ca55e45,easter
@@ -53,17 +59,20 @@ SID,entry
 65e862f844f1b7a803bb3c5a,easter
 654108d38225e168af4b1fa0,christmas
 654108d38225e168af4b1fa0,thanksgiving
+654108d38225e168af4b1fa0,new year's day
 654108d38225e168af4b1fa0,mardi gras
 654108d38225e168af4b1fa0,easter
 654108d38225e168af4b1fa0,labor day
 654108d38225e168af4b1fa0,halloween
 654108d38225e168af4b1fa0,good friday
+654108d38225e168af4b1fa0,earth day
 654108d38225e168af4b1fa0,hanukkah
 654108d38225e168af4b1fa0,kwanzaa
 65cc19b4b3d48a22dfc6756d,christmas
 65cc19b4b3d48a22dfc6756d,labor day
 65cc19b4b3d48a22dfc6756d,halloween
 65cc19b4b3d48a22dfc6756d,easter
+65cb63e160bb47fbf9349269,new year's day
 65cb63e160bb47fbf9349269,easter
 65cb63e160bb47fbf9349269,ramadan
 65cb63e160bb47fbf9349269,independence day
@@ -76,11 +85,14 @@ SID,entry
 601f6a2231a2904b79df1671,thanksgiving
 601f6a2231a2904b79df1671,halloween
 601f6a2231a2904b79df1671,easter
+601f6a2231a2904b79df1671,new year's day
 601f6a2231a2904b79df1671,labor day
 601f6a2231a2904b79df1671,hanukkah
 601f6a2231a2904b79df1671,kwanzaa
 601f6a2231a2904b79df1671,passover
 601f6a2231a2904b79df1671,ramadan
+601f6a2231a2904b79df1671,national day
+601f6a2231a2904b79df1671,national day
 5f1f3581b5cf3e103cc545c9,ramadan
 629e241d171ec6698e05f149,easter
 629e241d171ec6698e05f149,christmas
@@ -88,6 +100,7 @@ SID,entry
 629e241d171ec6698e05f149,thanksgiving
 629e241d171ec6698e05f149,halloween
 629e241d171ec6698e05f149,independence day
+6596a5cad60ef105b6c18897,new year's day
 6596a5cad60ef105b6c18897,christmas
 6596a5cad60ef105b6c18897,halloween
 6596a5cad60ef105b6c18897,thanksgiving
@@ -98,10 +111,12 @@ SID,entry
 6596a5cad60ef105b6c18897,kwanzaa
 6596a5cad60ef105b6c18897,ramadan
 6596a5cad60ef105b6c18897,passover
+6596a5cad60ef105b6c18897,easter
 5885f97f41da4500014d3645,christmas
 5885f97f41da4500014d3645,easter
 5885f97f41da4500014d3645,ramadan
 5885f97f41da4500014d3645,kwanzaa
+5885f97f41da4500014d3645,earth day
 656e3caa43f1f7f0615252ff,ramadan
 656e3caa43f1f7f0615252ff,easter
 656e3caa43f1f7f0615252ff,independence day
@@ -147,6 +162,10 @@ SID,entry
 6554de7d91c1b1bf51104fda,christmas
 6554de7d91c1b1bf51104fda,halloween
 6554de7d91c1b1bf51104fda,thanksgiving
+6554de7d91c1b1bf51104fda,remembrance day
+6554de7d91c1b1bf51104fda,easter
+6554de7d91c1b1bf51104fda,easter
+6554de7d91c1b1bf51104fda,national day
 5f5aa60bef062519ff711fe6,ramadan
 5f5aa60bef062519ff711fe6,christmas
 5f5aa60bef062519ff711fe6,halloween
@@ -154,6 +173,7 @@ SID,entry
 5f5aa60bef062519ff711fe6,hanukkah
 5f5aa60bef062519ff711fe6,thanksgiving
 5f5aa60bef062519ff711fe6,independence day
+63ea4ab1ce4168cbe9f63775,new year's day
 63ea4ab1ce4168cbe9f63775,good friday
 63ea4ab1ce4168cbe9f63775,easter
 63ea4ab1ce4168cbe9f63775,passover
@@ -175,6 +195,7 @@ SID,entry
 60d731567049e5132e3cc4d4,kwanzaa
 60d731567049e5132e3cc4d4,ramadan
 60d731567049e5132e3cc4d4,hanukkah
+65d6a09286a0c99e632a46dd,new year's day
 65d6a09286a0c99e632a46dd,passover
 65d6a09286a0c99e632a46dd,easter
 65d6a09286a0c99e632a46dd,thanksgiving

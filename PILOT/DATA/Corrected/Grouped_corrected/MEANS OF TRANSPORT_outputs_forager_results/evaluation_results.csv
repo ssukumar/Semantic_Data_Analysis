@@ -1,0 +1,262 @@
+SID,entry,timepoint,evaluation,replacement
+65e862f844f1b7a803bb3c5a,bus,0.0,FOUND,bus
+65e862f844f1b7a803bb3c5a,car,2.7,FOUND,car
+65e862f844f1b7a803bb3c5a,bicycle,2.7,FOUND,bicycle
+65e862f844f1b7a803bb3c5a,coach,2.9,FOUND,coach
+65e862f844f1b7a803bb3c5a,camel,1.4,FOUND,camel
+65e862f844f1b7a803bb3c5a,horse,1.6,FOUND,horse
+65e862f844f1b7a803bb3c5a,cable car,1.0,FOUND,cable car
+65e862f844f1b7a803bb3c5a,skateboard,1.4,FOUND,skateboard
+65e862f844f1b7a803bb3c5a,aeroplane,1.1,FOUND,aeroplane
+65e862f844f1b7a803bb3c5a,narrow boats,1.3,FOUND,narrow boats
+65e862f844f1b7a803bb3c5a,yacht,3.3,FOUND,yacht
+65e862f844f1b7a803bb3c5a,ferry,1.5,FOUND,ferry
+65e862f844f1b7a803bb3c5a,Cruise shiop,1.7,REPLACE,cruise shiop
+65e862f844f1b7a803bb3c5a,taxi,1.2,FOUND,taxi
+65e862f844f1b7a803bb3c5a,train,32.4,FOUND,train
+65e862f844f1b7a803bb3c5a,air boats,2.0,FOUND,air boats
+65e862f844f1b7a803bb3c5a,helicopter,2.0,FOUND,helicopter
+65e862f844f1b7a803bb3c5a,submarine,2.3,FOUND,submarine
+65e862f844f1b7a803bb3c5a,truck,2.2,FOUND,truck
+65e862f844f1b7a803bb3c5a,lorry,1.7,FOUND,lorry
+65e862f844f1b7a803bb3c5a,donkey,2.7,FOUND,donkey
+65e862f844f1b7a803bb3c5a,kennel,3.39999999999999,FOUND,kennel
+5d7ff4aa50fda7001a863736,car,0.0,FOUND,car
+5d7ff4aa50fda7001a863736,Bus,0.3,REPLACE,bus
+5d7ff4aa50fda7001a863736,Taxi,0.4,REPLACE,taxi
+5d7ff4aa50fda7001a863736,limo,1.2,FOUND,limo
+5d7ff4aa50fda7001a863736,airplane,1.6,FOUND,airplane
+5d7ff4aa50fda7001a863736,helicopter,1.0,FOUND,helicopter
+5d7ff4aa50fda7001a863736,bicycle,1.3,FOUND,bicycle
+5d7ff4aa50fda7001a863736,oh,3.3,FOUND,oh
+5d7ff4aa50fda7001a863736,ship,0.0,FOUND,ship
+5d7ff4aa50fda7001a863736,boat,0.0,FOUND,boat
+5d7ff4aa50fda7001a863736,scooter,1.1,FOUND,scooter
+5d7ff4aa50fda7001a863736,train,2.0,FOUND,train
+5d7ff4aa50fda7001a863736,motorcycle,10.9,FOUND,motorcycle
+5d7ff4aa50fda7001a863736,golf cart,4.8,FOUND,golf cart
+5d7ff4aa50fda7001a863736,School Bus,7.2,REPLACE,school bus
+5d7ff4aa50fda7001a863736,ambulance,3.5,FOUND,ambulance
+5d7ff4aa50fda7001a863736,police car,19.7,FOUND,police car
+5d7ff4aa50fda7001a863736,horse,19.7,FOUND,horse
+65c25cf77dca9d7ca7d9ebdb,car,0.0,FOUND,car
+65c25cf77dca9d7ca7d9ebdb,airplane,0.2,FOUND,airplane
+65c25cf77dca9d7ca7d9ebdb,train,0.0,FOUND,train
+65c25cf77dca9d7ca7d9ebdb,boat,0.5,FOUND,boat
+65c25cf77dca9d7ca7d9ebdb,jet ski,3.8,FOUND,jet ski
+65c25cf77dca9d7ca7d9ebdb,bicycle,3.2,FOUND,bicycle
+65c25cf77dca9d7ca7d9ebdb,motorcycle,0.0,FOUND,motorcycle
+65c25cf77dca9d7ca7d9ebdb,a train,14.2,FOUND,a train
+65c25cf77dca9d7ca7d9ebdb,bus,0.0,FOUND,bus
+65c25cf77dca9d7ca7d9ebdb,trolley,2.4,FOUND,trolley
+65c25cf77dca9d7ca7d9ebdb,submarine,3.7,FOUND,submarine
+65c25cf77dca9d7ca7d9ebdb,skateboard,7.2,FOUND,skateboard
+65c25cf77dca9d7ca7d9ebdb,scooter,0.0,FOUND,scooter
+65c25cf77dca9d7ca7d9ebdb,elevator,18.6,FOUND,elevator
+65c25cf77dca9d7ca7d9ebdb,stairs,17.0,FOUND,stairs
+65c25cf77dca9d7ca7d9ebdb,helicopter,18.4,FOUND,helicopter
+65c25cf77dca9d7ca7d9ebdb,ambulance,1.90000000000001,FOUND,ambulance
+65e358d9c5e3ee026268b2a7,walking,0.0,FOUND,walking
+65e358d9c5e3ee026268b2a7,running,0.3,FOUND,running
+65e358d9c5e3ee026268b2a7,skipping,1.3,FOUND,skipping
+65e358d9c5e3ee026268b2a7,rollerblades,2.1,FOUND,rollerblades
+65e358d9c5e3ee026268b2a7,Heelys,0.9,REPLACE,heelys
+65e358d9c5e3ee026268b2a7,skateboard,0.0,FOUND,skateboard
+65e358d9c5e3ee026268b2a7,RipStik,1.2,REPLACE,ripstik
+65e358d9c5e3ee026268b2a7,scooter electric or manual,4.7,FOUND,scooter electric or manual
+65e358d9c5e3ee026268b2a7,bike both electric or manual,0.0,FOUND,bike both electric or manual
+65e358d9c5e3ee026268b2a7,tricycle,0.0,FOUND,tricycle
+65e358d9c5e3ee026268b2a7,motorcycle,1.7,FOUND,motorcycle
+65e358d9c5e3ee026268b2a7,a car,0.0,FOUND,a car
+65e358d9c5e3ee026268b2a7,a truck,0.0,FOUND,a truck
+65e358d9c5e3ee026268b2a7,a public transit bus,0.0,FOUND,a public transit bus
+65e358d9c5e3ee026268b2a7,RTD,0.5,EXCLUDE,EXCLUDE
+65e358d9c5e3ee026268b2a7,a plane,4.1,FOUND,a plane
+65e358d9c5e3ee026268b2a7,helicopter,0.599999999999994,FOUND,helicopter
+65e358d9c5e3ee026268b2a7,boat,1.9,FOUND,boat
+65e358d9c5e3ee026268b2a7,ferry,0.900000000000006,FOUND,ferry
+65e358d9c5e3ee026268b2a7,a cruise ship,0.0,FOUND,a cruise ship
+65e358d9c5e3ee026268b2a7,yacht,1.09999999999999,FOUND,yacht
+65e358d9c5e3ee026268b2a7,spaceship,5.1,FOUND,spaceship
+65e358d9c5e3ee026268b2a7,a taxi,3.6,FOUND,a taxi
+65e358d9c5e3ee026268b2a7,Rideshare system,1.5,REPLACE,rideshare system
+65e358d9c5e3ee026268b2a7,Uber,0.0,REPLACE,uber
+65e358d9c5e3ee026268b2a7,Lyft,1.59999999999999,REPLACE,lyft
+65e358d9c5e3ee026268b2a7,a pogo stick,28.6,FOUND,a pogo stick
+65e358d9c5e3ee026268b2a7,a unicycle,6.89999999999999,FOUND,a unicycle
+63ea4ab1ce4168cbe9f63775,walking,0.0,FOUND,walking
+63ea4ab1ce4168cbe9f63775,driving your own car,2.8,FOUND,driving your own car
+63ea4ab1ce4168cbe9f63775,taxi services,1.7,FOUND,taxi services
+63ea4ab1ce4168cbe9f63775,Private Car Services,0.0,REPLACE,private car services
+63ea4ab1ce4168cbe9f63775,Uber,0.0,REPLACE,uber
+63ea4ab1ce4168cbe9f63775,Lyft,1.4,REPLACE,lyft
+63ea4ab1ce4168cbe9f63775,bicycle,2.2,FOUND,bicycle
+63ea4ab1ce4168cbe9f63775,electric scooter,1.3,FOUND,electric scooter
+63ea4ab1ce4168cbe9f63775,Zipcar,3.0,REPLACE,zipcar
+63ea4ab1ce4168cbe9f63775,motorized scooter,1.8,FOUND,motorized scooter
+63ea4ab1ce4168cbe9f63775,motorcycle,1.2,FOUND,motorcycle
+63ea4ab1ce4168cbe9f63775,truck,1.5,FOUND,truck
+63ea4ab1ce4168cbe9f63775,airplane,1.7,FOUND,airplane
+63ea4ab1ce4168cbe9f63775,Subway,1.4,REPLACE,subway
+63ea4ab1ce4168cbe9f63775,train,1.5,FOUND,train
+63ea4ab1ce4168cbe9f63775,high-speed train,1.3,FOUND,high-speed train
+63ea4ab1ce4168cbe9f63775,ship,4.1,FOUND,ship
+63ea4ab1ce4168cbe9f63775,cruise ship,1.9,FOUND,cruise ship
+63ea4ab1ce4168cbe9f63775,ferry,2.5,FOUND,ferry
+63ea4ab1ce4168cbe9f63775,hand cart,14.5,FOUND,hand cart
+63ea4ab1ce4168cbe9f63775,incline,1.69999999999999,FOUND,incline
+63ea4ab1ce4168cbe9f63775,bus,7.5,FOUND,bus
+63ea4ab1ce4168cbe9f63775,Public bus,1.8,REPLACE,public bus
+63ea4ab1ce4168cbe9f63775,ambulance,2.2,FOUND,ambulance
+63ea4ab1ce4168cbe9f63775,shuttle,2.09999999999999,FOUND,shuttle
+63ea4ab1ce4168cbe9f63775,van,5.0,FOUND,van
+65d54b3b524fcafb543d1b23,car,0.0,FOUND,car
+65d54b3b524fcafb543d1b23,truck,1.4,FOUND,truck
+65d54b3b524fcafb543d1b23,bus,1.3,FOUND,bus
+65d54b3b524fcafb543d1b23,school bus,0.0,FOUND,school bus
+65d54b3b524fcafb543d1b23,Uber,1.3,REPLACE,uber
+65d54b3b524fcafb543d1b23,lyft,1.2,FOUND,lyft
+65d54b3b524fcafb543d1b23,bicycle,4.1,FOUND,bicycle
+65d54b3b524fcafb543d1b23,skateboard,4.1,FOUND,skateboard
+65d54b3b524fcafb543d1b23,scooter,1.4,FOUND,scooter
+65d54b3b524fcafb543d1b23,electric scooter,0.0,FOUND,electric scooter
+65d54b3b524fcafb543d1b23,boat,7.5,FOUND,boat
+65d54b3b524fcafb543d1b23,Ferry,0.0,REPLACE,ferry
+65d54b3b524fcafb543d1b23,carriage,14.7,FOUND,carriage
+65d54b3b524fcafb543d1b23,horse,38.9,FOUND,horse
+65d54b3b524fcafb543d1b23,ski,9.39999999999999,FOUND,ski
+65d54b3b524fcafb543d1b23,ski,0.0,FOUND,ski
+65d54b3b524fcafb543d1b23,ski dogs,0.0,FOUND,ski dogs
+60a48adfe091e410f4eaba34,car,0.0,FOUND,car
+60a48adfe091e410f4eaba34,bus,0.0,FOUND,bus
+60a48adfe091e410f4eaba34,train,0.0,FOUND,train
+60a48adfe091e410f4eaba34,plane,0.0,FOUND,plane
+60a48adfe091e410f4eaba34,private jet,0.0,FOUND,private jet
+60a48adfe091e410f4eaba34,walking,1.7,FOUND,walking
+60a48adfe091e410f4eaba34,bicycle,0.0,FOUND,bicycle
+60a48adfe091e410f4eaba34,boat,0.0,FOUND,boat
+60a48adfe091e410f4eaba34,hang glider,11.4,FOUND,hang glider
+60a48adfe091e410f4eaba34,Segway,1.3,REPLACE,segway
+60a48adfe091e410f4eaba34,scooter,1.5,FOUND,scooter
+60a48adfe091e410f4eaba34,paddle board,3.2,FOUND,paddle board
+60a48adfe091e410f4eaba34,running,3.59999999999999,FOUND,running
+60a48adfe091e410f4eaba34,swimming,3.6,FOUND,swimming
+60a48adfe091e410f4eaba34,Taxi,9.8,REPLACE,taxi
+60a48adfe091e410f4eaba34,carpooling,25.2,FOUND,carpooling
+65cc19b4b3d48a22dfc6756d,foot,0.0,FOUND,foot
+65cc19b4b3d48a22dfc6756d,car,0.0,FOUND,car
+65cc19b4b3d48a22dfc6756d,train,0.0,FOUND,train
+65cc19b4b3d48a22dfc6756d,bus,0.9,FOUND,bus
+65cc19b4b3d48a22dfc6756d,airplane,1.3,FOUND,airplane
+65cc19b4b3d48a22dfc6756d,boat,1.7,FOUND,boat
+65cc19b4b3d48a22dfc6756d,helicopter,7.5,FOUND,helicopter
+65cc19b4b3d48a22dfc6756d,rocket ship,83.4,FOUND,rocket ship
+65cc19b4b3d48a22dfc6756d,spaceship,4.89999999999999,FOUND,spaceship
+65cb63e160bb47fbf9349269,car,0.0,FOUND,car
+65cb63e160bb47fbf9349269,bus,0.0,FOUND,bus
+65cb63e160bb47fbf9349269,train,0.0,FOUND,train
+65cb63e160bb47fbf9349269,taxi,2.2,FOUND,taxi
+65cb63e160bb47fbf9349269,ride sharing,0.0,FOUND,ride sharing
+65cb63e160bb47fbf9349269,light rail,1.3,FOUND,light rail
+65cb63e160bb47fbf9349269,monorail,3.5,FOUND,monorail
+65cb63e160bb47fbf9349269,plane,0.0,FOUND,plane
+65cb63e160bb47fbf9349269,helicopter,0.0,FOUND,helicopter
+65cb63e160bb47fbf9349269,boat,2.0,FOUND,boat
+65cb63e160bb47fbf9349269,cruise,1.7,FOUND,cruise
+65cb63e160bb47fbf9349269,sailboat,1.0,FOUND,sailboat
+65cb63e160bb47fbf9349269,bicycle,3.3,FOUND,bicycle
+65cb63e160bb47fbf9349269,bicycle,0.0,FOUND,bicycle
+65cb63e160bb47fbf9349269,motorcycle,0.0,FOUND,motorcycle
+65cb63e160bb47fbf9349269,paragliding,13.2,FOUND,paragliding
+65cb63e160bb47fbf9349269,tram,6.9,FOUND,tram
+65cb63e160bb47fbf9349269,skis,7.8,FOUND,skis
+65cb63e160bb47fbf9349269,snowboard,0.0,FOUND,snowboard
+65cb63e160bb47fbf9349269,scooter,8.30000000000001,FOUND,scooter
+65cb63e160bb47fbf9349269,skateboard,0.899999999999991,FOUND,skateboard
+65d6a09286a0c99e632a46dd,car,0.0,FOUND,car
+65d6a09286a0c99e632a46dd,bike,1.2,FOUND,bike
+65d6a09286a0c99e632a46dd,plane,1.6,FOUND,plane
+65d6a09286a0c99e632a46dd,train,1.0,FOUND,train
+65d6a09286a0c99e632a46dd,boss,0.0,FOUND,boss
+65d6a09286a0c99e632a46dd,walk,1.8,FOUND,walk
+65d6a09286a0c99e632a46dd,Scooter,1.7,REPLACE,scooter
+65d6a09286a0c99e632a46dd,electric scooter,3.9,FOUND,electric scooter
+65d6a09286a0c99e632a46dd,rollerblade,2.9,FOUND,rollerblade
+65d6a09286a0c99e632a46dd,running,3.8,FOUND,running
+65d6a09286a0c99e632a46dd,skateboard,21.5,FOUND,skateboard
+65d6a09286a0c99e632a46dd,longboard,2.1,FOUND,longboard
+65d6a09286a0c99e632a46dd,hoverboard,5.0,FOUND,hoverboard
+65d6a09286a0c99e632a46dd,golf cart,24.7,FOUND,golf cart
+65d6a09286a0c99e632a46dd,tractor,8.8,FOUND,tractor
+65d6a09286a0c99e632a46dd,trailer,0.0,FOUND,trailer
+60d731567049e5132e3cc4d4,walking,0.0,FOUND,walking
+60d731567049e5132e3cc4d4,taking an Uber,0.0,REPLACE,taking an uber
+60d731567049e5132e3cc4d4,driving,0.0,FOUND,driving
+60d731567049e5132e3cc4d4,biking,1.5,FOUND,biking
+60d731567049e5132e3cc4d4,train,1.3,FOUND,train
+60d731567049e5132e3cc4d4,airplane,1.0,FOUND,airplane
+60d731567049e5132e3cc4d4,skateboard,1.6,FOUND,skateboard
+60d731567049e5132e3cc4d4,scooter,0.0,FOUND,scooter
+60d731567049e5132e3cc4d4,hoverboard,2.4,FOUND,hoverboard
+60d731567049e5132e3cc4d4,trolly,10.4,FOUND,trolly
+60d731567049e5132e3cc4d4,Subway,1.3,REPLACE,subway
+60d731567049e5132e3cc4d4,gondola,3.09999999999999,FOUND,gondola
+60d731567049e5132e3cc4d4,chairlift,1.09999999999999,FOUND,chairlift
+60d731567049e5132e3cc4d4,teabar,1.7,FOUND,teabar
+60d731567049e5132e3cc4d4,helicopter,4.2,FOUND,helicopter
+60d731567049e5132e3cc4d4,pedal cab,5.0,FOUND,pedal cab
+60d731567049e5132e3cc4d4,sled,8.7,FOUND,sled
+60d731567049e5132e3cc4d4,wagon,1.30000000000001,FOUND,wagon
+60d731567049e5132e3cc4d4,skis,1.19999999999999,FOUND,skis
+60d731567049e5132e3cc4d4,snowshoes,0.0,FOUND,snowshoes
+60d731567049e5132e3cc4d4,conveyor belt,4.3,FOUND,conveyor belt
+60d731567049e5132e3cc4d4,elevator,0.799999999999997,FOUND,elevator
+60d731567049e5132e3cc4d4,escalator,0.0,FOUND,escalator
+60d731567049e5132e3cc4d4,trampoline,8.89999999999999,FOUND,trampoline
+60d731567049e5132e3cc4d4,merry go round,15.5,FOUND,merry go round
+60d731567049e5132e3cc4d4,ferris wheel,1.69999999999999,FOUND,ferris wheel
+60d731567049e5132e3cc4d4,zipline,5.69999999999999,FOUND,zipline
+65e1f75ab3efd22e847cfbf0,car,0.0,FOUND,car
+65e1f75ab3efd22e847cfbf0,bike,0.0,FOUND,bike
+65e1f75ab3efd22e847cfbf0,plane,0.0,FOUND,plane
+65e1f75ab3efd22e847cfbf0,boat,0.0,FOUND,boat
+65e1f75ab3efd22e847cfbf0,train,0.0,FOUND,train
+65e1f75ab3efd22e847cfbf0,scooter,0.0,FOUND,scooter
+65e1f75ab3efd22e847cfbf0,motorcycle,0.0,FOUND,motorcycle
+65e1f75ab3efd22e847cfbf0,bus,2.3,FOUND,bus
+65e1f75ab3efd22e847cfbf0,van,0.0,FOUND,van
+65e1f75ab3efd22e847cfbf0,truck,0.0,FOUND,truck
+65e1f75ab3efd22e847cfbf0,SUV,0.0,EXCLUDE,EXCLUDE
+65e1f75ab3efd22e847cfbf0,sedan,0.0,FOUND,sedan
+65e1f75ab3efd22e847cfbf0,plane,28.8,FOUND,plane
+65e1f75ab3efd22e847cfbf0,ship,1.09999999999999,FOUND,ship
+65e1f75ab3efd22e847cfbf0,hot air balloon,59.2,FOUND,hot air balloon
+65e1f75ab3efd22e847cfbf0,was not a,0.0,FOUND,was not a
+5f5aa60bef062519ff711fe6,biking,0.0,FOUND,biking
+5f5aa60bef062519ff711fe6,car,2.3,FOUND,car
+5f5aa60bef062519ff711fe6,bus,2.3,FOUND,bus
+5f5aa60bef062519ff711fe6,Subway,2.8,REPLACE,subway
+5f5aa60bef062519ff711fe6,Metro,4.9,REPLACE,metro
+5f5aa60bef062519ff711fe6,tram,3.4,FOUND,tram
+5f5aa60bef062519ff711fe6,elevator,2.8,FOUND,elevator
+5f5aa60bef062519ff711fe6,escalator,2.2,FOUND,escalator
+5f5aa60bef062519ff711fe6,motorcycle,2.6,FOUND,motorcycle
+5f5aa60bef062519ff711fe6,carriage,3.6,FOUND,carriage
+5f5aa60bef062519ff711fe6,horse,2.6,FOUND,horse
+5f5aa60bef062519ff711fe6,ship,8.6,FOUND,ship
+5f5aa60bef062519ff711fe6,crane,3.3,FOUND,crane
+5f5aa60bef062519ff711fe6,walking,21.1,FOUND,walking
+5f5aa60bef062519ff711fe6,scooter,36.0,FOUND,scooter
+5f5aa60bef062519ff711fe6,skateboard,0.0,FOUND,skateboard
+63e802622f8052bd67d6c5f0,skateboard,0.0,FOUND,skateboard
+63e802622f8052bd67d6c5f0,rollerblades,0.0,FOUND,rollerblades
+63e802622f8052bd67d6c5f0,car,0.800000000000001,FOUND,car
+63e802622f8052bd67d6c5f0,truck,0.0,FOUND,truck
+63e802622f8052bd67d6c5f0,bus,0.0,FOUND,bus
+63e802622f8052bd67d6c5f0,rain,1.2,FOUND,rain
+63e802622f8052bd67d6c5f0,scooter,2.9,FOUND,scooter
+63e802622f8052bd67d6c5f0,walking,1.6,FOUND,walking
+63e802622f8052bd67d6c5f0,boating,5.0,FOUND,boating
+63e802622f8052bd67d6c5f0,motorcycle,12.6,FOUND,motorcycle
+63e802622f8052bd67d6c5f0,dirt bike,2.3,FOUND,dirt bike
+63e802622f8052bd67d6c5f0,submarine,48.9,FOUND,submarine

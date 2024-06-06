@@ -1,0 +1,275 @@
+SID,entry,timepoint,evaluation,replacement
+65d6a09286a0c99e632a46dd,flute,0.0,FOUND,flute
+65d6a09286a0c99e632a46dd,saxophone,1.0,FOUND,saxophone
+65d6a09286a0c99e632a46dd,guitar,0.0,FOUND,guitar
+65d6a09286a0c99e632a46dd,piano,0.0,FOUND,piano
+65d6a09286a0c99e632a46dd,trombone,0.0,FOUND,trombone
+65d6a09286a0c99e632a46dd,alto sax,0.0,FOUND,alto sax
+65d6a09286a0c99e632a46dd,clarinet,0.0,FOUND,clarinet
+65d6a09286a0c99e632a46dd,drums,1.2,FOUND,drums
+65d6a09286a0c99e632a46dd,xylophone,0.0,FOUND,xylophone
+65d6a09286a0c99e632a46dd,violin,9.7,FOUND,violin
+65d6a09286a0c99e632a46dd,viola,0.0,FOUND,viola
+65d6a09286a0c99e632a46dd,Bells,3.1,REPLACE,bells
+65d6a09286a0c99e632a46dd,a vase,2.1,FOUND,a vase
+65d6a09286a0c99e632a46dd,recorder,5.8,FOUND,recorder
+65d6a09286a0c99e632a46dd,accordion,24.8,FOUND,accordion
+65d6a09286a0c99e632a46dd,tambourine,4.5,FOUND,tambourine
+65d6a09286a0c99e632a46dd,trumpet,0.0,FOUND,trumpet
+65d6a09286a0c99e632a46dd,cymbal,2.0,FOUND,cymbal
+65d6a09286a0c99e632a46dd,cowbell,7.80000000000001,FOUND,cowbell
+65d6a09286a0c99e632a46dd,banjo,6.89999999999999,FOUND,banjo
+65d6a09286a0c99e632a46dd,tuba,5.5,FOUND,tuba
+63ea4ab1ce4168cbe9f63775,acoustic guitar,0.0,FOUND,acoustic guitar
+63ea4ab1ce4168cbe9f63775,electric guitar,0.0,FOUND,electric guitar
+63ea4ab1ce4168cbe9f63775,piano,1.6,FOUND,piano
+63ea4ab1ce4168cbe9f63775,electric keyboard,1.2,FOUND,electric keyboard
+63ea4ab1ce4168cbe9f63775,harp,1.3,FOUND,harp
+63ea4ab1ce4168cbe9f63775,shallow,1.5,FOUND,shallow
+63ea4ab1ce4168cbe9f63775,violin,1.6,FOUND,violin
+63ea4ab1ce4168cbe9f63775,harpsichord,2.6,FOUND,harpsichord
+63ea4ab1ce4168cbe9f63775,bass guitar,3.3,FOUND,bass guitar
+63ea4ab1ce4168cbe9f63775,drums,2.2,FOUND,drums
+63ea4ab1ce4168cbe9f63775,trumpet,1.1,FOUND,trumpet
+63ea4ab1ce4168cbe9f63775,trombone,0.0,FOUND,trombone
+63ea4ab1ce4168cbe9f63775,tuba,0.0,FOUND,tuba
+63ea4ab1ce4168cbe9f63775,tenor saxophone,1.3,FOUND,tenor saxophone
+63ea4ab1ce4168cbe9f63775,alto saxophone,1.8,FOUND,alto saxophone
+63ea4ab1ce4168cbe9f63775,flute,1.7,FOUND,flute
+63ea4ab1ce4168cbe9f63775,Piccolo,1.3,REPLACE,piccolo
+63ea4ab1ce4168cbe9f63775,clarinet,1.8,FOUND,clarinet
+63ea4ab1ce4168cbe9f63775,synthesizer,2.09999999999999,FOUND,synthesizer
+63ea4ab1ce4168cbe9f63775,xylophone,1.0,FOUND,xylophone
+63ea4ab1ce4168cbe9f63775,triangle,2.0,FOUND,triangle
+63ea4ab1ce4168cbe9f63775,timpani drum,1.3,FOUND,timpani drum
+63ea4ab1ce4168cbe9f63775,snare drum,0.0,FOUND,snare drum
+63ea4ab1ce4168cbe9f63775,bass drum,1.2,FOUND,bass drum
+63ea4ab1ce4168cbe9f63775,bassoon,4.69999999999999,FOUND,bassoon
+63ea4ab1ce4168cbe9f63775,sousaphone,3.5,FOUND,sousaphone
+63e802622f8052bd67d6c5f0,guitar,0.0,FOUND,guitar
+63e802622f8052bd67d6c5f0,drums,0.0,FOUND,drums
+63e802622f8052bd67d6c5f0,saxophone,0.0,FOUND,saxophone
+63e802622f8052bd67d6c5f0,clarinet,0.0,FOUND,clarinet
+63e802622f8052bd67d6c5f0,flute,0.8,FOUND,flute
+63e802622f8052bd67d6c5f0,maracas,2.5,FOUND,maracas
+63e802622f8052bd67d6c5f0,violin,15.7,FOUND,violin
+63e802622f8052bd67d6c5f0,harp,8.5,FOUND,harp
+60a48adfe091e410f4eaba34,piano,0.0,FOUND,piano
+60a48adfe091e410f4eaba34,guitar,1.2,FOUND,guitar
+60a48adfe091e410f4eaba34,xylophone,1.0,FOUND,xylophone
+60a48adfe091e410f4eaba34,drums,1.0,FOUND,drums
+60a48adfe091e410f4eaba34,vocals,3.3,FOUND,vocals
+60a48adfe091e410f4eaba34,flute,2.6,FOUND,flute
+60a48adfe091e410f4eaba34,violin,2.4,FOUND,violin
+60a48adfe091e410f4eaba34,glockenspiel,4.2,FOUND,glockenspiel
+60a48adfe091e410f4eaba34,synthesizer,1.5,FOUND,synthesizer
+60a48adfe091e410f4eaba34,keyboard,7.8,FOUND,keyboard
+60a48adfe091e410f4eaba34,acoustic guitar,0.0,FOUND,acoustic guitar
+60a48adfe091e410f4eaba34,electric guitar,0.0,FOUND,electric guitar
+60a48adfe091e410f4eaba34,bass guitar,0.0,FOUND,bass guitar
+60a48adfe091e410f4eaba34,banjo,5.3,FOUND,banjo
+60a48adfe091e410f4eaba34,accordion,1.7,FOUND,accordion
+60a48adfe091e410f4eaba34,saxophone,12.5,FOUND,saxophone
+60a48adfe091e410f4eaba34,bass clarinet,6.2,FOUND,bass clarinet
+60a48adfe091e410f4eaba34,trumpet,20.9,FOUND,trumpet
+60a48adfe091e410f4eaba34,cowbell,17.3,FOUND,cowbell
+60d731567049e5132e3cc4d4,acoustic guitar,0.0,FOUND,acoustic guitar
+60d731567049e5132e3cc4d4,electric guitar,0.0,FOUND,electric guitar
+60d731567049e5132e3cc4d4,bass guitar,0.0,FOUND,bass guitar
+60d731567049e5132e3cc4d4,cello,0.0,FOUND,cello
+60d731567049e5132e3cc4d4,snare drum,0.0,FOUND,snare drum
+60d731567049e5132e3cc4d4,tambourine,2.4,FOUND,tambourine
+60d731567049e5132e3cc4d4,cymbals,0.0,FOUND,cymbals
+60d731567049e5132e3cc4d4,harmonica,0.0,FOUND,harmonica
+60d731567049e5132e3cc4d4,accordion,0.0,FOUND,accordion
+60d731567049e5132e3cc4d4,piccolo,0.0,FOUND,piccolo
+60d731567049e5132e3cc4d4,flute,0.0,FOUND,flute
+60d731567049e5132e3cc4d4,oboe,0.0,FOUND,oboe
+60d731567049e5132e3cc4d4,saxophone,2.4,FOUND,saxophone
+60d731567049e5132e3cc4d4,trumpet,0.0,FOUND,trumpet
+60d731567049e5132e3cc4d4,trombone,0.0,FOUND,trombone
+60d731567049e5132e3cc4d4,xylophone,0.0,FOUND,xylophone
+60d731567049e5132e3cc4d4,vibraphone,0.0,FOUND,vibraphone
+60d731567049e5132e3cc4d4,keyboard,0.0,FOUND,keyboard
+60d731567049e5132e3cc4d4,piano,0.0,FOUND,piano
+60d731567049e5132e3cc4d4,harp,11.4,FOUND,harp
+60d731567049e5132e3cc4d4,violin,0.0,FOUND,violin
+60d731567049e5132e3cc4d4,viola,5.8,FOUND,viola
+60d731567049e5132e3cc4d4,synthesizer,11.6,FOUND,synthesizer
+60d731567049e5132e3cc4d4,recorder,0.0,FOUND,recorder
+60d731567049e5132e3cc4d4,bongos,3.7,FOUND,bongos
+60d731567049e5132e3cc4d4,triangle,21.6,FOUND,triangle
+65cc19b4b3d48a22dfc6756d,piano,0.0,FOUND,piano
+65cc19b4b3d48a22dfc6756d,guitar,0.0,FOUND,guitar
+65cc19b4b3d48a22dfc6756d,violin,0.6,FOUND,violin
+65cc19b4b3d48a22dfc6756d,trumpet,0.5,FOUND,trumpet
+65cc19b4b3d48a22dfc6756d,flute,0.2,FOUND,flute
+65cc19b4b3d48a22dfc6756d,saxophone,0.5,FOUND,saxophone
+65cc19b4b3d48a22dfc6756d,tuba,0.699999999999999,FOUND,tuba
+65cc19b4b3d48a22dfc6756d,cello,-1.6,FOUND,cello
+65cc19b4b3d48a22dfc6756d,oboe,4.2,FOUND,oboe
+65cc19b4b3d48a22dfc6756d,recorder,5.5,FOUND,recorder
+65cc19b4b3d48a22dfc6756d,xylophone,1.1,FOUND,xylophone
+65cc19b4b3d48a22dfc6756d,clarinet,9.0,FOUND,clarinet
+65cc19b4b3d48a22dfc6756d,french horn,7.9,FOUND,french horn
+65cc19b4b3d48a22dfc6756d,kazoo,10.1,FOUND,kazoo
+65cc19b4b3d48a22dfc6756d,sincerely,-1.0,FOUND,sincerely
+65cc19b4b3d48a22dfc6756d,cymbals,14.0,FOUND,cymbals
+65cc19b4b3d48a22dfc6756d,drums,2.3,FOUND,drums
+65cc19b4b3d48a22dfc6756d,triangle,4.7,FOUND,triangle
+65cc19b4b3d48a22dfc6756d,bongos,14.6,FOUND,bongos
+65e862f844f1b7a803bb3c5a,clarinet,0.0,FOUND,clarinet
+65e862f844f1b7a803bb3c5a,saxophone,1.6,FOUND,saxophone
+65e862f844f1b7a803bb3c5a,trumpets,1.1,FOUND,trumpets
+65e862f844f1b7a803bb3c5a,guitar,0.900000000000002,FOUND,guitar
+65e862f844f1b7a803bb3c5a,flute,0.0,FOUND,flute
+65e862f844f1b7a803bb3c5a,cello,0.899999999999999,FOUND,cello
+65e862f844f1b7a803bb3c5a,drums,0.0,FOUND,drums
+65e862f844f1b7a803bb3c5a,piano,0.0,FOUND,piano
+65e862f844f1b7a803bb3c5a,keyboard,0.0,FOUND,keyboard
+65e862f844f1b7a803bb3c5a,harp,1.0,FOUND,harp
+65e862f844f1b7a803bb3c5a,xylophone,0.899999999999999,FOUND,xylophone
+65e862f844f1b7a803bb3c5a,xylophone,4.6,FOUND,xylophone
+65e862f844f1b7a803bb3c5a,accordion,0.0,FOUND,accordion
+65e862f844f1b7a803bb3c5a,banjo,0.799999999999997,FOUND,banjo
+65e862f844f1b7a803bb3c5a,trombone,1.5,FOUND,trombone
+65e862f844f1b7a803bb3c5a,French horn,0.0,REPLACE,french horn
+65e862f844f1b7a803bb3c5a,violin,0.0,FOUND,violin
+65e862f844f1b7a803bb3c5a,tuba,0.0,FOUND,tuba
+65e862f844f1b7a803bb3c5a,recorder,0.0,FOUND,recorder
+65e862f844f1b7a803bb3c5a,double bass,2.0,FOUND,double bass
+65e862f844f1b7a803bb3c5a,keyboard,4.0,FOUND,keyboard
+65e862f844f1b7a803bb3c5a,viola,6.90000000000001,FOUND,viola
+65e862f844f1b7a803bb3c5a,Lutz,1.40000000000001,REPLACE,lutz
+65e862f844f1b7a803bb3c5a,ammonia,0.0,FOUND,ammonia
+65e862f844f1b7a803bb3c5a,bongo,1.10000000000001,FOUND,bongo
+65e862f844f1b7a803bb3c5a,conga,1.2,FOUND,conga
+65e862f844f1b7a803bb3c5a,mandolin,1.0,FOUND,mandolin
+65e862f844f1b7a803bb3c5a,marimba,5.0,FOUND,marimba
+65e862f844f1b7a803bb3c5a,tambourine,5.80000000000001,FOUND,tambourine
+65e862f844f1b7a803bb3c5a,arm cymbals,15.5,FOUND,arm cymbals
+65e862f844f1b7a803bb3c5a,guitar,12.3,FOUND,guitar
+65c25cf77dca9d7ca7d9ebdb,guitar,0.0,FOUND,guitar
+65c25cf77dca9d7ca7d9ebdb,piano,0.0,FOUND,piano
+65c25cf77dca9d7ca7d9ebdb,trumpet,0.0,FOUND,trumpet
+65c25cf77dca9d7ca7d9ebdb,trombone,0.0,FOUND,trombone
+65c25cf77dca9d7ca7d9ebdb,flute,0.7,FOUND,flute
+65c25cf77dca9d7ca7d9ebdb,saxophone,0.0,FOUND,saxophone
+65c25cf77dca9d7ca7d9ebdb,Bass,3.5,REPLACE,bass
+65c25cf77dca9d7ca7d9ebdb,triangle,2.7,FOUND,triangle
+65c25cf77dca9d7ca7d9ebdb,drawings,0.0,FOUND,drawings
+65c25cf77dca9d7ca7d9ebdb,xylophone,4.4,FOUND,xylophone
+65c25cf77dca9d7ca7d9ebdb,ukulele,2.6,FOUND,ukulele
+65c25cf77dca9d7ca7d9ebdb,reed pipes,18.4,FOUND,reed pipes
+65c25cf77dca9d7ca7d9ebdb,harmonica,2.3,FOUND,harmonica
+65c25cf77dca9d7ca7d9ebdb,violin,17.3,FOUND,violin
+65c25cf77dca9d7ca7d9ebdb,viola,0.0,FOUND,viola
+65c25cf77dca9d7ca7d9ebdb,cello,5.60000000000001,FOUND,cello
+5f5aa60bef062519ff711fe6,violin,0.0,FOUND,violin
+5f5aa60bef062519ff711fe6,piano,2.1,FOUND,piano
+5f5aa60bef062519ff711fe6,guitar,2.5,FOUND,guitar
+5f5aa60bef062519ff711fe6,bass,2.5,FOUND,bass
+5f5aa60bef062519ff711fe6,drums,2.4,FOUND,drums
+5f5aa60bef062519ff711fe6,triangle,2.3,FOUND,triangle
+5f5aa60bef062519ff711fe6,flute,2.4,FOUND,flute
+5f5aa60bef062519ff711fe6,recorder,2.2,FOUND,recorder
+5f5aa60bef062519ff711fe6,banjo,8.7,FOUND,banjo
+5f5aa60bef062519ff711fe6,electric guitar,3.8,FOUND,electric guitar
+5f5aa60bef062519ff711fe6,trombone,5.6,FOUND,trombone
+5f5aa60bef062519ff711fe6,French horn,3.9,REPLACE,french horn
+5f5aa60bef062519ff711fe6,microphone,12.8,FOUND,microphone
+5f5aa60bef062519ff711fe6,Cowbell,12.0,REPLACE,cowbell
+5f5aa60bef062519ff711fe6,harmonica,0.899999999999991,FOUND,harmonica
+5f5aa60bef062519ff711fe6,harp,3.19999999999999,FOUND,harp
+5d7ff4aa50fda7001a863736,guitar,0.0,FOUND,guitar
+5d7ff4aa50fda7001a863736,drums,2.2,FOUND,drums
+5d7ff4aa50fda7001a863736,violin,2.9,FOUND,violin
+5d7ff4aa50fda7001a863736,Bass,0.0,REPLACE,bass
+5d7ff4aa50fda7001a863736,harp,1.3,FOUND,harp
+5d7ff4aa50fda7001a863736,harmonica,0.0,FOUND,harmonica
+5d7ff4aa50fda7001a863736,clarinet,1.2,FOUND,clarinet
+5d7ff4aa50fda7001a863736,flute,0.100000000000001,FOUND,flute
+5d7ff4aa50fda7001a863736,saxophone,0.0,FOUND,saxophone
+5d7ff4aa50fda7001a863736,trombone,4.3,FOUND,trombone
+5d7ff4aa50fda7001a863736,cello,7.0,FOUND,cello
+5d7ff4aa50fda7001a863736,banjo,2.1,FOUND,banjo
+5d7ff4aa50fda7001a863736,accordion,0.0,FOUND,accordion
+5d7ff4aa50fda7001a863736,piano,1.2,FOUND,piano
+5d7ff4aa50fda7001a863736,armored,11.7,FOUND,armored
+5d7ff4aa50fda7001a863736,harmonica,0.0,FOUND,harmonica
+5d7ff4aa50fda7001a863736,xylophone,12.8,FOUND,xylophone
+5d7ff4aa50fda7001a863736,bongos,3.09999999999999,FOUND,bongos
+5d7ff4aa50fda7001a863736,maracas,3.90000000000001,FOUND,maracas
+5d7ff4aa50fda7001a863736,triangle,5.39999999999999,FOUND,triangle
+5d7ff4aa50fda7001a863736,ukulele,18.8,FOUND,ukulele
+65cb63e160bb47fbf9349269,piano,0.0,FOUND,piano
+65cb63e160bb47fbf9349269,guitar,0.0,FOUND,guitar
+65cb63e160bb47fbf9349269,Maracas,0.0,REPLACE,maracas
+65cb63e160bb47fbf9349269,violins,0.0,FOUND,violins
+65cb63e160bb47fbf9349269,violas,0.0,FOUND,violas
+65cb63e160bb47fbf9349269,cellos,0.0,FOUND,cellos
+65cb63e160bb47fbf9349269,xylophones,3.6,FOUND,xylophones
+65cb63e160bb47fbf9349269,bass guitar,1.0,FOUND,bass guitar
+65cb63e160bb47fbf9349269,drums,0.0,FOUND,drums
+65cb63e160bb47fbf9349269,saxophone,6.8,FOUND,saxophone
+65cb63e160bb47fbf9349269,flute,0.0,FOUND,flute
+65cb63e160bb47fbf9349269,recorder,0.0,FOUND,recorder
+65cb63e160bb47fbf9349269,clarinet,1.4,FOUND,clarinet
+65cb63e160bb47fbf9349269,bass,2.4,FOUND,bass
+65cb63e160bb47fbf9349269,trombone,8.0,FOUND,trombone
+65cb63e160bb47fbf9349269,triangle,2.3,FOUND,triangle
+65cb63e160bb47fbf9349269,trumpet,53.1,FOUND,trumpet
+65cb63e160bb47fbf9349269,bongos,2.59999999999999,FOUND,bongos
+65cb63e160bb47fbf9349269,ukulele,6.30000000000001,FOUND,ukulele
+65cb63e160bb47fbf9349269,keytar,8.2,FOUND,keytar
+65e358d9c5e3ee026268b2a7,violin,0.0,FOUND,violin
+65e358d9c5e3ee026268b2a7,viola,0.8,FOUND,viola
+65e358d9c5e3ee026268b2a7,cello,3.9,FOUND,cello
+65e358d9c5e3ee026268b2a7,bass,3.0,FOUND,bass
+65e358d9c5e3ee026268b2a7,piano,7.0,FOUND,piano
+65e358d9c5e3ee026268b2a7,banjo,2.7,FOUND,banjo
+65e358d9c5e3ee026268b2a7,flute,1.4,FOUND,flute
+65e358d9c5e3ee026268b2a7,clarinet,0.0,FOUND,clarinet
+65e358d9c5e3ee026268b2a7,saxophone,0.0,FOUND,saxophone
+65e358d9c5e3ee026268b2a7,trumpet,0.0,FOUND,trumpet
+65e358d9c5e3ee026268b2a7,trombone,1.0,FOUND,trombone
+65e358d9c5e3ee026268b2a7,drum,3.40000000000001,FOUND,drum
+65e358d9c5e3ee026268b2a7,accordion,11.1,FOUND,accordion
+65e358d9c5e3ee026268b2a7,ukulele,9.40000000000001,FOUND,ukulele
+65e358d9c5e3ee026268b2a7,mandolin,0.0,FOUND,mandolin
+65e358d9c5e3ee026268b2a7,harp,9.3,FOUND,harp
+65e358d9c5e3ee026268b2a7,harmonica,4.60000000000001,FOUND,harmonica
+65e358d9c5e3ee026268b2a7,bagpipes,19.7,FOUND,bagpipes
+65d54b3b524fcafb543d1b23,saxophone,0.0,FOUND,saxophone
+65d54b3b524fcafb543d1b23,guitar,0.0,FOUND,guitar
+65d54b3b524fcafb543d1b23,piano,0.0,FOUND,piano
+65d54b3b524fcafb543d1b23,violin,0.0,FOUND,violin
+65d54b3b524fcafb543d1b23,viola,4.1,FOUND,viola
+65d54b3b524fcafb543d1b23,trumpet,3.2,FOUND,trumpet
+65d54b3b524fcafb543d1b23,trombone,0.0,FOUND,trombone
+65d54b3b524fcafb543d1b23,clarinet,0.0,FOUND,clarinet
+65d54b3b524fcafb543d1b23,bass clarinet,1.0,FOUND,bass clarinet
+65d54b3b524fcafb543d1b23,Bass,1.3,REPLACE,bass
+65d54b3b524fcafb543d1b23,electric guitar,1.2,FOUND,electric guitar
+65d54b3b524fcafb543d1b23,drums,1.0,FOUND,drums
+65d54b3b524fcafb543d1b23,xylophone,6.1,FOUND,xylophone
+65d54b3b524fcafb543d1b23,flute,5.7,FOUND,flute
+65d54b3b524fcafb543d1b23,harmonica,12.0,FOUND,harmonica
+65d54b3b524fcafb543d1b23,banjo,1.3,FOUND,banjo
+65d54b3b524fcafb543d1b23,Kimbrell's,36.7,REPLACE,kimbrell's
+65e1f75ab3efd22e847cfbf0,guitar,0.0,FOUND,guitar
+65e1f75ab3efd22e847cfbf0,violin,1.0,FOUND,violin
+65e1f75ab3efd22e847cfbf0,harp,0.0,FOUND,harp
+65e1f75ab3efd22e847cfbf0,drums,1.2,FOUND,drums
+65e1f75ab3efd22e847cfbf0,banjo,0.0,FOUND,banjo
+65e1f75ab3efd22e847cfbf0,baritone,1.3,FOUND,baritone
+65e1f75ab3efd22e847cfbf0,trumpet,0.0,FOUND,trumpet
+65e1f75ab3efd22e847cfbf0,flute,0.0,FOUND,flute
+65e1f75ab3efd22e847cfbf0,cello,0.0,FOUND,cello
+65e1f75ab3efd22e847cfbf0,violin,2.7,FOUND,violin
+65e1f75ab3efd22e847cfbf0,tuba,12.8,FOUND,tuba
+65e1f75ab3efd22e847cfbf0,piano,2.1,FOUND,piano
+65e1f75ab3efd22e847cfbf0,xylophone,26.6,FOUND,xylophone
+65e1f75ab3efd22e847cfbf0,accordion,1.7,FOUND,accordion
+65e1f75ab3efd22e847cfbf0,clarinet,27.2,FOUND,clarinet
+65e1f75ab3efd22e847cfbf0,harmonica,1.60000000000001,FOUND,harmonica

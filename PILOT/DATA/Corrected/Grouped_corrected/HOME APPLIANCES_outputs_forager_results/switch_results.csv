@@ -1,0 +1,277 @@
+Subject,Fluency_Item,Switch_Value,Switch_Method
+5d7ff4aa50fda7001a863736,oven,2,simdrop
+5d7ff4aa50fda7001a863736,microwave,0,simdrop
+5d7ff4aa50fda7001a863736,toaster,0,simdrop
+5d7ff4aa50fda7001a863736,air fryer,1,simdrop
+5d7ff4aa50fda7001a863736,toaster oven,0,simdrop
+5d7ff4aa50fda7001a863736,blender,1,simdrop
+5d7ff4aa50fda7001a863736,stand mixer,0,simdrop
+5d7ff4aa50fda7001a863736,hand mixer,0,simdrop
+5d7ff4aa50fda7001a863736,dishwasher,1,simdrop
+5d7ff4aa50fda7001a863736,coffee maker,0,simdrop
+5d7ff4aa50fda7001a863736,refrigerator,1,simdrop
+5d7ff4aa50fda7001a863736,washer,0,simdrop
+5d7ff4aa50fda7001a863736,and,0,simdrop
+5d7ff4aa50fda7001a863736,dryer,1,simdrop
+5d7ff4aa50fda7001a863736,vacuum cleaner,0,simdrop
+5d7ff4aa50fda7001a863736,iron,1,simdrop
+5d7ff4aa50fda7001a863736,freezer,0,simdrop
+5d7ff4aa50fda7001a863736,deep freezer,0,simdrop
+5d7ff4aa50fda7001a863736,rice cooker,1,simdrop
+5d7ff4aa50fda7001a863736,crock pot,0,simdrop
+5d7ff4aa50fda7001a863736,pressure cooker,0,simdrop
+5d7ff4aa50fda7001a863736,food processor,0,simdrop
+5d7ff4aa50fda7001a863736,kettle,2,simdrop
+5f5aa60bef062519ff711fe6,microwave,2,simdrop
+5f5aa60bef062519ff711fe6,oven,0,simdrop
+5f5aa60bef062519ff711fe6,refrigerator,0,simdrop
+5f5aa60bef062519ff711fe6,toaster,0,simdrop
+5f5aa60bef062519ff711fe6,air fryer,0,simdrop
+5f5aa60bef062519ff711fe6,blender,1,simdrop
+5f5aa60bef062519ff711fe6,coffee maker,0,simdrop
+5f5aa60bef062519ff711fe6,ice maker,0,simdrop
+5f5aa60bef062519ff711fe6,surround sound system,0,simdrop
+5f5aa60bef062519ff711fe6,sink,1,simdrop
+5f5aa60bef062519ff711fe6,shower,0,simdrop
+5f5aa60bef062519ff711fe6,thermostat,0,simdrop
+5f5aa60bef062519ff711fe6,fire alarm,0,simdrop
+5f5aa60bef062519ff711fe6,ac unit,1,simdrop
+5f5aa60bef062519ff711fe6,boiler,0,simdrop
+5f5aa60bef062519ff711fe6,waffle maker,2,simdrop
+60a48adfe091e410f4eaba34,refrigerator,2,simdrop
+60a48adfe091e410f4eaba34,air conditioner,0,simdrop
+60a48adfe091e410f4eaba34,stove,1,simdrop
+60a48adfe091e410f4eaba34,microwave,0,simdrop
+60a48adfe091e410f4eaba34,fan,0,simdrop
+60a48adfe091e410f4eaba34,washer,1,simdrop
+60a48adfe091e410f4eaba34,dryer,0,simdrop
+60a48adfe091e410f4eaba34,dishwasher,1,simdrop
+60a48adfe091e410f4eaba34,sink,0,simdrop
+60a48adfe091e410f4eaba34,toilet,0,simdrop
+60a48adfe091e410f4eaba34,shower,0,simdrop
+60a48adfe091e410f4eaba34,countertop,1,simdrop
+60a48adfe091e410f4eaba34,toaster,0,simdrop
+60a48adfe091e410f4eaba34,freezer,1,simdrop
+60a48adfe091e410f4eaba34,furnace,0,simdrop
+60a48adfe091e410f4eaba34,heater,2,simdrop
+60d731567049e5132e3cc4d4,stove,2,simdrop
+60d731567049e5132e3cc4d4,refrigerator,0,simdrop
+60d731567049e5132e3cc4d4,dishwasher,0,simdrop
+60d731567049e5132e3cc4d4,air fryer,1,simdrop
+60d731567049e5132e3cc4d4,microwave,0,simdrop
+60d731567049e5132e3cc4d4,toaster,0,simdrop
+60d731567049e5132e3cc4d4,air conditioning,1,simdrop
+60d731567049e5132e3cc4d4,heater,0,simdrop
+60d731567049e5132e3cc4d4,record player,0,simdrop
+60d731567049e5132e3cc4d4,lamp,1,simdrop
+60d731567049e5132e3cc4d4,washing machine,0,simdrop
+60d731567049e5132e3cc4d4,dryer,0,simdrop
+60d731567049e5132e3cc4d4,rice cooker,1,simdrop
+60d731567049e5132e3cc4d4,crock pot,0,simdrop
+60d731567049e5132e3cc4d4,blender,1,simdrop
+60d731567049e5132e3cc4d4,hand mixer,0,simdrop
+60d731567049e5132e3cc4d4,humidifier,1,simdrop
+60d731567049e5132e3cc4d4,dehumidifier,0,simdrop
+60d731567049e5132e3cc4d4,hair dryer,0,simdrop
+60d731567049e5132e3cc4d4,wine fridge,1,simdrop
+60d731567049e5132e3cc4d4,freezer,0,simdrop
+60d731567049e5132e3cc4d4,radio,1,simdrop
+60d731567049e5132e3cc4d4,computer,2,simdrop
+63e802622f8052bd67d6c5f0,dryer,2,simdrop
+63e802622f8052bd67d6c5f0,washer,0,simdrop
+63e802622f8052bd67d6c5f0,frigerator,0,simdrop
+63e802622f8052bd67d6c5f0,dishwasher,1,simdrop
+63e802622f8052bd67d6c5f0,dehumidifier,0,simdrop
+63e802622f8052bd67d6c5f0,air conditioner,0,simdrop
+63e802622f8052bd67d6c5f0,stove,0,simdrop
+63e802622f8052bd67d6c5f0,television,0,simdrop
+63e802622f8052bd67d6c5f0,that's,1,simdrop
+63e802622f8052bd67d6c5f0,it,0,simdrop
+63e802622f8052bd67d6c5f0,furnace,1,simdrop
+63e802622f8052bd67d6c5f0,heater,2,simdrop
+63ea4ab1ce4168cbe9f63775,blender,2,simdrop
+63ea4ab1ce4168cbe9f63775,microwaves,0,simdrop
+63ea4ab1ce4168cbe9f63775,coffee maker,0,simdrop
+63ea4ab1ce4168cbe9f63775,coffee grinder,0,simdrop
+63ea4ab1ce4168cbe9f63775,dishwasher,1,simdrop
+63ea4ab1ce4168cbe9f63775,oven,0,simdrop
+63ea4ab1ce4168cbe9f63775,stove,0,simdrop
+63ea4ab1ce4168cbe9f63775,hot plate,0,simdrop
+63ea4ab1ce4168cbe9f63775,air fryer,1,simdrop
+63ea4ab1ce4168cbe9f63775,deep fryer,0,simdrop
+63ea4ab1ce4168cbe9f63775,slow cooker,1,simdrop
+63ea4ab1ce4168cbe9f63775,pressure cooker,0,simdrop
+63ea4ab1ce4168cbe9f63775,refrigerator,1,simdrop
+63ea4ab1ce4168cbe9f63775,freezer,0,simdrop
+63ea4ab1ce4168cbe9f63775,washing machine,1,simdrop
+63ea4ab1ce4168cbe9f63775,dryer,0,simdrop
+63ea4ab1ce4168cbe9f63775,vacuum cleaner,1,simdrop
+63ea4ab1ce4168cbe9f63775,floor cleaner,0,simdrop
+63ea4ab1ce4168cbe9f63775,clothes iron,1,simdrop
+63ea4ab1ce4168cbe9f63775,clothes steamer,0,simdrop
+63ea4ab1ce4168cbe9f63775,toaster,1,simdrop
+63ea4ab1ce4168cbe9f63775,toaster oven,0,simdrop
+63ea4ab1ce4168cbe9f63775,food processor,1,simdrop
+63ea4ab1ce4168cbe9f63775,stand mixer,0,simdrop
+63ea4ab1ce4168cbe9f63775,hand mixer,0,simdrop
+63ea4ab1ce4168cbe9f63775,electric griddle,1,simdrop
+63ea4ab1ce4168cbe9f63775,electric kettle,0,simdrop
+63ea4ab1ce4168cbe9f63775,waffle iron,2,simdrop
+65c25cf77dca9d7ca7d9ebdb,microwaves,2,simdrop
+65c25cf77dca9d7ca7d9ebdb,fridge,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,freezer,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,toaster,1,simdrop
+65c25cf77dca9d7ca7d9ebdb,stove,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,oven,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,air fryer,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,mixer,1,simdrop
+65c25cf77dca9d7ca7d9ebdb,coffee machine,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,cutting board,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,ice maker,1,simdrop
+65c25cf77dca9d7ca7d9ebdb,rice cooker,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,steamer,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,fryer,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,dishwasher,1,simdrop
+65c25cf77dca9d7ca7d9ebdb,sink,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,humidifier,2,simdrop
+65cb63e160bb47fbf9349269,oven,2,simdrop
+65cb63e160bb47fbf9349269,microwave,0,simdrop
+65cb63e160bb47fbf9349269,fridge,0,simdrop
+65cb63e160bb47fbf9349269,coffee maker,1,simdrop
+65cb63e160bb47fbf9349269,mixers,0,simdrop
+65cb63e160bb47fbf9349269,ovens,1,simdrop
+65cb63e160bb47fbf9349269,toaster ovens,0,simdrop
+65cb63e160bb47fbf9349269,toasters,0,simdrop
+65cb63e160bb47fbf9349269,washing machine,1,simdrop
+65cb63e160bb47fbf9349269,drawing machine,0,simdrop
+65cb63e160bb47fbf9349269,dishwasher,1,simdrop
+65cb63e160bb47fbf9349269,stove fan,2,simdrop
+65cc19b4b3d48a22dfc6756d,toaster,2,simdrop
+65cc19b4b3d48a22dfc6756d,toaster oven,0,simdrop
+65cc19b4b3d48a22dfc6756d,microwave,0,simdrop
+65cc19b4b3d48a22dfc6756d,stove top oven,0,simdrop
+65cc19b4b3d48a22dfc6756d,blender,1,simdrop
+65cc19b4b3d48a22dfc6756d,mixer,0,simdrop
+65cc19b4b3d48a22dfc6756d,air fryer,0,simdrop
+65cc19b4b3d48a22dfc6756d,refrigerator,1,simdrop
+65cc19b4b3d48a22dfc6756d,air conditioner,0,simdrop
+65cc19b4b3d48a22dfc6756d,rice cooker,1,simdrop
+65cc19b4b3d48a22dfc6756d,washing machine,0,simdrop
+65cc19b4b3d48a22dfc6756d,fryer,0,simdrop
+65cc19b4b3d48a22dfc6756d,air purifier,1,simdrop
+65cc19b4b3d48a22dfc6756d,vacuum,0,simdrop
+65cc19b4b3d48a22dfc6756d,roomba,2,simdrop
+65d54b3b524fcafb543d1b23,stove top,2,simdrop
+65d54b3b524fcafb543d1b23,oven,0,simdrop
+65d54b3b524fcafb543d1b23,air fryer oven,0,simdrop
+65d54b3b524fcafb543d1b23,air fryer,0,simdrop
+65d54b3b524fcafb543d1b23,microwave,0,simdrop
+65d54b3b524fcafb543d1b23,sink,1,simdrop
+65d54b3b524fcafb543d1b23,laundry washer,0,simdrop
+65d54b3b524fcafb543d1b23,dryer,0,simdrop
+65d54b3b524fcafb543d1b23,refrigerator,0,simdrop
+65d54b3b524fcafb543d1b23,stand mixer,0,simdrop
+65d54b3b524fcafb543d1b23,heater tank,1,simdrop
+65d54b3b524fcafb543d1b23,tank heater,0,simdrop
+65d54b3b524fcafb543d1b23,light bulbs,0,simdrop
+65d54b3b524fcafb543d1b23,rice cooker,1,simdrop
+65d54b3b524fcafb543d1b23,slow cooker,0,simdrop
+65d54b3b524fcafb543d1b23,pressure cooker,0,simdrop
+65d54b3b524fcafb543d1b23,timer,2,simdrop
+65d6a09286a0c99e632a46dd,stove,2,simdrop
+65d6a09286a0c99e632a46dd,washer,0,simdrop
+65d6a09286a0c99e632a46dd,dryer,0,simdrop
+65d6a09286a0c99e632a46dd,dishwasher,0,simdrop
+65d6a09286a0c99e632a46dd,air fryer,1,simdrop
+65d6a09286a0c99e632a46dd,toaster oven,0,simdrop
+65d6a09286a0c99e632a46dd,toaster,0,simdrop
+65d6a09286a0c99e632a46dd,a,0,simdrop
+65d6a09286a0c99e632a46dd,blender,0,simdrop
+65d6a09286a0c99e632a46dd,a,0,simdrop
+65d6a09286a0c99e632a46dd,juicer,1,simdrop
+65d6a09286a0c99e632a46dd,fridge,0,simdrop
+65d6a09286a0c99e632a46dd,freezer,0,simdrop
+65d6a09286a0c99e632a46dd,dehydrator,0,simdrop
+65d6a09286a0c99e632a46dd,furniture,0,simdrop
+65d6a09286a0c99e632a46dd,mini fridge,1,simdrop
+65d6a09286a0c99e632a46dd,microwave,2,simdrop
+65e1f75ab3efd22e847cfbf0,fridge,2,simdrop
+65e1f75ab3efd22e847cfbf0,air fryer,0,simdrop
+65e1f75ab3efd22e847cfbf0,microwave,0,simdrop
+65e1f75ab3efd22e847cfbf0,toaster,0,simdrop
+65e1f75ab3efd22e847cfbf0,coffee pot,1,simdrop
+65e1f75ab3efd22e847cfbf0,french press,0,simdrop
+65e1f75ab3efd22e847cfbf0,oven,1,simdrop
+65e1f75ab3efd22e847cfbf0,keurig,0,simdrop
+65e1f75ab3efd22e847cfbf0,washer,0,simdrop
+65e1f75ab3efd22e847cfbf0,dryer,0,simdrop
+65e1f75ab3efd22e847cfbf0,dishwasher,0,simdrop
+65e1f75ab3efd22e847cfbf0,fan,1,simdrop
+65e1f75ab3efd22e847cfbf0,light,0,simdrop
+65e1f75ab3efd22e847cfbf0,lamp,0,simdrop
+65e1f75ab3efd22e847cfbf0,the tv,0,simdrop
+65e1f75ab3efd22e847cfbf0,microwave oven,1,simdrop
+65e1f75ab3efd22e847cfbf0,heater,2,simdrop
+65e358d9c5e3ee026268b2a7,fridge,2,simdrop
+65e358d9c5e3ee026268b2a7,freezer,0,simdrop
+65e358d9c5e3ee026268b2a7,oven,1,simdrop
+65e358d9c5e3ee026268b2a7,stove top,0,simdrop
+65e358d9c5e3ee026268b2a7,keurig,1,simdrop
+65e358d9c5e3ee026268b2a7,coffee maker,0,simdrop
+65e358d9c5e3ee026268b2a7,microwave,1,simdrop
+65e358d9c5e3ee026268b2a7,toaster,0,simdrop
+65e358d9c5e3ee026268b2a7,nuwave oven,1,simdrop
+65e358d9c5e3ee026268b2a7,crock pot,0,simdrop
+65e358d9c5e3ee026268b2a7,instapot,0,simdrop
+65e358d9c5e3ee026268b2a7,rice cooker,1,simdrop
+65e358d9c5e3ee026268b2a7,cooker,0,simdrop
+65e358d9c5e3ee026268b2a7,hard boiled egg cooker,0,simdrop
+65e358d9c5e3ee026268b2a7,dishwasher,1,simdrop
+65e358d9c5e3ee026268b2a7,washer,0,simdrop
+65e358d9c5e3ee026268b2a7,dryer,0,simdrop
+65e358d9c5e3ee026268b2a7,hot water kettle,0,simdrop
+65e358d9c5e3ee026268b2a7,food processor,1,simdrop
+65e358d9c5e3ee026268b2a7,juicer,0,simdrop
+65e358d9c5e3ee026268b2a7,waffle maker,1,simdrop
+65e358d9c5e3ee026268b2a7,griddle,0,simdrop
+65e358d9c5e3ee026268b2a7,grill,0,simdrop
+65e358d9c5e3ee026268b2a7,blender,1,simdrop
+65e358d9c5e3ee026268b2a7,mixer,0,simdrop
+65e358d9c5e3ee026268b2a7,immersion blender,0,simdrop
+65e358d9c5e3ee026268b2a7,air fryer,0,simdrop
+65e358d9c5e3ee026268b2a7,vacuum,2,simdrop
+65e862f844f1b7a803bb3c5a,air conditioner,2,simdrop
+65e862f844f1b7a803bb3c5a,blender,0,simdrop
+65e862f844f1b7a803bb3c5a,microwave,0,simdrop
+65e862f844f1b7a803bb3c5a,dryer,0,simdrop
+65e862f844f1b7a803bb3c5a,refrigerator,0,simdrop
+65e862f844f1b7a803bb3c5a,television,0,simdrop
+65e862f844f1b7a803bb3c5a,pressing iron,1,simdrop
+65e862f844f1b7a803bb3c5a,coffee maker,0,simdrop
+65e862f844f1b7a803bb3c5a,fan,0,simdrop
+65e862f844f1b7a803bb3c5a,toaster,0,simdrop
+65e862f844f1b7a803bb3c5a,oven,0,simdrop
+65e862f844f1b7a803bb3c5a,dishwasher,1,simdrop
+65e862f844f1b7a803bb3c5a,kettle,0,simdrop
+65e862f844f1b7a803bb3c5a,vacuum cleaner,0,simdrop
+65e862f844f1b7a803bb3c5a,lamp,1,simdrop
+65e862f844f1b7a803bb3c5a,bread maker,0,simdrop
+65e862f844f1b7a803bb3c5a,heater,0,simdrop
+65e862f844f1b7a803bb3c5a,rice cooker,0,simdrop
+65e862f844f1b7a803bb3c5a,slow cooker,0,simdrop
+65e862f844f1b7a803bb3c5a,pressure cooker,0,simdrop
+65e862f844f1b7a803bb3c5a,gas coooker,0,simdrop
+65e862f844f1b7a803bb3c5a,air purifier,0,simdrop
+65e862f844f1b7a803bb3c5a,mixer,1,simdrop
+65e862f844f1b7a803bb3c5a,air fryer,0,simdrop
+65e862f844f1b7a803bb3c5a,appliance plug,0,simdrop
+65e862f844f1b7a803bb3c5a,stove,0,simdrop
+65e862f844f1b7a803bb3c5a,griller,0,simdrop
+65e862f844f1b7a803bb3c5a,grilling pan,0,simdrop
+65e862f844f1b7a803bb3c5a,crock-pot,0,simdrop
+65e862f844f1b7a803bb3c5a,light bulb,1,simdrop
+65e862f844f1b7a803bb3c5a,torch,0,simdrop
+65e862f844f1b7a803bb3c5a,electric drill,0,simdrop
+65e862f844f1b7a803bb3c5a,kitchen wood,0,simdrop
+65e862f844f1b7a803bb3c5a,hotpot,1,simdrop
+65e862f844f1b7a803bb3c5a,kettle,2,simdrop

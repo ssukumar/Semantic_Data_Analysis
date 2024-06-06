@@ -1,0 +1,260 @@
+Subject,Fluency_Item,Switch_Value,Switch_Method
+5d7ff4aa50fda7001a863736,car,2,simdrop
+5d7ff4aa50fda7001a863736,bus,0,simdrop
+5d7ff4aa50fda7001a863736,taxi,0,simdrop
+5d7ff4aa50fda7001a863736,limo,0,simdrop
+5d7ff4aa50fda7001a863736,airplane,1,simdrop
+5d7ff4aa50fda7001a863736,helicopter,0,simdrop
+5d7ff4aa50fda7001a863736,bicycle,0,simdrop
+5d7ff4aa50fda7001a863736,oh,1,simdrop
+5d7ff4aa50fda7001a863736,ship,0,simdrop
+5d7ff4aa50fda7001a863736,boat,0,simdrop
+5d7ff4aa50fda7001a863736,scooter,1,simdrop
+5d7ff4aa50fda7001a863736,train,0,simdrop
+5d7ff4aa50fda7001a863736,motorcycle,0,simdrop
+5d7ff4aa50fda7001a863736,golf cart,0,simdrop
+5d7ff4aa50fda7001a863736,school bus,1,simdrop
+5d7ff4aa50fda7001a863736,ambulance,0,simdrop
+5d7ff4aa50fda7001a863736,police car,0,simdrop
+5d7ff4aa50fda7001a863736,horse,2,simdrop
+5f5aa60bef062519ff711fe6,biking,2,simdrop
+5f5aa60bef062519ff711fe6,car,0,simdrop
+5f5aa60bef062519ff711fe6,bus,0,simdrop
+5f5aa60bef062519ff711fe6,subway,1,simdrop
+5f5aa60bef062519ff711fe6,metro,0,simdrop
+5f5aa60bef062519ff711fe6,tram,1,simdrop
+5f5aa60bef062519ff711fe6,elevator,0,simdrop
+5f5aa60bef062519ff711fe6,escalator,0,simdrop
+5f5aa60bef062519ff711fe6,motorcycle,1,simdrop
+5f5aa60bef062519ff711fe6,carriage,0,simdrop
+5f5aa60bef062519ff711fe6,horse,0,simdrop
+5f5aa60bef062519ff711fe6,ship,0,simdrop
+5f5aa60bef062519ff711fe6,crane,0,simdrop
+5f5aa60bef062519ff711fe6,walking,1,simdrop
+5f5aa60bef062519ff711fe6,scooter,0,simdrop
+5f5aa60bef062519ff711fe6,skateboard,2,simdrop
+60a48adfe091e410f4eaba34,car,2,simdrop
+60a48adfe091e410f4eaba34,bus,0,simdrop
+60a48adfe091e410f4eaba34,train,0,simdrop
+60a48adfe091e410f4eaba34,plane,0,simdrop
+60a48adfe091e410f4eaba34,private jet,0,simdrop
+60a48adfe091e410f4eaba34,walking,1,simdrop
+60a48adfe091e410f4eaba34,bicycle,0,simdrop
+60a48adfe091e410f4eaba34,boat,0,simdrop
+60a48adfe091e410f4eaba34,hang glider,0,simdrop
+60a48adfe091e410f4eaba34,segway,1,simdrop
+60a48adfe091e410f4eaba34,scooter,0,simdrop
+60a48adfe091e410f4eaba34,paddle board,1,simdrop
+60a48adfe091e410f4eaba34,running,0,simdrop
+60a48adfe091e410f4eaba34,swimming,0,simdrop
+60a48adfe091e410f4eaba34,taxi,1,simdrop
+60a48adfe091e410f4eaba34,carpooling,2,simdrop
+60d731567049e5132e3cc4d4,walking,2,simdrop
+60d731567049e5132e3cc4d4,taking an uber,0,simdrop
+60d731567049e5132e3cc4d4,driving,0,simdrop
+60d731567049e5132e3cc4d4,biking,0,simdrop
+60d731567049e5132e3cc4d4,train,1,simdrop
+60d731567049e5132e3cc4d4,airplane,0,simdrop
+60d731567049e5132e3cc4d4,skateboard,1,simdrop
+60d731567049e5132e3cc4d4,scooter,0,simdrop
+60d731567049e5132e3cc4d4,hoverboard,0,simdrop
+60d731567049e5132e3cc4d4,trolly,1,simdrop
+60d731567049e5132e3cc4d4,subway,0,simdrop
+60d731567049e5132e3cc4d4,gondola,1,simdrop
+60d731567049e5132e3cc4d4,chairlift,0,simdrop
+60d731567049e5132e3cc4d4,teabar,0,simdrop
+60d731567049e5132e3cc4d4,helicopter,1,simdrop
+60d731567049e5132e3cc4d4,pedal cab,0,simdrop
+60d731567049e5132e3cc4d4,sled,1,simdrop
+60d731567049e5132e3cc4d4,wagon,0,simdrop
+60d731567049e5132e3cc4d4,skis,1,simdrop
+60d731567049e5132e3cc4d4,snowshoes,0,simdrop
+60d731567049e5132e3cc4d4,conveyor belt,1,simdrop
+60d731567049e5132e3cc4d4,elevator,0,simdrop
+60d731567049e5132e3cc4d4,escalator,0,simdrop
+60d731567049e5132e3cc4d4,trampoline,0,simdrop
+60d731567049e5132e3cc4d4,merry go round,1,simdrop
+60d731567049e5132e3cc4d4,ferris wheel,0,simdrop
+60d731567049e5132e3cc4d4,zipline,2,simdrop
+63e802622f8052bd67d6c5f0,skateboard,2,simdrop
+63e802622f8052bd67d6c5f0,rollerblades,0,simdrop
+63e802622f8052bd67d6c5f0,car,1,simdrop
+63e802622f8052bd67d6c5f0,truck,0,simdrop
+63e802622f8052bd67d6c5f0,bus,0,simdrop
+63e802622f8052bd67d6c5f0,rain,0,simdrop
+63e802622f8052bd67d6c5f0,scooter,1,simdrop
+63e802622f8052bd67d6c5f0,walking,0,simdrop
+63e802622f8052bd67d6c5f0,boating,0,simdrop
+63e802622f8052bd67d6c5f0,motorcycle,0,simdrop
+63e802622f8052bd67d6c5f0,dirt bike,0,simdrop
+63e802622f8052bd67d6c5f0,submarine,2,simdrop
+63ea4ab1ce4168cbe9f63775,walking,2,simdrop
+63ea4ab1ce4168cbe9f63775,driving your own car,0,simdrop
+63ea4ab1ce4168cbe9f63775,taxi services,1,simdrop
+63ea4ab1ce4168cbe9f63775,private car services,0,simdrop
+63ea4ab1ce4168cbe9f63775,uber,1,simdrop
+63ea4ab1ce4168cbe9f63775,lyft,0,simdrop
+63ea4ab1ce4168cbe9f63775,bicycle,1,simdrop
+63ea4ab1ce4168cbe9f63775,electric scooter,0,simdrop
+63ea4ab1ce4168cbe9f63775,zipcar,1,simdrop
+63ea4ab1ce4168cbe9f63775,motorized scooter,0,simdrop
+63ea4ab1ce4168cbe9f63775,motorcycle,0,simdrop
+63ea4ab1ce4168cbe9f63775,truck,0,simdrop
+63ea4ab1ce4168cbe9f63775,airplane,0,simdrop
+63ea4ab1ce4168cbe9f63775,subway,1,simdrop
+63ea4ab1ce4168cbe9f63775,train,0,simdrop
+63ea4ab1ce4168cbe9f63775,high-speed train,0,simdrop
+63ea4ab1ce4168cbe9f63775,ship,1,simdrop
+63ea4ab1ce4168cbe9f63775,cruise ship,0,simdrop
+63ea4ab1ce4168cbe9f63775,ferry,0,simdrop
+63ea4ab1ce4168cbe9f63775,hand cart,0,simdrop
+63ea4ab1ce4168cbe9f63775,incline,1,simdrop
+63ea4ab1ce4168cbe9f63775,bus,0,simdrop
+63ea4ab1ce4168cbe9f63775,public bus,0,simdrop
+63ea4ab1ce4168cbe9f63775,ambulance,0,simdrop
+63ea4ab1ce4168cbe9f63775,shuttle,1,simdrop
+63ea4ab1ce4168cbe9f63775,van,2,simdrop
+65c25cf77dca9d7ca7d9ebdb,car,2,simdrop
+65c25cf77dca9d7ca7d9ebdb,airplane,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,train,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,boat,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,jet ski,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,bicycle,1,simdrop
+65c25cf77dca9d7ca7d9ebdb,motorcycle,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,a train,1,simdrop
+65c25cf77dca9d7ca7d9ebdb,bus,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,trolley,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,submarine,1,simdrop
+65c25cf77dca9d7ca7d9ebdb,skateboard,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,scooter,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,elevator,1,simdrop
+65c25cf77dca9d7ca7d9ebdb,stairs,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,helicopter,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,ambulance,2,simdrop
+65cb63e160bb47fbf9349269,car,2,simdrop
+65cb63e160bb47fbf9349269,bus,0,simdrop
+65cb63e160bb47fbf9349269,train,0,simdrop
+65cb63e160bb47fbf9349269,taxi,0,simdrop
+65cb63e160bb47fbf9349269,ride sharing,0,simdrop
+65cb63e160bb47fbf9349269,light rail,1,simdrop
+65cb63e160bb47fbf9349269,monorail,0,simdrop
+65cb63e160bb47fbf9349269,plane,1,simdrop
+65cb63e160bb47fbf9349269,helicopter,0,simdrop
+65cb63e160bb47fbf9349269,boat,1,simdrop
+65cb63e160bb47fbf9349269,cruise,0,simdrop
+65cb63e160bb47fbf9349269,sailboat,0,simdrop
+65cb63e160bb47fbf9349269,bicycle,1,simdrop
+65cb63e160bb47fbf9349269,bicycle,0,simdrop
+65cb63e160bb47fbf9349269,motorcycle,0,simdrop
+65cb63e160bb47fbf9349269,paragliding,0,simdrop
+65cb63e160bb47fbf9349269,tram,1,simdrop
+65cb63e160bb47fbf9349269,skis,0,simdrop
+65cb63e160bb47fbf9349269,snowboard,0,simdrop
+65cb63e160bb47fbf9349269,scooter,1,simdrop
+65cb63e160bb47fbf9349269,skateboard,2,simdrop
+65cc19b4b3d48a22dfc6756d,foot,2,simdrop
+65cc19b4b3d48a22dfc6756d,car,0,simdrop
+65cc19b4b3d48a22dfc6756d,train,0,simdrop
+65cc19b4b3d48a22dfc6756d,bus,0,simdrop
+65cc19b4b3d48a22dfc6756d,airplane,1,simdrop
+65cc19b4b3d48a22dfc6756d,boat,0,simdrop
+65cc19b4b3d48a22dfc6756d,helicopter,0,simdrop
+65cc19b4b3d48a22dfc6756d,rocket ship,1,simdrop
+65cc19b4b3d48a22dfc6756d,spaceship,2,simdrop
+65d54b3b524fcafb543d1b23,car,2,simdrop
+65d54b3b524fcafb543d1b23,truck,0,simdrop
+65d54b3b524fcafb543d1b23,bus,1,simdrop
+65d54b3b524fcafb543d1b23,school bus,0,simdrop
+65d54b3b524fcafb543d1b23,uber,1,simdrop
+65d54b3b524fcafb543d1b23,lyft,0,simdrop
+65d54b3b524fcafb543d1b23,bicycle,1,simdrop
+65d54b3b524fcafb543d1b23,skateboard,0,simdrop
+65d54b3b524fcafb543d1b23,scooter,1,simdrop
+65d54b3b524fcafb543d1b23,electric scooter,0,simdrop
+65d54b3b524fcafb543d1b23,boat,1,simdrop
+65d54b3b524fcafb543d1b23,ferry,0,simdrop
+65d54b3b524fcafb543d1b23,carriage,0,simdrop
+65d54b3b524fcafb543d1b23,horse,0,simdrop
+65d54b3b524fcafb543d1b23,ski,1,simdrop
+65d54b3b524fcafb543d1b23,ski,0,simdrop
+65d54b3b524fcafb543d1b23,ski dogs,2,simdrop
+65d6a09286a0c99e632a46dd,car,2,simdrop
+65d6a09286a0c99e632a46dd,bike,0,simdrop
+65d6a09286a0c99e632a46dd,plane,1,simdrop
+65d6a09286a0c99e632a46dd,train,0,simdrop
+65d6a09286a0c99e632a46dd,boss,1,simdrop
+65d6a09286a0c99e632a46dd,walk,0,simdrop
+65d6a09286a0c99e632a46dd,scooter,0,simdrop
+65d6a09286a0c99e632a46dd,electric scooter,0,simdrop
+65d6a09286a0c99e632a46dd,rollerblade,0,simdrop
+65d6a09286a0c99e632a46dd,running,0,simdrop
+65d6a09286a0c99e632a46dd,skateboard,1,simdrop
+65d6a09286a0c99e632a46dd,longboard,0,simdrop
+65d6a09286a0c99e632a46dd,hoverboard,0,simdrop
+65d6a09286a0c99e632a46dd,golf cart,1,simdrop
+65d6a09286a0c99e632a46dd,tractor,0,simdrop
+65d6a09286a0c99e632a46dd,trailer,2,simdrop
+65e1f75ab3efd22e847cfbf0,car,2,simdrop
+65e1f75ab3efd22e847cfbf0,bike,0,simdrop
+65e1f75ab3efd22e847cfbf0,plane,1,simdrop
+65e1f75ab3efd22e847cfbf0,boat,0,simdrop
+65e1f75ab3efd22e847cfbf0,train,0,simdrop
+65e1f75ab3efd22e847cfbf0,scooter,1,simdrop
+65e1f75ab3efd22e847cfbf0,motorcycle,0,simdrop
+65e1f75ab3efd22e847cfbf0,bus,0,simdrop
+65e1f75ab3efd22e847cfbf0,van,1,simdrop
+65e1f75ab3efd22e847cfbf0,truck,0,simdrop
+65e1f75ab3efd22e847cfbf0,sedan,0,simdrop
+65e1f75ab3efd22e847cfbf0,plane,1,simdrop
+65e1f75ab3efd22e847cfbf0,ship,0,simdrop
+65e1f75ab3efd22e847cfbf0,hot air balloon,0,simdrop
+65e1f75ab3efd22e847cfbf0,was not a,2,simdrop
+65e358d9c5e3ee026268b2a7,walking,2,simdrop
+65e358d9c5e3ee026268b2a7,running,0,simdrop
+65e358d9c5e3ee026268b2a7,skipping,0,simdrop
+65e358d9c5e3ee026268b2a7,rollerblades,1,simdrop
+65e358d9c5e3ee026268b2a7,heelys,0,simdrop
+65e358d9c5e3ee026268b2a7,skateboard,1,simdrop
+65e358d9c5e3ee026268b2a7,ripstik,0,simdrop
+65e358d9c5e3ee026268b2a7,scooter electric or manual,1,simdrop
+65e358d9c5e3ee026268b2a7,bike both electric or manual,0,simdrop
+65e358d9c5e3ee026268b2a7,tricycle,1,simdrop
+65e358d9c5e3ee026268b2a7,motorcycle,0,simdrop
+65e358d9c5e3ee026268b2a7,a car,0,simdrop
+65e358d9c5e3ee026268b2a7,a truck,0,simdrop
+65e358d9c5e3ee026268b2a7,a public transit bus,0,simdrop
+65e358d9c5e3ee026268b2a7,a plane,1,simdrop
+65e358d9c5e3ee026268b2a7,helicopter,0,simdrop
+65e358d9c5e3ee026268b2a7,boat,1,simdrop
+65e358d9c5e3ee026268b2a7,ferry,0,simdrop
+65e358d9c5e3ee026268b2a7,a cruise ship,1,simdrop
+65e358d9c5e3ee026268b2a7,yacht,0,simdrop
+65e358d9c5e3ee026268b2a7,spaceship,0,simdrop
+65e358d9c5e3ee026268b2a7,a taxi,1,simdrop
+65e358d9c5e3ee026268b2a7,rideshare system,0,simdrop
+65e358d9c5e3ee026268b2a7,uber,0,simdrop
+65e358d9c5e3ee026268b2a7,lyft,0,simdrop
+65e358d9c5e3ee026268b2a7,a pogo stick,1,simdrop
+65e358d9c5e3ee026268b2a7,a unicycle,2,simdrop
+65e862f844f1b7a803bb3c5a,bus,2,simdrop
+65e862f844f1b7a803bb3c5a,car,0,simdrop
+65e862f844f1b7a803bb3c5a,bicycle,0,simdrop
+65e862f844f1b7a803bb3c5a,coach,0,simdrop
+65e862f844f1b7a803bb3c5a,camel,1,simdrop
+65e862f844f1b7a803bb3c5a,horse,0,simdrop
+65e862f844f1b7a803bb3c5a,cable car,0,simdrop
+65e862f844f1b7a803bb3c5a,skateboard,1,simdrop
+65e862f844f1b7a803bb3c5a,aeroplane,0,simdrop
+65e862f844f1b7a803bb3c5a,narrow boats,1,simdrop
+65e862f844f1b7a803bb3c5a,yacht,0,simdrop
+65e862f844f1b7a803bb3c5a,ferry,0,simdrop
+65e862f844f1b7a803bb3c5a,cruise shiop,0,simdrop
+65e862f844f1b7a803bb3c5a,taxi,1,simdrop
+65e862f844f1b7a803bb3c5a,train,0,simdrop
+65e862f844f1b7a803bb3c5a,air boats,1,simdrop
+65e862f844f1b7a803bb3c5a,helicopter,0,simdrop
+65e862f844f1b7a803bb3c5a,submarine,0,simdrop
+65e862f844f1b7a803bb3c5a,truck,0,simdrop
+65e862f844f1b7a803bb3c5a,lorry,0,simdrop
+65e862f844f1b7a803bb3c5a,donkey,0,simdrop
+65e862f844f1b7a803bb3c5a,kennel,2,simdrop

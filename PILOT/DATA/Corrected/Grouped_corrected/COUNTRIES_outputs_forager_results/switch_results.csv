@@ -1,0 +1,540 @@
+Subject,Fluency_Item,Switch_Value,Switch_Method
+5c1942e200849900010afdcd,us,2,simdrop
+5c1942e200849900010afdcd,america,0,simdrop
+5c1942e200849900010afdcd,canada,1,simdrop
+5c1942e200849900010afdcd,mexico,0,simdrop
+5c1942e200849900010afdcd,haiti,1,simdrop
+5c1942e200849900010afdcd,cuba,0,simdrop
+5c1942e200849900010afdcd,dominican republic,0,simdrop
+5c1942e200849900010afdcd,brazil,1,simdrop
+5c1942e200849900010afdcd,argentina,0,simdrop
+5c1942e200849900010afdcd,chile,1,simdrop
+5c1942e200849900010afdcd,ecuador,0,simdrop
+5c1942e200849900010afdcd,colombia,0,simdrop
+5c1942e200849900010afdcd,united kingdom,1,simdrop
+5c1942e200849900010afdcd,ireland,0,simdrop
+5c1942e200849900010afdcd,france,0,simdrop
+5c1942e200849900010afdcd,portugal,1,simdrop
+5c1942e200849900010afdcd,spain,0,simdrop
+5c1942e200849900010afdcd,germany,0,simdrop
+5c1942e200849900010afdcd,luxembourg,0,simdrop
+5c1942e200849900010afdcd,austria,1,simdrop
+5c1942e200849900010afdcd,norway,0,simdrop
+5c1942e200849900010afdcd,sweden,0,simdrop
+5c1942e200849900010afdcd,finland,0,simdrop
+5c1942e200849900010afdcd,iceland,1,simdrop
+5c1942e200849900010afdcd,denmark,0,simdrop
+5c1942e200849900010afdcd,netherlands,0,simdrop
+5c1942e200849900010afdcd,belgium,0,simdrop
+5c1942e200849900010afdcd,morocco,0,simdrop
+5c1942e200849900010afdcd,egypt,1,simdrop
+5c1942e200849900010afdcd,south africa,0,simdrop
+5c1942e200849900010afdcd,nigeria,0,simdrop
+5c1942e200849900010afdcd,ethiopia,0,simdrop
+5c1942e200849900010afdcd,zimbabwe,1,simdrop
+5c1942e200849900010afdcd,india,0,simdrop
+5c1942e200849900010afdcd,sri lanka,0,simdrop
+5c1942e200849900010afdcd,thailand,1,simdrop
+5c1942e200849900010afdcd,vietnam,0,simdrop
+5c1942e200849900010afdcd,laos,0,simdrop
+5c1942e200849900010afdcd,myanmar,0,simdrop
+5c1942e200849900010afdcd,burma,0,simdrop
+5c1942e200849900010afdcd,japan,1,simdrop
+5c1942e200849900010afdcd,china,0,simdrop
+5c1942e200849900010afdcd,north korea,1,simdrop
+5c1942e200849900010afdcd,south korea,0,simdrop
+5c1942e200849900010afdcd,indonesia,1,simdrop
+5c1942e200849900010afdcd,malaysia,0,simdrop
+5c1942e200849900010afdcd,papua,1,simdrop
+5c1942e200849900010afdcd,australia,0,simdrop
+5c1942e200849900010afdcd,new zealand,0,simdrop
+5c1942e200849900010afdcd,russia,1,simdrop
+5c1942e200849900010afdcd,ukraine,0,simdrop
+5c1942e200849900010afdcd,armenia,1,simdrop
+5c1942e200849900010afdcd,turkey,0,simdrop
+5c1942e200849900010afdcd,georgia,0,simdrop
+5c1942e200849900010afdcd,lebanon,0,simdrop
+5c1942e200849900010afdcd,jordan,1,simdrop
+5c1942e200849900010afdcd,saudi arabia,0,simdrop
+5c1942e200849900010afdcd,afghanistan,0,simdrop
+5c1942e200849900010afdcd,iran,0,simdrop
+5c1942e200849900010afdcd,nepal,2,simdrop
+5c4a428161c51f0001e96b3f,us,2,simdrop
+5c4a428161c51f0001e96b3f,mexico,0,simdrop
+5c4a428161c51f0001e96b3f,spain,0,simdrop
+5c4a428161c51f0001e96b3f,france,0,simdrop
+5c4a428161c51f0001e96b3f,germany,0,simdrop
+5c4a428161c51f0001e96b3f,canada,1,simdrop
+5c4a428161c51f0001e96b3f,russia,0,simdrop
+5c4a428161c51f0001e96b3f,guatemala,1,simdrop
+5c4a428161c51f0001e96b3f,belize,0,simdrop
+5c4a428161c51f0001e96b3f,el salvador,1,simdrop
+5c4a428161c51f0001e96b3f,honduras,0,simdrop
+5c4a428161c51f0001e96b3f,nicaragua,0,simdrop
+5c4a428161c51f0001e96b3f,costa rica,0,simdrop
+5c4a428161c51f0001e96b3f,panama,0,simdrop
+5c4a428161c51f0001e96b3f,colombia,1,simdrop
+5c4a428161c51f0001e96b3f,venezuela,0,simdrop
+5c4a428161c51f0001e96b3f,guyana,0,simdrop
+5c4a428161c51f0001e96b3f,suriname,0,simdrop
+5c4a428161c51f0001e96b3f,guiana,0,simdrop
+5c4a428161c51f0001e96b3f,bolivia,1,simdrop
+5c4a428161c51f0001e96b3f,chile,0,simdrop
+5c4a428161c51f0001e96b3f,argentina,1,simdrop
+5c4a428161c51f0001e96b3f,paraguay,0,simdrop
+5c4a428161c51f0001e96b3f,uruguay,0,simdrop
+5c4a428161c51f0001e96b3f,china,1,simdrop
+5c4a428161c51f0001e96b3f,north korea,0,simdrop
+5c4a428161c51f0001e96b3f,south korea,0,simdrop
+5c4a428161c51f0001e96b3f,japan,0,simdrop
+5c4a428161c51f0001e96b3f,taiwan,0,simdrop
+5c4a428161c51f0001e96b3f,philippines,1,simdrop
+5c4a428161c51f0001e96b3f,indonesia,0,simdrop
+5c4a428161c51f0001e96b3f,singapore,1,simdrop
+5c4a428161c51f0001e96b3f,malaysia,0,simdrop
+5c4a428161c51f0001e96b3f,vietnam,1,simdrop
+5c4a428161c51f0001e96b3f,cambodia,0,simdrop
+5c4a428161c51f0001e96b3f,thailand,0,simdrop
+5c4a428161c51f0001e96b3f,laos,0,simdrop
+5c4a428161c51f0001e96b3f,myanmar,0,simdrop
+5c4a428161c51f0001e96b3f,bhutan,0,simdrop
+5c4a428161c51f0001e96b3f,bangladesh,0,simdrop
+5c4a428161c51f0001e96b3f,nepal,1,simdrop
+5c4a428161c51f0001e96b3f,india,0,simdrop
+5c4a428161c51f0001e96b3f,pakistan,0,simdrop
+5c4a428161c51f0001e96b3f,tajikistan,1,simdrop
+5c4a428161c51f0001e96b3f,kyrgyzstan,0,simdrop
+5c4a428161c51f0001e96b3f,pakistan,0,simdrop
+5c4a428161c51f0001e96b3f,turkmenistan,0,simdrop
+5c4a428161c51f0001e96b3f,afghanistan,1,simdrop
+5c4a428161c51f0001e96b3f,iran,0,simdrop
+5c4a428161c51f0001e96b3f,kazakhstan,0,simdrop
+5c4a428161c51f0001e96b3f,iraq,1,simdrop
+5c4a428161c51f0001e96b3f,kuwait,0,simdrop
+5c4a428161c51f0001e96b3f,qatar,1,simdrop
+5c4a428161c51f0001e96b3f,emirates,0,simdrop
+5c4a428161c51f0001e96b3f,oman,1,simdrop
+5c4a428161c51f0001e96b3f,yemen,0,simdrop
+5c4a428161c51f0001e96b3f,saudi arabia,0,simdrop
+5c4a428161c51f0001e96b3f,jordan,1,simdrop
+5c4a428161c51f0001e96b3f,israel,0,simdrop
+5c4a428161c51f0001e96b3f,palestine,0,simdrop
+5c4a428161c51f0001e96b3f,egypt,0,simdrop
+5c4a428161c51f0001e96b3f,cyprus,1,simdrop
+5c4a428161c51f0001e96b3f,turkey,0,simdrop
+5c4a428161c51f0001e96b3f,greece,0,simdrop
+5c4a428161c51f0001e96b3f,bulgaria,1,simdrop
+5c4a428161c51f0001e96b3f,romania,0,simdrop
+5c4a428161c51f0001e96b3f,moldova,0,simdrop
+5c4a428161c51f0001e96b3f,ukraine,1,simdrop
+5c4a428161c51f0001e96b3f,belarus,0,simdrop
+5c4a428161c51f0001e96b3f,lithuania,0,simdrop
+5c4a428161c51f0001e96b3f,latvia,2,simdrop
+5d3cc9010e510a00013df6f6,canada,2,simdrop
+5d3cc9010e510a00013df6f6,mexico,0,simdrop
+5d3cc9010e510a00013df6f6,panama,1,simdrop
+5d3cc9010e510a00013df6f6,costa rica,0,simdrop
+5d3cc9010e510a00013df6f6,peru,1,simdrop
+5d3cc9010e510a00013df6f6,brazil,0,simdrop
+5d3cc9010e510a00013df6f6,russia,1,simdrop
+5d3cc9010e510a00013df6f6,china,0,simdrop
+5d3cc9010e510a00013df6f6,japan,0,simdrop
+5d3cc9010e510a00013df6f6,north korea,1,simdrop
+5d3cc9010e510a00013df6f6,south korea,0,simdrop
+5d3cc9010e510a00013df6f6,india,1,simdrop
+5d3cc9010e510a00013df6f6,south africa,0,simdrop
+5d3cc9010e510a00013df6f6,nigeria,0,simdrop
+5d3cc9010e510a00013df6f6,tonga,0,simdrop
+5d3cc9010e510a00013df6f6,somalia,1,simdrop
+5d3cc9010e510a00013df6f6,ireland,0,simdrop
+5d3cc9010e510a00013df6f6,england,0,simdrop
+5d3cc9010e510a00013df6f6,netherlands,1,simdrop
+5d3cc9010e510a00013df6f6,spain,0,simdrop
+5d3cc9010e510a00013df6f6,germany,0,simdrop
+5d3cc9010e510a00013df6f6,thailand,1,simdrop
+5d3cc9010e510a00013df6f6,taiwan,0,simdrop
+5d3cc9010e510a00013df6f6,kazakhstan,1,simdrop
+5d3cc9010e510a00013df6f6,iran,0,simdrop
+5d3cc9010e510a00013df6f6,pakistan,2,simdrop
+5e7fefe06c12706d47e35211,united states,2,simdrop
+5e7fefe06c12706d47e35211,canada,0,simdrop
+5e7fefe06c12706d47e35211,mexico,0,simdrop
+5e7fefe06c12706d47e35211,greenland,1,simdrop
+5e7fefe06c12706d47e35211,iceland,0,simdrop
+5e7fefe06c12706d47e35211,finland,0,simdrop
+5e7fefe06c12706d47e35211,south africa,1,simdrop
+5e7fefe06c12706d47e35211,kenya,0,simdrop
+5e7fefe06c12706d47e35211,niger,0,simdrop
+5e7fefe06c12706d47e35211,egypt,1,simdrop
+5e7fefe06c12706d47e35211,republic of congo,0,simdrop
+5e7fefe06c12706d47e35211,italy,1,simdrop
+5e7fefe06c12706d47e35211,england,0,simdrop
+5e7fefe06c12706d47e35211,ireland,0,simdrop
+5e7fefe06c12706d47e35211,france,0,simdrop
+5e7fefe06c12706d47e35211,singapore,1,simdrop
+5e7fefe06c12706d47e35211,japan,0,simdrop
+5e7fefe06c12706d47e35211,china,0,simdrop
+5e7fefe06c12706d47e35211,thailand,0,simdrop
+5e7fefe06c12706d47e35211,russia,1,simdrop
+5e7fefe06c12706d47e35211,australia,0,simdrop
+5e7fefe06c12706d47e35211,chile,1,simdrop
+5e7fefe06c12706d47e35211,argentina,0,simdrop
+5e7fefe06c12706d47e35211,peru,1,simdrop
+5e7fefe06c12706d47e35211,colombia,0,simdrop
+5e7fefe06c12706d47e35211,brazil,0,simdrop
+5e7fefe06c12706d47e35211,jamaica,0,simdrop
+5e7fefe06c12706d47e35211,czechoslovakia,1,simdrop
+5e7fefe06c12706d47e35211,romania,0,simdrop
+5e7fefe06c12706d47e35211,turkey,1,simdrop
+5e7fefe06c12706d47e35211,uzbekistan,0,simdrop
+5e7fefe06c12706d47e35211,qatar,0,simdrop
+5e7fefe06c12706d47e35211,india,2,simdrop
+5e8a76b3939b3072dc76fb5c,united states,2,simdrop
+5e8a76b3939b3072dc76fb5c,canada,0,simdrop
+5e8a76b3939b3072dc76fb5c,mexico,0,simdrop
+5e8a76b3939b3072dc76fb5c,brazil,0,simdrop
+5e8a76b3939b3072dc76fb5c,chile,1,simdrop
+5e8a76b3939b3072dc76fb5c,argentina,0,simdrop
+5e8a76b3939b3072dc76fb5c,venezuela,1,simdrop
+5e8a76b3939b3072dc76fb5c,el salvador,0,simdrop
+5e8a76b3939b3072dc76fb5c,honduras,0,simdrop
+5e8a76b3939b3072dc76fb5c,greenland,1,simdrop
+5e8a76b3939b3072dc76fb5c,iceland,0,simdrop
+5e8a76b3939b3072dc76fb5c,latvia,0,simdrop
+5e8a76b3939b3072dc76fb5c,australia,1,simdrop
+5e8a76b3939b3072dc76fb5c,england,0,simdrop
+5e8a76b3939b3072dc76fb5c,germany,0,simdrop
+5e8a76b3939b3072dc76fb5c,france,0,simdrop
+5e8a76b3939b3072dc76fb5c,italy,0,simdrop
+5e8a76b3939b3072dc76fb5c,spain,0,simdrop
+5e8a76b3939b3072dc76fb5c,ireland,1,simdrop
+5e8a76b3939b3072dc76fb5c,scotland,0,simdrop
+5e8a76b3939b3072dc76fb5c,egypt,1,simdrop
+5e8a76b3939b3072dc76fb5c,nigeria,0,simdrop
+5e8a76b3939b3072dc76fb5c,chad,0,simdrop
+5e8a76b3939b3072dc76fb5c,south africa,1,simdrop
+5e8a76b3939b3072dc76fb5c,sudan,0,simdrop
+5e8a76b3939b3072dc76fb5c,madagascar,0,simdrop
+5e8a76b3939b3072dc76fb5c,japan,1,simdrop
+5e8a76b3939b3072dc76fb5c,china,0,simdrop
+5e8a76b3939b3072dc76fb5c,vietnam,0,simdrop
+5e8a76b3939b3072dc76fb5c,south korea,1,simdrop
+5e8a76b3939b3072dc76fb5c,north korea,0,simdrop
+5e8a76b3939b3072dc76fb5c,thailand,1,simdrop
+5e8a76b3939b3072dc76fb5c,russia,0,simdrop
+5e8a76b3939b3072dc76fb5c,ukraine,0,simdrop
+5e8a76b3939b3072dc76fb5c,czech republic,1,simdrop
+5e8a76b3939b3072dc76fb5c,dominican republic,0,simdrop
+5e8a76b3939b3072dc76fb5c,costa rica,2,simdrop
+5ed9311e1a69d449577bb8cf,ecuador,2,simdrop
+5ed9311e1a69d449577bb8cf,united states,0,simdrop
+5ed9311e1a69d449577bb8cf,mexico,0,simdrop
+5ed9311e1a69d449577bb8cf,canada,0,simdrop
+5ed9311e1a69d449577bb8cf,brazil,1,simdrop
+5ed9311e1a69d449577bb8cf,colombia,0,simdrop
+5ed9311e1a69d449577bb8cf,peru,0,simdrop
+5ed9311e1a69d449577bb8cf,argentina,1,simdrop
+5ed9311e1a69d449577bb8cf,bolivia,0,simdrop
+5ed9311e1a69d449577bb8cf,chile,0,simdrop
+5ed9311e1a69d449577bb8cf,japan,1,simdrop
+5ed9311e1a69d449577bb8cf,spain,0,simdrop
+5ed9311e1a69d449577bb8cf,portugal,0,simdrop
+5ed9311e1a69d449577bb8cf,belgium,1,simdrop
+5ed9311e1a69d449577bb8cf,italy,0,simdrop
+5ed9311e1a69d449577bb8cf,france,0,simdrop
+5ed9311e1a69d449577bb8cf,denmark,1,simdrop
+5ed9311e1a69d449577bb8cf,england,0,simdrop
+5ed9311e1a69d449577bb8cf,china,0,simdrop
+5ed9311e1a69d449577bb8cf,russia,0,simdrop
+5ed9311e1a69d449577bb8cf,turkey,0,simdrop
+5ed9311e1a69d449577bb8cf,morocco,0,simdrop
+5ed9311e1a69d449577bb8cf,egypt,0,simdrop
+5ed9311e1a69d449577bb8cf,canada,1,simdrop
+5ed9311e1a69d449577bb8cf,germany,0,simdrop
+5ed9311e1a69d449577bb8cf,south africa,0,simdrop
+5ed9311e1a69d449577bb8cf,guiana,1,simdrop
+5ed9311e1a69d449577bb8cf,sudan,0,simdrop
+5ed9311e1a69d449577bb8cf,nigeria,0,simdrop
+5ed9311e1a69d449577bb8cf,ghana,0,simdrop
+5ed9311e1a69d449577bb8cf,cameroon,0,simdrop
+5ed9311e1a69d449577bb8cf,australia,1,simdrop
+5ed9311e1a69d449577bb8cf,new zealand,0,simdrop
+5ed9311e1a69d449577bb8cf,cambodia,1,simdrop
+5ed9311e1a69d449577bb8cf,india,0,simdrop
+5ed9311e1a69d449577bb8cf,fiji,2,simdrop
+5f6c102b6ec04317fc9a8127,united states,2,simdrop
+5f6c102b6ec04317fc9a8127,japan,0,simdrop
+5f6c102b6ec04317fc9a8127,albania,1,simdrop
+5f6c102b6ec04317fc9a8127,germany,0,simdrop
+5f6c102b6ec04317fc9a8127,canada,0,simdrop
+5f6c102b6ec04317fc9a8127,italy,1,simdrop
+5f6c102b6ec04317fc9a8127,france,0,simdrop
+5f6c102b6ec04317fc9a8127,turkey,1,simdrop
+5f6c102b6ec04317fc9a8127,russia,0,simdrop
+5f6c102b6ec04317fc9a8127,mexico,1,simdrop
+5f6c102b6ec04317fc9a8127,belgium,0,simdrop
+5f6c102b6ec04317fc9a8127,brazil,0,simdrop
+5f6c102b6ec04317fc9a8127,croatia,1,simdrop
+5f6c102b6ec04317fc9a8127,india,0,simdrop
+5f6c102b6ec04317fc9a8127,china,0,simdrop
+5f6c102b6ec04317fc9a8127,argentina,1,simdrop
+5f6c102b6ec04317fc9a8127,australia,0,simdrop
+5f6c102b6ec04317fc9a8127,italy,0,simdrop
+5f6c102b6ec04317fc9a8127,iraq,1,simdrop
+5f6c102b6ec04317fc9a8127,austria,0,simdrop
+5f6c102b6ec04317fc9a8127,new zealand,0,simdrop
+5f6c102b6ec04317fc9a8127,bolivia,1,simdrop
+5f6c102b6ec04317fc9a8127,bulgaria,0,simdrop
+5f6c102b6ec04317fc9a8127,kazakhstan,0,simdrop
+5f6c102b6ec04317fc9a8127,morocco,1,simdrop
+5f6c102b6ec04317fc9a8127,mongolia,0,simdrop
+5f6c102b6ec04317fc9a8127,philippines,1,simdrop
+5f6c102b6ec04317fc9a8127,vietnam,0,simdrop
+5f6c102b6ec04317fc9a8127,pakistan,1,simdrop
+5f6c102b6ec04317fc9a8127,qatar,0,simdrop
+5f6c102b6ec04317fc9a8127,sweden,2,simdrop
+5fc6df58f380620a09116434,united states,2,simdrop
+5fc6df58f380620a09116434,mexico,0,simdrop
+5fc6df58f380620a09116434,jamaica,1,simdrop
+5fc6df58f380620a09116434,haiti,0,simdrop
+5fc6df58f380620a09116434,costa rica,0,simdrop
+5fc6df58f380620a09116434,somalia,1,simdrop
+5fc6df58f380620a09116434,nicaragua,0,simdrop
+5fc6df58f380620a09116434,belize,0,simdrop
+5fc6df58f380620a09116434,panama,0,simdrop
+5fc6df58f380620a09116434,andorra,1,simdrop
+5fc6df58f380620a09116434,argentina,0,simdrop
+5fc6df58f380620a09116434,brazil,0,simdrop
+5fc6df58f380620a09116434,panama,1,simdrop
+5fc6df58f380620a09116434,venezuela,0,simdrop
+5fc6df58f380620a09116434,colombia,0,simdrop
+5fc6df58f380620a09116434,uruguay,1,simdrop
+5fc6df58f380620a09116434,paraguay,0,simdrop
+5fc6df58f380620a09116434,ireland,1,simdrop
+5fc6df58f380620a09116434,wales,0,simdrop
+5fc6df58f380620a09116434,scotland,0,simdrop
+5fc6df58f380620a09116434,great britain,1,simdrop
+5fc6df58f380620a09116434,united kingdom,0,simdrop
+5fc6df58f380620a09116434,france,0,simdrop
+5fc6df58f380620a09116434,germany,0,simdrop
+5fc6df58f380620a09116434,sweden,1,simdrop
+5fc6df58f380620a09116434,norway,0,simdrop
+5fc6df58f380620a09116434,greece,1,simdrop
+5fc6df58f380620a09116434,italy,0,simdrop
+5fc6df58f380620a09116434,switzerland,0,simdrop
+5fc6df58f380620a09116434,netherlands,0,simdrop
+5fc6df58f380620a09116434,china,1,simdrop
+5fc6df58f380620a09116434,north korea,0,simdrop
+5fc6df58f380620a09116434,south korea,0,simdrop
+5fc6df58f380620a09116434,japan,0,simdrop
+5fc6df58f380620a09116434,russia,1,simdrop
+5fc6df58f380620a09116434,estonia,0,simdrop
+5fc6df58f380620a09116434,thailand,1,simdrop
+5fc6df58f380620a09116434,india,0,simdrop
+5fc6df58f380620a09116434,vietnam,0,simdrop
+5fc6df58f380620a09116434,philippines,1,simdrop
+5fc6df58f380620a09116434,australia,0,simdrop
+5fc6df58f380620a09116434,south africa,0,simdrop
+5fc6df58f380620a09116434,kenya,1,simdrop
+5fc6df58f380620a09116434,uganda,0,simdrop
+5fc6df58f380620a09116434,madagascar,0,simdrop
+5fc6df58f380620a09116434,egypt,1,simdrop
+5fc6df58f380620a09116434,zimbabwe,0,simdrop
+5fc6df58f380620a09116434,kazakhstan,1,simdrop
+5fc6df58f380620a09116434,pakistan,0,simdrop
+5fc6df58f380620a09116434,afghanistan,0,simdrop
+5fc6df58f380620a09116434,iraq,1,simdrop
+5fc6df58f380620a09116434,iran,0,simdrop
+5fc6df58f380620a09116434,austria,0,simdrop
+5fc6df58f380620a09116434,czech republic,0,simdrop
+5fc6df58f380620a09116434,cuba,0,simdrop
+5fc6df58f380620a09116434,papua new guinea,2,simdrop
+60da4f9aa1ced7efeecca18a,canada,2,simdrop
+60da4f9aa1ced7efeecca18a,mexico,0,simdrop
+60da4f9aa1ced7efeecca18a,argentina,1,simdrop
+60da4f9aa1ced7efeecca18a,peru,0,simdrop
+60da4f9aa1ced7efeecca18a,ecuador,0,simdrop
+60da4f9aa1ced7efeecca18a,el salvador,1,simdrop
+60da4f9aa1ced7efeecca18a,brazil,0,simdrop
+60da4f9aa1ced7efeecca18a,chile,1,simdrop
+60da4f9aa1ced7efeecca18a,paraguay,0,simdrop
+60da4f9aa1ced7efeecca18a,china,1,simdrop
+60da4f9aa1ced7efeecca18a,india,0,simdrop
+60da4f9aa1ced7efeecca18a,england,0,simdrop
+60da4f9aa1ced7efeecca18a,france,0,simdrop
+60da4f9aa1ced7efeecca18a,germany,0,simdrop
+60da4f9aa1ced7efeecca18a,poland,0,simdrop
+60da4f9aa1ced7efeecca18a,russia,1,simdrop
+60da4f9aa1ced7efeecca18a,ukraine,0,simdrop
+60da4f9aa1ced7efeecca18a,montenegro,1,simdrop
+60da4f9aa1ced7efeecca18a,moldova,0,simdrop
+60da4f9aa1ced7efeecca18a,bosnia,1,simdrop
+60da4f9aa1ced7efeecca18a,herzegovina,0,simdrop
+60da4f9aa1ced7efeecca18a,kazakhstan,1,simdrop
+60da4f9aa1ced7efeecca18a,pakistan,0,simdrop
+60da4f9aa1ced7efeecca18a,bangladesh,0,simdrop
+60da4f9aa1ced7efeecca18a,south korea,1,simdrop
+60da4f9aa1ced7efeecca18a,north korea,0,simdrop
+60da4f9aa1ced7efeecca18a,japan,0,simdrop
+60da4f9aa1ced7efeecca18a,vietnam,1,simdrop
+60da4f9aa1ced7efeecca18a,thailand,0,simdrop
+60da4f9aa1ced7efeecca18a,philippines,0,simdrop
+60da4f9aa1ced7efeecca18a,laos,0,simdrop
+60da4f9aa1ced7efeecca18a,switzerland,1,simdrop
+60da4f9aa1ced7efeecca18a,austria,0,simdrop
+60da4f9aa1ced7efeecca18a,hungary,0,simdrop
+60da4f9aa1ced7efeecca18a,italy,1,simdrop
+60da4f9aa1ced7efeecca18a,greece,0,simdrop
+60da4f9aa1ced7efeecca18a,spain,1,simdrop
+60da4f9aa1ced7efeecca18a,portugal,0,simdrop
+60da4f9aa1ced7efeecca18a,ireland,0,simdrop
+60da4f9aa1ced7efeecca18a,andorra,1,simdrop
+60da4f9aa1ced7efeecca18a,luxembourg,0,simdrop
+60da4f9aa1ced7efeecca18a,vatican city,0,simdrop
+60da4f9aa1ced7efeecca18a,iceland,0,simdrop
+60da4f9aa1ced7efeecca18a,norway,0,simdrop
+60da4f9aa1ced7efeecca18a,finland,0,simdrop
+60da4f9aa1ced7efeecca18a,sweden,0,simdrop
+60da4f9aa1ced7efeecca18a,denmark,0,simdrop
+60da4f9aa1ced7efeecca18a,australia,1,simdrop
+60da4f9aa1ced7efeecca18a,new zealand,2,simdrop
+60fcf1a04c245326d05076e0,america,2,simdrop
+60fcf1a04c245326d05076e0,england,0,simdrop
+60fcf1a04c245326d05076e0,wales,0,simdrop
+60fcf1a04c245326d05076e0,canada,1,simdrop
+60fcf1a04c245326d05076e0,mexico,0,simdrop
+60fcf1a04c245326d05076e0,costa rica,0,simdrop
+60fcf1a04c245326d05076e0,guatemala,0,simdrop
+60fcf1a04c245326d05076e0,chile,0,simdrop
+60fcf1a04c245326d05076e0,south africa,1,simdrop
+60fcf1a04c245326d05076e0,ethiopia,0,simdrop
+60fcf1a04c245326d05076e0,croatia,1,simdrop
+60fcf1a04c245326d05076e0,france,0,simdrop
+60fcf1a04c245326d05076e0,belgium,0,simdrop
+60fcf1a04c245326d05076e0,germany,1,simdrop
+60fcf1a04c245326d05076e0,italy,0,simdrop
+60fcf1a04c245326d05076e0,china,1,simdrop
+60fcf1a04c245326d05076e0,russia,0,simdrop
+60fcf1a04c245326d05076e0,ukraine,0,simdrop
+60fcf1a04c245326d05076e0,south korea,1,simdrop
+60fcf1a04c245326d05076e0,north korea,0,simdrop
+60fcf1a04c245326d05076e0,kenya,0,simdrop
+60fcf1a04c245326d05076e0,sweden,1,simdrop
+60fcf1a04c245326d05076e0,switzerland,0,simdrop
+60fcf1a04c245326d05076e0,denmark,1,simdrop
+60fcf1a04c245326d05076e0,norway,0,simdrop
+60fcf1a04c245326d05076e0,iceland,1,simdrop
+60fcf1a04c245326d05076e0,greenland,0,simdrop
+60fcf1a04c245326d05076e0,japan,1,simdrop
+60fcf1a04c245326d05076e0,singapore,2,simdrop
+61035836646fb6ee2152f950,canada,2,simdrop
+61035836646fb6ee2152f950,iraq,0,simdrop
+61035836646fb6ee2152f950,iran,0,simdrop
+61035836646fb6ee2152f950,saudi arabia,0,simdrop
+61035836646fb6ee2152f950,germany,0,simdrop
+61035836646fb6ee2152f950,peru,1,simdrop
+61035836646fb6ee2152f950,ecuador,0,simdrop
+61035836646fb6ee2152f950,guatemala,0,simdrop
+61035836646fb6ee2152f950,south africa,1,simdrop
+61035836646fb6ee2152f950,belgium,0,simdrop
+61035836646fb6ee2152f950,netherlands,0,simdrop
+61035836646fb6ee2152f950,greenland,1,simdrop
+61035836646fb6ee2152f950,ireland,0,simdrop
+61035836646fb6ee2152f950,china,0,simdrop
+61035836646fb6ee2152f950,russia,0,simdrop
+61035836646fb6ee2152f950,ukraine,0,simdrop
+61035836646fb6ee2152f950,japan,0,simdrop
+61035836646fb6ee2152f950,colombia,1,simdrop
+61035836646fb6ee2152f950,uruguay,0,simdrop
+61035836646fb6ee2152f950,mexico,0,simdrop
+61035836646fb6ee2152f950,thailand,1,simdrop
+61035836646fb6ee2152f950,taiwan,0,simdrop
+61035836646fb6ee2152f950,cuba,2,simdrop
+65512e3cc12f463bc327b7c3,united states,2,simdrop
+65512e3cc12f463bc327b7c3,canada,0,simdrop
+65512e3cc12f463bc327b7c3,mexico,0,simdrop
+65512e3cc12f463bc327b7c3,finland,1,simdrop
+65512e3cc12f463bc327b7c3,germany,0,simdrop
+65512e3cc12f463bc327b7c3,russia,0,simdrop
+65512e3cc12f463bc327b7c3,spain,0,simdrop
+65512e3cc12f463bc327b7c3,honduras,0,simdrop
+65512e3cc12f463bc327b7c3,england,1,simdrop
+65512e3cc12f463bc327b7c3,brazil,0,simdrop
+65512e3cc12f463bc327b7c3,argentina,0,simdrop
+65512e3cc12f463bc327b7c3,new zealand,0,simdrop
+65512e3cc12f463bc327b7c3,estonia,0,simdrop
+65512e3cc12f463bc327b7c3,china,1,simdrop
+65512e3cc12f463bc327b7c3,japan,0,simdrop
+65512e3cc12f463bc327b7c3,the philippines,0,simdrop
+65512e3cc12f463bc327b7c3,south korea,1,simdrop
+65512e3cc12f463bc327b7c3,north korea,0,simdrop
+65512e3cc12f463bc327b7c3,iran,1,simdrop
+65512e3cc12f463bc327b7c3,saudi arabia,0,simdrop
+65512e3cc12f463bc327b7c3,yemen,0,simdrop
+65512e3cc12f463bc327b7c3,south africa,1,simdrop
+65512e3cc12f463bc327b7c3,uganda,0,simdrop
+65512e3cc12f463bc327b7c3,bulgaria,1,simdrop
+65512e3cc12f463bc327b7c3,qatar,2,simdrop
+65778c02cde55736bb830eca,united states,2,simdrop
+65778c02cde55736bb830eca,mexico,0,simdrop
+65778c02cde55736bb830eca,canada,0,simdrop
+65778c02cde55736bb830eca,russia,1,simdrop
+65778c02cde55736bb830eca,ukraine,0,simdrop
+65778c02cde55736bb830eca,france,1,simdrop
+65778c02cde55736bb830eca,germany,0,simdrop
+65778c02cde55736bb830eca,bulgaria,1,simdrop
+65778c02cde55736bb830eca,hungary,0,simdrop
+65778c02cde55736bb830eca,sweden,1,simdrop
+65778c02cde55736bb830eca,denmark,0,simdrop
+65778c02cde55736bb830eca,iceland,1,simdrop
+65778c02cde55736bb830eca,greenland,0,simdrop
+65778c02cde55736bb830eca,the netherlands,1,simdrop
+65778c02cde55736bb830eca,india,0,simdrop
+65778c02cde55736bb830eca,thailand,0,simdrop
+65778c02cde55736bb830eca,greece,0,simdrop
+65778c02cde55736bb830eca,saudi arabia,1,simdrop
+65778c02cde55736bb830eca,nigeria,0,simdrop
+65778c02cde55736bb830eca,morocco,1,simdrop
+65778c02cde55736bb830eca,uganda,0,simdrop
+65778c02cde55736bb830eca,somalia,0,simdrop
+65778c02cde55736bb830eca,niger,0,simdrop
+65778c02cde55736bb830eca,libya,1,simdrop
+65778c02cde55736bb830eca,liberia,0,simdrop
+65778c02cde55736bb830eca,south sudan,0,simdrop
+65778c02cde55736bb830eca,south africa,0,simdrop
+65778c02cde55736bb830eca,ethiopia,2,simdrop
+6595e3b4dc9090390e4edb5f,united kingdom,2,simdrop
+6595e3b4dc9090390e4edb5f,denmark,0,simdrop
+6595e3b4dc9090390e4edb5f,hungary,0,simdrop
+6595e3b4dc9090390e4edb5f,italy,1,simdrop
+6595e3b4dc9090390e4edb5f,portugal,0,simdrop
+6595e3b4dc9090390e4edb5f,japan,1,simdrop
+6595e3b4dc9090390e4edb5f,north korea,0,simdrop
+6595e3b4dc9090390e4edb5f,south korea,0,simdrop
+6595e3b4dc9090390e4edb5f,taiwan,1,simdrop
+6595e3b4dc9090390e4edb5f,thailand,0,simdrop
+6595e3b4dc9090390e4edb5f,laos,0,simdrop
+6595e3b4dc9090390e4edb5f,cambodia,0,simdrop
+6595e3b4dc9090390e4edb5f,philippines,1,simdrop
+6595e3b4dc9090390e4edb5f,india,0,simdrop
+6595e3b4dc9090390e4edb5f,china,0,simdrop
+6595e3b4dc9090390e4edb5f,australia,1,simdrop
+6595e3b4dc9090390e4edb5f,belgium,0,simdrop
+6595e3b4dc9090390e4edb5f,poland,1,simdrop
+6595e3b4dc9090390e4edb5f,germany,0,simdrop
+6595e3b4dc9090390e4edb5f,ireland,0,simdrop
+6595e3b4dc9090390e4edb5f,france,0,simdrop
+6595e3b4dc9090390e4edb5f,norway,1,simdrop
+6595e3b4dc9090390e4edb5f,singapore,0,simdrop
+6595e3b4dc9090390e4edb5f,netherlands,0,simdrop
+6595e3b4dc9090390e4edb5f,canada,0,simdrop
+6595e3b4dc9090390e4edb5f,mexico,0,simdrop
+6595e3b4dc9090390e4edb5f,egypt,1,simdrop
+6595e3b4dc9090390e4edb5f,south africa,0,simdrop
+6595e3b4dc9090390e4edb5f,afghanistan,1,simdrop
+6595e3b4dc9090390e4edb5f,syria,0,simdrop
+6595e3b4dc9090390e4edb5f,indonesia,1,simdrop
+6595e3b4dc9090390e4edb5f,nigeria,0,simdrop
+6595e3b4dc9090390e4edb5f,turkey,1,simdrop
+6595e3b4dc9090390e4edb5f,brazil,0,simdrop
+6595e3b4dc9090390e4edb5f,greece,2,simdrop

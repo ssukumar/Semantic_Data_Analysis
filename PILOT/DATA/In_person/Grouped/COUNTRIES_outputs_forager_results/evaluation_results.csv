@@ -1,0 +1,224 @@
+SID,entry,evaluation,replacement
+538590,to us,EXCLUDE,EXCLUDE
+538590,Japan,REPLACE,japan
+538590,South Korea,EXCLUDE,EXCLUDE
+538590,Paris,EXCLUDE,EXCLUDE
+538590,I can,EXCLUDE,EXCLUDE
+538590,Tina,REPLACE,india
+538590,Mexico,REPLACE,mexico
+538590,Canada,REPLACE,canada
+538590,to us,EXCLUDE,EXCLUDE
+538590,Japan,REPLACE,japan
+538590,South Korea,EXCLUDE,EXCLUDE
+538590,Paris,EXCLUDE,EXCLUDE
+538590,I can,EXCLUDE,EXCLUDE
+538590,Tina,REPLACE,india
+538590,Mexico,REPLACE,mexico
+538590,Canada,REPLACE,canada
+910517,okay,REPLACE,norway
+910517,the US,EXCLUDE,EXCLUDE
+910517,Mexico,REPLACE,mexico
+910517,Panama,REPLACE,panama
+910517,Peru,REPLACE,peru
+910517,England,REPLACE,finland
+910517,Ireland,REPLACE,ireland
+910517,Germany,REPLACE,germany
+910517,or the,REPLACE, north
+910517,Netherlands,REPLACE,netherlands
+910517,turkey,FOUND,turkey
+910517,Syria,REPLACE,syria
+910517,Russia,REPLACE,russia
+910517,China,REPLACE,china
+910517,Korea,REPLACE,korea
+910517,Mongolia,REPLACE,mongolia
+910517,Japan,REPLACE,japan
+910517,Malaysia,REPLACE,malaysia
+910517,Philippines,REPLACE,philippines
+910517,Australia,REPLACE,australia
+910517,Oman,REPLACE,oman
+910517,Angola,REPLACE,angola
+910517,and,REPLACE,uganda
+910517,Nigeria,REPLACE,nigeria
+910517,Chad,REPLACE,chad
+910517,Liberia,REPLACE,liberia
+910517,South,REPLACE, south
+910517,Sudan,REPLACE,sudan
+910517,the,EXCLUDE,EXCLUDE
+910517,deer,EXCLUDE,EXCLUDE
+910517,see,REPLACE,sweden
+910517,Egypt,REPLACE,egypt
+910517,Algeria,REPLACE,algeria
+910517,Uganda,REPLACE,uganda
+910517,Uruguay,REPLACE,uruguay
+910517,Panama,REPLACE,panama
+910517,Chile,REPLACE,chile
+910517,Brazil,REPLACE,brazil
+910517,Spain,REPLACE,spain
+910517,Portugal,REPLACE,portugal
+910517,the,EXCLUDE,EXCLUDE
+910517,Maldives,REPLACE,maldives
+910517,Nepal,REPLACE,nepal
+910517,mi,REPLACE,mali
+910517,amor,REPLACE,samoa
+910517,Vietnam,REPLACE,vietnam
+910517,lost,REPLACE,laos
+910517,Cambodia,REPLACE,cambodia
+910517,Indonesia,REPLACE,indonesia
+910517,Malaysia,REPLACE,malaysia
+910517,Nigeria,REPLACE,nigeria
+910517,South Africa,REPLACE,south africa
+910517,Madagascar,REPLACE,madagascar
+910517,feedee,EXCLUDE,EXCLUDE
+910517,New,EXCLUDE,EXCLUDE
+910517,Zealand,REPLACE,ireland
+910517,Argentina,REPLACE,argentina
+929641,USA,EXCLUDE,EXCLUDE
+929641,Mexico,REPLACE,mexico
+929641,Cuba,REPLACE,cuba
+929641,Canada,REPLACE,canada
+929641,Greenland,REPLACE,ireland
+929641,Iceland,REPLACE,iceland
+929641,Argentina,REPLACE,argentina
+929641,Chile,REPLACE,chile
+929641,Colombia,REPLACE,colombia
+929641,Ecuador,REPLACE,ecuador
+929641,Uruguay,REPLACE,uruguay
+929641,Paraguay,REPLACE,paraguay
+929641,Brazil,REPLACE,brazil
+929641,South Africa,REPLACE,south africa
+929641,Lesotho,REPLACE,lesotho
+929641,Nigeria,REPLACE,nigeria
+929641,Ethiopia,REPLACE,ethiopia
+929641,Tunisia,REPLACE,tunisia
+929641,Israel,REPLACE,israel
+929641,Egypt,REPLACE,egypt
+929641,Palestine,EXCLUDE,EXCLUDE
+929641,turkey,FOUND,turkey
+929641,stain,REPLACE,spain
+929641,Germany,REPLACE,germany
+929641,France,REPLACE,france
+929641,England,REPLACE,finland
+929641,New,EXCLUDE,EXCLUDE
+929641,Zealand,REPLACE,ireland
+929641,Sweden,REPLACE,sweden
+929641,Norway,REPLACE,norway
+929641,Denmark,REPLACE,denmark
+929641,Russia,REPLACE,russia
+929641,Pakistan,REPLACE,pakistan
+929641,Pakistan,REPLACE,pakistan
+929641,and,REPLACE,uganda
+929641,Iraq,REPLACE,iraq
+929641,are on,REPLACE,armenia
+929641,Saudi Arabia,REPLACE,saudi arabia
+929641,u,EXCLUDE,EXCLUDE
+929641,a,EXCLUDE,EXCLUDE
+929641,e,EXCLUDE,EXCLUDE
+929641,guitar,REPLACE,guinea
+929641,Madagascar,REPLACE,madagascar
+929641,India,REPLACE,india
+929641,China,REPLACE,china
+929641,Japan,REPLACE,japan
+929641,Korea,REPLACE,korea
+929641,North Korea,EXCLUDE,EXCLUDE
+929641,South Korea,EXCLUDE,EXCLUDE
+929641,Lucia,REPLACE,china
+929641,Croatia,REPLACE,croatia
+929641,Indonesia,REPLACE,indonesia
+929641,Australia,REPLACE,australia
+929641,New,EXCLUDE,EXCLUDE
+929641,Zealand,REPLACE,ireland
+929641,Ukraine,REPLACE,ukraine
+929641,Albania,REPLACE,albania
+929641,azerbaijani,REPLACE,azerbaijan
+395439,countries,EXCLUDE,EXCLUDE
+395439,USA,EXCLUDE,EXCLUDE
+395439,Canada,REPLACE,canada
+395439,Brazil,REPLACE,brazil
+395439,Peru,REPLACE,peru
+395439,Honduras,REPLACE,honduras
+395439,Jamaica,REPLACE,jamaica
+395439,Bahamas,REPLACE,bahamas
+395439,Trinidad,EXCLUDE,EXCLUDE
+395439,Tobago,REPLACE,togo
+395439,Chile,REPLACE,chile
+395439,or,EXCLUDE,EXCLUDE
+395439,Argentina,REPLACE,argentina
+395439,Russia,REPLACE,russia
+395439,England,REPLACE,finland
+395439,Scotland,REPLACE,poland
+395439,Wales,REPLACE,maldives
+395439,Luxembourg,REPLACE,luxembourg
+395439,Sweden,REPLACE,sweden
+395439,Norway,REPLACE,norway
+395439,Germany,REPLACE,germany
+395439,France,REPLACE,france
+395439,Spain,REPLACE,spain
+395439,Portugal,REPLACE,portugal
+395439,Lithuania,REPLACE,lithuania
+395439,Albania,REPLACE,albania
+395439,Macedonia,EXCLUDE,EXCLUDE
+395439,Austria,REPLACE,austria
+395439,Slovenia,REPLACE,slovenia
+395439,and,REPLACE,uganda
+395439,Slovakia,REPLACE,slovakia
+395439,Switzerland,REPLACE,switzerland
+395439,Northern,EXCLUDE,EXCLUDE
+395439,Ireland,REPLACE,ireland
+395439,Ireland,REPLACE,ireland
+395439,Estonia,REPLACE,estonia
+395439,is real,REPLACE,israel
+395439,South Africa,REPLACE,south africa
+395439,Madagascar,REPLACE,madagascar
+395439,Australia,REPLACE,australia
+395439,New,EXCLUDE,EXCLUDE
+395439,Zealand,REPLACE,ireland
+395439,Ina,EXCLUDE,EXCLUDE
+395439,Singapore,REPLACE,singapore
+395439,South Korea,EXCLUDE,EXCLUDE
+395439,North Korea,EXCLUDE,EXCLUDE
+395439,Indonesia,REPLACE,indonesia
+395439,India,REPLACE,india
+395439,Japan,REPLACE,japan
+395439,Lebanon,REPLACE,lebanon
+395439,Saudi Arabia,REPLACE,saudi arabia
+395439,Netherlands,REPLACE,netherlands
+395439,Serbia,REPLACE,serbia
+4144,Andres,EXCLUDE,EXCLUDE
+4144,Argentina,REPLACE,argentina
+4144,Uruguay,REPLACE,uruguay
+4144,Mexico,REPLACE,mexico
+4144,Panama,REPLACE,panama
+4144,Bolivia,REPLACE,bolivia
+4144,by the way,EXCLUDE,EXCLUDE
+4144,chiller,REPLACE,chile
+4144,andina,REPLACE,india
+4144,what do I,EXCLUDE,EXCLUDE
+4144,have,EXCLUDE,EXCLUDE
+4144,is a little,EXCLUDE,EXCLUDE
+4144,while,REPLACE,chile
+4144,Brazil,REPLACE,brazil
+4144,El Salvador,REPLACE,el salvador
+4144,United States of,EXCLUDE,EXCLUDE
+4144,England,REPLACE,finland
+4144,Belgium,REPLACE,belgium
+4144,friends,EXCLUDE,EXCLUDE
+4144,Greece,REPLACE,greece
+4144,Syria,REPLACE,syria
+4144,turkey,FOUND,turkey
+4144,Lebanon,REPLACE,lebanon
+4144,Jordan,REPLACE,jordan
+4144,Italy,REPLACE,italy
+4144,Sweden,REPLACE,sweden
+4144,Switzerland,REPLACE,switzerland
+4144,Canada,REPLACE,canada
+4144,Ireland,REPLACE,ireland
+4144,Amsterdam,EXCLUDE,EXCLUDE
+4144,Megan,REPLACE,ghana
+4144,Republic,EXCLUDE,EXCLUDE
+4144,Japan,REPLACE,japan
+4144,North Korea,EXCLUDE,EXCLUDE
+4144,South Korea,EXCLUDE,EXCLUDE
+4144,China,REPLACE,china
+4144,Hong Kong,EXCLUDE,EXCLUDE
+4144,Taiwan,REPLACE,taiwan
+4144,Dubai,REPLACE,cuba

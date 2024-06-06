@@ -1,0 +1,185 @@
+---
+title: "analyze_semantic_collocations"
+output: html_document
+date: "2024-04-11"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+old_data_dir = 'DATA/Grouped'
+data_dir = 'DATA/Grouped_Improved'
+forager_suffix = "_outputs_forager_results"
+library(ggplot2)
+library(dplyr)
+```
+
+## Plot the semantic similarity and the 
+
+Read in the relevant .csv file for analysis
+
+```{r import_file}
+category = 'FOODS'
+category_dir = file.path(data_dir, paste0(category, forager_suffix))
+lexical_fn= 'lexical_results.csv'
+
+lexical_file = file.path(category_dir, lexical_fn)
+
+lexical_data = read.csv(lexical_file)
+
+lexical_data = lexical_data %>% group_by(Subject) %>% mutate(Item = row_number(), Data_Age = 'New')
+
+```
+
+## Plot Semantic Similarity and Frequency by subject
+
+First, plot frequency
+```{r freq_plot, echo=FALSE}
+
+plt_freq_subj =  ggplot(data = lexical_data) + geom_line(aes( x = Item, y = Frequency_Value, color = Subject, group = Subject))+
+  facet_wrap(~Subject, nrow = 4, scales = "free_x")+ 
+  ggtitle(category)+
+  theme(legend.position="none",plot.title = element_text(size=22, hjust = 0.5))
+
+plt_freq_subj
+# ggsave(file.path('Plots',paste0(<!---->category, '_freqency_subj.png')), plt_freq_subj, units = "in", width = 8, height = 5)
+  
+```
+
+
+## Plot the semantic similarity and the 
+
+Read in the relevant .csv file for analysis
+
+```{r import_file}
+category_dir_old = file.path(old_data_dir, paste0(category, forager_suffix))
+
+lexical_file_old = file.path(category_dir_old, lexical_fn)
+
+lexical_data_old = read.csv(lexical_file_old)
+
+lexical_data_old = lexical_data_old %>% group_by(Subject) %>% mutate(Item = row_number(), Data_Age = 'Old')
+
+lexical_data_all = rbind(lexical_data, lexical_data_old)
+
+```
+
+## Plot Semantic Similarity and Frequency by subject
+
+First, plot frequency
+```{r freq_plot, echo=FALSE}
+
+plt_freq_subj =  ggplot(data = lexical_data_all) + geom_line(aes( x = Item, y = Frequency_Value, linetype = Data_Age))+
+  facet_wrap(~Subject, nrow = 4, scales = "free_x")+ 
+  ggtitle(category)+
+  theme(plot.title = element_text(size=22, hjust = 0.5))
+
+plt_freq_subj
+# ggsave(file.path('Plots',paste0(<!---->category, '_freqency_subj.png')), plt_freq_subj, units = "in", width = 8, height = 5)
+  
+```
+
+
+Comparing aggregates 
+
+```{r}
+
+# Group A Categories
+
+categoriesA = c('ANIMALS','BODY PARTS', 'FRUITS', 'HOBBIES', 'HOLIDAYS', 'HOME APPLIANCES', 'LIQUIDS', 'MEANS OF TRANSPORT', 'MEDICAL CONDITIONS', 'MUSICAL INSTRUMENTS', 'OCCUPATIONS', 'TOOLS', 'VEGETABLES')
+
+categoriesB = c('ACCOMODATIONS', 'CLOTHING', 'COUNTRIES', 'FLOWERS', 'FOODS', 'FURNITURE', 'NATURAL ENVIRONMENT', 'NON-FOOD ITEMS FOUND IN SUPERMARKET', 'OFFICE SUPPLIES', 'SPORTS', 'TECHNOLOGY GADGETS & DEVICES', 'THINGS FOUND IN KITCHENS', 'TOYS')
+
+categories = c(categoriesA, categoriesB)
+# print(categories)
+desc_stats_fn = "individual_descriptive_stats.csv"
+
+num_items_df = data.frame()
+for (category in categories){
+  category_dir = file.path(data_dir, paste0(category, forager_suffix))
+  desc_stats_file = file.path(category_dir, desc_stats_fn)
+  desc_df = read.csv(desc_stats_file)
+  desc_df = desc_df %>% mutate(Category = category, Group = ifelse(category %in% categoriesA, 'A', 'B') )
+  if (ncol(desc_df) == 9){
+    desc_df = desc_df %>% select(-c(Phonological_Similarity_mean, Phonological_Similarity_std))
+  }
+  num_items_df = rbind(num_items_df, desc_df)
+}
+print(num_items_df)
+num_items_cat = num_items_df %>% group_by(Category) %>% summarise( mean_num_items = mean(X._of_Items, na.rm = TRUE), sd_num_items = sd(X._of_Items, na.rm = TRUE))
+num_items_cat = num_items_cat%>% mutate(num_items_min = mean_num_items - sd_num_items, num_items_max = mean_num_items + sd_num_items)
+
+num_items_df = num_items_df %>% mutate(Data_Age= 'New')
+
+plt_category_words = ggplot(data= num_items_cat) + geom_bar(aes(x= reorder(Category, -mean_num_items),  y = mean_num_items, fill = Category), stat='identity')+
+  geom_errorbar(aes(x= Category, ymin = num_items_min, ymax= num_items_max), width = 0)+
+  xlab('Category')+
+  theme(legend.position="none", axis.text.x = element_text(angle = 45, vjust =1, hjust=1))
+plt_category_words
+ggsave(file.path('Plots','improved_plt_category_words_avg.png'), plt_category_words, units = "in", width = 12, height = 6)
+
+
+# num_items_subj = num_items_df %>% group_by(Subject) %>% summarise( mean_num_items = mean(X._of_Items), sd_num_items = sd(X._of_Items))
+```
+
+
+Uncorrected stats
+
+```{r}
+
+desc_stats_fn = "individual_descriptive_stats.csv"
+
+num_items_df_old = data.frame()
+for (category in categories){
+  category_dir = file.path(old_data_dir, paste0(category, forager_suffix))
+  desc_stats_file = file.path(category_dir, desc_stats_fn)
+  desc_df = read.csv(desc_stats_file)
+  desc_df = desc_df %>% mutate(Category = category, Group = ifelse(category %in% categoriesA, 'A', 'B') )
+  if (ncol(desc_df) == 9){
+    desc_df = desc_df %>% select(-c(Phonological_Similarity_mean, Phonological_Similarity_std))
+  }
+  num_items_df_old = rbind(num_items_df_old, desc_df)
+}
+print(num_items_df_old)
+num_items_cat_old = num_items_df_old %>% group_by(Category) %>% summarise( mean_num_items = mean(X._of_Items, na.rm = TRUE), sd_num_items = sd(X._of_Items, na.rm = TRUE))
+num_items_cat_old = num_items_cat_old %>% mutate(num_items_min = mean_num_items - sd_num_items, num_items_max = mean_num_items + sd_num_items)
+
+num_items_df_old = num_items_df_old %>% mutate(Data_Age = 'Old')
+
+
+plt_category_words = ggplot(data= num_items_cat_old) + geom_bar(aes(x= reorder(Category, -mean_num_items),  y = mean_num_items, fill = Category), stat='identity')+
+  geom_errorbar(aes(x= Category, ymin = num_items_min, ymax= num_items_max), width = 0)+
+  xlab('Category')+
+  theme(legend.position="none", axis.text.x = element_text(angle = 45, vjust =1, hjust=1))
+plt_category_words
+
+```
+
+facet wrap by subject
+
+```{r}
+
+num_items_total = rbind(num_items_df, num_items_df_old)
+
+num_items_dfB = num_items_total[num_items_total$Group=='B',]
+
+ggplot(data= num_items_dfB) + geom_bar(aes(x= Category,  y = X._of_Items, fill = Data_Age), stat='identity', position="dodge")+
+  facet_wrap(~Subject, nrow= 6)+
+  scale_x_discrete(label=function(x) stringr::str_trunc(x, 12))+
+  theme( axis.text.x = element_text(angle = 45, vjust =1, hjust=1))
+
+```
+
+Checking for group A
+
+```{r}
+
+
+num_items_dfA = num_items_total[num_items_total$Group=='A',]
+
+ggplot(data= num_items_dfA) + geom_bar(aes(x= Category,  y = X._of_Items, fill = Data_Age), stat='identity', position="dodge")+
+  facet_wrap(~Subject, nrow= 6)+
+  scale_x_discrete(label=function(x) stringr::str_trunc(x, 12))+
+  theme( axis.text.x = element_text(angle = 45, vjust =1, hjust=1))
+
+```
+

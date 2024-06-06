@@ -5,12 +5,12 @@ SID,entry,evaluation,replacement
 65c25cf77dca9d7ca7d9ebdb,squash,FOUND,squash
 65c25cf77dca9d7ca7d9ebdb,pumpkin,FOUND,pumpkin
 65c25cf77dca9d7ca7d9ebdb,I am,EXCLUDE,EXCLUDE
-65c25cf77dca9d7ca7d9ebdb,near,EXCLUDE,EXCLUDE
+65c25cf77dca9d7ca7d9ebdb,near,REPLACE,ginger
 65c25cf77dca9d7ca7d9ebdb,Bay,EXCLUDE,EXCLUDE
 65c25cf77dca9d7ca7d9ebdb,solar,EXCLUDE,EXCLUDE
 65c25cf77dca9d7ca7d9ebdb,Price,EXCLUDE,EXCLUDE
 65c25cf77dca9d7ca7d9ebdb,Rite,EXCLUDE,EXCLUDE
-65c25cf77dca9d7ca7d9ebdb,bean,EXCLUDE,EXCLUDE
+65c25cf77dca9d7ca7d9ebdb,bean,REPLACE,soybean
 65c25cf77dca9d7ca7d9ebdb,sprouts,EXCLUDE,EXCLUDE
 65c25cf77dca9d7ca7d9ebdb,actually,EXCLUDE,EXCLUDE
 65c25cf77dca9d7ca7d9ebdb,red,EXCLUDE,EXCLUDE
@@ -20,8 +20,8 @@ SID,entry,evaluation,replacement
 65c25cf77dca9d7ca7d9ebdb,movie,EXCLUDE,EXCLUDE
 65c25cf77dca9d7ca7d9ebdb,radish,FOUND,radish
 65c25cf77dca9d7ca7d9ebdb,asparagus,FOUND,asparagus
-65c25cf77dca9d7ca7d9ebdb,Spanish,EXCLUDE,EXCLUDE
-65c25cf77dca9d7ca7d9ebdb,letters,EXCLUDE,EXCLUDE
+65c25cf77dca9d7ca7d9ebdb,Spanish,REPLACE,radish
+65c25cf77dca9d7ca7d9ebdb,letters,REPLACE,lettuce
 65c25cf77dca9d7ca7d9ebdb,brussel,EXCLUDE,EXCLUDE
 65c25cf77dca9d7ca7d9ebdb,sprouts,EXCLUDE,EXCLUDE
 65c25cf77dca9d7ca7d9ebdb,mushrooms,REPLACE,mushroom
@@ -51,7 +51,7 @@ SID,entry,evaluation,replacement
 5d7ff4aa50fda7001a863736,red,EXCLUDE,EXCLUDE
 5d7ff4aa50fda7001a863736,bell,EXCLUDE,EXCLUDE
 5d7ff4aa50fda7001a863736,pepper,EXCLUDE,EXCLUDE
-5d7ff4aa50fda7001a863736,green pepper,EXCLUDE,EXCLUDE
+5d7ff4aa50fda7001a863736,green pepper,REPLACE,bell pepper
 5d7ff4aa50fda7001a863736,turn,REPLACE,turnip
 5d7ff4aa50fda7001a863736,ups,EXCLUDE,EXCLUDE
 610c59ee34cc312d7ca55e45,vegetables,EXCLUDE,EXCLUDE
@@ -60,7 +60,7 @@ SID,entry,evaluation,replacement
 610c59ee34cc312d7ca55e45,broccoli,FOUND,broccoli
 610c59ee34cc312d7ca55e45,asparagus,FOUND,asparagus
 610c59ee34cc312d7ca55e45,string,EXCLUDE,EXCLUDE
-610c59ee34cc312d7ca55e45,beans,EXCLUDE,EXCLUDE
+610c59ee34cc312d7ca55e45,beans,REPLACE,soybean
 610c59ee34cc312d7ca55e45,corn,FOUND,corn
 610c59ee34cc312d7ca55e45,happy,EXCLUDE,EXCLUDE
 610c59ee34cc312d7ca55e45,music,EXCLUDE,EXCLUDE
@@ -83,7 +83,7 @@ SID,entry,evaluation,replacement
 65cc19b4b3d48a22dfc6756d,hail,EXCLUDE,EXCLUDE
 65cc19b4b3d48a22dfc6756d,perceive,EXCLUDE,EXCLUDE
 65cc19b4b3d48a22dfc6756d,bok,EXCLUDE,EXCLUDE
-65cc19b4b3d48a22dfc6756d,choy,EXCLUDE,EXCLUDE
+65cc19b4b3d48a22dfc6756d,choy,REPLACE,bok choy
 65cc19b4b3d48a22dfc6756d,cauliflower,FOUND,cauliflower
 65cc19b4b3d48a22dfc6756d,watercress,FOUND,watercress
 601f6a2231a2904b79df1671,carrots,REPLACE,carrot
@@ -91,9 +91,9 @@ SID,entry,evaluation,replacement
 601f6a2231a2904b79df1671,potatoes,REPLACE,potato
 601f6a2231a2904b79df1671,celery,FOUND,celery
 601f6a2231a2904b79df1671,bok,EXCLUDE,EXCLUDE
-601f6a2231a2904b79df1671,choy,EXCLUDE,EXCLUDE
+601f6a2231a2904b79df1671,choy,REPLACE,bok choy
 601f6a2231a2904b79df1671,mung,EXCLUDE,EXCLUDE
-601f6a2231a2904b79df1671,beans,EXCLUDE,EXCLUDE
+601f6a2231a2904b79df1671,beans,REPLACE,soybean
 601f6a2231a2904b79df1671,tomatoes,REPLACE,tomato
 601f6a2231a2904b79df1671,radishes,REPLACE,radish
 601f6a2231a2904b79df1671,cucumbers,REPLACE,cucumber
@@ -114,11 +114,11 @@ SID,entry,evaluation,replacement
 63ea4ab1ce4168cbe9f63775,broccoli,FOUND,broccoli
 63ea4ab1ce4168cbe9f63775,spinach,FOUND,spinach
 63ea4ab1ce4168cbe9f63775,hail,EXCLUDE,EXCLUDE
-63ea4ab1ce4168cbe9f63775,romaine,EXCLUDE,EXCLUDE
+63ea4ab1ce4168cbe9f63775,romaine,REPLACE,rapini
 63ea4ab1ce4168cbe9f63775,lettuce,FOUND,lettuce
-63ea4ab1ce4168cbe9f63775,iceberg,EXCLUDE,EXCLUDE
+63ea4ab1ce4168cbe9f63775,iceberg,REPLACE,celery
 63ea4ab1ce4168cbe9f63775,lettuce,FOUND,lettuce
-63ea4ab1ce4168cbe9f63775,Savage,EXCLUDE,EXCLUDE
+63ea4ab1ce4168cbe9f63775,Savage,REPLACE,cabbage
 63ea4ab1ce4168cbe9f63775,eggplant,FOUND,eggplant
 63ea4ab1ce4168cbe9f63775,zucchini,FOUND,zucchini
 63ea4ab1ce4168cbe9f63775,green,EXCLUDE,EXCLUDE
@@ -126,7 +126,7 @@ SID,entry,evaluation,replacement
 63ea4ab1ce4168cbe9f63775,pepper,EXCLUDE,EXCLUDE
 63ea4ab1ce4168cbe9f63775,Grand,EXCLUDE,EXCLUDE
 63ea4ab1ce4168cbe9f63775,Theft,EXCLUDE,EXCLUDE
-63ea4ab1ce4168cbe9f63775,call,EXCLUDE,EXCLUDE
+63ea4ab1ce4168cbe9f63775,call,REPLACE,scallion
 63ea4ab1ce4168cbe9f63775,Pepper,EXCLUDE,EXCLUDE
 63ea4ab1ce4168cbe9f63775,white,EXCLUDE,EXCLUDE
 63ea4ab1ce4168cbe9f63775,onion,FOUND,onion
@@ -134,13 +134,13 @@ SID,entry,evaluation,replacement
 63ea4ab1ce4168cbe9f63775,onion,FOUND,onion
 63ea4ab1ce4168cbe9f63775,red,EXCLUDE,EXCLUDE
 63ea4ab1ce4168cbe9f63775,onion,FOUND,onion
-63ea4ab1ce4168cbe9f63775,Spanish,EXCLUDE,EXCLUDE
+63ea4ab1ce4168cbe9f63775,Spanish,REPLACE,radish
 63ea4ab1ce4168cbe9f63775,onion,FOUND,onion
-63ea4ab1ce4168cbe9f63775,hornet,EXCLUDE,EXCLUDE
+63ea4ab1ce4168cbe9f63775,hornet,REPLACE,corn
 63ea4ab1ce4168cbe9f63775,so early,EXCLUDE,EXCLUDE
 63ea4ab1ce4168cbe9f63775,potato,FOUND,potato
 63ea4ab1ce4168cbe9f63775,ginger,FOUND,ginger
-63ea4ab1ce4168cbe9f63775,root,EXCLUDE,EXCLUDE
+63ea4ab1ce4168cbe9f63775,root,REPLACE,beetroot
 63ea4ab1ce4168cbe9f63775,he's,EXCLUDE,EXCLUDE
 63ea4ab1ce4168cbe9f63775,cauliflower,FOUND,cauliflower
 63ea4ab1ce4168cbe9f63775,corn,FOUND,corn
@@ -156,7 +156,7 @@ SID,entry,evaluation,replacement
 6596a5cad60ef105b6c18897,greens,EXCLUDE,EXCLUDE
 6596a5cad60ef105b6c18897,asparagus,FOUND,asparagus
 6596a5cad60ef105b6c18897,chard,FOUND,chard
-6596a5cad60ef105b6c18897,rainbow,EXCLUDE,EXCLUDE
+6596a5cad60ef105b6c18897,rainbow,REPLACE,rapini
 6596a5cad60ef105b6c18897,chard,FOUND,chard
 6596a5cad60ef105b6c18897,brussel,EXCLUDE,EXCLUDE
 6596a5cad60ef105b6c18897,sprouts,EXCLUDE,EXCLUDE
@@ -173,7 +173,7 @@ SID,entry,evaluation,replacement
 6596a5cad60ef105b6c18897,green beans,REPLACE,green bean
 6596a5cad60ef105b6c18897,celery,FOUND,celery
 6596a5cad60ef105b6c18897,carrots,REPLACE,carrot
-6596a5cad60ef105b6c18897,aliens,EXCLUDE,EXCLUDE
+6596a5cad60ef105b6c18897,aliens,REPLACE,kale
 6596a5cad60ef105b6c18897,rutabaga,FOUND,rutabaga
 6596a5cad60ef105b6c18897,broccolini,FOUND,broccolini
 6596a5cad60ef105b6c18897,bell,EXCLUDE,EXCLUDE
@@ -230,7 +230,7 @@ SID,entry,evaluation,replacement
 654108d38225e168af4b1fa0,asparagus,FOUND,asparagus
 654108d38225e168af4b1fa0,green beans,REPLACE,green bean
 654108d38225e168af4b1fa0,lima,EXCLUDE,EXCLUDE
-654108d38225e168af4b1fa0,beans,EXCLUDE,EXCLUDE
+654108d38225e168af4b1fa0,beans,REPLACE,soybean
 654108d38225e168af4b1fa0,broccoli,FOUND,broccoli
 654108d38225e168af4b1fa0,zucchini,FOUND,zucchini
 654108d38225e168af4b1fa0,cucumber,FOUND,cucumber
@@ -280,13 +280,13 @@ SID,entry,evaluation,replacement
 5f5aa60bef062519ff711fe6,asparagus,FOUND,asparagus
 5f5aa60bef062519ff711fe6,is,EXCLUDE,EXCLUDE
 5f5aa60bef062519ff711fe6,bok,EXCLUDE,EXCLUDE
-5f5aa60bef062519ff711fe6,choy,EXCLUDE,EXCLUDE
+5f5aa60bef062519ff711fe6,choy,REPLACE,bok choy
 5f5aa60bef062519ff711fe6,lettuce,FOUND,lettuce
 5f5aa60bef062519ff711fe6,cauliflower,FOUND,cauliflower
 5f5aa60bef062519ff711fe6,green beans,REPLACE,green bean
 65b15afd94153c1f50c92493,tomato,FOUND,tomato
 65b15afd94153c1f50c92493,potato,FOUND,potato
-65b15afd94153c1f50c92493,parsnip,EXCLUDE,EXCLUDE
+65b15afd94153c1f50c92493,parsnip,REPLACE,turnip
 65b15afd94153c1f50c92493,eggplant,FOUND,eggplant
 65b15afd94153c1f50c92493,artichoke,FOUND,artichoke
 65b15afd94153c1f50c92493,cauliflower,FOUND,cauliflower
@@ -299,7 +299,7 @@ SID,entry,evaluation,replacement
 65b15afd94153c1f50c92493,sweet potato,FOUND,sweet potato
 65b15afd94153c1f50c92493,brussel,EXCLUDE,EXCLUDE
 65b15afd94153c1f50c92493,sprouts,EXCLUDE,EXCLUDE
-65b15afd94153c1f50c92493,Jared,EXCLUDE,EXCLUDE
+65b15afd94153c1f50c92493,Jared,REPLACE,chard
 65b15afd94153c1f50c92493,spinach,FOUND,spinach
 65b15afd94153c1f50c92493,peeing,EXCLUDE,EXCLUDE
 65b15afd94153c1f50c92493,lettuce,FOUND,lettuce
@@ -308,7 +308,7 @@ SID,entry,evaluation,replacement
 65b15afd94153c1f50c92493,corn,FOUND,corn
 65b15afd94153c1f50c92493,pumpkin,FOUND,pumpkin
 65b15afd94153c1f50c92493,squash,FOUND,squash
-65b15afd94153c1f50c92493,beans,EXCLUDE,EXCLUDE
+65b15afd94153c1f50c92493,beans,REPLACE,soybean
 65b15afd94153c1f50c92493,a,EXCLUDE,EXCLUDE
 65b15afd94153c1f50c92493,pepper,EXCLUDE,EXCLUDE
 65b15afd94153c1f50c92493,jelly,EXCLUDE,EXCLUDE
@@ -340,10 +340,10 @@ SID,entry,evaluation,replacement
 6081806ab383aa89f6c61940,leeks,REPLACE,leek
 6081806ab383aa89f6c61940,red,EXCLUDE,EXCLUDE
 6081806ab383aa89f6c61940,pepper,EXCLUDE,EXCLUDE
-6081806ab383aa89f6c61940,green pepper,EXCLUDE,EXCLUDE
+6081806ab383aa89f6c61940,green pepper,REPLACE,bell pepper
 6081806ab383aa89f6c61940,mushrooms,REPLACE,mushroom
 6081806ab383aa89f6c61940,artichokes,REPLACE,artichoke
-6081806ab383aa89f6c61940,chili,EXCLUDE,EXCLUDE
+6081806ab383aa89f6c61940,chili,REPLACE,zucchini
 6081806ab383aa89f6c61940,pepper,EXCLUDE,EXCLUDE
 6081806ab383aa89f6c61940,jalapeno,EXCLUDE,EXCLUDE
 6081806ab383aa89f6c61940,cilantro,FOUND,cilantro
@@ -353,16 +353,16 @@ SID,entry,evaluation,replacement
 6081806ab383aa89f6c61940,collard,EXCLUDE,EXCLUDE
 6081806ab383aa89f6c61940,greens,EXCLUDE,EXCLUDE
 61363ce02e6022a741d63a6e,carrots,REPLACE,carrot
-61363ce02e6022a741d63a6e,peaches,EXCLUDE,EXCLUDE
+61363ce02e6022a741d63a6e,peaches,REPLACE,pea
 61363ce02e6022a741d63a6e,Edelman,EXCLUDE,EXCLUDE
 61363ce02e6022a741d63a6e,avocados,REPLACE,avocado
 61363ce02e6022a741d63a6e,potatoes,REPLACE,potato
 61363ce02e6022a741d63a6e,cauliflower,FOUND,cauliflower
-61363ce02e6022a741d63a6e,beans,EXCLUDE,EXCLUDE
+61363ce02e6022a741d63a6e,beans,REPLACE,soybean
 61363ce02e6022a741d63a6e,broccoli,FOUND,broccoli
 61363ce02e6022a741d63a6e,pepper,EXCLUDE,EXCLUDE
-61363ce02e6022a741d63a6e,green pepper,EXCLUDE,EXCLUDE
-61363ce02e6022a741d63a6e,chili,EXCLUDE,EXCLUDE
+61363ce02e6022a741d63a6e,green pepper,REPLACE,bell pepper
+61363ce02e6022a741d63a6e,chili,REPLACE,zucchini
 61363ce02e6022a741d63a6e,pepper,EXCLUDE,EXCLUDE
 61363ce02e6022a741d63a6e,corn,FOUND,corn
 61363ce02e6022a741d63a6e,parsley,EXCLUDE,EXCLUDE
@@ -403,7 +403,7 @@ SID,entry,evaluation,replacement
 60d731567049e5132e3cc4d4,pepper,EXCLUDE,EXCLUDE
 60d731567049e5132e3cc4d4,serrano,EXCLUDE,EXCLUDE
 60d731567049e5132e3cc4d4,pepper,EXCLUDE,EXCLUDE
-60d731567049e5132e3cc4d4,chili,EXCLUDE,EXCLUDE
+60d731567049e5132e3cc4d4,chili,REPLACE,zucchini
 60d731567049e5132e3cc4d4,pepper,EXCLUDE,EXCLUDE
 60d731567049e5132e3cc4d4,habanero,EXCLUDE,EXCLUDE
 60d731567049e5132e3cc4d4,broccolini,FOUND,broccolini
@@ -411,7 +411,7 @@ SID,entry,evaluation,replacement
 60d731567049e5132e3cc4d4,sprouts,EXCLUDE,EXCLUDE
 60d731567049e5132e3cc4d4,keys,EXCLUDE,EXCLUDE
 60d731567049e5132e3cc4d4,lima,EXCLUDE,EXCLUDE
-60d731567049e5132e3cc4d4,beans,EXCLUDE,EXCLUDE
+60d731567049e5132e3cc4d4,beans,REPLACE,soybean
 60d731567049e5132e3cc4d4,corn,FOUND,corn
 60d731567049e5132e3cc4d4,water,EXCLUDE,EXCLUDE
 60d731567049e5132e3cc4d4,chestnuts,EXCLUDE,EXCLUDE
@@ -442,10 +442,10 @@ SID,entry,evaluation,replacement
 65e862f844f1b7a803bb3c5a,corn,FOUND,corn
 65e862f844f1b7a803bb3c5a,drumstick,EXCLUDE,EXCLUDE
 65e862f844f1b7a803bb3c5a,broad,EXCLUDE,EXCLUDE
-65e862f844f1b7a803bb3c5a,beans,EXCLUDE,EXCLUDE
+65e862f844f1b7a803bb3c5a,beans,REPLACE,soybean
 65e862f844f1b7a803bb3c5a,radish,FOUND,radish
 65e862f844f1b7a803bb3c5a,snake,EXCLUDE,EXCLUDE
-65e862f844f1b7a803bb3c5a,beans,EXCLUDE,EXCLUDE
+65e862f844f1b7a803bb3c5a,beans,REPLACE,soybean
 65e862f844f1b7a803bb3c5a,bunch of,EXCLUDE,EXCLUDE
 65e862f844f1b7a803bb3c5a,God's,EXCLUDE,EXCLUDE
 65e862f844f1b7a803bb3c5a,green,EXCLUDE,EXCLUDE
@@ -459,7 +459,7 @@ SID,entry,evaluation,replacement
 65e862f844f1b7a803bb3c5a,spinach,FOUND,spinach
 65e862f844f1b7a803bb3c5a,cabbage,FOUND,cabbage
 65e862f844f1b7a803bb3c5a,let's,EXCLUDE,EXCLUDE
-65e862f844f1b7a803bb3c5a,choose,EXCLUDE,EXCLUDE
+65e862f844f1b7a803bb3c5a,choose,REPLACE,chayote
 65e862f844f1b7a803bb3c5a,onion,FOUND,onion
 65e862f844f1b7a803bb3c5a,Ginger,REPLACE,ginger
 65e862f844f1b7a803bb3c5a,potato,FOUND,potato
@@ -497,7 +497,7 @@ SID,entry,evaluation,replacement
 656e3caa43f1f7f0615252ff,carrots,REPLACE,carrot
 656e3caa43f1f7f0615252ff,daikon,FOUND,daikon
 656e3caa43f1f7f0615252ff,chives,EXCLUDE,EXCLUDE
-656e3caa43f1f7f0615252ff,scallops,EXCLUDE,EXCLUDE
+656e3caa43f1f7f0615252ff,scallops,REPLACE,scallion
 656e3caa43f1f7f0615252ff,no,EXCLUDE,EXCLUDE
 656e3caa43f1f7f0615252ff,scallions,REPLACE,scallion
 656e3caa43f1f7f0615252ff,Persian,EXCLUDE,EXCLUDE
@@ -521,7 +521,7 @@ SID,entry,evaluation,replacement
 63619eb02e5bd8f4f7bd138a,cilantro,FOUND,cilantro
 63619eb02e5bd8f4f7bd138a,parsley,EXCLUDE,EXCLUDE
 63619eb02e5bd8f4f7bd138a,oranges,EXCLUDE,EXCLUDE
-63619eb02e5bd8f4f7bd138a,apples,EXCLUDE,EXCLUDE
+63619eb02e5bd8f4f7bd138a,apples,REPLACE,kale
 63619eb02e5bd8f4f7bd138a,bananas,EXCLUDE,EXCLUDE
 63619eb02e5bd8f4f7bd138a,plantains,EXCLUDE,EXCLUDE
 63619eb02e5bd8f4f7bd138a,pears,REPLACE,pea
@@ -544,14 +544,14 @@ SID,entry,evaluation,replacement
 63619eb02e5bd8f4f7bd138a,my,EXCLUDE,EXCLUDE
 63619eb02e5bd8f4f7bd138a,mess,EXCLUDE,EXCLUDE
 63619eb02e5bd8f4f7bd138a,I mentioned,EXCLUDE,EXCLUDE
-63619eb02e5bd8f4f7bd138a,more,EXCLUDE,EXCLUDE
+63619eb02e5bd8f4f7bd138a,more,REPLACE,sorrel
 63619eb02e5bd8f4f7bd138a,vegetables,EXCLUDE,EXCLUDE
 63619eb02e5bd8f4f7bd138a,I'm sorry,EXCLUDE,EXCLUDE
 63619eb02e5bd8f4f7bd138a,about that,EXCLUDE,EXCLUDE
 65d54b3b524fcafb543d1b23,carrots,REPLACE,carrot
 65d54b3b524fcafb543d1b23,cucumbers,REPLACE,cucumber
 65d54b3b524fcafb543d1b23,pickles,EXCLUDE,EXCLUDE
-65d54b3b524fcafb543d1b23,apple,EXCLUDE,EXCLUDE
+65d54b3b524fcafb543d1b23,apple,REPLACE,kale
 65d54b3b524fcafb543d1b23,red,EXCLUDE,EXCLUDE
 65d54b3b524fcafb543d1b23,type of,EXCLUDE,EXCLUDE
 65d54b3b524fcafb543d1b23,shirt,EXCLUDE,EXCLUDE
@@ -559,7 +559,7 @@ SID,entry,evaluation,replacement
 65d54b3b524fcafb543d1b23,vegetables,EXCLUDE,EXCLUDE
 65d54b3b524fcafb543d1b23,cilantro,FOUND,cilantro
 65d54b3b524fcafb543d1b23,tomatoes,REPLACE,tomato
-65d54b3b524fcafb543d1b23,green pepper,EXCLUDE,EXCLUDE
+65d54b3b524fcafb543d1b23,green pepper,REPLACE,bell pepper
 65d54b3b524fcafb543d1b23,red,EXCLUDE,EXCLUDE
 65d54b3b524fcafb543d1b23,pepper,EXCLUDE,EXCLUDE
 65d54b3b524fcafb543d1b23,yellow,EXCLUDE,EXCLUDE
@@ -586,7 +586,7 @@ SID,entry,evaluation,replacement
 6554de7d91c1b1bf51104fda,corn,FOUND,corn
 6554de7d91c1b1bf51104fda,carrots,REPLACE,carrot
 6554de7d91c1b1bf51104fda,Halo,EXCLUDE,EXCLUDE
-6554de7d91c1b1bf51104fda,spurgas,EXCLUDE,EXCLUDE
+6554de7d91c1b1bf51104fda,spurgas,REPLACE,squash
 6554de7d91c1b1bf51104fda,celery,FOUND,celery
 6554de7d91c1b1bf51104fda,cabbage,FOUND,cabbage
 6554de7d91c1b1bf51104fda,onions,REPLACE,onion
@@ -608,9 +608,9 @@ SID,entry,evaluation,replacement
 6554de7d91c1b1bf51104fda,local,EXCLUDE,EXCLUDE
 6554de7d91c1b1bf51104fda,green,EXCLUDE,EXCLUDE
 6554de7d91c1b1bf51104fda,stem,EXCLUDE,EXCLUDE
-6554de7d91c1b1bf51104fda,root,EXCLUDE,EXCLUDE
+6554de7d91c1b1bf51104fda,root,REPLACE,beetroot
 6554de7d91c1b1bf51104fda,leaf,EXCLUDE,EXCLUDE
-6554de7d91c1b1bf51104fda,alien,EXCLUDE,EXCLUDE
+6554de7d91c1b1bf51104fda,alien,REPLACE,kale
 6554de7d91c1b1bf51104fda,garlic,FOUND,garlic
 6554de7d91c1b1bf51104fda,artichokes,REPLACE,artichoke
 6554de7d91c1b1bf51104fda,sweet potatoes,REPLACE,sweet potato
@@ -619,7 +619,7 @@ SID,entry,evaluation,replacement
 6554de7d91c1b1bf51104fda,zucchini,FOUND,zucchini
 6554de7d91c1b1bf51104fda,organic,EXCLUDE,EXCLUDE
 6554de7d91c1b1bf51104fda,Ashok,EXCLUDE,EXCLUDE
-65cb63e160bb47fbf9349269,broccoli and,EXCLUDE,EXCLUDE
+65cb63e160bb47fbf9349269,broccoli and,REPLACE,broccolini
 65cb63e160bb47fbf9349269,carrots,REPLACE,carrot
 65cb63e160bb47fbf9349269,asparagus,FOUND,asparagus
 65cb63e160bb47fbf9349269,image,EXCLUDE,EXCLUDE
@@ -667,7 +667,7 @@ SID,entry,evaluation,replacement
 629e241d171ec6698e05f149,carrot,FOUND,carrot
 629e241d171ec6698e05f149,beat,EXCLUDE,EXCLUDE
 629e241d171ec6698e05f149,bok,EXCLUDE,EXCLUDE
-629e241d171ec6698e05f149,choy,EXCLUDE,EXCLUDE
+629e241d171ec6698e05f149,choy,REPLACE,bok choy
 629e241d171ec6698e05f149,onion,FOUND,onion
 629e241d171ec6698e05f149,potato,FOUND,potato
 629e241d171ec6698e05f149,green,EXCLUDE,EXCLUDE
@@ -686,20 +686,20 @@ SID,entry,evaluation,replacement
 629e241d171ec6698e05f149,eggplant,FOUND,eggplant
 629e241d171ec6698e05f149,wheat,EXCLUDE,EXCLUDE
 629e241d171ec6698e05f149,Rye,EXCLUDE,EXCLUDE
-629e241d171ec6698e05f149,barley,EXCLUDE,EXCLUDE
-629e241d171ec6698e05f149,beans,EXCLUDE,EXCLUDE
+629e241d171ec6698e05f149,barley,REPLACE,kale
+629e241d171ec6698e05f149,beans,REPLACE,soybean
 629e241d171ec6698e05f149,black,EXCLUDE,EXCLUDE
-629e241d171ec6698e05f149,beans,EXCLUDE,EXCLUDE
+629e241d171ec6698e05f149,beans,REPLACE,soybean
 629e241d171ec6698e05f149,broad,EXCLUDE,EXCLUDE
-629e241d171ec6698e05f149,beans,EXCLUDE,EXCLUDE
+629e241d171ec6698e05f149,beans,REPLACE,soybean
 629e241d171ec6698e05f149,lima,EXCLUDE,EXCLUDE
-629e241d171ec6698e05f149,beans,EXCLUDE,EXCLUDE
+629e241d171ec6698e05f149,beans,REPLACE,soybean
 629e241d171ec6698e05f149,red,EXCLUDE,EXCLUDE
-629e241d171ec6698e05f149,beans,EXCLUDE,EXCLUDE
+629e241d171ec6698e05f149,beans,REPLACE,soybean
 629e241d171ec6698e05f149,Navy,EXCLUDE,EXCLUDE
-629e241d171ec6698e05f149,beans,EXCLUDE,EXCLUDE
-629e241d171ec6698e05f149,Pinto,EXCLUDE,EXCLUDE
-629e241d171ec6698e05f149,beans,EXCLUDE,EXCLUDE
+629e241d171ec6698e05f149,beans,REPLACE,soybean
+629e241d171ec6698e05f149,Pinto,REPLACE,cilantro
+629e241d171ec6698e05f149,beans,REPLACE,soybean
 629e241d171ec6698e05f149,chickpeas,REPLACE,chickpea
 629e241d171ec6698e05f149,peas,REPLACE,pea
 629e241d171ec6698e05f149,bell,EXCLUDE,EXCLUDE
@@ -726,7 +726,7 @@ SID,entry,evaluation,replacement
 60a48adfe091e410f4eaba34,spinach,FOUND,spinach
 60a48adfe091e410f4eaba34,lettuce,FOUND,lettuce
 60a48adfe091e410f4eaba34,carrots,REPLACE,carrot
-60a48adfe091e410f4eaba34,remain,EXCLUDE,EXCLUDE
+60a48adfe091e410f4eaba34,remain,REPLACE,rapini
 60a48adfe091e410f4eaba34,peas,REPLACE,pea
 60a48adfe091e410f4eaba34,Courant,EXCLUDE,EXCLUDE
 60a48adfe091e410f4eaba34,broccoli,FOUND,broccoli

@@ -1,0 +1,280 @@
+SID,entry,timepoint,evaluation,replacement
+5c1942e200849900010afdcd,table,0.0,FOUND,table
+5c1942e200849900010afdcd,desk,0.0,FOUND,desk
+5c1942e200849900010afdcd,armoire,1.5,FOUND,armoire
+5c1942e200849900010afdcd,sofa,4.3,FOUND,sofa
+5c1942e200849900010afdcd,couch,1.0,REPLACE,hutch
+5c1942e200849900010afdcd,chair,0.0,FOUND,chair
+5c1942e200849900010afdcd,stool,1.6,FOUND,stool
+5c1942e200849900010afdcd,Barstool,1.1,REPLACE,bar stool
+5c1942e200849900010afdcd,counter,4.6,EXCLUDE,EXCLUDE
+5c1942e200849900010afdcd,mattress,2.3,EXCLUDE,EXCLUDE
+5c1942e200849900010afdcd,cushion,4.1,EXCLUDE,EXCLUDE
+5c1942e200849900010afdcd,hammock,22.8,FOUND,hammock
+5c1942e200849900010afdcd,cabinet,5.4,REPLACE,tv cabinet
+5c1942e200849900010afdcd,lamp,4.6,EXCLUDE,EXCLUDE
+5c1942e200849900010afdcd,Lantern,2.5,EXCLUDE,EXCLUDE
+5c4a428161c51f0001e96b3f,couches,0.0,REPLACE,chest
+5c4a428161c51f0001e96b3f,bed,0.0,FOUND,bed
+5c4a428161c51f0001e96b3f,closet,1.2,REPLACE,loveseat
+5c4a428161c51f0001e96b3f,shoe holder,1.9,EXCLUDE,EXCLUDE
+5c4a428161c51f0001e96b3f,nightstand office chair,0.0,EXCLUDE,EXCLUDE
+5c4a428161c51f0001e96b3f,office table,0.0,REPLACE,coffee table
+5c4a428161c51f0001e96b3f,vanity,2.2,FOUND,vanity
+5c4a428161c51f0001e96b3f,TV,2.2,EXCLUDE,EXCLUDE
+5c4a428161c51f0001e96b3f,table,1.5,FOUND,table
+5c4a428161c51f0001e96b3f,coffee table,0.0,FOUND,coffee table
+5c4a428161c51f0001e96b3f,dining room,4.1,EXCLUDE,EXCLUDE
+5c4a428161c51f0001e96b3f,table,0.0,FOUND,table
+5c4a428161c51f0001e96b3f,cause of bench,6.1,EXCLUDE,EXCLUDE
+5c4a428161c51f0001e96b3f,chairs,4.3,REPLACE,chair
+5c4a428161c51f0001e96b3f,high chairs,2.7,REPLACE,high chair
+5c4a428161c51f0001e96b3f,lounge chairs,0.0,REPLACE,lounge chair
+5c4a428161c51f0001e96b3f,pool chairs,0.0,REPLACE,wood chair
+5c4a428161c51f0001e96b3f,bar chairs,2.7,REPLACE,barrel chair
+5c4a428161c51f0001e96b3f,bunk beds,17.9,REPLACE,bunk bed
+5c4a428161c51f0001e96b3f,standing desk,4.0,EXCLUDE,EXCLUDE
+5c4a428161c51f0001e96b3f,office desk,5.2,EXCLUDE,EXCLUDE
+5e8a76b3939b3072dc76fb5c,couches,0.0,REPLACE,chest
+5e8a76b3939b3072dc76fb5c,chairs,0.0,REPLACE,chair
+5e8a76b3939b3072dc76fb5c,sofas,0.0,REPLACE,sofa
+5e8a76b3939b3072dc76fb5c,cabinet,1.1,REPLACE,tv cabinet
+5e8a76b3939b3072dc76fb5c,desks,0.0,REPLACE,desk
+5e8a76b3939b3072dc76fb5c,tables,0.0,REPLACE,table
+5e8a76b3939b3072dc76fb5c,shelves,10.5,REPLACE,server
+5e8a76b3939b3072dc76fb5c,cup boards,3.6,EXCLUDE,EXCLUDE
+5e8a76b3939b3072dc76fb5c,racks,93.6,EXCLUDE,EXCLUDE
+6595e3b4dc9090390e4edb5f,bed,0.0,FOUND,bed
+6595e3b4dc9090390e4edb5f,sofa,1.3,FOUND,sofa
+6595e3b4dc9090390e4edb5f,loveseat,0.0,FOUND,loveseat
+6595e3b4dc9090390e4edb5f,armchair,0.0,FOUND,armchair
+6595e3b4dc9090390e4edb5f,ottoman,2.5,FOUND,ottoman
+6595e3b4dc9090390e4edb5f,coffee table,0.0,FOUND,coffee table
+6595e3b4dc9090390e4edb5f,dining table,0.0,FOUND,dining table
+6595e3b4dc9090390e4edb5f,television stand,1.7,EXCLUDE,EXCLUDE
+6595e3b4dc9090390e4edb5f,lamps,0.0,EXCLUDE,EXCLUDE
+6595e3b4dc9090390e4edb5f,cupboard,1.0,EXCLUDE,EXCLUDE
+6595e3b4dc9090390e4edb5f,shelves,1.3,REPLACE,server
+6595e3b4dc9090390e4edb5f,desk,4.9,FOUND,desk
+6595e3b4dc9090390e4edb5f,side tables,0.0,REPLACE,side table
+6595e3b4dc9090390e4edb5f,vanity,1.7,FOUND,vanity
+6595e3b4dc9090390e4edb5f,patio table,2.5,REPLACE,pub table
+6595e3b4dc9090390e4edb5f,patio chairs,0.0,EXCLUDE,EXCLUDE
+6595e3b4dc9090390e4edb5f,wardrobe,16.3,FOUND,wardrobe
+6595e3b4dc9090390e4edb5f,mirror,0.0,EXCLUDE,EXCLUDE
+6595e3b4dc9090390e4edb5f,bookshelf,0.0,FOUND,bookshelf
+6595e3b4dc9090390e4edb5f,headboard,12.0,FOUND,headboard
+6595e3b4dc9090390e4edb5f,shoe rack,14.6,FOUND,shoe rack
+6595e3b4dc9090390e4edb5f,footstool,3.2,FOUND,footstool
+6595e3b4dc9090390e4edb5f,bench,2.2,FOUND,bench
+6595e3b4dc9090390e4edb5f,crib,2.60000000000001,EXCLUDE,EXCLUDE
+6595e3b4dc9090390e4edb5f,bar table,8.5,REPLACE,pub table
+6595e3b4dc9090390e4edb5f,bar stools,0.0,REPLACE,bar stool
+6595e3b4dc9090390e4edb5f,mirrors,0.0,EXCLUDE,EXCLUDE
+65512e3cc12f463bc327b7c3,couch,0.0,REPLACE,hutch
+65512e3cc12f463bc327b7c3,chair,3.6,FOUND,chair
+65512e3cc12f463bc327b7c3,table,2.5,FOUND,table
+65512e3cc12f463bc327b7c3,rocking chair,3.2,FOUND,rocking chair
+65512e3cc12f463bc327b7c3,futon,2.9,FOUND,futon
+65512e3cc12f463bc327b7c3,dresser,2.4,FOUND,dresser
+65512e3cc12f463bc327b7c3,bed,2.5,FOUND,bed
+65512e3cc12f463bc327b7c3,table,2.8,FOUND,table
+65512e3cc12f463bc327b7c3,ottoman,12.5,FOUND,ottoman
+65512e3cc12f463bc327b7c3,chaise,4.6,REPLACE,chair
+65512e3cc12f463bc327b7c3,nightstand,6.4,FOUND,nightstand
+65512e3cc12f463bc327b7c3,recliner,5.7,FOUND,recliner
+65512e3cc12f463bc327b7c3,wardrobe,6.8,FOUND,wardrobe
+65512e3cc12f463bc327b7c3,bed,5.60000000000001,FOUND,bed
+65512e3cc12f463bc327b7c3,folding chair,15.1,FOUND,folding chair
+65512e3cc12f463bc327b7c3,bunk bed,4.59999999999999,FOUND,bunk bed
+5fc6df58f380620a09116434,desk,0.0,FOUND,desk
+5fc6df58f380620a09116434,chair,0.0,FOUND,chair
+5fc6df58f380620a09116434,bed,0.0,FOUND,bed
+5fc6df58f380620a09116434,table,0.0,FOUND,table
+5fc6df58f380620a09116434,cabinet,0.0,REPLACE,tv cabinet
+5fc6df58f380620a09116434,dresser,0.0,FOUND,dresser
+5fc6df58f380620a09116434,drawer,0.0,REPLACE,dresser
+5fc6df58f380620a09116434,bookshelf,0.0,FOUND,bookshelf
+5fc6df58f380620a09116434,shelf,0.0,REPLACE,bookshelf
+5fc6df58f380620a09116434,nightstand,0.0,FOUND,nightstand
+5fc6df58f380620a09116434,ottoman,0.0,FOUND,ottoman
+5fc6df58f380620a09116434,couch,0.0,REPLACE,hutch
+5fc6df58f380620a09116434,loveseat,0.0,FOUND,loveseat
+5fc6df58f380620a09116434,Barstool,3.6,REPLACE,bar stool
+5fc6df58f380620a09116434,reclining,2.0,REPLACE,recliner
+5fc6df58f380620a09116434,chair,0.0,FOUND,chair
+5fc6df58f380620a09116434,sofa,0.0,FOUND,sofa
+5fc6df58f380620a09116434,rocker,0.0,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,rocking horse,0.0,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,foot rest,4.7,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,lamp,4.1,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,floor lamp,1.3,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,light,1.2,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,wood,2.1,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,fabric,3.2,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,knobs,3.9,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,mirror,0.0,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,side table,5.9,FOUND,side table
+5fc6df58f380620a09116434,glass,9.39999999999999,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,bench,6.40000000000001,FOUND,bench
+5fc6df58f380620a09116434,woodworking bench,0.0,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,picnic table,0.0,REPLACE,dining table
+5fc6df58f380620a09116434,patio table,4.0,REPLACE,pub table
+5fc6df58f380620a09116434,patio chair,2.10000000000001,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,Cabana,3.09999999999999,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,shoe rack,7.7,FOUND,shoe rack
+65778c02cde55736bb830eca,office chair,0.0,FOUND,office chair
+65778c02cde55736bb830eca,bar stools,1.9,REPLACE,bar stool
+65778c02cde55736bb830eca,dining table,1.9,FOUND,dining table
+65778c02cde55736bb830eca,coffee table,1.5,FOUND,coffee table
+65778c02cde55736bb830eca,drawer,4.1,REPLACE,dresser
+65778c02cde55736bb830eca,bookcase,3.9,FOUND,bookcase
+65778c02cde55736bb830eca,dining chairs,4.2,REPLACE,dining chair
+65778c02cde55736bb830eca,patio chairs,2.7,EXCLUDE,EXCLUDE
+65778c02cde55736bb830eca,patio table,0.0,REPLACE,pub table
+65778c02cde55736bb830eca,leather couch,2.6,EXCLUDE,EXCLUDE
+65778c02cde55736bb830eca,recliner,5.4,FOUND,recliner
+65778c02cde55736bb830eca,bed frame,4.5,EXCLUDE,EXCLUDE
+65778c02cde55736bb830eca,sofa,4.7,FOUND,sofa
+65778c02cde55736bb830eca,countertop,8.8,REPLACE,counter stool
+65778c02cde55736bb830eca,nightstand,2.2,FOUND,nightstand
+65778c02cde55736bb830eca,glass table,5.0,REPLACE,tray table
+65778c02cde55736bb830eca,sectional,20.8,EXCLUDE,EXCLUDE
+5f6c102b6ec04317fc9a8127,chairs,0.0,REPLACE,chair
+5f6c102b6ec04317fc9a8127,tables,0.0,REPLACE,table
+5f6c102b6ec04317fc9a8127,desk,0.0,FOUND,desk
+5f6c102b6ec04317fc9a8127,shelves,2.9,REPLACE,server
+5f6c102b6ec04317fc9a8127,rugs,0.0,EXCLUDE,EXCLUDE
+5f6c102b6ec04317fc9a8127,beds,2.6,REPLACE,bed
+5f6c102b6ec04317fc9a8127,stools,0.9,REPLACE,stool
+5f6c102b6ec04317fc9a8127,desks,1.4,REPLACE,desk
+5f6c102b6ec04317fc9a8127,couches,1.7,REPLACE,chest
+5f6c102b6ec04317fc9a8127,nightstands,1.9,REPLACE,nightstand
+5f6c102b6ec04317fc9a8127,recliners,2.0,REPLACE,recliner
+5f6c102b6ec04317fc9a8127,things on the wall,5.9,EXCLUDE,EXCLUDE
+5f6c102b6ec04317fc9a8127,posters,0.0,EXCLUDE,EXCLUDE
+5f6c102b6ec04317fc9a8127,bar stools,10.5,REPLACE,bar stool
+5f6c102b6ec04317fc9a8127,closet,12.6,REPLACE,loveseat
+5f6c102b6ec04317fc9a8127,benches,27.5,REPLACE,bench
+5f6c102b6ec04317fc9a8127,display cases,13.8,REPLACE,display cabinet
+5f6c102b6ec04317fc9a8127,coffee table,8.39999999999999,FOUND,coffee table
+5e7fefe06c12706d47e35211,sofa,0.0,FOUND,sofa
+5e7fefe06c12706d47e35211,couch,0.0,REPLACE,hutch
+5e7fefe06c12706d47e35211,loveseat,1.6,FOUND,loveseat
+5e7fefe06c12706d47e35211,dining room table,2.8,EXCLUDE,EXCLUDE
+5e7fefe06c12706d47e35211,dining room chairs,0.0,REPLACE,waiting room chair
+5e7fefe06c12706d47e35211,carpet,1.3,EXCLUDE,EXCLUDE
+5e7fefe06c12706d47e35211,desk,0.799999999999997,FOUND,desk
+5e7fefe06c12706d47e35211,office chair,2.0,FOUND,office chair
+5e7fefe06c12706d47e35211,picture frame dresser,1.5,EXCLUDE,EXCLUDE
+5e7fefe06c12706d47e35211,nightstand lamp,1.4,EXCLUDE,EXCLUDE
+5e7fefe06c12706d47e35211,overhead light,1.0,EXCLUDE,EXCLUDE
+5e7fefe06c12706d47e35211,shelves,1.3,REPLACE,server
+5e7fefe06c12706d47e35211,storage bins,1.1,REPLACE,storage cabinet
+5e7fefe06c12706d47e35211,ottoman coffee tables,0.0,REPLACE,ottoman coffee table
+5e7fefe06c12706d47e35211,drawers,9.0,EXCLUDE,EXCLUDE
+5e7fefe06c12706d47e35211,chest,3.3,FOUND,chest
+5e7fefe06c12706d47e35211,doors,18.7,EXCLUDE,EXCLUDE
+5e7fefe06c12706d47e35211,file cabinets,6.80000000000001,REPLACE,shoe cabinet
+5e7fefe06c12706d47e35211,organizers,10.4,EXCLUDE,EXCLUDE
+5e7fefe06c12706d47e35211,hangers,5.0,EXCLUDE,EXCLUDE
+5e7fefe06c12706d47e35211,sconces chandeliers,4.5,EXCLUDE,EXCLUDE
+5e7fefe06c12706d47e35211,bases,0.0,EXCLUDE,EXCLUDE
+60fcf1a04c245326d05076e0,bed,0.0,FOUND,bed
+60fcf1a04c245326d05076e0,nightstand,0.0,FOUND,nightstand
+60fcf1a04c245326d05076e0,desk,0.0,FOUND,desk
+60fcf1a04c245326d05076e0,dresser,0.0,FOUND,dresser
+60fcf1a04c245326d05076e0,couch,0.0,REPLACE,hutch
+60fcf1a04c245326d05076e0,dining room table,1.1,EXCLUDE,EXCLUDE
+60fcf1a04c245326d05076e0,loveseat,4.5,FOUND,loveseat
+60fcf1a04c245326d05076e0,lounger,2.8,EXCLUDE,EXCLUDE
+60fcf1a04c245326d05076e0,lamp,2.9,EXCLUDE,EXCLUDE
+60fcf1a04c245326d05076e0,sofa table,6.9,FOUND,sofa table
+60fcf1a04c245326d05076e0,end table,0.0,FOUND,end table
+60fcf1a04c245326d05076e0,ottoman,3.7,FOUND,ottoman
+60fcf1a04c245326d05076e0,coffee table,0.0,FOUND,coffee table
+60fcf1a04c245326d05076e0,desk,4.2,FOUND,desk
+60fcf1a04c245326d05076e0,wardrobe,5.0,FOUND,wardrobe
+60fcf1a04c245326d05076e0,bookshelf,4.3,FOUND,bookshelf
+60fcf1a04c245326d05076e0,bean bag chair,7.0,FOUND,bean bag chair
+60fcf1a04c245326d05076e0,high chair,12.4,FOUND,high chair
+60fcf1a04c245326d05076e0,Barstool,2.69999999999999,REPLACE,bar stool
+60fcf1a04c245326d05076e0,changing table,7.2,REPLACE,hanging rail
+60fcf1a04c245326d05076e0,crib,0.0,EXCLUDE,EXCLUDE
+60fcf1a04c245326d05076e0,footstool,17.3,FOUND,footstool
+61035836646fb6ee2152f950,sofa,0.0,FOUND,sofa
+61035836646fb6ee2152f950,couch,2.4,REPLACE,hutch
+61035836646fb6ee2152f950,futon,1.8,FOUND,futon
+61035836646fb6ee2152f950,Chair,1.4,REPLACE,chair
+61035836646fb6ee2152f950,bench,1.5,FOUND,bench
+61035836646fb6ee2152f950,Lazy Boy,1.1,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,loveseat,1.3,FOUND,loveseat
+61035836646fb6ee2152f950,blanket,1.9,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,desk,1.8,FOUND,desk
+61035836646fb6ee2152f950,credenza,5.4,FOUND,credenza
+61035836646fb6ee2152f950,Shelf,1.2,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,coffee table,5.4,FOUND,coffee table
+61035836646fb6ee2152f950,recliner,2.3,FOUND,recliner
+61035836646fb6ee2152f950,Chaise,4.2,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,lounger,2.5,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,bed,4.8,FOUND,bed
+61035836646fb6ee2152f950,bed frame,2.4,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,nightstand,4.7,FOUND,nightstand
+61035836646fb6ee2152f950,side table,1.99999999999999,FOUND,side table
+61035836646fb6ee2152f950,Barstool,11.2,REPLACE,bar stool
+61035836646fb6ee2152f950,dresser,14.3,FOUND,dresser
+61035836646fb6ee2152f950,armoire,2.19999999999999,FOUND,armoire
+61035836646fb6ee2152f950,chest,11.3,FOUND,chest
+61035836646fb6ee2152f950,pedestal,8.09999999999999,EXCLUDE,EXCLUDE
+5ed9311e1a69d449577bb8cf,dusk,0.0,REPLACE,desk
+5ed9311e1a69d449577bb8cf,Shelf,0.0,EXCLUDE,EXCLUDE
+5ed9311e1a69d449577bb8cf,TV stand,2.2,REPLACE,tv stand
+5ed9311e1a69d449577bb8cf,mattress,3.8,EXCLUDE,EXCLUDE
+5ed9311e1a69d449577bb8cf,couch,0.0,REPLACE,hutch
+5ed9311e1a69d449577bb8cf,sofa,0.0,FOUND,sofa
+5ed9311e1a69d449577bb8cf,pull out couch,0.0,EXCLUDE,EXCLUDE
+5ed9311e1a69d449577bb8cf,steel,3.7,REPLACE,settee
+5ed9311e1a69d449577bb8cf,ceiling fan,0.0,EXCLUDE,EXCLUDE
+5ed9311e1a69d449577bb8cf,carpet,6.7,EXCLUDE,EXCLUDE
+5ed9311e1a69d449577bb8cf,chairs,2.9,REPLACE,chair
+5ed9311e1a69d449577bb8cf,lawn chairs,0.0,EXCLUDE,EXCLUDE
+5ed9311e1a69d449577bb8cf,stool,4.1,FOUND,stool
+5ed9311e1a69d449577bb8cf,mattress,9.2,EXCLUDE,EXCLUDE
+5ed9311e1a69d449577bb8cf,back,0.0,EXCLUDE,EXCLUDE
+5ed9311e1a69d449577bb8cf,dining table,8.0,FOUND,dining table
+5ed9311e1a69d449577bb8cf,dining table chairs,0.0,EXCLUDE,EXCLUDE
+5ed9311e1a69d449577bb8cf,patio chairs,24.4,EXCLUDE,EXCLUDE
+5ed9311e1a69d449577bb8cf,lounge chairs,22.2,REPLACE,lounge chair
+5d3cc9010e510a00013df6f6,couches,0.0,REPLACE,chest
+5d3cc9010e510a00013df6f6,coffee tables,2.7,REPLACE,coffee table
+5d3cc9010e510a00013df6f6,loveseat,6.4,FOUND,loveseat
+5d3cc9010e510a00013df6f6,recliners,4.1,REPLACE,recliner
+5d3cc9010e510a00013df6f6,nightstands,4.1,REPLACE,nightstand
+5d3cc9010e510a00013df6f6,dining table,10.0,FOUND,dining table
+5d3cc9010e510a00013df6f6,seats,1.6,EXCLUDE,EXCLUDE
+5d3cc9010e510a00013df6f6,dressers,7.2,REPLACE,dresser
+5d3cc9010e510a00013df6f6,TV,5.8,EXCLUDE,EXCLUDE
+5d3cc9010e510a00013df6f6,stand,0.0,REPLACE,tv stand
+5d3cc9010e510a00013df6f6,Lazy chair,18.3,REPLACE,yoga chair
+5d3cc9010e510a00013df6f6,rocking chair,14.1,FOUND,rocking chair
+60da4f9aa1ced7efeecca18a,desk,0.0,FOUND,desk
+60da4f9aa1ced7efeecca18a,table,0.0,FOUND,table
+60da4f9aa1ced7efeecca18a,kitchen island,4.1,EXCLUDE,EXCLUDE
+60da4f9aa1ced7efeecca18a,bed,2.5,FOUND,bed
+60da4f9aa1ced7efeecca18a,couch,2.2,REPLACE,hutch
+60da4f9aa1ced7efeecca18a,bean,2.1,REPLACE,bench
+60da4f9aa1ced7efeecca18a,bag,0.0,EXCLUDE,EXCLUDE
+60da4f9aa1ced7efeecca18a,office chair,2.1,FOUND,office chair
+60da4f9aa1ced7efeecca18a,white furnishings,4.9,EXCLUDE,EXCLUDE
+60da4f9aa1ced7efeecca18a,folding chair,4.3,FOUND,folding chair
+60da4f9aa1ced7efeecca18a,folding table,0.0,FOUND,folding table
+60da4f9aa1ced7efeecca18a,loveseat,7.1,FOUND,loveseat
+60da4f9aa1ced7efeecca18a,monitor stand,8.6,EXCLUDE,EXCLUDE
+60da4f9aa1ced7efeecca18a,adjustable height desk,2.5,EXCLUDE,EXCLUDE
+60da4f9aa1ced7efeecca18a,cabinet,4.3,REPLACE,tv cabinet
+60da4f9aa1ced7efeecca18a,closet,0.600000000000001,REPLACE,loveseat
+60da4f9aa1ced7efeecca18a,dresser,2.89999999999999,FOUND,dresser
+60da4f9aa1ced7efeecca18a,organizer,10.3,EXCLUDE,EXCLUDE
+60da4f9aa1ced7efeecca18a,stand,18.5,REPLACE,tv stand
+60da4f9aa1ced7efeecca18a,fold out bed,11.1,EXCLUDE,EXCLUDE
+60da4f9aa1ced7efeecca18a,futon,2.2,FOUND,futon

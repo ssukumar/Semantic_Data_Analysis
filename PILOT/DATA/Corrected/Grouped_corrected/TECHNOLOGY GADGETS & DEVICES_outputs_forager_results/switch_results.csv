@@ -1,0 +1,81 @@
+Subject,Fluency_Item,Switch_Value,Switch_Method
+5c1942e200849900010afdcd,laptop,2,simdrop
+5c1942e200849900010afdcd,smartphone,0,simdrop
+5c1942e200849900010afdcd,tablet,0,simdrop
+5c1942e200849900010afdcd,smart lock,2,simdrop
+5c4a428161c51f0001e96b3f,smartphone,2,simdrop
+5c4a428161c51f0001e96b3f,smartwatch,0,simdrop
+5c4a428161c51f0001e96b3f,smart scale,1,simdrop
+5c4a428161c51f0001e96b3f,smart thermostat,0,simdrop
+5c4a428161c51f0001e96b3f,headphones,1,simdrop
+5c4a428161c51f0001e96b3f,headphones,0,simdrop
+5c4a428161c51f0001e96b3f,laptop,1,simdrop
+5c4a428161c51f0001e96b3f,tablet,0,simdrop
+5c4a428161c51f0001e96b3f,smartwatch,0,simdrop
+5c4a428161c51f0001e96b3f,3d printer,1,simdrop
+5c4a428161c51f0001e96b3f,drone,0,simdrop
+5c4a428161c51f0001e96b3f,laptop,1,simdrop
+5c4a428161c51f0001e96b3f,electric toothbrush,0,simdrop
+5c4a428161c51f0001e96b3f,electric scooter,2,simdrop
+5d3cc9010e510a00013df6f6,tablet,2,simdrop
+5d3cc9010e510a00013df6f6,laptop,0,simdrop
+5d3cc9010e510a00013df6f6,digital camera,0,simdrop
+5d3cc9010e510a00013df6f6,headphones,2,simdrop
+5e7fefe06c12706d47e35211,laptop,2,simdrop
+5e7fefe06c12706d47e35211,tablet,0,simdrop
+5e7fefe06c12706d47e35211,3d printer,0,simdrop
+5e7fefe06c12706d47e35211,drone,0,simdrop
+5e7fefe06c12706d47e35211,smartwatch,1,simdrop
+5e7fefe06c12706d47e35211,wireless earbuds,2,simdrop
+5e8a76b3939b3072dc76fb5c,laptop,2,simdrop
+5e8a76b3939b3072dc76fb5c,headphones,0,simdrop
+5e8a76b3939b3072dc76fb5c,smartphone,0,simdrop
+5e8a76b3939b3072dc76fb5c,headphones,2,simdrop
+5ed9311e1a69d449577bb8cf,midi controller,2,simdrop
+5ed9311e1a69d449577bb8cf,headphones,0,simdrop
+5ed9311e1a69d449577bb8cf,tablet,0,simdrop
+5ed9311e1a69d449577bb8cf,laptop,0,simdrop
+5ed9311e1a69d449577bb8cf,electric scooter,1,simdrop
+5ed9311e1a69d449577bb8cf,smartwatch,0,simdrop
+5ed9311e1a69d449577bb8cf,smart plug,2,simdrop
+5f6c102b6ec04317fc9a8127,headphones,2,simdrop
+5f6c102b6ec04317fc9a8127,tablet,0,simdrop
+5f6c102b6ec04317fc9a8127,wireless earbuds,1,simdrop
+5f6c102b6ec04317fc9a8127,laptop,0,simdrop
+5f6c102b6ec04317fc9a8127,3d printer,0,simdrop
+5f6c102b6ec04317fc9a8127,3d printer,0,simdrop
+5f6c102b6ec04317fc9a8127,gaming console,0,simdrop
+5f6c102b6ec04317fc9a8127,headphones,2,simdrop
+5fc6df58f380620a09116434,tablet,2,simdrop
+5fc6df58f380620a09116434,headphones,0,simdrop
+5fc6df58f380620a09116434,smart glasses,2,simdrop
+60da4f9aa1ced7efeecca18a,tablet,2,simdrop
+60da4f9aa1ced7efeecca18a,laptop,0,simdrop
+60da4f9aa1ced7efeecca18a,smartwatch,1,simdrop
+60da4f9aa1ced7efeecca18a,digital camera,0,simdrop
+60da4f9aa1ced7efeecca18a,drone,0,simdrop
+60da4f9aa1ced7efeecca18a,laptop,2,simdrop
+60fcf1a04c245326d05076e0,smart tv,2,simdrop
+61035836646fb6ee2152f950,smart scale,2,simdrop
+61035836646fb6ee2152f950,smart plug,0,simdrop
+61035836646fb6ee2152f950,tablet,1,simdrop
+61035836646fb6ee2152f950,laptop,0,simdrop
+61035836646fb6ee2152f950,tablet,0,simdrop
+61035836646fb6ee2152f950,e-reader,2,simdrop
+65512e3cc12f463bc327b7c3,laptop,2,simdrop
+65512e3cc12f463bc327b7c3,wireless mouse,0,simdrop
+65512e3cc12f463bc327b7c3,smartwatch,0,simdrop
+65512e3cc12f463bc327b7c3,wireless headphones,2,simdrop
+65778c02cde55736bb830eca,headphones,2,simdrop
+65778c02cde55736bb830eca,wireless headphones,0,simdrop
+65778c02cde55736bb830eca,smart home hub,0,simdrop
+65778c02cde55736bb830eca,drone camera,1,simdrop
+65778c02cde55736bb830eca,power bank,2,simdrop
+6595e3b4dc9090390e4edb5f,laptop,2,simdrop
+6595e3b4dc9090390e4edb5f,headphones,0,simdrop
+6595e3b4dc9090390e4edb5f,tablet,0,simdrop
+6595e3b4dc9090390e4edb5f,smartwatch,1,simdrop
+6595e3b4dc9090390e4edb5f,fitness tracker,0,simdrop
+6595e3b4dc9090390e4edb5f,3d printer,1,simdrop
+6595e3b4dc9090390e4edb5f,drone,0,simdrop
+6595e3b4dc9090390e4edb5f,usb microphone,2,simdrop

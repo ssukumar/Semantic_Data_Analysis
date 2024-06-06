@@ -1,0 +1,313 @@
+SID,entry,timepoint,evaluation,replacement
+65c25cf77dca9d7ca7d9ebdb,carrots,0.0,FOUND,carrots
+65c25cf77dca9d7ca7d9ebdb,celery,0.0,FOUND,celery
+65c25cf77dca9d7ca7d9ebdb,potatoes,0.0,FOUND,potatoes
+65c25cf77dca9d7ca7d9ebdb,squash,1.8,FOUND,squash
+65c25cf77dca9d7ca7d9ebdb,pumpkin,0.0,FOUND,pumpkin
+65c25cf77dca9d7ca7d9ebdb,coriander,2.4,FOUND,coriander
+65c25cf77dca9d7ca7d9ebdb,basil,1.6,FOUND,basil
+65c25cf77dca9d7ca7d9ebdb,bean sprouts,7.1,FOUND,bean sprouts
+65c25cf77dca9d7ca7d9ebdb,bok choy,1.8,FOUND,bok choy
+65c25cf77dca9d7ca7d9ebdb,red.pepper,2.7,FOUND,red.pepper
+65c25cf77dca9d7ca7d9ebdb,chile,0.0,FOUND,chile
+65c25cf77dca9d7ca7d9ebdb,onions,12.3,FOUND,onions
+65c25cf77dca9d7ca7d9ebdb,leaks,0.0,FOUND,leaks
+65c25cf77dca9d7ca7d9ebdb,radish,7.3,FOUND,radish
+65c25cf77dca9d7ca7d9ebdb,asparagus,1.8,FOUND,asparagus
+65c25cf77dca9d7ca7d9ebdb,Spanish lettuce,3.40000000000001,REPLACE,spanish lettuce
+65c25cf77dca9d7ca7d9ebdb,brussel sprouts,2.40000000000001,FOUND,brussel sprouts
+65c25cf77dca9d7ca7d9ebdb,cabbage,4.0,FOUND,cabbage
+65c25cf77dca9d7ca7d9ebdb,peas,1.2,FOUND,peas
+65c25cf77dca9d7ca7d9ebdb,mushrooms,1.3,FOUND,mushrooms
+65c25cf77dca9d7ca7d9ebdb,corn,12.2,FOUND,corn
+65c25cf77dca9d7ca7d9ebdb,chives,20.0,FOUND,chives
+65c25cf77dca9d7ca7d9ebdb,shallots,3.59999999999999,FOUND,shallots
+5d7ff4aa50fda7001a863736,broccoli,0.0,FOUND,broccoli
+5d7ff4aa50fda7001a863736,are,1.8,FOUND,are
+5d7ff4aa50fda7001a863736,carrots,0.0,FOUND,carrots
+5d7ff4aa50fda7001a863736,celery,0.0,FOUND,celery
+5d7ff4aa50fda7001a863736,cabbage,3.2,FOUND,cabbage
+5d7ff4aa50fda7001a863736,brussel sprouts,1.9,FOUND,brussel sprouts
+5d7ff4aa50fda7001a863736,asparagus,1.3,FOUND,asparagus
+5d7ff4aa50fda7001a863736,peas,1.8,FOUND,peas
+5d7ff4aa50fda7001a863736,lettuce,0.0,FOUND,lettuce
+5d7ff4aa50fda7001a863736,cauliflower,7.2,FOUND,cauliflower
+5d7ff4aa50fda7001a863736,corn,9.9,FOUND,corn
+5d7ff4aa50fda7001a863736,eggplant,2.4,FOUND,eggplant
+5d7ff4aa50fda7001a863736,cucumber,2.8,FOUND,cucumber
+5d7ff4aa50fda7001a863736,potato,1.5,FOUND,potato
+5d7ff4aa50fda7001a863736,green beans,15.3,FOUND,green beans
+5d7ff4aa50fda7001a863736,spinach,4.59999999999999,FOUND,spinach
+5d7ff4aa50fda7001a863736,onion,16.6,FOUND,onion
+5d7ff4aa50fda7001a863736,garlic,0.0,FOUND,garlic
+5d7ff4aa50fda7001a863736,red bell pepper,12.9,FOUND,red bell pepper
+5d7ff4aa50fda7001a863736,green pepper,0.0,FOUND,green pepper
+5d7ff4aa50fda7001a863736,turnips,6.0,FOUND,turnips
+65cc19b4b3d48a22dfc6756d,carrots,0.0,FOUND,carrots
+65cc19b4b3d48a22dfc6756d,celery,0.4,FOUND,celery
+65cc19b4b3d48a22dfc6756d,cucumber,0.800000000000001,FOUND,cucumber
+65cc19b4b3d48a22dfc6756d,broccoli,1.7,FOUND,broccoli
+65cc19b4b3d48a22dfc6756d,spinach,0.0,FOUND,spinach
+65cc19b4b3d48a22dfc6756d,lettuce,0.0,FOUND,lettuce
+65cc19b4b3d48a22dfc6756d,cabbage,0.0,FOUND,cabbage
+65cc19b4b3d48a22dfc6756d,brussel sprouts,5.4,FOUND,brussel sprouts
+65cc19b4b3d48a22dfc6756d,corn,5.4,FOUND,corn
+65cc19b4b3d48a22dfc6756d,kale,7.2,FOUND,kale
+65cc19b4b3d48a22dfc6756d,parsley,2.4,FOUND,parsley
+65cc19b4b3d48a22dfc6756d,bok choy,7.9,FOUND,bok choy
+65cc19b4b3d48a22dfc6756d,cauliflower,5.3,FOUND,cauliflower
+65cc19b4b3d48a22dfc6756d,turnips,6.3,FOUND,turnips
+65cc19b4b3d48a22dfc6756d,okra,11.5,FOUND,okra
+65cc19b4b3d48a22dfc6756d,zucchini,11.8,FOUND,zucchini
+65cc19b4b3d48a22dfc6756d,squash,1.5,FOUND,squash
+65cc19b4b3d48a22dfc6756d,pumpkin,1.60000000000001,FOUND,pumpkin
+65cc19b4b3d48a22dfc6756d,peas,13.9,FOUND,peas
+65cc19b4b3d48a22dfc6756d,green beans,1.0,FOUND,green beans
+65cc19b4b3d48a22dfc6756d,watercress,10.5,FOUND,watercress
+63ea4ab1ce4168cbe9f63775,broccoli,0.0,FOUND,broccoli
+63ea4ab1ce4168cbe9f63775,spinach,2.2,FOUND,spinach
+63ea4ab1ce4168cbe9f63775,kale,1.2,FOUND,kale
+63ea4ab1ce4168cbe9f63775,romaine lettuce,1.6,FOUND,romaine lettuce
+63ea4ab1ce4168cbe9f63775,iceberg lettuce,1.8,FOUND,iceberg lettuce
+63ea4ab1ce4168cbe9f63775,cabbage,2.0,FOUND,cabbage
+63ea4ab1ce4168cbe9f63775,eggplant,3.3,FOUND,eggplant
+63ea4ab1ce4168cbe9f63775,zucchini,2.1,FOUND,zucchini
+63ea4ab1ce4168cbe9f63775,green bell pepper,3.6,FOUND,green bell pepper
+63ea4ab1ce4168cbe9f63775,Red bell pepper,1.0,REPLACE,red bell pepper
+63ea4ab1ce4168cbe9f63775,white onion,2.9,FOUND,white onion
+63ea4ab1ce4168cbe9f63775,yellow onion,0.0,FOUND,yellow onion
+63ea4ab1ce4168cbe9f63775,red onion,0.0,FOUND,red onion
+63ea4ab1ce4168cbe9f63775,Spanish onion,1.3,REPLACE,spanish onion
+63ea4ab1ce4168cbe9f63775,carrot,1.5,FOUND,carrot
+63ea4ab1ce4168cbe9f63775,celery,1.6,FOUND,celery
+63ea4ab1ce4168cbe9f63775,potato,3.7,FOUND,potato
+63ea4ab1ce4168cbe9f63775,ginger root,5.6,FOUND,ginger root
+63ea4ab1ce4168cbe9f63775,peas,12.2,FOUND,peas
+63ea4ab1ce4168cbe9f63775,cauliflower,2.09999999999999,FOUND,cauliflower
+63ea4ab1ce4168cbe9f63775,corn,2.2,FOUND,corn
+63ea4ab1ce4168cbe9f63775,asparagus,9.60000000000001,FOUND,asparagus
+63ea4ab1ce4168cbe9f63775,green beans,4.10000000000001,FOUND,green beans
+63ea4ab1ce4168cbe9f63775,artichoke,12.7,FOUND,artichoke
+65e358d9c5e3ee026268b2a7,carrots,0.0,FOUND,carrots
+65e358d9c5e3ee026268b2a7,green beans,0.0,FOUND,green beans
+65e358d9c5e3ee026268b2a7,celery,0.0,FOUND,celery
+65e358d9c5e3ee026268b2a7,potatoes,3.6,FOUND,potatoes
+65e358d9c5e3ee026268b2a7,lettuce,13.2,FOUND,lettuce
+65e358d9c5e3ee026268b2a7,corn,2.4,FOUND,corn
+65e358d9c5e3ee026268b2a7,avocados,1.2,FOUND,avocados
+65e358d9c5e3ee026268b2a7,peppers,0.0,FOUND,peppers
+65e358d9c5e3ee026268b2a7,bell peppers,0.399999999999999,FOUND,bell peppers
+65e358d9c5e3ee026268b2a7,Chili Peppers,1.3,REPLACE,chili peppers
+65e358d9c5e3ee026268b2a7,radishes,0.0,FOUND,radishes
+65e358d9c5e3ee026268b2a7,onions,0.0,FOUND,onions
+65e358d9c5e3ee026268b2a7,eggplant,3.0,FOUND,eggplant
+65e358d9c5e3ee026268b2a7,broccoli,1.5,FOUND,broccoli
+65e358d9c5e3ee026268b2a7,Beats,9.7,REPLACE,beats
+65e358d9c5e3ee026268b2a7,cauliflower,1.7,FOUND,cauliflower
+65e358d9c5e3ee026268b2a7,sweet potato,2.39999999999999,FOUND,sweet potato
+65e358d9c5e3ee026268b2a7,mushrooms,2.90000000000001,FOUND,mushrooms
+65e358d9c5e3ee026268b2a7,spinach,10.2,FOUND,spinach
+65e358d9c5e3ee026268b2a7,kale,0.0,FOUND,kale
+65e358d9c5e3ee026268b2a7,mixed greens,1.8,FOUND,mixed greens
+65e358d9c5e3ee026268b2a7,asparagus,5.3,FOUND,asparagus
+65e358d9c5e3ee026268b2a7,green onion,14.2,FOUND,green onion
+5f5aa60bef062519ff711fe6,cucumber,0.0,FOUND,cucumber
+5f5aa60bef062519ff711fe6,carrots,3.3,FOUND,carrots
+5f5aa60bef062519ff711fe6,broccoli,2.3,FOUND,broccoli
+5f5aa60bef062519ff711fe6,potatoes,1.9,FOUND,potatoes
+5f5aa60bef062519ff711fe6,brussel sprouts,2.1,FOUND,brussel sprouts
+5f5aa60bef062519ff711fe6,asparagus,2.3,FOUND,asparagus
+5f5aa60bef062519ff711fe6,bok choy,12.6,FOUND,bok choy
+5f5aa60bef062519ff711fe6,lettuce,2.3,FOUND,lettuce
+5f5aa60bef062519ff711fe6,cauliflower,59.8,FOUND,cauliflower
+5f5aa60bef062519ff711fe6,green beans,4.40000000000001,FOUND,green beans
+65b15afd94153c1f50c92493,tomato,0.0,FOUND,tomato
+65b15afd94153c1f50c92493,potato,6.2,FOUND,potato
+65b15afd94153c1f50c92493,parsnip,2.7,FOUND,parsnip
+65b15afd94153c1f50c92493,eggplant,1.9,FOUND,eggplant
+65b15afd94153c1f50c92493,artichoke,1.7,FOUND,artichoke
+65b15afd94153c1f50c92493,cauliflower,2.6,FOUND,cauliflower
+65b15afd94153c1f50c92493,cabbage,2.2,FOUND,cabbage
+65b15afd94153c1f50c92493,asparagus,1.0,FOUND,asparagus
+65b15afd94153c1f50c92493,bell peppers,4.0,FOUND,bell peppers
+65b15afd94153c1f50c92493,kale,1.8,FOUND,kale
+65b15afd94153c1f50c92493,onion,2.9,FOUND,onion
+65b15afd94153c1f50c92493,sweet potato,4.0,FOUND,sweet potato
+65b15afd94153c1f50c92493,brussel sprouts,2.5,FOUND,brussel sprouts
+65b15afd94153c1f50c92493,carrot,2.3,FOUND,carrot
+65b15afd94153c1f50c92493,beet,3.0,FOUND,beet
+65b15afd94153c1f50c92493,spinach,2.0,FOUND,spinach
+65b15afd94153c1f50c92493,pea,1.9,FOUND,pea
+65b15afd94153c1f50c92493,lettuce,2.1,FOUND,lettuce
+65b15afd94153c1f50c92493,coriander,3.0,FOUND,coriander
+65b15afd94153c1f50c92493,zucchini,3.89999999999999,FOUND,zucchini
+65b15afd94153c1f50c92493,corn,2.60000000000001,FOUND,corn
+65b15afd94153c1f50c92493,pumpkin,0.0,FOUND,pumpkin
+65b15afd94153c1f50c92493,squash,0.0,FOUND,squash
+65b15afd94153c1f50c92493,beans,3.59999999999999,FOUND,beans
+65b15afd94153c1f50c92493,bell,1.39999999999999,FOUND,bell
+65b15afd94153c1f50c92493,chilli,0.0,FOUND,chilli
+65b15afd94153c1f50c92493,radish,12.9,FOUND,radish
+65b15afd94153c1f50c92493,parsley,13.6,FOUND,parsley
+65b15afd94153c1f50c92493,mushroom,3.40000000000001,FOUND,mushroom
+60d731567049e5132e3cc4d4,carrots,0.0,FOUND,carrots
+60d731567049e5132e3cc4d4,broccoli,1.3,FOUND,broccoli
+60d731567049e5132e3cc4d4,cauliflower,0.0,FOUND,cauliflower
+60d731567049e5132e3cc4d4,cucumber,0.0,FOUND,cucumber
+60d731567049e5132e3cc4d4,zucchini,0.0,FOUND,zucchini
+60d731567049e5132e3cc4d4,acorn squash,0.0,FOUND,acorn squash
+60d731567049e5132e3cc4d4,spaghetti squash,0.0,FOUND,spaghetti squash
+60d731567049e5132e3cc4d4,delicata squash,0.0,FOUND,delicata squash
+60d731567049e5132e3cc4d4,carrots,8.6,FOUND,carrots
+60d731567049e5132e3cc4d4,potatoes,2.9,FOUND,potatoes
+60d731567049e5132e3cc4d4,turnips,1.2,FOUND,turnips
+60d731567049e5132e3cc4d4,kale,5.4,FOUND,kale
+60d731567049e5132e3cc4d4,lettuce,0.0,FOUND,lettuce
+60d731567049e5132e3cc4d4,spinach,0.0,FOUND,spinach
+60d731567049e5132e3cc4d4,arugula,1.8,FOUND,arugula
+60d731567049e5132e3cc4d4,red onion,2.3,FOUND,red onion
+60d731567049e5132e3cc4d4,yellow onion,0.0,FOUND,yellow onion
+60d731567049e5132e3cc4d4,or white onion,0.0,FOUND,or white onion
+60d731567049e5132e3cc4d4,scallions,0.0,FOUND,scallions
+60d731567049e5132e3cc4d4,bell pepper,6.2,FOUND,bell pepper
+60d731567049e5132e3cc4d4,serrano pepper,0.0,FOUND,serrano pepper
+60d731567049e5132e3cc4d4,chili pepper,0.0,FOUND,chili pepper
+60d731567049e5132e3cc4d4,habanero,0.0,FOUND,habanero
+60d731567049e5132e3cc4d4,broccolini,9.09999999999999,FOUND,broccolini
+60d731567049e5132e3cc4d4,brussel sprouts,2.09999999999999,FOUND,brussel sprouts
+60d731567049e5132e3cc4d4,peas,7.3,FOUND,peas
+60d731567049e5132e3cc4d4,lima beans,4.7,FOUND,lima beans
+60d731567049e5132e3cc4d4,corn,2.30000000000001,FOUND,corn
+60d731567049e5132e3cc4d4,water chestnuts,2.7,FOUND,water chestnuts
+65e862f844f1b7a803bb3c5a,broccoli,0.0,FOUND,broccoli
+65e862f844f1b7a803bb3c5a,cucumber,13.0,FOUND,cucumber
+65e862f844f1b7a803bb3c5a,celery,1.7,FOUND,celery
+65e862f844f1b7a803bb3c5a,spring onion,0.0,FOUND,spring onion
+65e862f844f1b7a803bb3c5a,carrots,1.1,FOUND,carrots
+65e862f844f1b7a803bb3c5a,turnip,1.5,FOUND,turnip
+65e862f844f1b7a803bb3c5a,capsicum,1.5,FOUND,capsicum
+65e862f844f1b7a803bb3c5a,onion,1.7,FOUND,onion
+65e862f844f1b7a803bb3c5a,green peas,1.4,FOUND,green peas
+65e862f844f1b7a803bb3c5a,cauliflower,1.6,FOUND,cauliflower
+65e862f844f1b7a803bb3c5a,cabbage,0.0,FOUND,cabbage
+65e862f844f1b7a803bb3c5a,beetroot,1.0,FOUND,beetroot
+65e862f844f1b7a803bb3c5a,mushroom,0.900000000000006,FOUND,mushroom
+65e862f844f1b7a803bb3c5a,spinach,0.799999999999997,FOUND,spinach
+65e862f844f1b7a803bb3c5a,corn,1.0,FOUND,corn
+65e862f844f1b7a803bb3c5a,drumstick,1.2,FOUND,drumstick
+65e862f844f1b7a803bb3c5a,zucchini,1.0,FOUND,zucchini
+65e862f844f1b7a803bb3c5a,broad beans ,1.0,FOUND,broad beans 
+65e862f844f1b7a803bb3c5a,radish,0.0,FOUND,radish
+65e862f844f1b7a803bb3c5a,snake beans,1.0,FOUND,snake beans
+65e862f844f1b7a803bb3c5a,bottle gourd,0.0,FOUND,bottle gourd
+65e862f844f1b7a803bb3c5a,green papaya.,0.0,FOUND,green papaya.
+65e862f844f1b7a803bb3c5a,ivy gourd,0.600000000000001,FOUND,ivy gourd
+65e862f844f1b7a803bb3c5a,snake gourd,0.800000000000004,FOUND,snake gourd
+65e862f844f1b7a803bb3c5a,garlic,0.799999999999997,FOUND,garlic
+65e862f844f1b7a803bb3c5a,cabbage,1.1,FOUND,cabbage
+65e862f844f1b7a803bb3c5a,cauliflower,0.0,FOUND,cauliflower
+65e862f844f1b7a803bb3c5a,carrots,3.5,FOUND,carrots
+65e862f844f1b7a803bb3c5a,celeriac,2.7,FOUND,celeriac
+65e862f844f1b7a803bb3c5a,spinach,1.5,FOUND,spinach
+65e862f844f1b7a803bb3c5a,cabbage,1.0,FOUND,cabbage
+65e862f844f1b7a803bb3c5a,lettuce,1.69999999999999,FOUND,lettuce
+65e862f844f1b7a803bb3c5a,onion,7.0,FOUND,onion
+65e862f844f1b7a803bb3c5a,Ginger,2.0,REPLACE,ginger
+65e862f844f1b7a803bb3c5a,potato,8.0,FOUND,potato
+65e862f844f1b7a803bb3c5a,pepper,4.09999999999999,FOUND,pepper
+65e862f844f1b7a803bb3c5a,cucumber,1.0,FOUND,cucumber
+65e862f844f1b7a803bb3c5a,pumpkin,0.699999999999989,FOUND,pumpkin
+65e862f844f1b7a803bb3c5a,kiwi,1.3,FOUND,kiwi
+65e862f844f1b7a803bb3c5a,eggplants,1.3,FOUND,eggplants
+65e862f844f1b7a803bb3c5a,corn,7.2,FOUND,corn
+65d54b3b524fcafb543d1b23,carrots,0.0,FOUND,carrots
+65d54b3b524fcafb543d1b23,cucumbers,0.0,FOUND,cucumbers
+65d54b3b524fcafb543d1b23,pickles,0.0,FOUND,pickles
+65d54b3b524fcafb543d1b23,apple,1.1,FOUND,apple
+65d54b3b524fcafb543d1b23,cilantro,5.9,FOUND,cilantro
+65d54b3b524fcafb543d1b23,tomatoes,0.0,FOUND,tomatoes
+65d54b3b524fcafb543d1b23,green pepper,1.7,FOUND,green pepper
+65d54b3b524fcafb543d1b23,red pepper,0.0,FOUND,red pepper
+65d54b3b524fcafb543d1b23,yellow pepper,0.0,FOUND,yellow pepper
+65d54b3b524fcafb543d1b23,bell peppers,0.0,FOUND,bell peppers
+65d54b3b524fcafb543d1b23,jalapenos,1.7,FOUND,jalapenos
+65d54b3b524fcafb543d1b23,bitter melon,10.7,FOUND,bitter melon
+65d54b3b524fcafb543d1b23,potato,4.7,FOUND,potato
+65d54b3b524fcafb543d1b23,taro,1.6,FOUND,taro
+65d54b3b524fcafb543d1b23,green beans,4.9,FOUND,green beans
+65d54b3b524fcafb543d1b23,celery,5.6,FOUND,celery
+65d54b3b524fcafb543d1b23,spinach,5.8,FOUND,spinach
+65d54b3b524fcafb543d1b23,cabbage,0.0,FOUND,cabbage
+65d54b3b524fcafb543d1b23,lettuce,0.0,FOUND,lettuce
+65d54b3b524fcafb543d1b23,kale,3.40000000000001,FOUND,kale
+65d54b3b524fcafb543d1b23,radish,36.0,FOUND,radish
+65d54b3b524fcafb543d1b23,turnip,1.7,FOUND,turnip
+65cb63e160bb47fbf9349269,broccoli,0.0,FOUND,broccoli
+65cb63e160bb47fbf9349269,carrots,0.0,FOUND,carrots
+65cb63e160bb47fbf9349269,lettuce,0.8,FOUND,lettuce
+65cb63e160bb47fbf9349269,asparagus,0.800000000000001,FOUND,asparagus
+65cb63e160bb47fbf9349269,spinach,11.2,FOUND,spinach
+65cb63e160bb47fbf9349269,kale,2.9,FOUND,kale
+65cb63e160bb47fbf9349269,cabbage,4.3,FOUND,cabbage
+65cb63e160bb47fbf9349269,radish,8.4,FOUND,radish
+65cb63e160bb47fbf9349269,parsley,9.9,FOUND,parsley
+65cb63e160bb47fbf9349269,cilantro,2.0,FOUND,cilantro
+65d6a09286a0c99e632a46dd,celery,0.0,FOUND,celery
+65d6a09286a0c99e632a46dd,carrots,0.0,FOUND,carrots
+65d6a09286a0c99e632a46dd,green beans,0.0,FOUND,green beans
+65d6a09286a0c99e632a46dd,cabbage,0.0,FOUND,cabbage
+65d6a09286a0c99e632a46dd,olives,0.0,FOUND,olives
+65d6a09286a0c99e632a46dd,peas,0.0,FOUND,peas
+65d6a09286a0c99e632a46dd,potatoes,0.0,FOUND,potatoes
+65d6a09286a0c99e632a46dd,tomatoes,0.0,FOUND,tomatoes
+65d6a09286a0c99e632a46dd,cucumbers,5.6,FOUND,cucumbers
+65d6a09286a0c99e632a46dd,pumpkins,2.4,FOUND,pumpkins
+65d6a09286a0c99e632a46dd,squash,2.5,FOUND,squash
+65d6a09286a0c99e632a46dd,zucchini,1.8,FOUND,zucchini
+65d6a09286a0c99e632a46dd,peas,19.4,FOUND,peas
+65d6a09286a0c99e632a46dd,beats,5.2,FOUND,beats
+65d6a09286a0c99e632a46dd,peppers,3.39999999999999,FOUND,peppers
+65d6a09286a0c99e632a46dd,spinach,7.0,FOUND,spinach
+65d6a09286a0c99e632a46dd,broccoli,11.8,FOUND,broccoli
+65d6a09286a0c99e632a46dd,brussel sprouts,2.59999999999999,FOUND,brussel sprouts
+65d6a09286a0c99e632a46dd,eggplant,6.5,FOUND,eggplant
+65d6a09286a0c99e632a46dd,corn,2.40000000000001,FOUND,corn
+65d6a09286a0c99e632a46dd,asparagus,5.7,FOUND,asparagus
+63e802622f8052bd67d6c5f0,broccoli,0.0,FOUND,broccoli
+63e802622f8052bd67d6c5f0,carrots,0.0,FOUND,carrots
+63e802622f8052bd67d6c5f0,spinach,0.0,FOUND,spinach
+63e802622f8052bd67d6c5f0,lettuce,0.0,FOUND,lettuce
+63e802622f8052bd67d6c5f0,tomato,0.0,FOUND,tomato
+63e802622f8052bd67d6c5f0,cauliflower,3.1,FOUND,cauliflower
+63e802622f8052bd67d6c5f0,celery,0.0,FOUND,celery
+63e802622f8052bd67d6c5f0,potato,3.3,FOUND,potato
+63e802622f8052bd67d6c5f0,onion,7.6,FOUND,onion
+63e802622f8052bd67d6c5f0,cucumber,4.7,FOUND,cucumber
+63e802622f8052bd67d6c5f0,pepper,1.6,FOUND,pepper
+63e802622f8052bd67d6c5f0,olives,31.3,FOUND,olives
+63e802622f8052bd67d6c5f0,mushrooms,8.5,FOUND,mushrooms
+60a48adfe091e410f4eaba34,tomatoes,0.0,FOUND,tomatoes
+60a48adfe091e410f4eaba34,cucumbers,1.3,FOUND,cucumbers
+60a48adfe091e410f4eaba34,spinach,1.6,FOUND,spinach
+60a48adfe091e410f4eaba34,lettuce,1.6,FOUND,lettuce
+60a48adfe091e410f4eaba34,carrots,1.9,FOUND,carrots
+60a48adfe091e410f4eaba34,romaine,12.0,FOUND,romaine
+60a48adfe091e410f4eaba34,peas,14.6,FOUND,peas
+60a48adfe091e410f4eaba34,corn,7.7,FOUND,corn
+60a48adfe091e410f4eaba34,broccoli,27.4,FOUND,broccoli
+60a48adfe091e410f4eaba34,cauliflower,1.90000000000001,FOUND,cauliflower
+60a48adfe091e410f4eaba34,brussel sprouts,2.7,FOUND,brussel sprouts
+60a48adfe091e410f4eaba34,peas,27.4,FOUND,peas
+65e1f75ab3efd22e847cfbf0,cucumber,0.0,FOUND,cucumber
+65e1f75ab3efd22e847cfbf0,broccoli,0.0,FOUND,broccoli
+65e1f75ab3efd22e847cfbf0,cauliflower,0.0,FOUND,cauliflower
+65e1f75ab3efd22e847cfbf0,corn,0.0,FOUND,corn
+65e1f75ab3efd22e847cfbf0,okra,0.0,FOUND,okra
+65e1f75ab3efd22e847cfbf0,green beans,0.0,FOUND,green beans
+65e1f75ab3efd22e847cfbf0,asparagus,0.0,FOUND,asparagus
+65e1f75ab3efd22e847cfbf0,squash,1.7,FOUND,squash
+65e1f75ab3efd22e847cfbf0,eggplant,1.3,FOUND,eggplant
+65e1f75ab3efd22e847cfbf0,broccoli,4.4,FOUND,broccoli
+65e1f75ab3efd22e847cfbf0,brussel sprouts,2.4,FOUND,brussel sprouts
+65e1f75ab3efd22e847cfbf0,peas,11.9,FOUND,peas
+65e1f75ab3efd22e847cfbf0,carrots,0.0,FOUND,carrots

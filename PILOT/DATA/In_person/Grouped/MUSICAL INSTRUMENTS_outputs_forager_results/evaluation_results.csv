@@ -1,0 +1,140 @@
+SID,entry,evaluation,replacement
+898793,musical,REPLACE,musical saw
+898793,instruments,EXCLUDE,EXCLUDE
+898793,like a,EXCLUDE,EXCLUDE
+898793,violin,FOUND,violin
+898793,Viola,REPLACE,viola
+898793,cello,FOUND,cello
+898793,just like,EXCLUDE,EXCLUDE
+898793,percussions,EXCLUDE,EXCLUDE
+898793,like,REPLACE,ikembe
+898793,drums,REPLACE,drum
+898793,and then,EXCLUDE,EXCLUDE
+898793,clarinet,FOUND,clarinet
+898793,flutes,REPLACE,flute
+898793,piano,FOUND,piano
+898793,and,REPLACE,sarinda
+898793,keyboard,EXCLUDE,EXCLUDE
+898793,recorder,FOUND,recorder
+898793,and,REPLACE,sarinda
+898793,I'd,EXCLUDE,EXCLUDE
+898793,like to buy,EXCLUDE,EXCLUDE
+898793,and,REPLACE,sarinda
+898793,saxophone,FOUND,saxophone
+898793,end,REPLACE,chenda
+898793,pink,REPLACE,piano
+898793,Universe,EXCLUDE,EXCLUDE
+898793,swimsuit,EXCLUDE,EXCLUDE
+898793,they're,EXCLUDE,EXCLUDE
+898793,definitely,EXCLUDE,EXCLUDE
+898793,more than that,EXCLUDE,EXCLUDE
+898793,trying to,EXCLUDE,EXCLUDE
+898793,think,EXCLUDE,EXCLUDE
+898793,the,REPLACE,zither
+898793,ukulele,FOUND,ukulele
+898793,and,REPLACE,sarinda
+898793,guitar,FOUND,guitar
+898793,and,REPLACE,sarinda
+898793,I think,EXCLUDE,EXCLUDE
+898793,it's,EXCLUDE,EXCLUDE
+898793,called,EXCLUDE,EXCLUDE
+898793,like a,EXCLUDE,EXCLUDE
+898793,like a,EXCLUDE,EXCLUDE
+898793,mandala,REPLACE,mandolin
+898793,or something,EXCLUDE,EXCLUDE
+898793,it's,EXCLUDE,EXCLUDE
+898793,kind of like,EXCLUDE,EXCLUDE
+898793,a,EXCLUDE,EXCLUDE
+898793,violin,FOUND,violin
+898793,but,EXCLUDE,EXCLUDE
+898793,it's,EXCLUDE,EXCLUDE
+898793,just like one,EXCLUDE,EXCLUDE
+898793,piece,EXCLUDE,EXCLUDE
+898793,that goes,EXCLUDE,EXCLUDE
+898793,down,EXCLUDE,EXCLUDE
+898793,but it,EXCLUDE,EXCLUDE
+898793,starts with,EXCLUDE,EXCLUDE
+898793,an,EXCLUDE,EXCLUDE
+898793,M,EXCLUDE,EXCLUDE
+898793,I'm,EXCLUDE,EXCLUDE
+898793,pretty sure,EXCLUDE,EXCLUDE
+898793,and,REPLACE,sarinda
+898793,the,REPLACE,zither
+898793,band,REPLACE,banjo
+898793,news,EXCLUDE,EXCLUDE
+547183,musical,REPLACE,musical saw
+547183,instruments,EXCLUDE,EXCLUDE
+547183,okay,EXCLUDE,EXCLUDE
+547183,violin,FOUND,violin
+547183,piano,FOUND,piano
+547183,guitar,FOUND,guitar
+547183,bass,REPLACE,bassoon
+547183,guitar,FOUND,guitar
+547183,a,EXCLUDE,EXCLUDE
+547183,flute,FOUND,flute
+547183,saxophone,FOUND,saxophone
+547183,drums,REPLACE,drum
+547183,clarinet,FOUND,clarinet
+547183,cello,FOUND,cello
+547183,the,REPLACE,zither
+547183,triangle,FOUND,triangle
+547183,oh,EXCLUDE,EXCLUDE
+547183,a,EXCLUDE,EXCLUDE
+547183,harp,FOUND,harp
+547183,electric,EXCLUDE,EXCLUDE
+547183,guitar,FOUND,guitar
+920371,violin,FOUND,violin
+920371,Viola,REPLACE,viola
+920371,piano,FOUND,piano
+920371,guitar,FOUND,guitar
+920371,keyboard,EXCLUDE,EXCLUDE
+920371,trumpets,REPLACE,trumpet
+920371,bass,REPLACE,bassoon
+920371,we,EXCLUDE,EXCLUDE
+920371,won't,EXCLUDE,EXCLUDE
+920371,kick,EXCLUDE,EXCLUDE
+920371,out loud,EXCLUDE,EXCLUDE
+920371,clarinets,REPLACE,clarinet
+920371,banjo,FOUND,banjo
+920371,harmonica,FOUND,harmonica
+920371,accordion,FOUND,accordion
+920371,saxophone,FOUND,saxophone
+920371,the,REPLACE,zither
+920371,triangle,FOUND,triangle
+920371,drums,REPLACE,drum
+787646,blue,REPLACE,lute
+787646,trombone,FOUND,trombone
+787646,piano,FOUND,piano
+787646,guitar,FOUND,guitar
+787646,triangle,FOUND,triangle
+787646,drums,REPLACE,drum
+787646,trumpet,FOUND,trumpet
+787646,harmonica,FOUND,harmonica
+787646,Bass,EXCLUDE,EXCLUDE
+787646,tuba,FOUND,tuba
+787646,accordion,FOUND,accordion
+787646,tambourine,FOUND,tambourine
+610108,piano,FOUND,piano
+610108,guitar,FOUND,guitar
+610108,drums,REPLACE,drum
+610108,bass,REPLACE,bassoon
+610108,oboe,FOUND,oboe
+610108,harp,FOUND,harp
+610108,flute,FOUND,flute
+610108,trumpet,FOUND,trumpet
+610108,saxophone,FOUND,saxophone
+610108,Cajon,REPLACE,cajón
+610108,tuba,FOUND,tuba
+610108,trombone,FOUND,trombone
+610108,banjo,FOUND,banjo
+610108,voice,EXCLUDE,EXCLUDE
+610108,violin,FOUND,violin
+610108,viola,FOUND,viola
+610108,xylophone,FOUND,xylophone
+610108,triangle,FOUND,triangle
+610108,percussion,EXCLUDE,EXCLUDE
+610108,hello,REPLACE,cello
+610108,electric,EXCLUDE,EXCLUDE
+610108,guitar,FOUND,guitar
+610108,acoustic,EXCLUDE,EXCLUDE
+610108,guitar,FOUND,guitar

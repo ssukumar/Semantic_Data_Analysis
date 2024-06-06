@@ -1,0 +1,289 @@
+Subject,Fluency_Item,Switch_Value,Switch_Method
+5d7ff4aa50fda7001a863736,diabetes,2,simdrop
+5d7ff4aa50fda7001a863736,autism,0,simdrop
+5d7ff4aa50fda7001a863736,tuberculosis,1,simdrop
+5d7ff4aa50fda7001a863736,bronchitis,0,simdrop
+5d7ff4aa50fda7001a863736,anemia,1,simdrop
+5d7ff4aa50fda7001a863736,depression,0,simdrop
+5d7ff4aa50fda7001a863736,lyme's disease,1,simdrop
+5d7ff4aa50fda7001a863736,lupus,0,simdrop
+5d7ff4aa50fda7001a863736,endometriosis,0,simdrop
+5d7ff4aa50fda7001a863736,huntington's disease,1,simdrop
+5d7ff4aa50fda7001a863736,cancer,0,simdrop
+5d7ff4aa50fda7001a863736,breast cancer,0,simdrop
+5d7ff4aa50fda7001a863736,lung cancer,0,simdrop
+5d7ff4aa50fda7001a863736,down syndrome,1,simdrop
+5d7ff4aa50fda7001a863736,arthritis,0,simdrop
+5d7ff4aa50fda7001a863736,cystic acne,1,simdrop
+5d7ff4aa50fda7001a863736,lymphoma,2,simdrop
+5f5aa60bef062519ff711fe6,dementia,2,simdrop
+5f5aa60bef062519ff711fe6,cervical cancer,0,simdrop
+5f5aa60bef062519ff711fe6,rectal cancer,0,simdrop
+5f5aa60bef062519ff711fe6,cancer,0,simdrop
+5f5aa60bef062519ff711fe6,osteoporosis,1,simdrop
+5f5aa60bef062519ff711fe6,rheumatoid,0,simdrop
+5f5aa60bef062519ff711fe6,rheumatoid arthritis,0,simdrop
+5f5aa60bef062519ff711fe6,plantars fasciitis,1,simdrop
+5f5aa60bef062519ff711fe6,fasciitis,0,simdrop
+5f5aa60bef062519ff711fe6,bipolar disorder,1,simdrop
+5f5aa60bef062519ff711fe6,parkinson's,0,simdrop
+5f5aa60bef062519ff711fe6,hodgkin's lymphoma,0,simdrop
+5f5aa60bef062519ff711fe6,autism,0,simdrop
+5f5aa60bef062519ff711fe6,sickle cell anemia,0,simdrop
+5f5aa60bef062519ff711fe6,diarrhea,1,simdrop
+5f5aa60bef062519ff711fe6,constipation,0,simdrop
+5f5aa60bef062519ff711fe6,hemorrhaging,1,simdrop
+5f5aa60bef062519ff711fe6,aneurysm,0,simdrop
+5f5aa60bef062519ff711fe6,blood clotting,2,simdrop
+60a48adfe091e410f4eaba34,asthma,2,simdrop
+60a48adfe091e410f4eaba34,lymphedema,0,simdrop
+60a48adfe091e410f4eaba34,diabetes,0,simdrop
+60a48adfe091e410f4eaba34,alzheimer's,1,simdrop
+60a48adfe091e410f4eaba34,parkinson's,0,simdrop
+60a48adfe091e410f4eaba34,depression,1,simdrop
+60a48adfe091e410f4eaba34,anxiety,0,simdrop
+60a48adfe091e410f4eaba34,anemia,0,simdrop
+60a48adfe091e410f4eaba34,high cholesterol,1,simdrop
+60a48adfe091e410f4eaba34,high blood pressure,0,simdrop
+60a48adfe091e410f4eaba34,obesity,1,simdrop
+60a48adfe091e410f4eaba34,epilepsy,0,simdrop
+60a48adfe091e410f4eaba34,kidney disease,1,simdrop
+60a48adfe091e410f4eaba34,liver disease,0,simdrop
+60a48adfe091e410f4eaba34,cancer,1,simdrop
+60a48adfe091e410f4eaba34,gonorrhea,0,simdrop
+60a48adfe091e410f4eaba34,herpes,0,simdrop
+60a48adfe091e410f4eaba34,meningitis,2,simdrop
+60d731567049e5132e3cc4d4,alopecia,2,simdrop
+60d731567049e5132e3cc4d4,type 1 diabetes,0,simdrop
+60d731567049e5132e3cc4d4,type 2 diabetes,0,simdrop
+60d731567049e5132e3cc4d4,cancer,1,simdrop
+60d731567049e5132e3cc4d4,heart attack,0,simdrop
+60d731567049e5132e3cc4d4,heart failure,0,simdrop
+60d731567049e5132e3cc4d4,anemia,1,simdrop
+60d731567049e5132e3cc4d4,high blood pressure,0,simdrop
+60d731567049e5132e3cc4d4,low blood pressure,0,simdrop
+60d731567049e5132e3cc4d4,high,1,simdrop
+60d731567049e5132e3cc4d4,cholesterol,0,simdrop
+60d731567049e5132e3cc4d4,cataracts,0,simdrop
+60d731567049e5132e3cc4d4,asthma,1,simdrop
+60d731567049e5132e3cc4d4,allergies,0,simdrop
+60d731567049e5132e3cc4d4,psoriasis,1,simdrop
+60d731567049e5132e3cc4d4,eczema,0,simdrop
+60d731567049e5132e3cc4d4,migraines,1,simdrop
+60d731567049e5132e3cc4d4,epilepsy,0,simdrop
+60d731567049e5132e3cc4d4,heartburn,1,simdrop
+60d731567049e5132e3cc4d4,indigestion,2,simdrop
+63e802622f8052bd67d6c5f0,cancer,2,simdrop
+63e802622f8052bd67d6c5f0,allergies,0,simdrop
+63e802622f8052bd67d6c5f0,down syndrome,1,simdrop
+63e802622f8052bd67d6c5f0,autism,0,simdrop
+63e802622f8052bd67d6c5f0,dementia,0,simdrop
+63e802622f8052bd67d6c5f0,diabetes,1,simdrop
+63e802622f8052bd67d6c5f0,depression,0,simdrop
+63e802622f8052bd67d6c5f0,anxiety,0,simdrop
+63e802622f8052bd67d6c5f0,asthma,2,simdrop
+63ea4ab1ce4168cbe9f63775,hernia,2,simdrop
+63ea4ab1ce4168cbe9f63775,broken bone,0,simdrop
+63ea4ab1ce4168cbe9f63775,infection,1,simdrop
+63ea4ab1ce4168cbe9f63775,diabetes,0,simdrop
+63ea4ab1ce4168cbe9f63775,depression,0,simdrop
+63ea4ab1ce4168cbe9f63775,rash,1,simdrop
+63ea4ab1ce4168cbe9f63775,common cold,0,simdrop
+63ea4ab1ce4168cbe9f63775,norovirus,0,simdrop
+63ea4ab1ce4168cbe9f63775,coronavirus,1,simdrop
+63ea4ab1ce4168cbe9f63775,rhinovirus,0,simdrop
+63ea4ab1ce4168cbe9f63775,prediabetes,1,simdrop
+63ea4ab1ce4168cbe9f63775,high blood pressure,0,simdrop
+63ea4ab1ce4168cbe9f63775,torn ligament,1,simdrop
+63ea4ab1ce4168cbe9f63775,strained tendon,0,simdrop
+63ea4ab1ce4168cbe9f63775,bruise,0,simdrop
+63ea4ab1ce4168cbe9f63775,collapsed lung,1,simdrop
+63ea4ab1ce4168cbe9f63775,chronic pain,0,simdrop
+63ea4ab1ce4168cbe9f63775,stiff joints,0,simdrop
+63ea4ab1ce4168cbe9f63775,shingles,1,simdrop
+63ea4ab1ce4168cbe9f63775,chicken pox,0,simdrop
+63ea4ab1ce4168cbe9f63775,hepatitis,1,simdrop
+63ea4ab1ce4168cbe9f63775,gonorrhea,2,simdrop
+65b15afd94153c1f50c92493,allergies,2,simdrop
+65b15afd94153c1f50c92493,cancer,0,simdrop
+65b15afd94153c1f50c92493,diabetes,0,simdrop
+65b15afd94153c1f50c92493,infertility,0,simdrop
+65b15afd94153c1f50c92493,heart attack,1,simdrop
+65b15afd94153c1f50c92493,asthma,0,simdrop
+65b15afd94153c1f50c92493,eczema,0,simdrop
+65b15afd94153c1f50c92493,migraine,1,simdrop
+65b15afd94153c1f50c92493,scoliosis,0,simdrop
+65b15afd94153c1f50c92493,hearing loss,1,simdrop
+65b15afd94153c1f50c92493,seizure,0,simdrop
+65b15afd94153c1f50c92493,anemia,1,simdrop
+65b15afd94153c1f50c92493,dehydration,0,simdrop
+65b15afd94153c1f50c92493,sunburn,0,simdrop
+65b15afd94153c1f50c92493,swelling,1,simdrop
+65b15afd94153c1f50c92493,bleeding,0,simdrop
+65b15afd94153c1f50c92493,toothache,0,simdrop
+65b15afd94153c1f50c92493,panic attack,1,simdrop
+65b15afd94153c1f50c92493,constipation,0,simdrop
+65b15afd94153c1f50c92493,stroke,1,simdrop
+65b15afd94153c1f50c92493,disease,0,simdrop
+65b15afd94153c1f50c92493,down syndrome,0,simdrop
+65b15afd94153c1f50c92493,hypertension,1,simdrop
+65b15afd94153c1f50c92493,acne,2,simdrop
+65c25cf77dca9d7ca7d9ebdb,asthma,2,simdrop
+65c25cf77dca9d7ca7d9ebdb,arthritis,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,cancer,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,leukemia,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,osteoporosis,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,tachycardia,1,simdrop
+65c25cf77dca9d7ca7d9ebdb,high blood pressure,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,diabetes,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,hernia,1,simdrop
+65c25cf77dca9d7ca7d9ebdb,infertile,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,covid,1,simdrop
+65c25cf77dca9d7ca7d9ebdb,flu,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,meningitis,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,gonnorhea,1,simdrop
+65c25cf77dca9d7ca7d9ebdb,chlamydia,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,hepatitis,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,heart attack,1,simdrop
+65c25cf77dca9d7ca7d9ebdb,blood clot,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,whooping cough,1,simdrop
+65c25cf77dca9d7ca7d9ebdb,pneumonia,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,anxiety,1,simdrop
+65c25cf77dca9d7ca7d9ebdb,depression,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,schizophrenia,1,simdrop
+65c25cf77dca9d7ca7d9ebdb,bipolar disorder,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,amnesia,1,simdrop
+65c25cf77dca9d7ca7d9ebdb,alzheimers,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,rabies,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,fatty liver,2,simdrop
+65cb63e160bb47fbf9349269,pregnancy,2,simdrop
+65cb63e160bb47fbf9349269,diabetes,0,simdrop
+65cb63e160bb47fbf9349269,high blood pressure,1,simdrop
+65cb63e160bb47fbf9349269,high cholesterol,0,simdrop
+65cb63e160bb47fbf9349269,low blood pressure,1,simdrop
+65cb63e160bb47fbf9349269,low cholesterol,0,simdrop
+65cb63e160bb47fbf9349269,anemia,0,simdrop
+65cb63e160bb47fbf9349269,bulimia,0,simdrop
+65cb63e160bb47fbf9349269,blind,1,simdrop
+65cb63e160bb47fbf9349269,hard of hearing,0,simdrop
+65cb63e160bb47fbf9349269,cancer,1,simdrop
+65cb63e160bb47fbf9349269,dementia,0,simdrop
+65cb63e160bb47fbf9349269,alzheimer's,0,simdrop
+65cb63e160bb47fbf9349269,high thyroid conditions,1,simdrop
+65cb63e160bb47fbf9349269,heart defects,0,simdrop
+65cb63e160bb47fbf9349269,amputated limbs,0,simdrop
+65cb63e160bb47fbf9349269,migraines,1,simdrop
+65cb63e160bb47fbf9349269,vertigo,2,simdrop
+65cc19b4b3d48a22dfc6756d,covid,2,simdrop
+65cc19b4b3d48a22dfc6756d,cancer,0,simdrop
+65cc19b4b3d48a22dfc6756d,pregnant,0,simdrop
+65cc19b4b3d48a22dfc6756d,endometriosis,0,simdrop
+65cc19b4b3d48a22dfc6756d,common cold,1,simdrop
+65cc19b4b3d48a22dfc6756d,tetanus,0,simdrop
+65cc19b4b3d48a22dfc6756d,alzheimer's,1,simdrop
+65cc19b4b3d48a22dfc6756d,dementia,0,simdrop
+65cc19b4b3d48a22dfc6756d,rabies,1,simdrop
+65cc19b4b3d48a22dfc6756d,hypothermia,0,simdrop
+65cc19b4b3d48a22dfc6756d,pneumonia,2,simdrop
+65d54b3b524fcafb543d1b23,multiple sclerosis,2,simdrop
+65d54b3b524fcafb543d1b23,heart attack,0,simdrop
+65d54b3b524fcafb543d1b23,heart disease,0,simdrop
+65d54b3b524fcafb543d1b23,pulmonary embolism,1,simdrop
+65d54b3b524fcafb543d1b23,atrial fibrillation,0,simdrop
+65d54b3b524fcafb543d1b23,parkinson's disease,0,simdrop
+65d54b3b524fcafb543d1b23,amnesia,1,simdrop
+65d54b3b524fcafb543d1b23,glaucoma,0,simdrop
+65d54b3b524fcafb543d1b23,aspasia,1,simdrop
+65d54b3b524fcafb543d1b23,anxiety,0,simdrop
+65d54b3b524fcafb543d1b23,depression,0,simdrop
+65d54b3b524fcafb543d1b23,schizophrenia,1,simdrop
+65d54b3b524fcafb543d1b23,schizophrenic,0,simdrop
+65d54b3b524fcafb543d1b23,bipolar disorder,2,simdrop
+65d6a09286a0c99e632a46dd,cancer,2,simdrop
+65d6a09286a0c99e632a46dd,autism,0,simdrop
+65d6a09286a0c99e632a46dd,blindness,1,simdrop
+65d6a09286a0c99e632a46dd,deaf,0,simdrop
+65d6a09286a0c99e632a46dd,anorexia,1,simdrop
+65d6a09286a0c99e632a46dd,alcoholism,0,simdrop
+65d6a09286a0c99e632a46dd,diabetes,0,simdrop
+65d6a09286a0c99e632a46dd,arthritis,0,simdrop
+65d6a09286a0c99e632a46dd,infertility,0,simdrop
+65d6a09286a0c99e632a46dd,epilepsy,2,simdrop
+65e1f75ab3efd22e847cfbf0,diabetes,2,simdrop
+65e1f75ab3efd22e847cfbf0,lung cancer,0,simdrop
+65e1f75ab3efd22e847cfbf0,breast cancer,0,simdrop
+65e1f75ab3efd22e847cfbf0,uterine cancer,0,simdrop
+65e1f75ab3efd22e847cfbf0,lupus,1,simdrop
+65e1f75ab3efd22e847cfbf0,lymphedema,0,simdrop
+65e1f75ab3efd22e847cfbf0,bipolar,1,simdrop
+65e1f75ab3efd22e847cfbf0,schizophrenia,0,simdrop
+65e1f75ab3efd22e847cfbf0,acute gastritis,1,simdrop
+65e1f75ab3efd22e847cfbf0,chronic gastritis,0,simdrop
+65e1f75ab3efd22e847cfbf0,diverticulosis,1,simdrop
+65e1f75ab3efd22e847cfbf0,diverticulitis,0,simdrop
+65e1f75ab3efd22e847cfbf0,mouth cancer,1,simdrop
+65e1f75ab3efd22e847cfbf0,gout,0,simdrop
+65e1f75ab3efd22e847cfbf0,edema,0,simdrop
+65e1f75ab3efd22e847cfbf0,tumor,1,simdrop
+65e1f75ab3efd22e847cfbf0,leukemia,0,simdrop
+65e1f75ab3efd22e847cfbf0,lymphoma,0,simdrop
+65e1f75ab3efd22e847cfbf0,skin cancer,0,simdrop
+65e1f75ab3efd22e847cfbf0,keratosis pilaris,0,simdrop
+65e1f75ab3efd22e847cfbf0,pyloric stenosis,1,simdrop
+65e1f75ab3efd22e847cfbf0,endometriosis,0,simdrop
+65e1f75ab3efd22e847cfbf0,adenomyosis,0,simdrop
+65e1f75ab3efd22e847cfbf0,anxiety,1,simdrop
+65e1f75ab3efd22e847cfbf0,asthma,0,simdrop
+65e1f75ab3efd22e847cfbf0,pregnancy,0,simdrop
+65e1f75ab3efd22e847cfbf0,pancreatic cancer,1,simdrop
+65e1f75ab3efd22e847cfbf0,colon cancer,2,simdrop
+65e358d9c5e3ee026268b2a7,pulmonary diseases,2,simdrop
+65e358d9c5e3ee026268b2a7,pulmonary fibrosis,0,simdrop
+65e358d9c5e3ee026268b2a7,cystic fibrosis,0,simdrop
+65e358d9c5e3ee026268b2a7,chronic obstructive pulmonary disorder,1,simdrop
+65e358d9c5e3ee026268b2a7,interstitial lung disease,0,simdrop
+65e358d9c5e3ee026268b2a7,pulmonary arterial hypertension,1,simdrop
+65e358d9c5e3ee026268b2a7,regular pulmonary hypertension,0,simdrop
+65e358d9c5e3ee026268b2a7,asthma,0,simdrop
+65e358d9c5e3ee026268b2a7,covid,0,simdrop
+65e358d9c5e3ee026268b2a7,persistent pneumonia,1,simdrop
+65e358d9c5e3ee026268b2a7,obesity,0,simdrop
+65e358d9c5e3ee026268b2a7,diabetes,0,simdrop
+65e358d9c5e3ee026268b2a7,heart disease,1,simdrop
+65e358d9c5e3ee026268b2a7,heart attacks,0,simdrop
+65e358d9c5e3ee026268b2a7,strokes,0,simdrop
+65e358d9c5e3ee026268b2a7,anemia,1,simdrop
+65e358d9c5e3ee026268b2a7,sickle cell,0,simdrop
+65e358d9c5e3ee026268b2a7,cancer,1,simdrop
+65e358d9c5e3ee026268b2a7,types of cancers,0,simdrop
+65e358d9c5e3ee026268b2a7,anorexia,1,simdrop
+65e358d9c5e3ee026268b2a7,multiple sclerosis,0,simdrop
+65e358d9c5e3ee026268b2a7,osteoporosis,0,simdrop
+65e358d9c5e3ee026268b2a7,arthritis,2,simdrop
+65e862f844f1b7a803bb3c5a,asthma,2,simdrop
+65e862f844f1b7a803bb3c5a,chicken pox,0,simdrop
+65e862f844f1b7a803bb3c5a,hiv-aids,0,simdrop
+65e862f844f1b7a803bb3c5a,influenza,0,simdrop
+65e862f844f1b7a803bb3c5a,measles,0,simdrop
+65e862f844f1b7a803bb3c5a,cold,1,simdrop
+65e862f844f1b7a803bb3c5a,meningitis,0,simdrop
+65e862f844f1b7a803bb3c5a,monkey pox,0,simdrop
+65e862f844f1b7a803bb3c5a,tuberculosis,1,simdrop
+65e862f844f1b7a803bb3c5a,hepatitis,0,simdrop
+65e862f844f1b7a803bb3c5a,high blood pressure,1,simdrop
+65e862f844f1b7a803bb3c5a,diabetes,0,simdrop
+65e862f844f1b7a803bb3c5a,ovarian cancer,0,simdrop
+65e862f844f1b7a803bb3c5a,leukemia,0,simdrop
+65e862f844f1b7a803bb3c5a,whooping cough,1,simdrop
+65e862f844f1b7a803bb3c5a,malaria,0,simdrop
+65e862f844f1b7a803bb3c5a,rabies,0,simdrop
+65e862f844f1b7a803bb3c5a,q fever,0,simdrop
+65e862f844f1b7a803bb3c5a,heart disease,1,simdrop
+65e862f844f1b7a803bb3c5a,arthritis,0,simdrop
+65e862f844f1b7a803bb3c5a,stroke,0,simdrop
+65e862f844f1b7a803bb3c5a,kidney failure,0,simdrop
+65e862f844f1b7a803bb3c5a,epilepsy,1,simdrop
+65e862f844f1b7a803bb3c5a,dementia,0,simdrop
+65e862f844f1b7a803bb3c5a,parkinson's disease,0,simdrop
+65e862f844f1b7a803bb3c5a,bipolar disorder,0,simdrop
+65e862f844f1b7a803bb3c5a,food allergy,2,simdrop

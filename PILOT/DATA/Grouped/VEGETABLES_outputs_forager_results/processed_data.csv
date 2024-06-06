@@ -4,9 +4,13 @@ SID,entry
 65c25cf77dca9d7ca7d9ebdb,potato
 65c25cf77dca9d7ca7d9ebdb,squash
 65c25cf77dca9d7ca7d9ebdb,pumpkin
+65c25cf77dca9d7ca7d9ebdb,ginger
+65c25cf77dca9d7ca7d9ebdb,soybean
 65c25cf77dca9d7ca7d9ebdb,onion
 65c25cf77dca9d7ca7d9ebdb,radish
 65c25cf77dca9d7ca7d9ebdb,asparagus
+65c25cf77dca9d7ca7d9ebdb,radish
+65c25cf77dca9d7ca7d9ebdb,lettuce
 65c25cf77dca9d7ca7d9ebdb,mushroom
 65c25cf77dca9d7ca7d9ebdb,corn
 5d7ff4aa50fda7001a863736,broccoli
@@ -25,11 +29,13 @@ SID,entry
 5d7ff4aa50fda7001a863736,spinach
 5d7ff4aa50fda7001a863736,onion
 5d7ff4aa50fda7001a863736,garlic
+5d7ff4aa50fda7001a863736,bell pepper
 5d7ff4aa50fda7001a863736,turnip
 610c59ee34cc312d7ca55e45,carrot
 610c59ee34cc312d7ca55e45,cauliflower
 610c59ee34cc312d7ca55e45,broccoli
 610c59ee34cc312d7ca55e45,asparagus
+610c59ee34cc312d7ca55e45,soybean
 610c59ee34cc312d7ca55e45,corn
 610c59ee34cc312d7ca55e45,lettuce
 610c59ee34cc312d7ca55e45,squash
@@ -44,12 +50,15 @@ SID,entry
 65cc19b4b3d48a22dfc6756d,lettuce
 65cc19b4b3d48a22dfc6756d,cabbage
 65cc19b4b3d48a22dfc6756d,corn
+65cc19b4b3d48a22dfc6756d,bok choy
 65cc19b4b3d48a22dfc6756d,cauliflower
 65cc19b4b3d48a22dfc6756d,watercress
 601f6a2231a2904b79df1671,carrot
 601f6a2231a2904b79df1671,pea
 601f6a2231a2904b79df1671,potato
 601f6a2231a2904b79df1671,celery
+601f6a2231a2904b79df1671,bok choy
+601f6a2231a2904b79df1671,soybean
 601f6a2231a2904b79df1671,tomato
 601f6a2231a2904b79df1671,radish
 601f6a2231a2904b79df1671,cucumber
@@ -68,16 +77,23 @@ SID,entry
 601f6a2231a2904b79df1671,corn
 63ea4ab1ce4168cbe9f63775,broccoli
 63ea4ab1ce4168cbe9f63775,spinach
+63ea4ab1ce4168cbe9f63775,rapini
 63ea4ab1ce4168cbe9f63775,lettuce
+63ea4ab1ce4168cbe9f63775,celery
 63ea4ab1ce4168cbe9f63775,lettuce
+63ea4ab1ce4168cbe9f63775,cabbage
 63ea4ab1ce4168cbe9f63775,eggplant
 63ea4ab1ce4168cbe9f63775,zucchini
+63ea4ab1ce4168cbe9f63775,scallion
 63ea4ab1ce4168cbe9f63775,onion
 63ea4ab1ce4168cbe9f63775,onion
 63ea4ab1ce4168cbe9f63775,onion
+63ea4ab1ce4168cbe9f63775,radish
 63ea4ab1ce4168cbe9f63775,onion
+63ea4ab1ce4168cbe9f63775,corn
 63ea4ab1ce4168cbe9f63775,potato
 63ea4ab1ce4168cbe9f63775,ginger
+63ea4ab1ce4168cbe9f63775,beetroot
 63ea4ab1ce4168cbe9f63775,cauliflower
 63ea4ab1ce4168cbe9f63775,corn
 63ea4ab1ce4168cbe9f63775,asparagus
@@ -88,6 +104,7 @@ SID,entry
 6596a5cad60ef105b6c18897,broccoli
 6596a5cad60ef105b6c18897,asparagus
 6596a5cad60ef105b6c18897,chard
+6596a5cad60ef105b6c18897,rapini
 6596a5cad60ef105b6c18897,chard
 6596a5cad60ef105b6c18897,spinach
 6596a5cad60ef105b6c18897,arugula
@@ -99,6 +116,7 @@ SID,entry
 6596a5cad60ef105b6c18897,green bean
 6596a5cad60ef105b6c18897,celery
 6596a5cad60ef105b6c18897,carrot
+6596a5cad60ef105b6c18897,kale
 6596a5cad60ef105b6c18897,rutabaga
 6596a5cad60ef105b6c18897,broccolini
 6596a5cad60ef105b6c18897,garlic
@@ -126,6 +144,7 @@ SID,entry
 654108d38225e168af4b1fa0,celery
 654108d38225e168af4b1fa0,asparagus
 654108d38225e168af4b1fa0,green bean
+654108d38225e168af4b1fa0,soybean
 654108d38225e168af4b1fa0,broccoli
 654108d38225e168af4b1fa0,zucchini
 654108d38225e168af4b1fa0,cucumber
@@ -163,11 +182,13 @@ SID,entry
 5f5aa60bef062519ff711fe6,broccoli
 5f5aa60bef062519ff711fe6,potato
 5f5aa60bef062519ff711fe6,asparagus
+5f5aa60bef062519ff711fe6,bok choy
 5f5aa60bef062519ff711fe6,lettuce
 5f5aa60bef062519ff711fe6,cauliflower
 5f5aa60bef062519ff711fe6,green bean
 65b15afd94153c1f50c92493,tomato
 65b15afd94153c1f50c92493,potato
+65b15afd94153c1f50c92493,turnip
 65b15afd94153c1f50c92493,eggplant
 65b15afd94153c1f50c92493,artichoke
 65b15afd94153c1f50c92493,cauliflower
@@ -176,11 +197,13 @@ SID,entry
 65b15afd94153c1f50c92493,kale
 65b15afd94153c1f50c92493,onion
 65b15afd94153c1f50c92493,sweet potato
+65b15afd94153c1f50c92493,chard
 65b15afd94153c1f50c92493,spinach
 65b15afd94153c1f50c92493,lettuce
 65b15afd94153c1f50c92493,corn
 65b15afd94153c1f50c92493,pumpkin
 65b15afd94153c1f50c92493,squash
+65b15afd94153c1f50c92493,soybean
 65b15afd94153c1f50c92493,radish
 65b15afd94153c1f50c92493,mushroom
 5885f97f41da4500014d3645,onion
@@ -205,15 +228,21 @@ SID,entry
 6081806ab383aa89f6c61940,potato
 6081806ab383aa89f6c61940,chard
 6081806ab383aa89f6c61940,leek
+6081806ab383aa89f6c61940,bell pepper
 6081806ab383aa89f6c61940,mushroom
 6081806ab383aa89f6c61940,artichoke
+6081806ab383aa89f6c61940,zucchini
 6081806ab383aa89f6c61940,cilantro
 6081806ab383aa89f6c61940,cauliflower
 61363ce02e6022a741d63a6e,carrot
+61363ce02e6022a741d63a6e,pea
 61363ce02e6022a741d63a6e,avocado
 61363ce02e6022a741d63a6e,potato
 61363ce02e6022a741d63a6e,cauliflower
+61363ce02e6022a741d63a6e,soybean
 61363ce02e6022a741d63a6e,broccoli
+61363ce02e6022a741d63a6e,bell pepper
+61363ce02e6022a741d63a6e,zucchini
 61363ce02e6022a741d63a6e,corn
 61363ce02e6022a741d63a6e,celery
 61363ce02e6022a741d63a6e,avocado
@@ -240,7 +269,9 @@ SID,entry
 60d731567049e5132e3cc4d4,onion
 60d731567049e5132e3cc4d4,onion
 60d731567049e5132e3cc4d4,scallion
+60d731567049e5132e3cc4d4,zucchini
 60d731567049e5132e3cc4d4,broccolini
+60d731567049e5132e3cc4d4,soybean
 60d731567049e5132e3cc4d4,corn
 600f9342e7bc5518fa9ca92a,potato
 600f9342e7bc5518fa9ca92a,corn
@@ -260,12 +291,15 @@ SID,entry
 65e862f844f1b7a803bb3c5a,mushroom
 65e862f844f1b7a803bb3c5a,spinach
 65e862f844f1b7a803bb3c5a,corn
+65e862f844f1b7a803bb3c5a,soybean
 65e862f844f1b7a803bb3c5a,radish
+65e862f844f1b7a803bb3c5a,soybean
 65e862f844f1b7a803bb3c5a,cauliflower
 65e862f844f1b7a803bb3c5a,chard
 65e862f844f1b7a803bb3c5a,celeriac
 65e862f844f1b7a803bb3c5a,spinach
 65e862f844f1b7a803bb3c5a,cabbage
+65e862f844f1b7a803bb3c5a,chayote
 65e862f844f1b7a803bb3c5a,onion
 65e862f844f1b7a803bb3c5a,ginger
 65e862f844f1b7a803bb3c5a,potato
@@ -292,6 +326,7 @@ SID,entry
 656e3caa43f1f7f0615252ff,carrot
 656e3caa43f1f7f0615252ff,daikon
 656e3caa43f1f7f0615252ff,scallion
+656e3caa43f1f7f0615252ff,scallion
 656e3caa43f1f7f0615252ff,cucumber
 656e3caa43f1f7f0615252ff,onion
 656e3caa43f1f7f0615252ff,ginger
@@ -306,11 +341,15 @@ SID,entry
 63619eb02e5bd8f4f7bd138a,turnip
 63619eb02e5bd8f4f7bd138a,radish
 63619eb02e5bd8f4f7bd138a,cilantro
+63619eb02e5bd8f4f7bd138a,kale
 63619eb02e5bd8f4f7bd138a,pea
+63619eb02e5bd8f4f7bd138a,sorrel
 65d54b3b524fcafb543d1b23,carrot
 65d54b3b524fcafb543d1b23,cucumber
+65d54b3b524fcafb543d1b23,kale
 65d54b3b524fcafb543d1b23,cilantro
 65d54b3b524fcafb543d1b23,tomato
+65d54b3b524fcafb543d1b23,bell pepper
 65d54b3b524fcafb543d1b23,potato
 65d54b3b524fcafb543d1b23,green bean
 65d54b3b524fcafb543d1b23,celery
@@ -324,6 +363,7 @@ SID,entry
 6554de7d91c1b1bf51104fda,lettuce
 6554de7d91c1b1bf51104fda,corn
 6554de7d91c1b1bf51104fda,carrot
+6554de7d91c1b1bf51104fda,squash
 6554de7d91c1b1bf51104fda,celery
 6554de7d91c1b1bf51104fda,cabbage
 6554de7d91c1b1bf51104fda,onion
@@ -334,11 +374,14 @@ SID,entry
 6554de7d91c1b1bf51104fda,eggplant
 6554de7d91c1b1bf51104fda,pumpkin
 6554de7d91c1b1bf51104fda,squash
+6554de7d91c1b1bf51104fda,beetroot
+6554de7d91c1b1bf51104fda,kale
 6554de7d91c1b1bf51104fda,garlic
 6554de7d91c1b1bf51104fda,artichoke
 6554de7d91c1b1bf51104fda,sweet potato
 6554de7d91c1b1bf51104fda,mushroom
 6554de7d91c1b1bf51104fda,zucchini
+65cb63e160bb47fbf9349269,broccolini
 65cb63e160bb47fbf9349269,carrot
 65cb63e160bb47fbf9349269,asparagus
 65cb63e160bb47fbf9349269,radish
@@ -364,6 +407,7 @@ SID,entry
 629e241d171ec6698e05f149,radish
 629e241d171ec6698e05f149,cabbage
 629e241d171ec6698e05f149,carrot
+629e241d171ec6698e05f149,bok choy
 629e241d171ec6698e05f149,onion
 629e241d171ec6698e05f149,potato
 629e241d171ec6698e05f149,onion
@@ -375,6 +419,15 @@ SID,entry
 629e241d171ec6698e05f149,potato
 629e241d171ec6698e05f149,celery
 629e241d171ec6698e05f149,eggplant
+629e241d171ec6698e05f149,kale
+629e241d171ec6698e05f149,soybean
+629e241d171ec6698e05f149,soybean
+629e241d171ec6698e05f149,soybean
+629e241d171ec6698e05f149,soybean
+629e241d171ec6698e05f149,soybean
+629e241d171ec6698e05f149,soybean
+629e241d171ec6698e05f149,cilantro
+629e241d171ec6698e05f149,soybean
 629e241d171ec6698e05f149,chickpea
 629e241d171ec6698e05f149,pea
 63e802622f8052bd67d6c5f0,broccoli
@@ -393,6 +446,7 @@ SID,entry
 60a48adfe091e410f4eaba34,spinach
 60a48adfe091e410f4eaba34,lettuce
 60a48adfe091e410f4eaba34,carrot
+60a48adfe091e410f4eaba34,rapini
 60a48adfe091e410f4eaba34,pea
 60a48adfe091e410f4eaba34,broccoli
 60a48adfe091e410f4eaba34,cauliflower

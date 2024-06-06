@@ -1,0 +1,116 @@
+SID,entry,evaluation,replacement
+6595e3b4dc9090390e4edb5f,swimsuit,REPLACE,suit
+6595e3b4dc9090390e4edb5f,jacket,FOUND,jacket
+6595e3b4dc9090390e4edb5f,sweater,FOUND,sweater
+6595e3b4dc9090390e4edb5f,blouse,FOUND,blouse
+6595e3b4dc9090390e4edb5f,dress,FOUND,dress
+6595e3b4dc9090390e4edb5f,skirt,FOUND,skirt
+6595e3b4dc9090390e4edb5f,cardigan,FOUND,cardigan
+6595e3b4dc9090390e4edb5f,jeans,FOUND,jeans
+6595e3b4dc9090390e4edb5f,short,REPLACE,shorts
+6595e3b4dc9090390e4edb5f,bow,REPLACE,bow tie
+6595e3b4dc9090390e4edb5f,boots,EXCLUDE,EXCLUDE
+6595e3b4dc9090390e4edb5f,leggings,FOUND,leggings
+6595e3b4dc9090390e4edb5f,skirt,FOUND,skirt
+6595e3b4dc9090390e4edb5f,blazers,REPLACE,blazer
+6595e3b4dc9090390e4edb5f,pantsuit,REPLACE,pants
+6595e3b4dc9090390e4edb5f,corsets,REPLACE,shorts
+6595e3b4dc9090390e4edb5f,pajamas,FOUND,pajamas
+6595e3b4dc9090390e4edb5f,t-shirt,FOUND,t-shirt
+6595e3b4dc9090390e4edb5f,hoodie,FOUND,hoodie
+6595e3b4dc9090390e4edb5f,suits,REPLACE,suit
+6595e3b4dc9090390e4edb5f,socks,FOUND,socks
+6595e3b4dc9090390e4edb5f,hats,REPLACE,pants
+6595e3b4dc9090390e4edb5f,gloves,FOUND,gloves
+6595e3b4dc9090390e4edb5f,raincoat,REPLACE,waistcoat
+6595e3b4dc9090390e4edb5f,vest,FOUND,vest
+6595e3b4dc9090390e4edb5f,jumper,REPLACE,romper
+6595e3b4dc9090390e4edb5f,tank top,FOUND,tank top
+6595e3b4dc9090390e4edb5f,bodysuit,REPLACE,suit
+6595e3b4dc9090390e4edb5f,dress shirt,EXCLUDE,EXCLUDE
+6595e3b4dc9090390e4edb5f,undershirt,EXCLUDE,EXCLUDE
+6595e3b4dc9090390e4edb5f,polos,EXCLUDE,EXCLUDE
+6595e3b4dc9090390e4edb5f,scarf,FOUND,scarf
+6595e3b4dc9090390e4edb5f,maxi dress,EXCLUDE,EXCLUDE
+6595e3b4dc9090390e4edb5f,long coat,REPLACE,lab coat
+6595e3b4dc9090390e4edb5f,winter coat,EXCLUDE,EXCLUDE
+6595e3b4dc9090390e4edb5f,long sleeve,EXCLUDE,EXCLUDE
+6595e3b4dc9090390e4edb5f,bow tie,FOUND,bow tie
+6595e3b4dc9090390e4edb5f,tie,FOUND,tie
+65512e3cc12f463bc327b7c3,socks,FOUND,socks
+65512e3cc12f463bc327b7c3,shorts,FOUND,shorts
+65512e3cc12f463bc327b7c3,pants,FOUND,pants
+65512e3cc12f463bc327b7c3,shirt,FOUND,shirt
+65512e3cc12f463bc327b7c3,tank top,FOUND,tank top
+65512e3cc12f463bc327b7c3,sweater,FOUND,sweater
+65512e3cc12f463bc327b7c3,hat,REPLACE,sun hat
+65512e3cc12f463bc327b7c3,gloves,FOUND,gloves
+65512e3cc12f463bc327b7c3,shoes,REPLACE,shorts
+65512e3cc12f463bc327b7c3,boots,EXCLUDE,EXCLUDE
+65512e3cc12f463bc327b7c3,watches,REPLACE,patches
+65512e3cc12f463bc327b7c3,underwear,EXCLUDE,EXCLUDE
+65512e3cc12f463bc327b7c3,bra,FOUND,bra
+65512e3cc12f463bc327b7c3,long underwear,EXCLUDE,EXCLUDE
+65512e3cc12f463bc327b7c3,sweatpants,EXCLUDE,EXCLUDE
+65512e3cc12f463bc327b7c3,short shorts,EXCLUDE,EXCLUDE
+65512e3cc12f463bc327b7c3,suit,FOUND,suit
+65512e3cc12f463bc327b7c3,tie,FOUND,tie
+65512e3cc12f463bc327b7c3,dress,FOUND,dress
+65512e3cc12f463bc327b7c3,shoes,REPLACE,shorts
+65512e3cc12f463bc327b7c3,jacket,FOUND,jacket
+65512e3cc12f463bc327b7c3,slippers,REPLACE,zipper
+65512e3cc12f463bc327b7c3,sandals,EXCLUDE,EXCLUDE
+65512e3cc12f463bc327b7c3,stocking cap,REPLACE,stockings
+65512e3cc12f463bc327b7c3,blouse,FOUND,blouse
+65778c02cde55736bb830eca,pants,FOUND,pants
+65778c02cde55736bb830eca,socks,FOUND,socks
+65778c02cde55736bb830eca,shorts,FOUND,shorts
+65778c02cde55736bb830eca,swimsuit,REPLACE,suit
+65778c02cde55736bb830eca,bikini,REPLACE,knit
+65778c02cde55736bb830eca,tank top,FOUND,tank top
+65778c02cde55736bb830eca,boxers,FOUND,boxers
+65778c02cde55736bb830eca,underwear,EXCLUDE,EXCLUDE
+65778c02cde55736bb830eca,bandana,FOUND,bandana
+65778c02cde55736bb830eca,t-shirt,FOUND,t-shirt
+65778c02cde55736bb830eca,blouse,FOUND,blouse
+65778c02cde55736bb830eca,sweatshirt,EXCLUDE,EXCLUDE
+65778c02cde55736bb830eca,hoodie,FOUND,hoodie
+65778c02cde55736bb830eca,beanie,FOUND,beanie
+65778c02cde55736bb830eca,hat,REPLACE,sun hat
+65778c02cde55736bb830eca,gloves,FOUND,gloves
+65778c02cde55736bb830eca,shoes,REPLACE,shorts
+65778c02cde55736bb830eca,undershirt,EXCLUDE,EXCLUDE
+65778c02cde55736bb830eca,bra,FOUND,bra
+65778c02cde55736bb830eca,sports bra,EXCLUDE,EXCLUDE
+65778c02cde55736bb830eca,flannel,FOUND,flannel
+65778c02cde55736bb830eca,sweater,FOUND,sweater
+65778c02cde55736bb830eca,jeans,FOUND,jeans
+65778c02cde55736bb830eca,running shoes,EXCLUDE,EXCLUDE
+65778c02cde55736bb830eca,basketball shorts,EXCLUDE,EXCLUDE
+65778c02cde55736bb830eca,compression socks,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,t-shirt,FOUND,t-shirt
+61035836646fb6ee2152f950,sweatshirt,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,mock neck,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,bralette,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,bralette,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,skirt,FOUND,skirt
+61035836646fb6ee2152f950,blouse,FOUND,blouse
+61035836646fb6ee2152f950,jeans,FOUND,jeans
+61035836646fb6ee2152f950,shorts,FOUND,shorts
+61035836646fb6ee2152f950,capris,REPLACE,sari
+61035836646fb6ee2152f950,socks,FOUND,socks
+61035836646fb6ee2152f950,no-show socks,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,sandals,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,tennis shoes,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,shoelaces,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,jacket,FOUND,jacket
+61035836646fb6ee2152f950,parka,REPLACE,tiara
+61035836646fb6ee2152f950,windbreaker,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,scarf,FOUND,scarf
+61035836646fb6ee2152f950,gloves,FOUND,gloves
+61035836646fb6ee2152f950,gown,REPLACE,crown
+61035836646fb6ee2152f950,mini skirt,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,beanie,FOUND,beanie
+61035836646fb6ee2152f950,vest,FOUND,vest
+61035836646fb6ee2152f950,sleeve,REPLACE,fleece
+61035836646fb6ee2152f950,flip flops,EXCLUDE,EXCLUDE

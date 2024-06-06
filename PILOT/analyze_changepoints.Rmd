@@ -1,0 +1,326 @@
+---
+title: "analyze_changepoints"
+output: html_document
+date: "2024-05-06"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+
+Online_data = TRUE # IF true, then data is collected on prolific, else in person data
+
+if (Online_data){
+  data_dir = 'DATA/Corrected/Grouped_corrected'
+  plots_dir = 'Plots_corrected'
+} else {
+  data_dir = 'DATA/In_Person/Grouped'
+  plots_dir = 'Plots_in_person'
+}
+forager_suffix = "_outputs_forager_results"
+library(ggplot2)
+library(dplyr)
+library(ecp)
+library(EnvCpt)
+
+```
+
+## Obtain semantic similarity and frequency  
+
+Read in the relevant .csv file for analysis
+
+```{r import_file}
+categoriesA = c('ANIMALS','BODY PARTS', 'FRUITS', 'HOBBIES', 'HOLIDAYS', 'HOME APPLIANCES', 'LIQUIDS', 'MEANS OF TRANSPORT', 'MEDICAL CONDITIONS', 'MUSICAL INSTRUMENTS', 'OCCUPATIONS', 'TOOLS', 'VEGETABLES')
+
+category = 'ANIMALS'
+category_dir = file.path(data_dir, paste0(category, forager_suffix))
+lexical_fn= 'lexical_results.csv'
+switch_fn = 'switch_results.csv'
+lexical_fn_corrected = 'lexical_data_corrected.csv'
+
+lexical_file = file.path(category_dir, lexical_fn)
+
+lexical_data = read.csv(lexical_file)
+
+lexical_data = lexical_data %>% group_by(Subject) %>% mutate(Item = row_number())
+lexical_data$IRT[lexical_data$IRT<0] = 0
+lexical_data$IRT[lexical_data$Item == 1] = NA
+
+switch_file = file.path(category_dir, switch_fn)
+
+switch_data = read.csv(switch_file)
+switch_data = switch_data %>% group_by(Subject) %>% mutate(Item = row_number())
+
+lex_switch_data = merge(lexical_data, switch_data, by = c("Subject", "Fluency_Item","Item"))
+lex_switch_data$IRT[lex_switch_data$IRT<0] = 0
+lex_switch_data = lex_switch_data %>% mutate(switch_intercept = ifelse(Switch_Value==1, Item, 0))
+
+```
+
+# test where the switches occur with simdrop on frequency and semantic similarity matrix
+
+```{r}
+ggplot(data = lex_switch_data) + geom_line(aes( x = Item, y = Frequency_Value, color = Subject, group = Subject))+
+  facet_wrap(~Subject, nrow = 4, scales = "free")+ 
+  geom_vline(aes(xintercept = switch_intercept), linetype='dashed')+
+  ggtitle(category)+
+  theme(legend.position="none",plot.title = element_text(size=22, hjust = 0.5))
+
+
+ggplot(data = lex_switch_data) + geom_line(aes( x = Item, y = Semantic_Similarity, color = Subject, group = Subject))+
+  facet_wrap(~Subject, nrow = 4, scales = "free")+ 
+  geom_vline(aes(xintercept = switch_intercept), linetype='dashed')+
+  ggtitle(category)+
+  theme(legend.position="none",plot.title = element_text(size=22, hjust = 0.5))
+
+ggplot(data = lex_switch_data) + geom_line(aes( x = Item, y = IRT, color = Subject, group = Subject))+
+  facet_wrap(~Subject, nrow = 4, scales = "free")+ 
+  geom_vline(aes(xintercept = switch_intercept), linetype='dashed')+
+  ggtitle(category)+
+  theme(legend.position="none",plot.title = element_text(size=22, hjust = 0.5))
+
+
+```
+Correlating subject efficiency (number of words) with mean cluster size
+
+```{r}
+
+stats_fn = "individual_descriptive_stats.csv"
+stats_file = file.path(category_dir, stats_fn)
+stats_data = read.csv(stats_file)
+
+ggplot(data= stats_data) + geom_point(aes(x = X._of_Items, y = Cluster_Size_mean))+
+  theme_classic()
+
+```
+
+Single subject data for better visualization
+
+```{r}
+s_select = "60d731567049e5132e3cc4d4"
+lex_dat_plot = lex_switch_data[lex_switch_data$Subject==s_select,]
+ggplot(data = lex_dat_plot) + geom_line(aes( x = Item, y = IRT))+
+  # facet_wrap(~Subject, nrow = 4, scales = "free")+ 
+  geom_vline(aes(xintercept = switch_intercept), linetype='dashed')+
+  ggtitle(category)+
+  theme(legend.position="none",plot.title = element_text(size=22, hjust = 0.5))
+```
+## Add lead lag identifiers to compare with Hills paper
+
+```{r}
+lex_switch_data = lex_switch_data %>% group_by(Subject) %>% arrange(Item) %>% mutate(switch_prev = if_else(lead(Switch_Value) == 1 & Switch_Value==0, 1, 0), switch_prev2 = if_else(lead(Switch_Value, 2) == 1 & Switch_Value==0 & switch_prev == 0, 1, 0), switch_next = if_else(lag(Switch_Value) == 1 & Switch_Value==0, 1, 0), switch_next2 = if_else(lag(Switch_Value, 2) == 1 & Switch_Value==0 & switch_next == 0, 1, 0))
+
+# lex_switch_data = lex_switch_data %>% group_by(Subject) %>% arrange(Item) %>% mutate(switch_prev =lead(Switch_Value), switch_prev2 = lead(Switch_Value, 2), switch_next = lag(Switch_Value) , switch_next2 = lag(Switch_Value, 2))
+
+lex_switch_data = lex_switch_data %>% group_by(Subject) %>% arrange(Item) %>% mutate(switch_status = case_when(Switch_Value == 1 ~ 1, switch_prev == 1 ~ -1, switch_prev2 ==1 ~ -2, switch_next == 1 ~ 2, switch_next2 ==1 ~ 3, TRUE ~ 0))
+
+
+
+```
+
+
+
+
+## Replicate similarity and 
+
+Raw data which contains the IRTs
+
+```{r}
+
+ggplot(data = lexical_data) + geom_line(aes( x = Item, y = IRT, color = Subject, group = Subject))+
+  facet_wrap(~Subject, nrow = 5, scales = "free")+ 
+  ggtitle(category)+
+  theme(legend.position="none",plot.title = element_text(size=22, hjust = 0.5))
+
+# normalize and plot interitem time
+
+lexical_data = lexical_data %>% group_by(Subject) %>% mutate(norm_IRT = IRT/ mean(IRT, na.rm = TRUE))
+
+lexical_data = lexical_data %>% group_by(Subject) %>% mutate(frequency = 10^(Frequency_Value), norm_freq = frequency/ mean(frequency, na.rm = TRUE), norm_IRT = IRT/ mean(IRT,na.rm=TRUE))
+
+```
+
+
+## Changepoint detection 
+
+First, we do single variable changepoint detection. We explored a few different in-built R packages for trend detection:
+- ecf : e.divisive and e.agglo packages 
+- changepoint
+
+```{r}
+subject_list = unique(lex_switch_data$Subject)
+
+# for(subj in subject_list){
+#   
+#   fit_cpt = envcpt(lexical_data$IRT[lexical_data$Subject==subj], models=c("trendcpt","trendar1cpt","trendar2cpt"))
+#   fit_cpt$summary
+#   plot(fit_cpt)
+# }
+
+# for(subj in subject_list){
+#   
+#   fit_cpt = envcpt(lexical_data$Semantic_Similarity[lexical_data$Subject==subj], models=c("meancpt","meanar1cpt","meanar2cpt"))
+#   fit_cpt$summary
+#   plot(fit_cpt)
+# }
+
+for(subj in subject_list){
+  
+  fit_cpt = envcpt(lexical_data$norm_freq[lexical_data$Subject==subj], models=c("trend", "trendcpt","trendar1cpt","trendar2cpt"))
+  fit_cpt$summary
+  plot(fit_cpt)
+}
+
+```
+
+
+```{r changepoint}
+
+
+for (subj in subject_list){
+  # print(subj)
+  X_mat1 = t(matrix(lexical_data$norm_freq[lexical_data$Subject==subj]))
+  X_mat2 = t(matrix(lexical_data$Semantic_Similarity[lexical_data$Subject==subj]))
+  X_mat3 = t(matrix(lexical_data$norm_IRT[lexical_data$Subject==subj]))
+  X_mat = rbind(X_mat1, X_mat2)
+  X_mat = rbind(X_mat, X_mat3)
+  y_res = e.divisive(X_mat, sig.lvl = 0.05, min.size = 5, alpha = 2)
+  # y_res = e.agglo(X_mat, member = 1:nrow(X_mat), alpha=1)
+  print(y_res)
+}
+```
+
+Transform frequencies to verify that log isn't compressing things too much and normalize by subjects to reduce the magnitude
+
+
+```{r}
+
+
+
+ggplot(data=lexical_data) + geom_line(aes(x= Item, y= norm_freq, color= Subject))+
+  facet_wrap(~Subject, nrow =5, scales = "free")+
+  ggtitle(category)+
+  theme(legend.position="none",plot.title = element_text(size=22, hjust = 0.5))
+
+```
+Average freq plot across subjects 
+
+```{r}
+lex_filter_outliers = lexical_data %>% group_by(Item) %>% filter((norm_freq < 2 *sd(norm_freq) + mean(norm_freq)))
+
+lex_avg_subj_outl_freq = lex_filter_outliers %>% group_by(Item) %>% summarise(mean_norm_freq = mean(norm_freq), sd_norm_freq = sd(norm_freq), mean_IRT = mean(IRT), sd_IRT = sd(IRT), mean_norm_IRT = mean(norm_IRT), sd_norm_IRT = sd(norm_IRT))
+
+lex_avg_subj_outl_freq = lex_avg_subj_outl_freq %>% mutate(norm_freq_min = mean_norm_freq - sd_norm_freq, norm_freq_max = mean_norm_freq + sd_norm_freq, IRT_min = mean_IRT - sd_IRT, IRT_max = mean_IRT + sd_IRT, norm_IRT_min = mean_norm_IRT - sd_norm_IRT, norm_IRT_max = mean_norm_IRT + sd_norm_IRT)
+
+ggplot(data=lex_avg_subj_outl_freq) + geom_line(aes(x = Item, y = mean_norm_freq))+
+  geom_errorbar(aes(x = Item, ymin = norm_freq_min, ymax = norm_freq_max))+
+  ggtitle(category)+
+  theme(legend.position="none",plot.title = element_text(size=22, hjust = 0.5))
+
+ggplot(data=lex_avg_subj_outl_freq) + geom_line(aes(x = Item, y = mean_norm_IRT))+
+  geom_errorbar(aes(x = Item, ymin = norm_IRT_min, ymax = norm_IRT_max))+
+  ggtitle(category)+
+  theme(legend.position="none",plot.title = element_text(size=22, hjust = 0.5))
+```
+## Replicate bar graphs from Hils et al
+
+```{r}
+
+lex_switch_data = lex_switch_data %>% group_by(Subject) %>% mutate(frequency = 10^(Frequency_Value), norm_freq = frequency/ mean(frequency, na.rm = TRUE), norm_IRT = IRT/ mean(IRT,na.rm=TRUE))
+
+lex_switch_filter_outliers = lex_switch_data %>% group_by(Item) %>% filter((norm_IRT < 2 *sd(norm_IRT) + mean(norm_IRT)) )
+
+lex_switch_bar = lex_switch_filter_outliers %>% group_by(Subject, switch_status) %>% summarise(mean_norm_IRT = mean(norm_IRT), sd_norm_IRT = sd(norm_IRT), mean_ss = mean(Semantic_Similarity), sd_ss = sd(Semantic_Similarity), mean_norm_freq = mean(norm_freq), sd_norm_freq = sd(norm_freq))
+
+lex_switch_bar= lex_switch_bar %>% filter(switch_status != 0)
+
+lex_switch_bar$switch_status = as.character(lex_switch_bar$switch_status)
+
+lex_switch_bar = lex_switch_bar %>% mutate(norm_IRT_min = mean_norm_IRT - sd_norm_IRT, norm_IRT_max = mean_norm_IRT + sd_norm_IRT, ss_min = mean_ss - sd_ss, ss_max = mean_ss + sd_ss, norm_freq_min = mean_norm_freq - sd_norm_freq, norm_freq_max = mean_norm_freq + sd_norm_freq)
+
+ggplot(lex_switch_bar) + geom_bar(aes(x = switch_status, y = mean_norm_IRT),stat="identity")+
+  geom_errorbar(aes(x = switch_status, ymax = norm_IRT_max, ymin = norm_IRT_min))+
+  geom_hline(yintercept = 1, linetype="dashed")+
+  facet_wrap(~Subject)+
+  theme_classic()
+
+ggplot(lex_switch_bar) + geom_bar(aes(x = switch_status, y = mean_ss),stat="identity")+
+  geom_errorbar(aes(x = switch_status, ymax = ss_max, ymin = ss_min))+
+  facet_wrap(~Subject)
+  theme_classic()
+  
+  ggplot(lex_switch_bar) + geom_bar(aes(x = switch_status, y = mean_norm_freq),stat="identity")+
+  geom_errorbar(aes(x = switch_status, ymax = norm_freq_max, ymin = norm_freq_min))+
+  facet_wrap(~Subject, scales = "free_y")
+  theme_classic()
+
+```
+
+Averaging across subjects
+
+```{r}
+lex_switch_bar_all = lex_switch_bar %>% group_by(switch_status) %>% summarise(mean_norm_IRT_all = mean(mean_norm_IRT), sd_norm_IRT_all = sd(mean_norm_IRT), mean_ss_all = mean(mean_ss), sd_ss_all = sd(mean_ss), mean_norm_freq_all = mean(mean_norm_freq), sd_mean_norm_freq_all = sd(mean_norm_freq))
+
+lex_switch_bar_all = lex_switch_bar_all %>% mutate(norm_IRT_all_min = mean_norm_IRT_all - sd_norm_IRT_all, norm_IRT_all_max = mean_norm_IRT_all + sd_norm_IRT_all, ss_all_min = mean_ss_all - sd_ss_all, ss_all_max = mean_ss_all + sd_ss_all, norm_IRT_all_min = mean_norm_freq_all - sd_norm_freq_all, norm_freq_all_max = mean_norm_freq_all + sd_norm_freq_all)
+
+
+ggplot(lex_switch_bar_all) + geom_bar(aes(x = switch_status, y = mean_norm_IRT_all),stat="identity")+
+  geom_errorbar(aes(x = switch_status, ymax = norm_IRT_all_max, ymin = norm_IRT_all_min))+
+  geom_hline(yintercept = 1, linetype="dashed")+
+  theme_classic()
+
+ggplot(lex_switch_bar_all) + geom_bar(aes(x = switch_status, y = mean_ss_all),stat="identity")+
+  geom_errorbar(aes(x = switch_status, ymax = ss_all_max, ymin = ss_all_min))+
+  theme_classic()
+```
+
+
+
+```{r}
+
+ggplot(data=lexical_data) + geom_line(aes(x= Item, y= norm_freq, color= Subject))+
+  facet_wrap(~Subject, nrow =5, scales = "free")+
+  ggtitle(category)+
+  theme(legend.position="none",plot.title = element_text(size=22, hjust = 0.5))
+
+ggplot(data=lexical_data) + geom_line(aes(x= Item, y= norm_IRT, color= Subject))+
+  facet_wrap(~Subject, nrow =5, scales = "free")+
+  ggtitle(category)+
+  theme(legend.position="none",plot.title = element_text(size=22, hjust = 0.5))
+
+```
+
+Melt data frame to superimpose plots 
+
+```{r}
+library("reshape2")
+lexical_melt = melt(lexical_data, id = c("Subject","Fluency_Item","Item", "Semantic_Similarity","Frequency_Value","frequency","norm_IRT"))
+
+ggplot(data=lexical_melt) + geom_line(aes(x= Item, y= value, linetype= variable, group=variable))+
+  facet_wrap(~Subject, nrow =5, scales = "free")+
+  ggtitle(category)+
+  theme(plot.title = element_text(size=22, hjust = 0.5))
+
+```
+
+## Visualizing relation between IRT and frequency
+
+```{r freq_irt_corr, echo = FALSE}
+
+lexical_filt = lexical_data %>% filter(between(norm_freq, mean(norm_freq, na.rm = TRUE)- 2*sd(norm_freq, na.rm = TRUE), mean(norm_freq, na.rm = TRUE) + 2*sd(norm_freq, na.rm = TRUE)) & between(IRT, mean(IRT, na.rm = TRUE)- 2*sd(IRT, na.rm = TRUE), mean(IRT, na.rm = TRUE) + 2*sd(IRT, na.rm = TRUE)))
+
+# lexical_filt = lexical_filt %>% filter()
+
+ggplot(data = lexical_filt) + geom_point(aes(x = IRT, y = norm_freq, color=Subject))+
+  # facet_wrap(~Subject, nrow =5, scales = "free")+
+  geom_smooth(aes(x=IRT, y= norm_freq), method="glm")+
+  theme(legend.position='None',plot.title = element_text(size=22, hjust = 0.5))
+
+ggplot(data = lex_switch_data) + geom_line(aes( x = Item, y = Semantic_Similarity, color = Subject, group = Subject))+
+  facet_wrap(~Subject, nrow = 4, scales = "free")+ 
+  ggtitle(category)+
+  theme(legend.position="none",plot.title = element_text(size=22, hjust = 0.5))
+
+```
+
+

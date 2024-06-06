@@ -1,0 +1,313 @@
+Subject,Fluency_Item,Switch_Value,Switch_Method
+5d7ff4aa50fda7001a863736,broccoli,2,simdrop
+5d7ff4aa50fda7001a863736,are,0,simdrop
+5d7ff4aa50fda7001a863736,carrots,0,simdrop
+5d7ff4aa50fda7001a863736,celery,0,simdrop
+5d7ff4aa50fda7001a863736,cabbage,0,simdrop
+5d7ff4aa50fda7001a863736,brussel sprouts,0,simdrop
+5d7ff4aa50fda7001a863736,asparagus,0,simdrop
+5d7ff4aa50fda7001a863736,peas,0,simdrop
+5d7ff4aa50fda7001a863736,lettuce,1,simdrop
+5d7ff4aa50fda7001a863736,cauliflower,0,simdrop
+5d7ff4aa50fda7001a863736,corn,0,simdrop
+5d7ff4aa50fda7001a863736,eggplant,1,simdrop
+5d7ff4aa50fda7001a863736,cucumber,0,simdrop
+5d7ff4aa50fda7001a863736,potato,0,simdrop
+5d7ff4aa50fda7001a863736,green beans,1,simdrop
+5d7ff4aa50fda7001a863736,spinach,0,simdrop
+5d7ff4aa50fda7001a863736,onion,1,simdrop
+5d7ff4aa50fda7001a863736,garlic,0,simdrop
+5d7ff4aa50fda7001a863736,red bell pepper,1,simdrop
+5d7ff4aa50fda7001a863736,green pepper,0,simdrop
+5d7ff4aa50fda7001a863736,turnips,2,simdrop
+5f5aa60bef062519ff711fe6,cucumber,2,simdrop
+5f5aa60bef062519ff711fe6,carrots,0,simdrop
+5f5aa60bef062519ff711fe6,broccoli,0,simdrop
+5f5aa60bef062519ff711fe6,potatoes,0,simdrop
+5f5aa60bef062519ff711fe6,brussel sprouts,1,simdrop
+5f5aa60bef062519ff711fe6,asparagus,0,simdrop
+5f5aa60bef062519ff711fe6,bok choy,1,simdrop
+5f5aa60bef062519ff711fe6,lettuce,0,simdrop
+5f5aa60bef062519ff711fe6,cauliflower,0,simdrop
+5f5aa60bef062519ff711fe6,green beans,2,simdrop
+60a48adfe091e410f4eaba34,tomatoes,2,simdrop
+60a48adfe091e410f4eaba34,cucumbers,0,simdrop
+60a48adfe091e410f4eaba34,spinach,1,simdrop
+60a48adfe091e410f4eaba34,lettuce,0,simdrop
+60a48adfe091e410f4eaba34,carrots,0,simdrop
+60a48adfe091e410f4eaba34,romaine,1,simdrop
+60a48adfe091e410f4eaba34,peas,0,simdrop
+60a48adfe091e410f4eaba34,corn,0,simdrop
+60a48adfe091e410f4eaba34,broccoli,0,simdrop
+60a48adfe091e410f4eaba34,cauliflower,0,simdrop
+60a48adfe091e410f4eaba34,brussel sprouts,0,simdrop
+60a48adfe091e410f4eaba34,peas,2,simdrop
+60d731567049e5132e3cc4d4,carrots,2,simdrop
+60d731567049e5132e3cc4d4,broccoli,0,simdrop
+60d731567049e5132e3cc4d4,cauliflower,0,simdrop
+60d731567049e5132e3cc4d4,cucumber,1,simdrop
+60d731567049e5132e3cc4d4,zucchini,0,simdrop
+60d731567049e5132e3cc4d4,acorn squash,1,simdrop
+60d731567049e5132e3cc4d4,spaghetti squash,0,simdrop
+60d731567049e5132e3cc4d4,delicata squash,0,simdrop
+60d731567049e5132e3cc4d4,carrots,1,simdrop
+60d731567049e5132e3cc4d4,potatoes,0,simdrop
+60d731567049e5132e3cc4d4,turnips,0,simdrop
+60d731567049e5132e3cc4d4,kale,1,simdrop
+60d731567049e5132e3cc4d4,lettuce,0,simdrop
+60d731567049e5132e3cc4d4,spinach,0,simdrop
+60d731567049e5132e3cc4d4,arugula,0,simdrop
+60d731567049e5132e3cc4d4,red onion,1,simdrop
+60d731567049e5132e3cc4d4,yellow onion,0,simdrop
+60d731567049e5132e3cc4d4,or white onion,0,simdrop
+60d731567049e5132e3cc4d4,scallions,1,simdrop
+60d731567049e5132e3cc4d4,bell pepper,0,simdrop
+60d731567049e5132e3cc4d4,serrano pepper,0,simdrop
+60d731567049e5132e3cc4d4,chili pepper,0,simdrop
+60d731567049e5132e3cc4d4,habanero,0,simdrop
+60d731567049e5132e3cc4d4,broccolini,0,simdrop
+60d731567049e5132e3cc4d4,brussel sprouts,1,simdrop
+60d731567049e5132e3cc4d4,peas,0,simdrop
+60d731567049e5132e3cc4d4,lima beans,0,simdrop
+60d731567049e5132e3cc4d4,corn,0,simdrop
+60d731567049e5132e3cc4d4,water chestnuts,2,simdrop
+63e802622f8052bd67d6c5f0,broccoli,2,simdrop
+63e802622f8052bd67d6c5f0,carrots,0,simdrop
+63e802622f8052bd67d6c5f0,spinach,1,simdrop
+63e802622f8052bd67d6c5f0,lettuce,0,simdrop
+63e802622f8052bd67d6c5f0,tomato,0,simdrop
+63e802622f8052bd67d6c5f0,cauliflower,1,simdrop
+63e802622f8052bd67d6c5f0,celery,0,simdrop
+63e802622f8052bd67d6c5f0,potato,1,simdrop
+63e802622f8052bd67d6c5f0,onion,0,simdrop
+63e802622f8052bd67d6c5f0,cucumber,0,simdrop
+63e802622f8052bd67d6c5f0,pepper,1,simdrop
+63e802622f8052bd67d6c5f0,olives,0,simdrop
+63e802622f8052bd67d6c5f0,mushrooms,2,simdrop
+63ea4ab1ce4168cbe9f63775,broccoli,2,simdrop
+63ea4ab1ce4168cbe9f63775,spinach,0,simdrop
+63ea4ab1ce4168cbe9f63775,kale,0,simdrop
+63ea4ab1ce4168cbe9f63775,romaine lettuce,1,simdrop
+63ea4ab1ce4168cbe9f63775,iceberg lettuce,0,simdrop
+63ea4ab1ce4168cbe9f63775,cabbage,1,simdrop
+63ea4ab1ce4168cbe9f63775,eggplant,0,simdrop
+63ea4ab1ce4168cbe9f63775,zucchini,0,simdrop
+63ea4ab1ce4168cbe9f63775,green bell pepper,1,simdrop
+63ea4ab1ce4168cbe9f63775,red bell pepper,0,simdrop
+63ea4ab1ce4168cbe9f63775,white onion,1,simdrop
+63ea4ab1ce4168cbe9f63775,yellow onion,0,simdrop
+63ea4ab1ce4168cbe9f63775,red onion,0,simdrop
+63ea4ab1ce4168cbe9f63775,spanish onion,0,simdrop
+63ea4ab1ce4168cbe9f63775,carrot,1,simdrop
+63ea4ab1ce4168cbe9f63775,celery,0,simdrop
+63ea4ab1ce4168cbe9f63775,potato,0,simdrop
+63ea4ab1ce4168cbe9f63775,ginger root,0,simdrop
+63ea4ab1ce4168cbe9f63775,peas,1,simdrop
+63ea4ab1ce4168cbe9f63775,cauliflower,0,simdrop
+63ea4ab1ce4168cbe9f63775,corn,0,simdrop
+63ea4ab1ce4168cbe9f63775,asparagus,1,simdrop
+63ea4ab1ce4168cbe9f63775,green beans,0,simdrop
+63ea4ab1ce4168cbe9f63775,artichoke,2,simdrop
+65b15afd94153c1f50c92493,tomato,2,simdrop
+65b15afd94153c1f50c92493,potato,0,simdrop
+65b15afd94153c1f50c92493,parsnip,1,simdrop
+65b15afd94153c1f50c92493,eggplant,0,simdrop
+65b15afd94153c1f50c92493,artichoke,0,simdrop
+65b15afd94153c1f50c92493,cauliflower,0,simdrop
+65b15afd94153c1f50c92493,cabbage,0,simdrop
+65b15afd94153c1f50c92493,asparagus,0,simdrop
+65b15afd94153c1f50c92493,bell peppers,0,simdrop
+65b15afd94153c1f50c92493,kale,0,simdrop
+65b15afd94153c1f50c92493,onion,1,simdrop
+65b15afd94153c1f50c92493,sweet potato,0,simdrop
+65b15afd94153c1f50c92493,brussel sprouts,0,simdrop
+65b15afd94153c1f50c92493,carrot,1,simdrop
+65b15afd94153c1f50c92493,beet,0,simdrop
+65b15afd94153c1f50c92493,spinach,0,simdrop
+65b15afd94153c1f50c92493,pea,0,simdrop
+65b15afd94153c1f50c92493,lettuce,1,simdrop
+65b15afd94153c1f50c92493,coriander,0,simdrop
+65b15afd94153c1f50c92493,zucchini,1,simdrop
+65b15afd94153c1f50c92493,corn,0,simdrop
+65b15afd94153c1f50c92493,pumpkin,1,simdrop
+65b15afd94153c1f50c92493,squash,0,simdrop
+65b15afd94153c1f50c92493,beans,1,simdrop
+65b15afd94153c1f50c92493,bell,0,simdrop
+65b15afd94153c1f50c92493,chilli,1,simdrop
+65b15afd94153c1f50c92493,radish,0,simdrop
+65b15afd94153c1f50c92493,parsley,0,simdrop
+65b15afd94153c1f50c92493,mushroom,2,simdrop
+65c25cf77dca9d7ca7d9ebdb,carrots,2,simdrop
+65c25cf77dca9d7ca7d9ebdb,celery,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,potatoes,1,simdrop
+65c25cf77dca9d7ca7d9ebdb,squash,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,pumpkin,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,coriander,1,simdrop
+65c25cf77dca9d7ca7d9ebdb,basil,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,bean sprouts,1,simdrop
+65c25cf77dca9d7ca7d9ebdb,bok choy,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,red.pepper,1,simdrop
+65c25cf77dca9d7ca7d9ebdb,chile,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,onions,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,leaks,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,radish,1,simdrop
+65c25cf77dca9d7ca7d9ebdb,asparagus,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,spanish lettuce,1,simdrop
+65c25cf77dca9d7ca7d9ebdb,brussel sprouts,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,cabbage,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,peas,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,mushrooms,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,corn,1,simdrop
+65c25cf77dca9d7ca7d9ebdb,chives,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,shallots,2,simdrop
+65cb63e160bb47fbf9349269,broccoli,2,simdrop
+65cb63e160bb47fbf9349269,carrots,0,simdrop
+65cb63e160bb47fbf9349269,lettuce,0,simdrop
+65cb63e160bb47fbf9349269,asparagus,1,simdrop
+65cb63e160bb47fbf9349269,spinach,0,simdrop
+65cb63e160bb47fbf9349269,kale,0,simdrop
+65cb63e160bb47fbf9349269,cabbage,0,simdrop
+65cb63e160bb47fbf9349269,radish,0,simdrop
+65cb63e160bb47fbf9349269,parsley,1,simdrop
+65cb63e160bb47fbf9349269,cilantro,2,simdrop
+65cc19b4b3d48a22dfc6756d,carrots,2,simdrop
+65cc19b4b3d48a22dfc6756d,celery,0,simdrop
+65cc19b4b3d48a22dfc6756d,cucumber,0,simdrop
+65cc19b4b3d48a22dfc6756d,broccoli,1,simdrop
+65cc19b4b3d48a22dfc6756d,spinach,0,simdrop
+65cc19b4b3d48a22dfc6756d,lettuce,1,simdrop
+65cc19b4b3d48a22dfc6756d,cabbage,0,simdrop
+65cc19b4b3d48a22dfc6756d,brussel sprouts,0,simdrop
+65cc19b4b3d48a22dfc6756d,corn,1,simdrop
+65cc19b4b3d48a22dfc6756d,kale,0,simdrop
+65cc19b4b3d48a22dfc6756d,parsley,0,simdrop
+65cc19b4b3d48a22dfc6756d,bok choy,1,simdrop
+65cc19b4b3d48a22dfc6756d,cauliflower,0,simdrop
+65cc19b4b3d48a22dfc6756d,turnips,0,simdrop
+65cc19b4b3d48a22dfc6756d,okra,1,simdrop
+65cc19b4b3d48a22dfc6756d,zucchini,0,simdrop
+65cc19b4b3d48a22dfc6756d,squash,0,simdrop
+65cc19b4b3d48a22dfc6756d,pumpkin,0,simdrop
+65cc19b4b3d48a22dfc6756d,peas,1,simdrop
+65cc19b4b3d48a22dfc6756d,green beans,0,simdrop
+65cc19b4b3d48a22dfc6756d,watercress,2,simdrop
+65d54b3b524fcafb543d1b23,carrots,2,simdrop
+65d54b3b524fcafb543d1b23,cucumbers,0,simdrop
+65d54b3b524fcafb543d1b23,pickles,0,simdrop
+65d54b3b524fcafb543d1b23,apple,0,simdrop
+65d54b3b524fcafb543d1b23,cilantro,1,simdrop
+65d54b3b524fcafb543d1b23,tomatoes,0,simdrop
+65d54b3b524fcafb543d1b23,green pepper,1,simdrop
+65d54b3b524fcafb543d1b23,red pepper,0,simdrop
+65d54b3b524fcafb543d1b23,yellow pepper,0,simdrop
+65d54b3b524fcafb543d1b23,bell peppers,1,simdrop
+65d54b3b524fcafb543d1b23,jalapenos,0,simdrop
+65d54b3b524fcafb543d1b23,bitter melon,1,simdrop
+65d54b3b524fcafb543d1b23,potato,0,simdrop
+65d54b3b524fcafb543d1b23,taro,0,simdrop
+65d54b3b524fcafb543d1b23,green beans,1,simdrop
+65d54b3b524fcafb543d1b23,celery,0,simdrop
+65d54b3b524fcafb543d1b23,spinach,0,simdrop
+65d54b3b524fcafb543d1b23,cabbage,0,simdrop
+65d54b3b524fcafb543d1b23,lettuce,0,simdrop
+65d54b3b524fcafb543d1b23,kale,0,simdrop
+65d54b3b524fcafb543d1b23,radish,1,simdrop
+65d54b3b524fcafb543d1b23,turnip,2,simdrop
+65d6a09286a0c99e632a46dd,celery,2,simdrop
+65d6a09286a0c99e632a46dd,carrots,0,simdrop
+65d6a09286a0c99e632a46dd,green beans,1,simdrop
+65d6a09286a0c99e632a46dd,cabbage,0,simdrop
+65d6a09286a0c99e632a46dd,olives,1,simdrop
+65d6a09286a0c99e632a46dd,peas,0,simdrop
+65d6a09286a0c99e632a46dd,potatoes,0,simdrop
+65d6a09286a0c99e632a46dd,tomatoes,0,simdrop
+65d6a09286a0c99e632a46dd,cucumbers,0,simdrop
+65d6a09286a0c99e632a46dd,pumpkins,1,simdrop
+65d6a09286a0c99e632a46dd,squash,0,simdrop
+65d6a09286a0c99e632a46dd,zucchini,0,simdrop
+65d6a09286a0c99e632a46dd,peas,0,simdrop
+65d6a09286a0c99e632a46dd,beats,0,simdrop
+65d6a09286a0c99e632a46dd,peppers,1,simdrop
+65d6a09286a0c99e632a46dd,spinach,0,simdrop
+65d6a09286a0c99e632a46dd,broccoli,0,simdrop
+65d6a09286a0c99e632a46dd,brussel sprouts,0,simdrop
+65d6a09286a0c99e632a46dd,eggplant,1,simdrop
+65d6a09286a0c99e632a46dd,corn,0,simdrop
+65d6a09286a0c99e632a46dd,asparagus,2,simdrop
+65e1f75ab3efd22e847cfbf0,cucumber,2,simdrop
+65e1f75ab3efd22e847cfbf0,broccoli,0,simdrop
+65e1f75ab3efd22e847cfbf0,cauliflower,0,simdrop
+65e1f75ab3efd22e847cfbf0,corn,1,simdrop
+65e1f75ab3efd22e847cfbf0,okra,0,simdrop
+65e1f75ab3efd22e847cfbf0,green beans,1,simdrop
+65e1f75ab3efd22e847cfbf0,asparagus,0,simdrop
+65e1f75ab3efd22e847cfbf0,squash,0,simdrop
+65e1f75ab3efd22e847cfbf0,eggplant,0,simdrop
+65e1f75ab3efd22e847cfbf0,broccoli,1,simdrop
+65e1f75ab3efd22e847cfbf0,brussel sprouts,0,simdrop
+65e1f75ab3efd22e847cfbf0,peas,1,simdrop
+65e1f75ab3efd22e847cfbf0,carrots,2,simdrop
+65e358d9c5e3ee026268b2a7,carrots,2,simdrop
+65e358d9c5e3ee026268b2a7,green beans,0,simdrop
+65e358d9c5e3ee026268b2a7,celery,1,simdrop
+65e358d9c5e3ee026268b2a7,potatoes,0,simdrop
+65e358d9c5e3ee026268b2a7,lettuce,1,simdrop
+65e358d9c5e3ee026268b2a7,corn,0,simdrop
+65e358d9c5e3ee026268b2a7,avocados,1,simdrop
+65e358d9c5e3ee026268b2a7,peppers,0,simdrop
+65e358d9c5e3ee026268b2a7,bell peppers,0,simdrop
+65e358d9c5e3ee026268b2a7,chili peppers,0,simdrop
+65e358d9c5e3ee026268b2a7,radishes,1,simdrop
+65e358d9c5e3ee026268b2a7,onions,0,simdrop
+65e358d9c5e3ee026268b2a7,eggplant,1,simdrop
+65e358d9c5e3ee026268b2a7,broccoli,0,simdrop
+65e358d9c5e3ee026268b2a7,beats,0,simdrop
+65e358d9c5e3ee026268b2a7,cauliflower,1,simdrop
+65e358d9c5e3ee026268b2a7,sweet potato,0,simdrop
+65e358d9c5e3ee026268b2a7,mushrooms,1,simdrop
+65e358d9c5e3ee026268b2a7,spinach,0,simdrop
+65e358d9c5e3ee026268b2a7,kale,0,simdrop
+65e358d9c5e3ee026268b2a7,mixed greens,0,simdrop
+65e358d9c5e3ee026268b2a7,asparagus,1,simdrop
+65e358d9c5e3ee026268b2a7,green onion,2,simdrop
+65e862f844f1b7a803bb3c5a,broccoli,2,simdrop
+65e862f844f1b7a803bb3c5a,cucumber,0,simdrop
+65e862f844f1b7a803bb3c5a,celery,0,simdrop
+65e862f844f1b7a803bb3c5a,spring onion,0,simdrop
+65e862f844f1b7a803bb3c5a,carrots,1,simdrop
+65e862f844f1b7a803bb3c5a,turnip,0,simdrop
+65e862f844f1b7a803bb3c5a,capsicum,1,simdrop
+65e862f844f1b7a803bb3c5a,onion,0,simdrop
+65e862f844f1b7a803bb3c5a,green peas,1,simdrop
+65e862f844f1b7a803bb3c5a,cauliflower,0,simdrop
+65e862f844f1b7a803bb3c5a,cabbage,0,simdrop
+65e862f844f1b7a803bb3c5a,beetroot,0,simdrop
+65e862f844f1b7a803bb3c5a,mushroom,1,simdrop
+65e862f844f1b7a803bb3c5a,spinach,0,simdrop
+65e862f844f1b7a803bb3c5a,corn,0,simdrop
+65e862f844f1b7a803bb3c5a,drumstick,0,simdrop
+65e862f844f1b7a803bb3c5a,zucchini,0,simdrop
+65e862f844f1b7a803bb3c5a,broad beans ,1,simdrop
+65e862f844f1b7a803bb3c5a,radish,0,simdrop
+65e862f844f1b7a803bb3c5a,snake beans,0,simdrop
+65e862f844f1b7a803bb3c5a,bottle gourd,1,simdrop
+65e862f844f1b7a803bb3c5a,green papaya.,0,simdrop
+65e862f844f1b7a803bb3c5a,ivy gourd,0,simdrop
+65e862f844f1b7a803bb3c5a,snake gourd,0,simdrop
+65e862f844f1b7a803bb3c5a,garlic,1,simdrop
+65e862f844f1b7a803bb3c5a,cabbage,0,simdrop
+65e862f844f1b7a803bb3c5a,cauliflower,0,simdrop
+65e862f844f1b7a803bb3c5a,carrots,0,simdrop
+65e862f844f1b7a803bb3c5a,celeriac,0,simdrop
+65e862f844f1b7a803bb3c5a,spinach,1,simdrop
+65e862f844f1b7a803bb3c5a,cabbage,0,simdrop
+65e862f844f1b7a803bb3c5a,lettuce,0,simdrop
+65e862f844f1b7a803bb3c5a,onion,0,simdrop
+65e862f844f1b7a803bb3c5a,ginger,0,simdrop
+65e862f844f1b7a803bb3c5a,potato,1,simdrop
+65e862f844f1b7a803bb3c5a,pepper,0,simdrop
+65e862f844f1b7a803bb3c5a,cucumber,0,simdrop
+65e862f844f1b7a803bb3c5a,pumpkin,0,simdrop
+65e862f844f1b7a803bb3c5a,kiwi,0,simdrop
+65e862f844f1b7a803bb3c5a,eggplants,0,simdrop
+65e862f844f1b7a803bb3c5a,corn,2,simdrop

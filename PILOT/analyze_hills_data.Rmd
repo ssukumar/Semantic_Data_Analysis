@@ -1,0 +1,146 @@
+---
+title: "analyze_hills_data"
+output: html_document
+date: "2024-06-04"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+data_dir = 'DATA/Hills'
+folder_hills = "psyrev_data_forager_results"
+library(ggplot2)
+library(dplyr)
+library(ecp)
+library(EnvCpt)
+
+```
+
+## Obtain semantic similarity and frequency  
+
+Read in the relevant .csv file for analysis
+
+```{r lexical}
+
+dir = file.path(data_dir, folder_hills)
+lexical_fn= 'lexical_results.csv'
+switch_fn = 'switch_results.csv'
+lexical_file = file.path(dir, lexical_fn)
+
+lexical_data = read.csv(lexical_file)
+
+lexical_data = lexical_data %>% group_by(Subject) %>% mutate(Item = row_number())
+
+switch_file = file.path(dir, switch_fn)
+
+switch_data = read.csv(switch_file)
+switch_data = switch_data %>% group_by(Subject) %>% mutate(Item = row_number())
+
+lex_switch_data = merge(lexical_data, switch_data, by = c("Subject", "Fluency_Item","Item"))
+
+lex_switch_data = lex_switch_data %>% mutate(switch_intercept = ifelse(Switch_Value==1, Item, 0))
+
+```
+
+# test where the switches occur with simdrop on frequency and semantic similarity matrix
+
+```{r}
+ggplot(data = lex_switch_data) + geom_line(aes( x = Item, y = Frequency_Value, color = Subject, group = Subject))+
+  facet_wrap(~Subject, scales = "free")+ 
+  geom_vline(aes(xintercept = switch_intercept), linetype='dashed')+
+  ggtitle("ANIMALS")+
+  theme(legend.position="none",plot.title = element_text(size=22, hjust = 0.5))
+
+
+ggplot(data = lex_switch_data) + geom_line(aes( x = Item, y = Semantic_Similarity, color = Subject, group = Subject))+
+  facet_wrap(~Subject, scales = "free")+ 
+  geom_vline(aes(xintercept = switch_intercept), linetype='dashed')+
+  ggtitle("ANIMALS")+
+  theme(legend.position="none",plot.title = element_text(size=22, hjust = 0.5))
+
+```
+
+## Split subjects into manageable chunks to each facet
+
+```{r}
+subject_list = unique(lex_switch_data$Subject)
+subjects_chunks = split(subject_list, cut(seq_along(subject_list), 10, labels=FALSE))
+
+for (subj_list in subjects_chunks){
+  
+  subset_dat = lex_switch_data %>% filter(Subject %in% subj_list)
+  print(ggplot(data = subset_dat) + geom_line(aes( x = Item, y = Semantic_Similarity, color = Subject, group = Subject))+
+    facet_wrap(~Subject, scales = "free")+ 
+    geom_vline(aes(xintercept = switch_intercept), linetype='dashed')+
+    ggtitle("ANIMALS")+
+    theme(legend.position="none",plot.title = element_text(size=22, hjust = 0.5)) )
+}
+
+```
+
+Averaging frequency over all subjects 
+
+```{r}
+
+lexical_data = lexical_data %>% group_by(Subject) %>% mutate(frequency = 10^(Frequency_Value), norm_freq = frequency/ mean(frequency, na.rm = TRUE))
+
+lex_filter_outliers = lexical_data %>% group_by(Item) %>% filter((norm_freq < 2 *sd(norm_freq) + mean(norm_freq)))
+
+lex_avg_subj_outl_freq = lex_filter_outliers %>% group_by(Item) %>% summarise(mean_norm_freq = mean(norm_freq), sd_norm_freq = sd(norm_freq))
+
+lex_avg_subj_outl_freq = lex_avg_subj_outl_freq %>% mutate(norm_freq_min = mean_norm_freq - sd_norm_freq, norm_freq_max = mean_norm_freq + sd_norm_freq)
+
+ggplot(data=lex_avg_subj_outl_freq) + geom_line(aes(x = Item, y = mean_norm_freq))+
+  geom_errorbar(aes(x = Item, ymin = norm_freq_min, ymax = norm_freq_max))+
+  ggtitle(category)+
+  theme(legend.position="none",plot.title = element_text(size=22, hjust = 0.5))
+```
+Averaging similarity over all subjects 
+
+```{r}
+
+lexical_data = lexical_data %>% group_by(Subject) %>% mutate(norm_ss = Semantic_Similarity/ mean(Semantic_Similarity, na.rm = TRUE))
+
+lex_filter_outliers = lexical_data %>% group_by(Item) %>% filter((Semantic_Similarity < 2 *sd(Semantic_Similarity) + mean(Semantic_Similarity)), (norm_ss < 2 *sd(norm_ss) + mean(norm_ss)))
+
+lex_avg_subj_outl_freq = lex_filter_outliers %>% group_by(Item) %>% summarise(mean_Semantic_Similarity = mean(Semantic_Similarity), sd_Semantic_Similarity = sd(Semantic_Similarity), mean_norm_ss = mean(norm_ss), sd_norm_ss = sd(norm_ss))
+
+lex_avg_subj_outl_freq = lex_avg_subj_outl_freq %>% mutate(norm_ss_min = mean_norm_ss - sd_norm_ss, norm_ss_max = mean_norm_ss + sd_norm_ss)
+
+ggplot(data=lex_avg_subj_outl_freq) + geom_line(aes(x = Item, y = mean_norm_ss))+
+  geom_errorbar(aes(x = Item, ymin = norm_ss_min, ymax = norm_ss_max))+
+  ggtitle("ANIMALS")+
+  theme(legend.position="none",plot.title = element_text(size=22, hjust = 0.5))
+```
+## Split subjects into manageable chunks to each facet
+
+```{r}
+lex_switch_data = lex_switch_data %>% group_by(Subject) %>% mutate(norm_ss = Semantic_Similarity/ mean(Semantic_Similarity))
+
+subject_list = unique(lex_switch_data$Subject)
+subjects_chunks = split(subject_list, cut(seq_along(subject_list), 10, labels=FALSE))
+
+for (subj_list in subjects_chunks){
+  
+  subset_dat = lex_switch_data %>% filter(Subject %in% subj_list)
+  print(ggplot(data = subset_dat) + geom_line(aes( x = Item, y = norm_ss, color = Subject, group = Subject))+
+    facet_wrap(~Subject, scales = "free")+ 
+    geom_vline(aes(xintercept = switch_intercept), linetype='dashed')+
+    ggtitle("ANIMALS")+
+    theme(legend.position="none",plot.title = element_text(size=22, hjust = 0.5)) )
+}
+
+```
+
+Correlating subject efficiency (number of words) with mean cluster size
+
+```{r}
+
+stats_fn = "individual_descriptive_stats.csv"
+stats_file = file.path(dir, stats_fn)
+stats_data = read.csv(stats_file)
+
+ggplot(data= stats_data) + geom_point(aes(x = X._of_Items, y = Cluster_Size_mean))+
+  theme_classic()
+
+```
+

@@ -1,0 +1,74 @@
+SID,entry,evaluation,replacement
+61035836646fb6ee2152f950,food,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,seeds,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,roses,REPLACE,rose
+61035836646fb6ee2152f950,Lilies,REPLACE,iris
+61035836646fb6ee2152f950,tulips,REPLACE,tulip
+61035836646fb6ee2152f950,peonies,REPLACE,peony
+61035836646fb6ee2152f950,daffodils,REPLACE,daffodil
+61035836646fb6ee2152f950,sunflower,FOUND,sunflower
+61035836646fb6ee2152f950,bouquet,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,stems,REPLACE,asters
+61035836646fb6ee2152f950,thorns,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,fertilizer,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,petal,REPLACE,petunia
+61035836646fb6ee2152f950,bloom,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,arrangement,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,baby's breath,FOUND,baby's breath
+61035836646fb6ee2152f950,lavender,FOUND,lavender
+65512e3cc12f463bc327b7c3,Rose,REPLACE,rose
+65512e3cc12f463bc327b7c3,carnation,FOUND,carnation
+65512e3cc12f463bc327b7c3,Daisy,REPLACE,daisy
+65512e3cc12f463bc327b7c3,sunflower,FOUND,sunflower
+65512e3cc12f463bc327b7c3,tulip,FOUND,tulip
+65512e3cc12f463bc327b7c3,daffodil,FOUND,daffodil
+65512e3cc12f463bc327b7c3,marigold,FOUND,marigold
+65512e3cc12f463bc327b7c3,Orchid,REPLACE,orchid
+65512e3cc12f463bc327b7c3,Lily,REPLACE,lily
+65512e3cc12f463bc327b7c3,Azalea,REPLACE,azalea
+65512e3cc12f463bc327b7c3,carnation,FOUND,carnation
+65512e3cc12f463bc327b7c3,marigold,FOUND,marigold
+65512e3cc12f463bc327b7c3,violet,FOUND,violet
+65512e3cc12f463bc327b7c3,geranium,EXCLUDE,EXCLUDE
+65512e3cc12f463bc327b7c3,petunia,FOUND,petunia
+65512e3cc12f463bc327b7c3,buttercup,EXCLUDE,EXCLUDE
+65512e3cc12f463bc327b7c3,pansy,FOUND,pansy
+65778c02cde55736bb830eca,tulips,REPLACE,tulip
+65778c02cde55736bb830eca,poppies,REPLACE,poppy
+65778c02cde55736bb830eca,Lillies,EXCLUDE,EXCLUDE
+65778c02cde55736bb830eca,roses,REPLACE,rose
+65778c02cde55736bb830eca,sunflowers,REPLACE,sunflower
+65778c02cde55736bb830eca,Dandelions,EXCLUDE,EXCLUDE
+65778c02cde55736bb830eca,black-eyed Susans,REPLACE,black-eyed susan
+65778c02cde55736bb830eca,birds of paradise,EXCLUDE,EXCLUDE
+65778c02cde55736bb830eca,baby's breath,FOUND,baby's breath
+65778c02cde55736bb830eca,Peonies,EXCLUDE,EXCLUDE
+65778c02cde55736bb830eca,orchids,REPLACE,orchid
+65778c02cde55736bb830eca,daisies,REPLACE,daisy
+6595e3b4dc9090390e4edb5f,Roses,REPLACE,rose
+6595e3b4dc9090390e4edb5f,Daisies,REPLACE,asters
+6595e3b4dc9090390e4edb5f,Lilies,REPLACE,iris
+6595e3b4dc9090390e4edb5f,Peonies,EXCLUDE,EXCLUDE
+6595e3b4dc9090390e4edb5f,lavender,FOUND,lavender
+6595e3b4dc9090390e4edb5f,sunflower,FOUND,sunflower
+6595e3b4dc9090390e4edb5f,daffodil,FOUND,daffodil
+6595e3b4dc9090390e4edb5f,Irises,REPLACE,rose
+6595e3b4dc9090390e4edb5f,Margold,REPLACE,marigold
+6595e3b4dc9090390e4edb5f,Orchid,REPLACE,orchid
+6595e3b4dc9090390e4edb5f,Lilac,REPLACE,viola
+6595e3b4dc9090390e4edb5f,carnation,FOUND,carnation
+6595e3b4dc9090390e4edb5f,tulips,REPLACE,tulip
+6595e3b4dc9090390e4edb5f,cherry blossoms,EXCLUDE,EXCLUDE
+6595e3b4dc9090390e4edb5f,Plumeria,EXCLUDE,EXCLUDE
+6595e3b4dc9090390e4edb5f,gardenia,FOUND,gardenia
+6595e3b4dc9090390e4edb5f,Lotus,EXCLUDE,EXCLUDE
+6595e3b4dc9090390e4edb5f,honeysuckle,EXCLUDE,EXCLUDE
+6595e3b4dc9090390e4edb5f,Blue Bells,REPLACE,bluebell
+6595e3b4dc9090390e4edb5f,hydrangea,FOUND,hydrangea
+6595e3b4dc9090390e4edb5f,Poppy,REPLACE,poppy
+6595e3b4dc9090390e4edb5f,Jasmine,REPLACE,jasmine
+6595e3b4dc9090390e4edb5f,dahlias,REPLACE,dahlia
+6595e3b4dc9090390e4edb5f,Hibiscus,REPLACE,hibiscus
+6595e3b4dc9090390e4edb5f,forget-me-not,FOUND,forget-me-not
+6595e3b4dc9090390e4edb5f,snowdrops,REPLACE,snowdrop
+6595e3b4dc9090390e4edb5f,bird of paradise,EXCLUDE,EXCLUDE

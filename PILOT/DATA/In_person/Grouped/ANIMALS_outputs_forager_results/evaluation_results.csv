@@ -1,0 +1,242 @@
+SID,entry,evaluation,replacement
+787646,Pig,REPLACE,pig
+787646,Turtles,REPLACE,turtle
+787646,squirrel,FOUND,squirrel
+787646,bird,FOUND,bird
+787646,owl,FOUND,owl
+787646,Panda,REPLACE,panda
+787646,koala,FOUND,koala
+787646,giraffe,FOUND,giraffe
+787646,hippo,FOUND,hippo
+787646,dog,FOUND,dog
+787646,cat,FOUND,cat
+787646,snail,FOUND,snail
+787646,worm,FOUND,worm
+787646,kangaroo,FOUND,kangaroo
+787646,monkey,FOUND,monkey
+787646,dolphin,FOUND,dolphin
+787646,shark,FOUND,shark
+787646,fish,FOUND,fish
+787646,seagull,FOUND,seagull
+787646,tiger,FOUND,tiger
+787646,gorilla,FOUND,gorilla
+787646,hamster,FOUND,hamster
+787646,slug,FOUND,slug
+787646,bear,FOUND,bear
+787646,deer,FOUND,deer
+787646,elk,FOUND,elk
+787646,goat,FOUND,goat
+787646,snake,FOUND,snake
+787646,lizard,FOUND,lizard
+787646,penguin,FOUND,penguin
+787646,mouse,FOUND,mouse
+787646,rat,FOUND,rat
+787646,butterfly,FOUND,butterfly
+787646,caterpillar,FOUND,caterpillar
+547183,animals,REPLACE,mammal
+547183,lion,FOUND,lion
+547183,Monkey,REPLACE,monkey
+547183,tiger,FOUND,tiger
+547183,zebra,FOUND,zebra
+547183,whale,FOUND,whale
+547183,dolphin,FOUND,dolphin
+547183,Bass,REPLACE,ass
+547183,octopus,FOUND,octopus
+547183,squid,FOUND,squid
+547183,sea,REPLACE,seal
+547183,urchin,FOUND,urchin
+547183,alligator,FOUND,alligator
+547183,it will,REPLACE,pit bull
+547183,fly,FOUND,fly
+547183,through,REPLACE,thrush
+547183,Trevor,REPLACE,remora
+547183,Dalmatian,REPLACE,dalmatian
+547183,cat,FOUND,cat
+547183,platypus,FOUND,platypus
+547183,zebra,FOUND,zebra
+547183,zebra,FOUND,zebra
+547183,orangutan,FOUND,orangutan
+547183,gorilla,FOUND,gorilla
+547183,quail,FOUND,quail
+547183,Hawk,REPLACE,hawk
+547183,bald eagle,FOUND,bald eagle
+547183,parrot,FOUND,parrot
+547183,walrus,FOUND,walrus
+547183,rhino,FOUND,rhino
+547183,giraffe,FOUND,giraffe
+547183,she already,EXCLUDE,EXCLUDE
+547183,said,REPLACE,shad
+547183,shark,FOUND,shark
+547183,goldfish,FOUND,goldfish
+547183,starfish,FOUND,starfish
+898793,okay,REPLACE,okapi
+898793,and,REPLACE,panda
+898793,monkey,FOUND,monkey
+898793,gorilla,FOUND,gorilla
+898793,a lion and,EXCLUDE,EXCLUDE
+898793,a,EXCLUDE,EXCLUDE
+898793,cougar,FOUND,cougar
+898793,tiger,FOUND,tiger
+898793,cat,FOUND,cat
+898793,Puma,REPLACE,puma
+898793,dog and,EXCLUDE,EXCLUDE
+898793,a,EXCLUDE,EXCLUDE
+898793,wolf,FOUND,wolf
+898793,hey,REPLACE,hen
+898793,they're,EXCLUDE,EXCLUDE
+898793,like a,REPLACE,kea
+898793,brown,REPLACE,bronc
+898793,bear,FOUND,bear
+898793,or a,REPLACE,orca
+898793,polar,FOUND,polar
+898793,bear,FOUND,bear
+898793,or a,REPLACE,orca
+898793,black bear,FOUND,black bear
+898793,birds,REPLACE,bird
+898793,so,REPLACE,sow
+898793,I'll,EXCLUDE,EXCLUDE
+898793,say,REPLACE,saury
+898793,another black,EXCLUDE,EXCLUDE
+898793,birds,REPLACE,bird
+898793,crows,REPLACE,crow
+898793,Ravens,REPLACE,raven
+898793,parents,REPLACE,parakeet
+898793,Ravens,REPLACE,raven
+898793,not going to,EXCLUDE,EXCLUDE
+898793,have all,REPLACE,veal
+898793,of them,EXCLUDE,EXCLUDE
+898793,Joseph,REPLACE,opah
+898793,we can,REPLACE,pelican
+898793,talk about,EXCLUDE,EXCLUDE
+898793,animals that,EXCLUDE,EXCLUDE
+898793,used to,REPLACE,sled dog
+898793,exist,EXCLUDE,EXCLUDE
+898793,dinosaurs,FOUND,dinosaurs
+898793,technically,EXCLUDE,EXCLUDE
+898793,like,REPLACE,pike
+898793,crocodiles,REPLACE,crocodile
+898793,or,REPLACE,worm
+898793,alligators like,EXCLUDE,EXCLUDE
+898793,fish so,REPLACE,fish
+898793,Philadelphia,EXCLUDE,EXCLUDE
+898793,Fish,REPLACE,fish
+898793,in general,EXCLUDE,EXCLUDE
+898793,and then,REPLACE,panther
+898793,sharks,REPLACE,shark
+898793,I guess,EXCLUDE,EXCLUDE
+898793,and,REPLACE,panda
+898793,dolphins,REPLACE,dolphin
+898793,I think,EXCLUDE,EXCLUDE
+898793,those are,EXCLUDE,EXCLUDE
+898793,technically,EXCLUDE,EXCLUDE
+898793,fish,FOUND,fish
+898793,I'm,EXCLUDE,EXCLUDE
+898793,not sure,EXCLUDE,EXCLUDE
+898793,though,REPLACE,chough
+898793,frogs,REPLACE,frog
+898793,and,REPLACE,panda
+898793,toads,REPLACE,toad
+898793,I think,EXCLUDE,EXCLUDE
+898793,clams,REPLACE,clam
+898793,and,REPLACE,panda
+898793,oysters,FOUND,oysters
+898793,are,REPLACE,mare
+898793,technically,EXCLUDE,EXCLUDE
+898793,fish,FOUND,fish
+898793,and,REPLACE,panda
+898793,lobster,FOUND,lobster
+898793,and,REPLACE,panda
+898793,shrimp,FOUND,shrimp
+898793,and,REPLACE,panda
+898793,scallops,REPLACE,scallop
+898793,and,REPLACE,panda
+898793,are there,EXCLUDE,EXCLUDE
+898793,pets,REPLACE,tsetse
+898793,bunnies,REPLACE,bunny
+898793,for like,EXCLUDE,EXCLUDE
+898793,rabbits,REPLACE,rabbit
+898793,sheep,FOUND,sheep
+898793,pigs,REPLACE,pig
+610108,alligator,FOUND,alligator
+610108,crocodile,FOUND,crocodile
+610108,Rhino,REPLACE,rhino
+610108,giraffe,FOUND,giraffe
+610108,panda,FOUND,panda
+610108,dog,FOUND,dog
+610108,cat,FOUND,cat
+610108,bunny,FOUND,bunny
+610108,rabbit,FOUND,rabbit
+610108,lion,FOUND,lion
+610108,mountain,REPLACE,mountain cat
+610108,lion,FOUND,lion
+610108,jaguar,FOUND,jaguar
+610108,cheetah,FOUND,cheetah
+610108,bird,FOUND,bird
+610108,eagle,FOUND,eagle
+610108,Crow,REPLACE,crow
+610108,pigeon,FOUND,pigeon
+610108,Hawk,REPLACE,hawk
+610108,vulture,FOUND,vulture
+610108,Nightingale,REPLACE,nightingale
+610108,parrot,FOUND,parrot
+610108,cockatoo,FOUND,cockatoo
+610108,rat,FOUND,rat
+610108,rodent,FOUND,rodent
+610108,skunk,FOUND,skunk
+610108,opossum,FOUND,opossum
+610108,Fox,REPLACE,ox
+610108,raccoon,FOUND,raccoon
+610108,Mouse,REPLACE,mouse
+610108,chipmunk,FOUND,chipmunk
+610108,squirrel,FOUND,squirrel
+610108,wolf,FOUND,wolf
+610108,hyena,FOUND,hyena
+610108,bear,FOUND,bear
+610108,brown,REPLACE,bronc
+610108,bear,FOUND,bear
+610108,black bear,FOUND,black bear
+610108,polar,FOUND,polar
+610108,bear,FOUND,bear
+610108,sea,REPLACE,seal
+610108,animals,REPLACE,mammal
+610108,dolphin,FOUND,dolphin
+610108,shark,FOUND,shark
+610108,whale,FOUND,whale
+610108,jellyfish,FOUND,jellyfish
+610108,seahorse,FOUND,seahorse
+610108,horse,FOUND,horse
+610108,pig,FOUND,pig
+610108,cow,FOUND,cow
+610108,chicken,FOUND,chicken
+920371,dog,FOUND,dog
+920371,cat,FOUND,cat
+920371,monkey,FOUND,monkey
+920371,steak,REPLACE,stag
+920371,hamster,FOUND,hamster
+920371,guinea,REPLACE,guineafowl
+920371,pig,FOUND,pig
+920371,right,EXCLUDE,EXCLUDE
+920371,elephants,REPLACE,elephant
+920371,giraffe,FOUND,giraffe
+920371,hippo,FOUND,hippo
+920371,rhinoceros,FOUND,rhinoceros
+920371,flamingo,FOUND,flamingo
+920371,camel,FOUND,camel
+920371,toad,FOUND,toad
+920371,frog,FOUND,frog
+920371,whale,FOUND,whale
+920371,Stingray,REPLACE,stingray
+920371,octopus,FOUND,octopus
+920371,squid,FOUND,squid
+920371,starfish,FOUND,starfish
+920371,crabs,REPLACE,crab
+920371,squirrels,REPLACE,squirrel
+920371,Chipmunks,REPLACE,chipmunk
+920371,rabbits,REPLACE,rabbit
+920371,Harris,EXCLUDE,EXCLUDE
+920371,Turtles,REPLACE,turtle
+920371,tortoise,FOUND,tortoise
+920371,gorilla,FOUND,gorilla
+920371,or,REPLACE,worm
+920371,chimpanzee,FOUND,chimpanzee
+920371,people,REPLACE,poodle

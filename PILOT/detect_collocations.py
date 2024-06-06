@@ -21,7 +21,7 @@ def identify_ngrams(word_list):
     brown_words = brown.words()
 
     # Create a BigramCollocationFinder object with the Brown Corpus
-    finder = BigramCollocationFinder.from_words(brown_words)
+    finder = BigramCollocationFinder.from_words(webtext.words())
     print(finder)
 
     # Filter bigrams to only include those present in the given word list
@@ -40,7 +40,7 @@ def identify_ngrams(word_list):
     print(bigram_freq_ranking)
     
     # Obtain trigrams in descending order of frequency of occurence 
-    tcf = TrigramCollocationFinder.from_words(brown_words)
+    tcf = TrigramCollocationFinder.from_words(webtext.words())
     tcf.apply_word_filter(lambda w: w.lower() not in word_list)
     # tcf.apply_freq_filter(3)
     trigram_freq_ranking = sorted(tcf.ngram_fd.keys(), key=lambda item: item[1], reverse=True)
@@ -48,7 +48,7 @@ def identify_ngrams(word_list):
     print(trigram_list)
     
     # Obtain quadgrams in descending order of frequency of occurence 
-    qcf = QuadgramCollocationFinder.from_words(brown_words)
+    qcf = QuadgramCollocationFinder.from_words(webtext.words())
     qcf.apply_word_filter(lambda w: w.lower() not in word_list)
     # qcf.apply_freq_filter(1)
     quadgram_freq_ranking = sorted(qcf.ngram_fd.keys(), key=lambda item: item[1], reverse=True)

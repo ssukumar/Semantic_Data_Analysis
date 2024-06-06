@@ -1,0 +1,432 @@
+Subject,Fluency_Item,Switch_Value,Switch_Method
+5d7ff4aa50fda7001a863736,doctor,2,simdrop
+5d7ff4aa50fda7001a863736,teacher,0,simdrop
+5d7ff4aa50fda7001a863736,lawyer,0,simdrop
+5d7ff4aa50fda7001a863736,nurse,1,simdrop
+5d7ff4aa50fda7001a863736,cashier,0,simdrop
+5d7ff4aa50fda7001a863736,engineer,0,simdrop
+5d7ff4aa50fda7001a863736,librarian,1,simdrop
+5d7ff4aa50fda7001a863736,scientist,0,simdrop
+5d7ff4aa50fda7001a863736,dentist,1,simdrop
+5d7ff4aa50fda7001a863736,chef,0,simdrop
+5d7ff4aa50fda7001a863736,waitress,0,simdrop
+5d7ff4aa50fda7001a863736,limo driver,1,simdrop
+5d7ff4aa50fda7001a863736,taxi driver,0,simdrop
+5d7ff4aa50fda7001a863736,bus driver,0,simdrop
+5d7ff4aa50fda7001a863736,airline pilot,0,simdrop
+5d7ff4aa50fda7001a863736,captain of a ship,0,simdrop
+5d7ff4aa50fda7001a863736,actor,0,simdrop
+5d7ff4aa50fda7001a863736,or,0,simdrop
+5d7ff4aa50fda7001a863736,actress,1,simdrop
+5d7ff4aa50fda7001a863736,politician,0,simdrop
+5d7ff4aa50fda7001a863736,artist,0,simdrop
+5d7ff4aa50fda7001a863736,police officer,1,simdrop
+5d7ff4aa50fda7001a863736,mailman,0,simdrop
+5d7ff4aa50fda7001a863736,bartender,1,simdrop
+5d7ff4aa50fda7001a863736,accountant,0,simdrop
+5d7ff4aa50fda7001a863736,architect,0,simdrop
+5d7ff4aa50fda7001a863736,firefighter,0,simdrop
+5d7ff4aa50fda7001a863736,gardener,1,simdrop
+5d7ff4aa50fda7001a863736,farmer,0,simdrop
+5d7ff4aa50fda7001a863736,zookeeper,1,simdrop
+5d7ff4aa50fda7001a863736,astronaut,2,simdrop
+5f5aa60bef062519ff711fe6,doctor,2,simdrop
+5f5aa60bef062519ff711fe6,lawyer,0,simdrop
+5f5aa60bef062519ff711fe6,accountant,0,simdrop
+5f5aa60bef062519ff711fe6,transcriptionist,0,simdrop
+5f5aa60bef062519ff711fe6,translator,0,simdrop
+5f5aa60bef062519ff711fe6,engineer,0,simdrop
+5f5aa60bef062519ff711fe6,electrica engineerl,1,simdrop
+5f5aa60bef062519ff711fe6,mechanical engineer,0,simdrop
+5f5aa60bef062519ff711fe6,civil engineer,0,simdrop
+5f5aa60bef062519ff711fe6,attorney,0,simdrop
+5f5aa60bef062519ff711fe6,/,0,simdrop
+5f5aa60bef062519ff711fe6,lawyer,1,simdrop
+5f5aa60bef062519ff711fe6,public defender,0,simdrop
+5f5aa60bef062519ff711fe6,judge,0,simdrop
+5f5aa60bef062519ff711fe6,security guard,1,simdrop
+5f5aa60bef062519ff711fe6,police officer,0,simdrop
+5f5aa60bef062519ff711fe6,mall cop,0,simdrop
+5f5aa60bef062519ff711fe6,cashier,0,simdrop
+5f5aa60bef062519ff711fe6,baker,1,simdrop
+5f5aa60bef062519ff711fe6,salesman,0,simdrop
+5f5aa60bef062519ff711fe6,computer scientist,1,simdrop
+5f5aa60bef062519ff711fe6,it specialist,0,simdrop
+5f5aa60bef062519ff711fe6,courier,1,simdrop
+5f5aa60bef062519ff711fe6,nurse,0,simdrop
+5f5aa60bef062519ff711fe6,surgeon,0,simdrop
+5f5aa60bef062519ff711fe6,lab tech,1,simdrop
+5f5aa60bef062519ff711fe6,receptionist,0,simdrop
+5f5aa60bef062519ff711fe6,general,1,simdrop
+5f5aa60bef062519ff711fe6,manager,0,simdrop
+5f5aa60bef062519ff711fe6,analyst,0,simdrop
+5f5aa60bef062519ff711fe6,content creator,2,simdrop
+60a48adfe091e410f4eaba34,construction,2,simdrop
+60a48adfe091e410f4eaba34,manager,0,simdrop
+60a48adfe091e410f4eaba34,retail sales,1,simdrop
+60a48adfe091e410f4eaba34,tech,0,simdrop
+60a48adfe091e410f4eaba34,engineering,0,simdrop
+60a48adfe091e410f4eaba34,physical therapist,1,simdrop
+60a48adfe091e410f4eaba34,doctor,0,simdrop
+60a48adfe091e410f4eaba34,occupational therapist,1,simdrop
+60a48adfe091e410f4eaba34,physician's assistant,0,simdrop
+60a48adfe091e410f4eaba34,laborer,1,simdrop
+60a48adfe091e410f4eaba34,auditor,0,simdrop
+60a48adfe091e410f4eaba34,auctioneer,0,simdrop
+60a48adfe091e410f4eaba34,real estate agent,1,simdrop
+60a48adfe091e410f4eaba34,leasing manager,0,simdrop
+60a48adfe091e410f4eaba34,office worker,1,simdrop
+60a48adfe091e410f4eaba34,veterinarian,0,simdrop
+60a48adfe091e410f4eaba34,transporter,1,simdrop
+60a48adfe091e410f4eaba34,rideshare worker,0,simdrop
+60a48adfe091e410f4eaba34,food delivery,2,simdrop
+60d731567049e5132e3cc4d4,surgeon,2,simdrop
+60d731567049e5132e3cc4d4,pediatrician,0,simdrop
+60d731567049e5132e3cc4d4,lawyer,1,simdrop
+60d731567049e5132e3cc4d4,scientist,0,simdrop
+60d731567049e5132e3cc4d4,plumber,1,simdrop
+60d731567049e5132e3cc4d4,carpenter,0,simdrop
+60d731567049e5132e3cc4d4,electrician,0,simdrop
+60d731567049e5132e3cc4d4,botanist,0,simdrop
+60d731567049e5132e3cc4d4,gardner,0,simdrop
+60d731567049e5132e3cc4d4,construction worker,1,simdrop
+60d731567049e5132e3cc4d4,teacher,0,simdrop
+60d731567049e5132e3cc4d4,principal,0,simdrop
+60d731567049e5132e3cc4d4,nurse,1,simdrop
+60d731567049e5132e3cc4d4,accountant,0,simdrop
+60d731567049e5132e3cc4d4,business executive,0,simdrop
+60d731567049e5132e3cc4d4,financial planner,1,simdrop
+60d731567049e5132e3cc4d4,tax broker,0,simdrop
+60d731567049e5132e3cc4d4,insurance agent,0,simdrop
+60d731567049e5132e3cc4d4,police officer,1,simdrop
+60d731567049e5132e3cc4d4,firefighter,0,simdrop
+60d731567049e5132e3cc4d4,mechanic,0,simdrop
+60d731567049e5132e3cc4d4,window washer,0,simdrop
+60d731567049e5132e3cc4d4,artist,1,simdrop
+60d731567049e5132e3cc4d4,model,0,simdrop
+60d731567049e5132e3cc4d4,musician,1,simdrop
+60d731567049e5132e3cc4d4,actor,0,simdrop
+60d731567049e5132e3cc4d4,director,0,simdrop
+60d731567049e5132e3cc4d4,photographer,0,simdrop
+60d731567049e5132e3cc4d4,chauffeur,0,simdrop
+60d731567049e5132e3cc4d4,gymnast,1,simdrop
+60d731567049e5132e3cc4d4,athlete,0,simdrop
+60d731567049e5132e3cc4d4,ski instructor,1,simdrop
+60d731567049e5132e3cc4d4,tutor,0,simdrop
+60d731567049e5132e3cc4d4,professor,0,simdrop
+60d731567049e5132e3cc4d4,assistant,0,simdrop
+60d731567049e5132e3cc4d4,advertiser,0,simdrop
+60d731567049e5132e3cc4d4,talk show host,0,simdrop
+60d731567049e5132e3cc4d4,producer,2,simdrop
+63e802622f8052bd67d6c5f0,barber,2,simdrop
+63e802622f8052bd67d6c5f0,firefighter,0,simdrop
+63e802622f8052bd67d6c5f0,policeman,0,simdrop
+63e802622f8052bd67d6c5f0,teacher,0,simdrop
+63e802622f8052bd67d6c5f0,bus driver,0,simdrop
+63e802622f8052bd67d6c5f0,contruction worker,1,simdrop
+63e802622f8052bd67d6c5f0,fast food worker,0,simdrop
+63e802622f8052bd67d6c5f0,retail salesman,1,simdrop
+63e802622f8052bd67d6c5f0,car salesman,0,simdrop
+63e802622f8052bd67d6c5f0,doctor,1,simdrop
+63e802622f8052bd67d6c5f0,veterinarian,0,simdrop
+63e802622f8052bd67d6c5f0,firefighter,0,simdrop
+63e802622f8052bd67d6c5f0,delivery driver,0,simdrop
+63e802622f8052bd67d6c5f0,lawyer,1,simdrop
+63e802622f8052bd67d6c5f0,judge,0,simdrop
+63e802622f8052bd67d6c5f0,security guard,1,simdrop
+63e802622f8052bd67d6c5f0,engineer,0,simdrop
+63e802622f8052bd67d6c5f0,electrician,0,simdrop
+63e802622f8052bd67d6c5f0,fashion designer,2,simdrop
+63ea4ab1ce4168cbe9f63775,nurse,2,simdrop
+63ea4ab1ce4168cbe9f63775,doctor,0,simdrop
+63ea4ab1ce4168cbe9f63775,x-ray technician,1,simdrop
+63ea4ab1ce4168cbe9f63775,nursing assistant,0,simdrop
+63ea4ab1ce4168cbe9f63775,physician's assistant,0,simdrop
+63ea4ab1ce4168cbe9f63775,fireman,1,simdrop
+63ea4ab1ce4168cbe9f63775,police officer,0,simdrop
+63ea4ab1ce4168cbe9f63775,marketing executives,1,simdrop
+63ea4ab1ce4168cbe9f63775,business development executive,0,simdrop
+63ea4ab1ce4168cbe9f63775,event planner,1,simdrop
+63ea4ab1ce4168cbe9f63775,cashier,0,simdrop
+63ea4ab1ce4168cbe9f63775,real estate agent,1,simdrop
+63ea4ab1ce4168cbe9f63775,leasing agent,0,simdrop
+63ea4ab1ce4168cbe9f63775,salesperson,0,simdrop
+63ea4ab1ce4168cbe9f63775,factory worker,0,simdrop
+63ea4ab1ce4168cbe9f63775,insurance agent,1,simdrop
+63ea4ab1ce4168cbe9f63775,cook,0,simdrop
+63ea4ab1ce4168cbe9f63775,chef,0,simdrop
+63ea4ab1ce4168cbe9f63775,sous chef,0,simdrop
+63ea4ab1ce4168cbe9f63775,server,1,simdrop
+63ea4ab1ce4168cbe9f63775,host,0,simdrop
+63ea4ab1ce4168cbe9f63775,entrepreneur,1,simdrop
+63ea4ab1ce4168cbe9f63775,web developer,0,simdrop
+63ea4ab1ce4168cbe9f63775,u i engineer,1,simdrop
+63ea4ab1ce4168cbe9f63775,chemical engineer,0,simdrop
+63ea4ab1ce4168cbe9f63775,architectural engineer,0,simdrop
+63ea4ab1ce4168cbe9f63775,architect,0,simdrop
+63ea4ab1ce4168cbe9f63775,construction worker,1,simdrop
+63ea4ab1ce4168cbe9f63775,construction foreman,0,simdrop
+63ea4ab1ce4168cbe9f63775,professional athlete,1,simdrop
+63ea4ab1ce4168cbe9f63775,coach,0,simdrop
+63ea4ab1ce4168cbe9f63775,trainer,0,simdrop
+63ea4ab1ce4168cbe9f63775,physical therapist,2,simdrop
+65b15afd94153c1f50c92493,singer,2,simdrop
+65b15afd94153c1f50c92493,writer,0,simdrop
+65b15afd94153c1f50c92493,teacher,0,simdrop
+65b15afd94153c1f50c92493,therapist,1,simdrop
+65b15afd94153c1f50c92493,nurse,0,simdrop
+65b15afd94153c1f50c92493,entrepreneur,0,simdrop
+65b15afd94153c1f50c92493,fast food worker,0,simdrop
+65b15afd94153c1f50c92493,architect,1,simdrop
+65b15afd94153c1f50c92493,dentist,0,simdrop
+65b15afd94153c1f50c92493,therapist,0,simdrop
+65b15afd94153c1f50c92493,mortician,0,simdrop
+65b15afd94153c1f50c92493,barber,0,simdrop
+65b15afd94153c1f50c92493,makeup artist,1,simdrop
+65b15afd94153c1f50c92493,musician,0,simdrop
+65b15afd94153c1f50c92493,artist,0,simdrop
+65b15afd94153c1f50c92493,designer,0,simdrop
+65b15afd94153c1f50c92493,mechanic,1,simdrop
+65b15afd94153c1f50c92493,vet,0,simdrop
+65b15afd94153c1f50c92493,doctor,2,simdrop
+65c25cf77dca9d7ca7d9ebdb,doctors,2,simdrop
+65c25cf77dca9d7ca7d9ebdb,nurses,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,lawyers,1,simdrop
+65c25cf77dca9d7ca7d9ebdb,attorneys,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,convenience store clerk,1,simdrop
+65c25cf77dca9d7ca7d9ebdb,cashier,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,manager,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,engineer,1,simdrop
+65c25cf77dca9d7ca7d9ebdb,electrical engineering,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,materials engineering,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,nuclear engineer,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,teachers,1,simdrop
+65c25cf77dca9d7ca7d9ebdb,professors,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,bank clerks,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,inspector,1,simdrop
+65c25cf77dca9d7ca7d9ebdb,architect,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,psychologist,1,simdrop
+65c25cf77dca9d7ca7d9ebdb,psychiatrist,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,dentist,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,train driver,1,simdrop
+65c25cf77dca9d7ca7d9ebdb,pilot,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,border patrol,1,simdrop
+65c25cf77dca9d7ca7d9ebdb,police officer,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,sheriff,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,highway patrol,0,simdrop
+65c25cf77dca9d7ca7d9ebdb,news anchor,1,simdrop
+65c25cf77dca9d7ca7d9ebdb,actor,2,simdrop
+65cb63e160bb47fbf9349269,doctor,2,simdrop
+65cb63e160bb47fbf9349269,lawyer,0,simdrop
+65cb63e160bb47fbf9349269,police officer,1,simdrop
+65cb63e160bb47fbf9349269,politician,0,simdrop
+65cb63e160bb47fbf9349269,teacher,0,simdrop
+65cb63e160bb47fbf9349269,firefighter,0,simdrop
+65cb63e160bb47fbf9349269,accountant,1,simdrop
+65cb63e160bb47fbf9349269,curator,0,simdrop
+65cb63e160bb47fbf9349269,investor,0,simdrop
+65cb63e160bb47fbf9349269,computer scientist,1,simdrop
+65cb63e160bb47fbf9349269,software engineer,0,simdrop
+65cb63e160bb47fbf9349269,mechanical engineers,1,simdrop
+65cb63e160bb47fbf9349269,civil engineer,0,simdrop
+65cb63e160bb47fbf9349269,technician,1,simdrop
+65cb63e160bb47fbf9349269,operator,0,simdrop
+65cb63e160bb47fbf9349269,professor,1,simdrop
+65cb63e160bb47fbf9349269,tutor,0,simdrop
+65cb63e160bb47fbf9349269,babysitter,0,simdrop
+65cb63e160bb47fbf9349269,dog walker,0,simdrop
+65cb63e160bb47fbf9349269,market,1,simdrop
+65cb63e160bb47fbf9349269,marketing team,0,simdrop
+65cb63e160bb47fbf9349269,director,1,simdrop
+65cb63e160bb47fbf9349269,program manager,0,simdrop
+65cb63e160bb47fbf9349269,musician,1,simdrop
+65cb63e160bb47fbf9349269,photographer,0,simdrop
+65cb63e160bb47fbf9349269,lyricist,1,simdrop
+65cb63e160bb47fbf9349269,actor,0,simdrop
+65cb63e160bb47fbf9349269,actress,0,simdrop
+65cb63e160bb47fbf9349269,juicer,0,simdrop
+65cb63e160bb47fbf9349269,lighting coordinator,1,simdrop
+65cb63e160bb47fbf9349269,meeting coordinator,0,simdrop
+65cb63e160bb47fbf9349269,pilot,2,simdrop
+65cc19b4b3d48a22dfc6756d,plumber,2,simdrop
+65cc19b4b3d48a22dfc6756d,electrician,0,simdrop
+65cc19b4b3d48a22dfc6756d,nurse,1,simdrop
+65cc19b4b3d48a22dfc6756d,doctor,0,simdrop
+65cc19b4b3d48a22dfc6756d,chef,0,simdrop
+65cc19b4b3d48a22dfc6756d,receptionist,1,simdrop
+65cc19b4b3d48a22dfc6756d,secretary,0,simdrop
+65cc19b4b3d48a22dfc6756d,sales associate,0,simdrop
+65cc19b4b3d48a22dfc6756d,janitor,1,simdrop
+65cc19b4b3d48a22dfc6756d,engineer,0,simdrop
+65cc19b4b3d48a22dfc6756d,scientist,0,simdrop
+65cc19b4b3d48a22dfc6756d,astronaut,0,simdrop
+65cc19b4b3d48a22dfc6756d,physicist,0,simdrop
+65cc19b4b3d48a22dfc6756d,actress,1,simdrop
+65cc19b4b3d48a22dfc6756d,singer,0,simdrop
+65cc19b4b3d48a22dfc6756d,baker,1,simdrop
+65cc19b4b3d48a22dfc6756d,maid,0,simdrop
+65cc19b4b3d48a22dfc6756d,chauffeur,0,simdrop
+65cc19b4b3d48a22dfc6756d,butler,0,simdrop
+65cc19b4b3d48a22dfc6756d,manicurist,1,simdrop
+65cc19b4b3d48a22dfc6756d,seamstress,0,simdrop
+65cc19b4b3d48a22dfc6756d,car mechanic,0,simdrop
+65cc19b4b3d48a22dfc6756d,anchor,1,simdrop
+65cc19b4b3d48a22dfc6756d,designer,0,simdrop
+65cc19b4b3d48a22dfc6756d,construction worker,0,simdrop
+65cc19b4b3d48a22dfc6756d,weatherman,2,simdrop
+65d54b3b524fcafb543d1b23,nurse,2,simdrop
+65d54b3b524fcafb543d1b23,plumber,0,simdrop
+65d54b3b524fcafb543d1b23,surgeon,0,simdrop
+65d54b3b524fcafb543d1b23,doctor,0,simdrop
+65d54b3b524fcafb543d1b23,nurse's assistant,1,simdrop
+65d54b3b524fcafb543d1b23,assistant,0,simdrop
+65d54b3b524fcafb543d1b23,software developer,0,simdrop
+65d54b3b524fcafb543d1b23,security,1,simdrop
+65d54b3b524fcafb543d1b23,counselor,0,simdrop
+65d54b3b524fcafb543d1b23,office assistant,0,simdrop
+65d54b3b524fcafb543d1b23,receptionist,0,simdrop
+65d54b3b524fcafb543d1b23,massage therapist,1,simdrop
+65d54b3b524fcafb543d1b23,physical therapist,0,simdrop
+65d54b3b524fcafb543d1b23,occupational therapist,0,simdrop
+65d54b3b524fcafb543d1b23,nurse anesthetist,1,simdrop
+65d54b3b524fcafb543d1b23,anesthesia doctor,0,simdrop
+65d54b3b524fcafb543d1b23,foreman,1,simdrop
+65d54b3b524fcafb543d1b23,general contractor,0,simdrop
+65d54b3b524fcafb543d1b23,electrician,0,simdrop
+65d54b3b524fcafb543d1b23,welder,2,simdrop
+65d6a09286a0c99e632a46dd,teacher,2,simdrop
+65d6a09286a0c99e632a46dd,lawyer,0,simdrop
+65d6a09286a0c99e632a46dd,game host,1,simdrop
+65d6a09286a0c99e632a46dd,football player,0,simdrop
+65d6a09286a0c99e632a46dd,professional sports player,0,simdrop
+65d6a09286a0c99e632a46dd,model,1,simdrop
+65d6a09286a0c99e632a46dd,accountant,0,simdrop
+65d6a09286a0c99e632a46dd,data analyst,0,simdrop
+65d6a09286a0c99e632a46dd,investment banker,1,simdrop
+65d6a09286a0c99e632a46dd,car salesman,0,simdrop
+65d6a09286a0c99e632a46dd,grocery store worker,0,simdrop
+65d6a09286a0c99e632a46dd,pharmacist,1,simdrop
+65d6a09286a0c99e632a46dd,doctor,0,simdrop
+65d6a09286a0c99e632a46dd,coal miner,0,simdrop
+65d6a09286a0c99e632a46dd,captain,1,simdrop
+65d6a09286a0c99e632a46dd,airline captain,0,simdrop
+65d6a09286a0c99e632a46dd,professor,1,simdrop
+65d6a09286a0c99e632a46dd,dentist,0,simdrop
+65d6a09286a0c99e632a46dd,police officer,1,simdrop
+65d6a09286a0c99e632a46dd,firefighter,0,simdrop
+65d6a09286a0c99e632a46dd,loan officers,0,simdrop
+65d6a09286a0c99e632a46dd,hotel receptionist,1,simdrop
+65d6a09286a0c99e632a46dd,hotel cleaners,0,simdrop
+65d6a09286a0c99e632a46dd,garbage man,2,simdrop
+65e1f75ab3efd22e847cfbf0,doctor,2,simdrop
+65e1f75ab3efd22e847cfbf0,lawyer,0,simdrop
+65e1f75ab3efd22e847cfbf0,construction person,0,simdrop
+65e1f75ab3efd22e847cfbf0,manager,1,simdrop
+65e1f75ab3efd22e847cfbf0,assistant,0,simdrop
+65e1f75ab3efd22e847cfbf0,nurse,0,simdrop
+65e1f75ab3efd22e847cfbf0,cashier,1,simdrop
+65e1f75ab3efd22e847cfbf0,retail manager,0,simdrop
+65e1f75ab3efd22e847cfbf0,receptionist,1,simdrop
+65e1f75ab3efd22e847cfbf0,assistant,0,simdrop
+65e1f75ab3efd22e847cfbf0,party host,0,simdrop
+65e1f75ab3efd22e847cfbf0,porter,0,simdrop
+65e1f75ab3efd22e847cfbf0,sales manager,1,simdrop
+65e1f75ab3efd22e847cfbf0,accountant,0,simdrop
+65e1f75ab3efd22e847cfbf0,technician,0,simdrop
+65e1f75ab3efd22e847cfbf0,surgeon,1,simdrop
+65e1f75ab3efd22e847cfbf0,anesthesiologist,0,simdrop
+65e1f75ab3efd22e847cfbf0,social worker,1,simdrop
+65e1f75ab3efd22e847cfbf0,physician,0,simdrop
+65e1f75ab3efd22e847cfbf0,dentist,0,simdrop
+65e1f75ab3efd22e847cfbf0,community health worker,0,simdrop
+65e1f75ab3efd22e847cfbf0,scientist,1,simdrop
+65e1f75ab3efd22e847cfbf0,mechanic,0,simdrop
+65e1f75ab3efd22e847cfbf0,technician,0,simdrop
+65e1f75ab3efd22e847cfbf0,administrator,0,simdrop
+65e1f75ab3efd22e847cfbf0,pilot,1,simdrop
+65e1f75ab3efd22e847cfbf0,flight attendant,2,simdrop
+65e358d9c5e3ee026268b2a7,nurse,2,simdrop
+65e358d9c5e3ee026268b2a7,doctor,0,simdrop
+65e358d9c5e3ee026268b2a7,exercise physiologist,1,simdrop
+65e358d9c5e3ee026268b2a7,nutritionist,0,simdrop
+65e358d9c5e3ee026268b2a7,personal trainer,0,simdrop
+65e358d9c5e3ee026268b2a7,physical therapist,0,simdrop
+65e358d9c5e3ee026268b2a7,cook,1,simdrop
+65e358d9c5e3ee026268b2a7,custodian,0,simdrop
+65e358d9c5e3ee026268b2a7,shelf stocker,0,simdrop
+65e358d9c5e3ee026268b2a7,finance,1,simdrop
+65e358d9c5e3ee026268b2a7,broker,0,simdrop
+65e358d9c5e3ee026268b2a7,banker,0,simdrop
+65e358d9c5e3ee026268b2a7,manager positions,1,simdrop
+65e358d9c5e3ee026268b2a7,assistant manager,0,simdrop
+65e358d9c5e3ee026268b2a7,manager,0,simdrop
+65e358d9c5e3ee026268b2a7,sanitation workers,1,simdrop
+65e358d9c5e3ee026268b2a7,retail employees,0,simdrop
+65e358d9c5e3ee026268b2a7,there is,1,simdrop
+65e358d9c5e3ee026268b2a7,engineers,0,simdrop
+65e358d9c5e3ee026268b2a7,civil engineer,0,simdrop
+65e358d9c5e3ee026268b2a7,mechanical,1,simdrop
+65e358d9c5e3ee026268b2a7,electrical,0,simdrop
+65e358d9c5e3ee026268b2a7,computer engineer,0,simdrop
+65e358d9c5e3ee026268b2a7,it positions,0,simdrop
+65e358d9c5e3ee026268b2a7,web designers,1,simdrop
+65e358d9c5e3ee026268b2a7,web developers,0,simdrop
+65e358d9c5e3ee026268b2a7,customer service,1,simdrop
+65e358d9c5e3ee026268b2a7,call center employees,0,simdrop
+65e358d9c5e3ee026268b2a7,construction workers,1,simdrop
+65e358d9c5e3ee026268b2a7,electricians,0,simdrop
+65e358d9c5e3ee026268b2a7,lawyers,0,simdrop
+65e358d9c5e3ee026268b2a7,security guards,1,simdrop
+65e358d9c5e3ee026268b2a7,cleaners,0,simdrop
+65e358d9c5e3ee026268b2a7,housekeepers,0,simdrop
+65e358d9c5e3ee026268b2a7,translators,2,simdrop
+65e862f844f1b7a803bb3c5a,doctor,2,simdrop
+65e862f844f1b7a803bb3c5a,accountants,0,simdrop
+65e862f844f1b7a803bb3c5a,chef,1,simdrop
+65e862f844f1b7a803bb3c5a,teacher,0,simdrop
+65e862f844f1b7a803bb3c5a,lecturer,0,simdrop
+65e862f844f1b7a803bb3c5a,dentist,0,simdrop
+65e862f844f1b7a803bb3c5a,architect,1,simdrop
+65e862f844f1b7a803bb3c5a,baker,0,simdrop
+65e862f844f1b7a803bb3c5a,butcher,0,simdrop
+65e862f844f1b7a803bb3c5a,electrician,1,simdrop
+65e862f844f1b7a803bb3c5a,farmer,0,simdrop
+65e862f844f1b7a803bb3c5a,bus driver,1,simdrop
+65e862f844f1b7a803bb3c5a,carpenter,0,simdrop
+65e862f844f1b7a803bb3c5a,astronomer,1,simdrop
+65e862f844f1b7a803bb3c5a,bricklayer,0,simdrop
+65e862f844f1b7a803bb3c5a,cleaner,0,simdrop
+65e862f844f1b7a803bb3c5a,factory worker,1,simdrop
+65e862f844f1b7a803bb3c5a,designer,0,simdrop
+65e862f844f1b7a803bb3c5a,engineer,0,simdrop
+65e862f844f1b7a803bb3c5a,fisherman,0,simdrop
+65e862f844f1b7a803bb3c5a,lawyer,1,simdrop
+65e862f844f1b7a803bb3c5a,actor,0,simdrop
+65e862f844f1b7a803bb3c5a,firefighter,1,simdrop
+65e862f844f1b7a803bb3c5a,nurse,0,simdrop
+65e862f844f1b7a803bb3c5a,teacher,0,simdrop
+65e862f844f1b7a803bb3c5a,scientist,0,simdrop
+65e862f844f1b7a803bb3c5a,trader,0,simdrop
+65e862f844f1b7a803bb3c5a,analyst,0,simdrop
+65e862f844f1b7a803bb3c5a,software engineer,1,simdrop
+65e862f844f1b7a803bb3c5a,software analyst,0,simdrop
+65e862f844f1b7a803bb3c5a,train conductor,1,simdrop
+65e862f844f1b7a803bb3c5a,american football player,0,simdrop
+65e862f844f1b7a803bb3c5a,basketball player,0,simdrop
+65e862f844f1b7a803bb3c5a,secretary,1,simdrop
+65e862f844f1b7a803bb3c5a,policeman,0,simdrop
+65e862f844f1b7a803bb3c5a,soldier,0,simdrop
+65e862f844f1b7a803bb3c5a,repairman,1,simdrop
+65e862f844f1b7a803bb3c5a,businessman,0,simdrop
+65e862f844f1b7a803bb3c5a,reporter,1,simdrop
+65e862f844f1b7a803bb3c5a,journalist,0,simdrop
+65e862f844f1b7a803bb3c5a,postman,1,simdrop
+65e862f844f1b7a803bb3c5a,photographer,0,simdrop
+65e862f844f1b7a803bb3c5a,pilots,0,simdrop
+65e862f844f1b7a803bb3c5a,construction worker,1,simdrop
+65e862f844f1b7a803bb3c5a,lifeguard,0,simdrop
+65e862f844f1b7a803bb3c5a,housekeeper,0,simdrop
+65e862f844f1b7a803bb3c5a,gardener,0,simdrop
+65e862f844f1b7a803bb3c5a,footballer,0,simdrop
+65e862f844f1b7a803bb3c5a,fire man,0,simdrop
+65e862f844f1b7a803bb3c5a,flight attendants,2,simdrop

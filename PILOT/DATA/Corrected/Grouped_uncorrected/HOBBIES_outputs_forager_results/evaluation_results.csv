@@ -1,0 +1,562 @@
+SID,entry,evaluation,replacement
+5d7ff4aa50fda7001a863736,painting,FOUND,painting
+5d7ff4aa50fda7001a863736,drawing,FOUND,drawing
+5d7ff4aa50fda7001a863736,reading,FOUND,reading
+5d7ff4aa50fda7001a863736,video,EXCLUDE,EXCLUDE
+5d7ff4aa50fda7001a863736,games,REPLACE,pc games
+5d7ff4aa50fda7001a863736,I'm,REPLACE,i'm
+5d7ff4aa50fda7001a863736,hiking,FOUND,hiking
+5d7ff4aa50fda7001a863736,dancing,FOUND,dancing
+5d7ff4aa50fda7001a863736,skating,FOUND,skating
+5d7ff4aa50fda7001a863736,roller,EXCLUDE,EXCLUDE
+5d7ff4aa50fda7001a863736,skating,FOUND,skating
+5d7ff4aa50fda7001a863736,skateboarding,FOUND,skateboarding
+5d7ff4aa50fda7001a863736,running,FOUND,running
+5d7ff4aa50fda7001a863736,cooking,FOUND,cooking
+5d7ff4aa50fda7001a863736,baking,FOUND,baking
+5d7ff4aa50fda7001a863736,clean,REPLACE,cleaning
+5d7ff4aa50fda7001a863736,instrument,EXCLUDE,EXCLUDE
+5d7ff4aa50fda7001a863736,basketball,FOUND,basketball
+5d7ff4aa50fda7001a863736,soccer,FOUND,soccer
+5d7ff4aa50fda7001a863736,football,FOUND,football
+5d7ff4aa50fda7001a863736,volleyball,FOUND,volleyball
+5d7ff4aa50fda7001a863736,fishing,FOUND,fishing
+5d7ff4aa50fda7001a863736,swimming,FOUND,swimming
+5d7ff4aa50fda7001a863736,something,REPLACE,sketching
+5d7ff4aa50fda7001a863736,writing,FOUND,writing
+5d7ff4aa50fda7001a863736,cycling,FOUND,cycling
+5d7ff4aa50fda7001a863736,singing,FOUND,singing
+5d7ff4aa50fda7001a863736,watching,FOUND,watching
+5d7ff4aa50fda7001a863736,TV,EXCLUDE,EXCLUDE
+5d7ff4aa50fda7001a863736,journaling,FOUND,journaling
+5d7ff4aa50fda7001a863736,gardening,FOUND,gardening
+5d7ff4aa50fda7001a863736,hunting,FOUND,hunting
+5d7ff4aa50fda7001a863736,martial,EXCLUDE,EXCLUDE
+5d7ff4aa50fda7001a863736,arts,REPLACE,darts
+5d7ff4aa50fda7001a863736,sewing,FOUND,sewing
+5d7ff4aa50fda7001a863736,knitting,FOUND,knitting
+5d7ff4aa50fda7001a863736,crocheting,FOUND,crocheting
+65e358d9c5e3ee026268b2a7,Sports,REPLACE,sports
+65e358d9c5e3ee026268b2a7,so,EXCLUDE,EXCLUDE
+65e358d9c5e3ee026268b2a7,volleyball,FOUND,volleyball
+65e358d9c5e3ee026268b2a7,basketball,FOUND,basketball
+65e358d9c5e3ee026268b2a7,football,FOUND,football
+65e358d9c5e3ee026268b2a7,tennis,FOUND,tennis
+65e358d9c5e3ee026268b2a7,baseball,FOUND,baseball
+65e358d9c5e3ee026268b2a7,rugby,FOUND,rugby
+65e358d9c5e3ee026268b2a7,track and,EXCLUDE,EXCLUDE
+65e358d9c5e3ee026268b2a7,field,EXCLUDE,EXCLUDE
+65e358d9c5e3ee026268b2a7,cross-country,FOUND,cross-country
+65e358d9c5e3ee026268b2a7,ballet,FOUND,ballet
+65e358d9c5e3ee026268b2a7,gymnastics,FOUND,gymnastics
+65e358d9c5e3ee026268b2a7,other,REPLACE,pottery
+65e358d9c5e3ee026268b2a7,Hobbies,EXCLUDE,EXCLUDE
+65e358d9c5e3ee026268b2a7,reading-writing,FOUND,reading-writing
+65e358d9c5e3ee026268b2a7,hiking,FOUND,hiking
+65e358d9c5e3ee026268b2a7,meditating,FOUND,meditating
+65e358d9c5e3ee026268b2a7,yoga,FOUND,yoga
+65e358d9c5e3ee026268b2a7,exercise so,REPLACE,exercise
+65e358d9c5e3ee026268b2a7,the,EXCLUDE,EXCLUDE
+65e358d9c5e3ee026268b2a7,gym,FOUND,gym
+65e358d9c5e3ee026268b2a7,powerlifting,FOUND,powerlifting
+65e358d9c5e3ee026268b2a7,strength,EXCLUDE,EXCLUDE
+65e358d9c5e3ee026268b2a7,training,REPLACE,painting
+65e358d9c5e3ee026268b2a7,cardio,FOUND,cardio
+65e358d9c5e3ee026268b2a7,swimming,FOUND,swimming
+65e358d9c5e3ee026268b2a7,knitting,FOUND,knitting
+65e358d9c5e3ee026268b2a7,or,EXCLUDE,EXCLUDE
+65e358d9c5e3ee026268b2a7,crocheting,FOUND,crocheting
+65e358d9c5e3ee026268b2a7,bicycling,FOUND,bicycling
+65e358d9c5e3ee026268b2a7,bicycling,FOUND,bicycling
+65e358d9c5e3ee026268b2a7,on,EXCLUDE,EXCLUDE
+65e358d9c5e3ee026268b2a7,roadways,EXCLUDE,EXCLUDE
+65e358d9c5e3ee026268b2a7,or,EXCLUDE,EXCLUDE
+65e358d9c5e3ee026268b2a7,mountain,EXCLUDE,EXCLUDE
+65e358d9c5e3ee026268b2a7,biking,FOUND,biking
+65e358d9c5e3ee026268b2a7,sleeping,FOUND,sleeping
+65e358d9c5e3ee026268b2a7,I guess,EXCLUDE,EXCLUDE
+65e358d9c5e3ee026268b2a7,being an,EXCLUDE,EXCLUDE
+65e358d9c5e3ee026268b2a7,entrepreneur,EXCLUDE,EXCLUDE
+65e358d9c5e3ee026268b2a7,having a,REPLACE,caving
+65e358d9c5e3ee026268b2a7,business,EXCLUDE,EXCLUDE
+65e358d9c5e3ee026268b2a7,hobby,EXCLUDE,EXCLUDE
+65e358d9c5e3ee026268b2a7,sub,EXCLUDE,EXCLUDE
+65e358d9c5e3ee026268b2a7,vacationing,FOUND,vacationing
+65e358d9c5e3ee026268b2a7,building,REPLACE,bouldering
+65e358d9c5e3ee026268b2a7,model,EXCLUDE,EXCLUDE
+65e358d9c5e3ee026268b2a7,train,REPLACE,racing
+65e358d9c5e3ee026268b2a7,sets,REPLACE,sports
+65e358d9c5e3ee026268b2a7,building,REPLACE,bouldering
+65e358d9c5e3ee026268b2a7,Lego,EXCLUDE,EXCLUDE
+65e358d9c5e3ee026268b2a7,sets,REPLACE,sports
+65e358d9c5e3ee026268b2a7,collecting,FOUND,collecting
+65e358d9c5e3ee026268b2a7,things,REPLACE,watching
+65e358d9c5e3ee026268b2a7,Rock,REPLACE,hockey
+65e358d9c5e3ee026268b2a7,collections,REPLACE,collecting
+65e358d9c5e3ee026268b2a7,volunteering,FOUND,volunteering
+65e358d9c5e3ee026268b2a7,at,REPLACE,last
+65e358d9c5e3ee026268b2a7,animal,REPLACE,animation
+65e358d9c5e3ee026268b2a7,shelters,EXCLUDE,EXCLUDE
+65e358d9c5e3ee026268b2a7,volunteering,FOUND,volunteering
+65e358d9c5e3ee026268b2a7,at,REPLACE,last
+65e358d9c5e3ee026268b2a7,homeless,EXCLUDE,EXCLUDE
+65e358d9c5e3ee026268b2a7,shelters,EXCLUDE,EXCLUDE
+65e358d9c5e3ee026268b2a7,taking,REPLACE,baking
+65e358d9c5e3ee026268b2a7,online,EXCLUDE,EXCLUDE
+65e358d9c5e3ee026268b2a7,surveys,EXCLUDE,EXCLUDE
+65e358d9c5e3ee026268b2a7,playing,EXCLUDE,EXCLUDE
+65e358d9c5e3ee026268b2a7,online,EXCLUDE,EXCLUDE
+65e358d9c5e3ee026268b2a7,games,REPLACE,pc games
+65e358d9c5e3ee026268b2a7,video,EXCLUDE,EXCLUDE
+65e358d9c5e3ee026268b2a7,games,REPLACE,pc games
+65e358d9c5e3ee026268b2a7,PC,EXCLUDE,EXCLUDE
+65e358d9c5e3ee026268b2a7,games,REPLACE,pc games
+60d731567049e5132e3cc4d4,knitting,FOUND,knitting
+60d731567049e5132e3cc4d4,and,FOUND,and
+60d731567049e5132e3cc4d4,crocheting,FOUND,crocheting
+60d731567049e5132e3cc4d4,embroidering,FOUND,embroidering
+60d731567049e5132e3cc4d4,sewing,FOUND,sewing
+60d731567049e5132e3cc4d4,running,FOUND,running
+60d731567049e5132e3cc4d4,hiking,FOUND,hiking
+60d731567049e5132e3cc4d4,fishing,FOUND,fishing
+60d731567049e5132e3cc4d4,camping,FOUND,camping
+60d731567049e5132e3cc4d4,and,FOUND,and
+60d731567049e5132e3cc4d4,canoeing,FOUND,canoeing
+60d731567049e5132e3cc4d4,kayaking,FOUND,kayaking
+60d731567049e5132e3cc4d4,basketball,FOUND,basketball
+60d731567049e5132e3cc4d4,volleyball,FOUND,volleyball
+60d731567049e5132e3cc4d4,baseball,FOUND,baseball
+60d731567049e5132e3cc4d4,softball,FOUND,softball
+60d731567049e5132e3cc4d4,football,FOUND,football
+60d731567049e5132e3cc4d4,soccer,FOUND,soccer
+60d731567049e5132e3cc4d4,kickball,FOUND,kickball
+60d731567049e5132e3cc4d4,badminton,FOUND,badminton
+60d731567049e5132e3cc4d4,tennis,FOUND,tennis
+60d731567049e5132e3cc4d4,writing,FOUND,writing
+60d731567049e5132e3cc4d4,reading,FOUND,reading
+60d731567049e5132e3cc4d4,cooking,FOUND,cooking
+60d731567049e5132e3cc4d4,baking,FOUND,baking
+60d731567049e5132e3cc4d4,sketching,FOUND,sketching
+60d731567049e5132e3cc4d4,painting,FOUND,painting
+60d731567049e5132e3cc4d4,pottery,FOUND,pottery
+60d731567049e5132e3cc4d4,making,REPLACE,baking
+60d731567049e5132e3cc4d4,jewelry,EXCLUDE,EXCLUDE
+60d731567049e5132e3cc4d4,making,REPLACE,baking
+60d731567049e5132e3cc4d4,thrifting,FOUND,thrifting
+60d731567049e5132e3cc4d4,walking,FOUND,walking
+60d731567049e5132e3cc4d4,traveling,FOUND,traveling
+60d731567049e5132e3cc4d4,yang,REPLACE,tango
+60d731567049e5132e3cc4d4,swimming,FOUND,swimming
+60d731567049e5132e3cc4d4,diving,FOUND,diving
+60d731567049e5132e3cc4d4,gardening,FOUND,gardening
+60d731567049e5132e3cc4d4,Auto,EXCLUDE,EXCLUDE
+60d731567049e5132e3cc4d4,Repair,EXCLUDE,EXCLUDE
+60d731567049e5132e3cc4d4,stamp,EXCLUDE,EXCLUDE
+60d731567049e5132e3cc4d4,collecting,FOUND,collecting
+60d731567049e5132e3cc4d4,coin,REPLACE,cooking
+60d731567049e5132e3cc4d4,collecting,FOUND,collecting
+60d731567049e5132e3cc4d4,listening to,EXCLUDE,EXCLUDE
+60d731567049e5132e3cc4d4,music,FOUND,music
+60d731567049e5132e3cc4d4,playing,EXCLUDE,EXCLUDE
+60d731567049e5132e3cc4d4,guitar,EXCLUDE,EXCLUDE
+60d731567049e5132e3cc4d4,playing the,EXCLUDE,EXCLUDE
+60d731567049e5132e3cc4d4,drums,REPLACE,darts
+60d731567049e5132e3cc4d4,singing,FOUND,singing
+60d731567049e5132e3cc4d4,dancing,FOUND,dancing
+63ea4ab1ce4168cbe9f63775,watching,FOUND,watching
+63ea4ab1ce4168cbe9f63775,sports,FOUND,sports
+63ea4ab1ce4168cbe9f63775,woodworking,FOUND,woodworking
+63ea4ab1ce4168cbe9f63775,running,FOUND,running
+63ea4ab1ce4168cbe9f63775,collecting,FOUND,collecting
+63ea4ab1ce4168cbe9f63775,baseball,FOUND,baseball
+63ea4ab1ce4168cbe9f63775,cards,REPLACE,cars
+63ea4ab1ce4168cbe9f63775,side,EXCLUDE,EXCLUDE
+63ea4ab1ce4168cbe9f63775,business,EXCLUDE,EXCLUDE
+63ea4ab1ce4168cbe9f63775,booking,REPLACE,cooking
+63ea4ab1ce4168cbe9f63775,bacon,EXCLUDE,EXCLUDE
+63ea4ab1ce4168cbe9f63775,arts and crafts,FOUND,arts and crafts
+63ea4ab1ce4168cbe9f63775,watching,FOUND,watching
+63ea4ab1ce4168cbe9f63775,movies,EXCLUDE,EXCLUDE
+63ea4ab1ce4168cbe9f63775,creative writing,FOUND,creative writing
+63ea4ab1ce4168cbe9f63775,poetry,FOUND,poetry
+63ea4ab1ce4168cbe9f63775,traveling,FOUND,traveling
+63ea4ab1ce4168cbe9f63775,going to,EXCLUDE,EXCLUDE
+63ea4ab1ce4168cbe9f63775,different,EXCLUDE,EXCLUDE
+63ea4ab1ce4168cbe9f63775,restaurants,FOUND,restaurants
+63ea4ab1ce4168cbe9f63775,bird,EXCLUDE,EXCLUDE
+63ea4ab1ce4168cbe9f63775,watching,FOUND,watching
+63ea4ab1ce4168cbe9f63775,fishing,FOUND,fishing
+63ea4ab1ce4168cbe9f63775,hunting,FOUND,hunting
+63ea4ab1ce4168cbe9f63775,kayaking,FOUND,kayaking
+63ea4ab1ce4168cbe9f63775,walking,FOUND,walking
+63ea4ab1ce4168cbe9f63775,volunteering,FOUND,volunteering
+63ea4ab1ce4168cbe9f63775,reading,FOUND,reading
+63ea4ab1ce4168cbe9f63775,taking,REPLACE,baking
+63ea4ab1ce4168cbe9f63775,classes,EXCLUDE,EXCLUDE
+63ea4ab1ce4168cbe9f63775,learning,FOUND,learning
+63ea4ab1ce4168cbe9f63775,working on,REPLACE,working out
+63ea4ab1ce4168cbe9f63775,cars,FOUND,cars
+63ea4ab1ce4168cbe9f63775,driving,FOUND,driving
+63ea4ab1ce4168cbe9f63775,building,REPLACE,bouldering
+63ea4ab1ce4168cbe9f63775,Legos,EXCLUDE,EXCLUDE
+63ea4ab1ce4168cbe9f63775,collecting,FOUND,collecting
+65e862f844f1b7a803bb3c5a,football,FOUND,football
+65e862f844f1b7a803bb3c5a,fencing,FOUND,fencing
+65e862f844f1b7a803bb3c5a,hiking,FOUND,hiking
+65e862f844f1b7a803bb3c5a,dancing,FOUND,dancing
+65e862f844f1b7a803bb3c5a,bowling,FOUND,bowling
+65e862f844f1b7a803bb3c5a,calligraphy,FOUND,calligraphy
+65e862f844f1b7a803bb3c5a,drawing,FOUND,drawing
+65e862f844f1b7a803bb3c5a,blogging,FOUND,blogging
+65e862f844f1b7a803bb3c5a,baking,FOUND,baking
+65e862f844f1b7a803bb3c5a,mountain climbing,FOUND,mountain climbing
+65e862f844f1b7a803bb3c5a,skating,FOUND,skating
+65e862f844f1b7a803bb3c5a,origami,FOUND,origami
+65e862f844f1b7a803bb3c5a,gardening,FOUND,gardening
+65e862f844f1b7a803bb3c5a,scrapbooking,FOUND,scrapbooking
+65e862f844f1b7a803bb3c5a,fishing,FOUND,fishing
+65e862f844f1b7a803bb3c5a,chess,FOUND,chess
+65e862f844f1b7a803bb3c5a,music,FOUND,music
+65e862f844f1b7a803bb3c5a,what do,EXCLUDE,EXCLUDE
+65e862f844f1b7a803bb3c5a,graffiti,REPLACE,graffiti art
+65e862f844f1b7a803bb3c5a,kayaking,FOUND,kayaking
+65e862f844f1b7a803bb3c5a,running,FOUND,running
+65e862f844f1b7a803bb3c5a,Compton,EXCLUDE,EXCLUDE
+65e862f844f1b7a803bb3c5a,card,REPLACE,cardio
+65e862f844f1b7a803bb3c5a,games,REPLACE,pc games
+65e862f844f1b7a803bb3c5a,sleeping,FOUND,sleeping
+65e862f844f1b7a803bb3c5a,driving,FOUND,driving
+65e862f844f1b7a803bb3c5a,sightseeing,FOUND,sightseeing
+65e862f844f1b7a803bb3c5a,soccer,FOUND,soccer
+65e862f844f1b7a803bb3c5a,basketball,FOUND,basketball
+65e862f844f1b7a803bb3c5a,Docs,EXCLUDE,EXCLUDE
+65e862f844f1b7a803bb3c5a,ice,EXCLUDE,EXCLUDE
+65e862f844f1b7a803bb3c5a,hockey,FOUND,hockey
+65e862f844f1b7a803bb3c5a,gymnastics,FOUND,gymnastics
+65e862f844f1b7a803bb3c5a,fencing,FOUND,fencing
+65e862f844f1b7a803bb3c5a,authorism,EXCLUDE,EXCLUDE
+65e862f844f1b7a803bb3c5a,dying,REPLACE,studying
+5f5aa60bef062519ff711fe6,knitting,FOUND,knitting
+5f5aa60bef062519ff711fe6,crocheting,FOUND,crocheting
+5f5aa60bef062519ff711fe6,gaming,FOUND,gaming
+5f5aa60bef062519ff711fe6,racing,FOUND,racing
+5f5aa60bef062519ff711fe6,running,FOUND,running
+5f5aa60bef062519ff711fe6,swimming,FOUND,swimming
+5f5aa60bef062519ff711fe6,bird,EXCLUDE,EXCLUDE
+5f5aa60bef062519ff711fe6,watching,FOUND,watching
+5f5aa60bef062519ff711fe6,hiking,FOUND,hiking
+5f5aa60bef062519ff711fe6,climbing,FOUND,climbing
+5f5aa60bef062519ff711fe6,skydiving,FOUND,skydiving
+5f5aa60bef062519ff711fe6,flying a,EXCLUDE,EXCLUDE
+5f5aa60bef062519ff711fe6,plane,REPLACE,planner
+5f5aa60bef062519ff711fe6,collecting,FOUND,collecting
+5f5aa60bef062519ff711fe6,drawing,FOUND,drawing
+5f5aa60bef062519ff711fe6,creating,FOUND,creating
+5f5aa60bef062519ff711fe6,playing,EXCLUDE,EXCLUDE
+5f5aa60bef062519ff711fe6,sports,FOUND,sports
+5f5aa60bef062519ff711fe6,baseball,FOUND,baseball
+5f5aa60bef062519ff711fe6,hockey,FOUND,hockey
+5f5aa60bef062519ff711fe6,basketball,FOUND,basketball
+5f5aa60bef062519ff711fe6,football,FOUND,football
+5f5aa60bef062519ff711fe6,soccer,FOUND,soccer
+5f5aa60bef062519ff711fe6,3D,EXCLUDE,EXCLUDE
+5f5aa60bef062519ff711fe6,printing,REPLACE,painting
+5f5aa60bef062519ff711fe6,studying,FOUND,studying
+65b15afd94153c1f50c92493,painting,FOUND,painting
+65b15afd94153c1f50c92493,drawing,FOUND,drawing
+65b15afd94153c1f50c92493,skating,FOUND,skating
+65b15afd94153c1f50c92493,Reading,REPLACE,reading
+65b15afd94153c1f50c92493,Writing,REPLACE,writing
+65b15afd94153c1f50c92493,crochet,FOUND,crochet
+65b15afd94153c1f50c92493,sewing,FOUND,sewing
+65b15afd94153c1f50c92493,coloring,FOUND,coloring
+65b15afd94153c1f50c92493,fishing,FOUND,fishing
+65b15afd94153c1f50c92493,camping,FOUND,camping
+65b15afd94153c1f50c92493,driving,FOUND,driving
+65b15afd94153c1f50c92493,collecting,FOUND,collecting
+65b15afd94153c1f50c92493,hit,EXCLUDE,EXCLUDE
+65b15afd94153c1f50c92493,music,FOUND,music
+65e1f75ab3efd22e847cfbf0,Reading,REPLACE,reading
+65e1f75ab3efd22e847cfbf0,Writing,REPLACE,writing
+65e1f75ab3efd22e847cfbf0,video,EXCLUDE,EXCLUDE
+65e1f75ab3efd22e847cfbf0,games,REPLACE,pc games
+65e1f75ab3efd22e847cfbf0,working out,FOUND,working out
+65e1f75ab3efd22e847cfbf0,painting,FOUND,painting
+65e1f75ab3efd22e847cfbf0,dance,FOUND,dance
+65e1f75ab3efd22e847cfbf0,growing,REPLACE,drawing
+65e1f75ab3efd22e847cfbf0,Pottery,REPLACE,pottery
+65e1f75ab3efd22e847cfbf0,knitting,FOUND,knitting
+65e1f75ab3efd22e847cfbf0,photography,FOUND,photography
+65e1f75ab3efd22e847cfbf0,sewing,FOUND,sewing
+65e1f75ab3efd22e847cfbf0,Garden,REPLACE,gardening
+65e1f75ab3efd22e847cfbf0,learning,FOUND,learning
+65e1f75ab3efd22e847cfbf0,cooking,FOUND,cooking
+65e1f75ab3efd22e847cfbf0,singing,FOUND,singing
+65e1f75ab3efd22e847cfbf0,video,EXCLUDE,EXCLUDE
+65e1f75ab3efd22e847cfbf0,games,REPLACE,pc games
+65e1f75ab3efd22e847cfbf0,backpacking,FOUND,backpacking
+65e1f75ab3efd22e847cfbf0,running,FOUND,running
+65e1f75ab3efd22e847cfbf0,hunting,FOUND,hunting
+65e1f75ab3efd22e847cfbf0,soccer,FOUND,soccer
+65e1f75ab3efd22e847cfbf0,yoga,FOUND,yoga
+65e1f75ab3efd22e847cfbf0,when I was,EXCLUDE,EXCLUDE
+65e1f75ab3efd22e847cfbf0,Kohl's,EXCLUDE,EXCLUDE
+65e1f75ab3efd22e847cfbf0,walking,FOUND,walking
+65e1f75ab3efd22e847cfbf0,basketball,FOUND,basketball
+65e1f75ab3efd22e847cfbf0,Pilates,REPLACE,pilates
+65e1f75ab3efd22e847cfbf0,swimming,FOUND,swimming
+65e1f75ab3efd22e847cfbf0,football,FOUND,football
+65e1f75ab3efd22e847cfbf0,bowling,FOUND,bowling
+65e1f75ab3efd22e847cfbf0,hockey,FOUND,hockey
+65e1f75ab3efd22e847cfbf0,surfing,FOUND,surfing
+65e1f75ab3efd22e847cfbf0,tennis,FOUND,tennis
+65e1f75ab3efd22e847cfbf0,baseball,FOUND,baseball
+65e1f75ab3efd22e847cfbf0,dancing,FOUND,dancing
+65e1f75ab3efd22e847cfbf0,karate,FOUND,karate
+65e1f75ab3efd22e847cfbf0,cheerleading,FOUND,cheerleading
+65e1f75ab3efd22e847cfbf0,waterskiing,FOUND,waterskiing
+65e1f75ab3efd22e847cfbf0,weightlifting,FOUND,weightlifting
+65e1f75ab3efd22e847cfbf0,boxing,FOUND,boxing
+65e1f75ab3efd22e847cfbf0,more,EXCLUDE,EXCLUDE
+65e1f75ab3efd22e847cfbf0,games,REPLACE,pc games
+65e1f75ab3efd22e847cfbf0,running,FOUND,running
+65e1f75ab3efd22e847cfbf0,track,EXCLUDE,EXCLUDE
+65e1f75ab3efd22e847cfbf0,will,EXCLUDE,EXCLUDE
+65e1f75ab3efd22e847cfbf0,painting and sculpture,EXCLUDE,EXCLUDE
+65e1f75ab3efd22e847cfbf0,wood,FOUND,wood
+65e1f75ab3efd22e847cfbf0,burning,FOUND,burning
+65e1f75ab3efd22e847cfbf0,last,FOUND,last
+65e1f75ab3efd22e847cfbf0,painting,FOUND,painting
+65e1f75ab3efd22e847cfbf0,calligraphy,FOUND,calligraphy
+65e1f75ab3efd22e847cfbf0,candle,REPLACE,and
+65e1f75ab3efd22e847cfbf0,making,REPLACE,baking
+65e1f75ab3efd22e847cfbf0,stargazing,FOUND,stargazing
+65e1f75ab3efd22e847cfbf0,poetry,FOUND,poetry
+65e1f75ab3efd22e847cfbf0,writing,FOUND,writing
+65e1f75ab3efd22e847cfbf0,jewelry,EXCLUDE,EXCLUDE
+65e1f75ab3efd22e847cfbf0,making,REPLACE,baking
+65e1f75ab3efd22e847cfbf0,crochet,FOUND,crochet
+65e1f75ab3efd22e847cfbf0,quilting,FOUND,quilting
+65e1f75ab3efd22e847cfbf0,acting,FOUND,acting
+63e802622f8052bd67d6c5f0,fishing,FOUND,fishing
+63e802622f8052bd67d6c5f0,bicycling,FOUND,bicycling
+63e802622f8052bd67d6c5f0,running,FOUND,running
+63e802622f8052bd67d6c5f0,gaming,FOUND,gaming
+63e802622f8052bd67d6c5f0,reading,FOUND,reading
+63e802622f8052bd67d6c5f0,Walking,REPLACE,walking
+63e802622f8052bd67d6c5f0,biking,FOUND,biking
+63e802622f8052bd67d6c5f0,skateboarding,FOUND,skateboarding
+63e802622f8052bd67d6c5f0,rollerblading,FOUND,rollerblading
+63e802622f8052bd67d6c5f0,ice,EXCLUDE,EXCLUDE
+63e802622f8052bd67d6c5f0,skating,FOUND,skating
+63e802622f8052bd67d6c5f0,football,FOUND,football
+63e802622f8052bd67d6c5f0,basketball,FOUND,basketball
+63e802622f8052bd67d6c5f0,baseball,FOUND,baseball
+63e802622f8052bd67d6c5f0,hockey,FOUND,hockey
+63e802622f8052bd67d6c5f0,sightseeing,FOUND,sightseeing
+63e802622f8052bd67d6c5f0,running,FOUND,running
+63e802622f8052bd67d6c5f0,bowling,FOUND,bowling
+63e802622f8052bd67d6c5f0,racing,FOUND,racing
+65cc19b4b3d48a22dfc6756d,fine,EXCLUDE,EXCLUDE
+65cc19b4b3d48a22dfc6756d,painting,FOUND,painting
+65cc19b4b3d48a22dfc6756d,sculpting,FOUND,sculpting
+65cc19b4b3d48a22dfc6756d,are the,REPLACE,karate
+65cc19b4b3d48a22dfc6756d,Nae,EXCLUDE,EXCLUDE
+65cc19b4b3d48a22dfc6756d,Nae,EXCLUDE,EXCLUDE
+65cc19b4b3d48a22dfc6756d,why,EXCLUDE,EXCLUDE
+65cc19b4b3d48a22dfc6756d,why,EXCLUDE,EXCLUDE
+65cc19b4b3d48a22dfc6756d,aren't you,EXCLUDE,EXCLUDE
+65cc19b4b3d48a22dfc6756d,bird,EXCLUDE,EXCLUDE
+65cc19b4b3d48a22dfc6756d,watching,FOUND,watching
+65cc19b4b3d48a22dfc6756d,how do,EXCLUDE,EXCLUDE
+65cc19b4b3d48a22dfc6756d,I make,EXCLUDE,EXCLUDE
+65cc19b4b3d48a22dfc6756d,a game,REPLACE,card games
+65cc19b4b3d48a22dfc6756d,I gave you,EXCLUDE,EXCLUDE
+65cc19b4b3d48a22dfc6756d,video,EXCLUDE,EXCLUDE
+65cc19b4b3d48a22dfc6756d,games,REPLACE,pc games
+65cc19b4b3d48a22dfc6756d,sewing,FOUND,sewing
+65cc19b4b3d48a22dfc6756d,knitting,FOUND,knitting
+65cc19b4b3d48a22dfc6756d,cooking,FOUND,cooking
+65cb63e160bb47fbf9349269,cooking,FOUND,cooking
+65cb63e160bb47fbf9349269,baking,FOUND,baking
+65cb63e160bb47fbf9349269,painting,FOUND,painting
+65cb63e160bb47fbf9349269,drawing,FOUND,drawing
+65cb63e160bb47fbf9349269,bicycling,FOUND,bicycling
+65cb63e160bb47fbf9349269,swimming,FOUND,swimming
+65cb63e160bb47fbf9349269,playing,EXCLUDE,EXCLUDE
+65cb63e160bb47fbf9349269,basketball,FOUND,basketball
+65cb63e160bb47fbf9349269,playing baseball,FOUND,playing baseball
+65cb63e160bb47fbf9349269,player,REPLACE,planner
+65cb63e160bb47fbf9349269,football,FOUND,football
+65cb63e160bb47fbf9349269,working on,REPLACE,working out
+65cb63e160bb47fbf9349269,cars,FOUND,cars
+65cb63e160bb47fbf9349269,playing,EXCLUDE,EXCLUDE
+65cb63e160bb47fbf9349269,video,EXCLUDE,EXCLUDE
+65cb63e160bb47fbf9349269,games on,EXCLUDE,EXCLUDE
+65cb63e160bb47fbf9349269,computers,EXCLUDE,EXCLUDE
+65cb63e160bb47fbf9349269,seamstress,FOUND,seamstress
+65cb63e160bb47fbf9349269,reading,FOUND,reading
+65cb63e160bb47fbf9349269,Writing,REPLACE,writing
+65cb63e160bb47fbf9349269,makeup,EXCLUDE,EXCLUDE
+65cb63e160bb47fbf9349269,artistry,REPLACE,cardistry
+65cb63e160bb47fbf9349269,gardening,FOUND,gardening
+65cb63e160bb47fbf9349269,jogging,FOUND,jogging
+65cb63e160bb47fbf9349269,running,FOUND,running
+65cb63e160bb47fbf9349269,play,EXCLUDE,EXCLUDE
+65cb63e160bb47fbf9349269,instruments,EXCLUDE,EXCLUDE
+65cb63e160bb47fbf9349269,listening to,EXCLUDE,EXCLUDE
+65cb63e160bb47fbf9349269,music,FOUND,music
+65cb63e160bb47fbf9349269,watching,FOUND,watching
+65cb63e160bb47fbf9349269,movies,EXCLUDE,EXCLUDE
+65cb63e160bb47fbf9349269,watching,FOUND,watching
+65cb63e160bb47fbf9349269,TV,EXCLUDE,EXCLUDE
+65cb63e160bb47fbf9349269,listen to,EXCLUDE,EXCLUDE
+65cb63e160bb47fbf9349269,podcast,EXCLUDE,EXCLUDE
+65cb63e160bb47fbf9349269,playing,EXCLUDE,EXCLUDE
+65cb63e160bb47fbf9349269,board,EXCLUDE,EXCLUDE
+65cb63e160bb47fbf9349269,games,REPLACE,pc games
+65cb63e160bb47fbf9349269,collecting,FOUND,collecting
+65cb63e160bb47fbf9349269,cards,REPLACE,cars
+65d6a09286a0c99e632a46dd,Hobbies,EXCLUDE,EXCLUDE
+65d6a09286a0c99e632a46dd,or,EXCLUDE,EXCLUDE
+65d6a09286a0c99e632a46dd,Sports,REPLACE,sports
+65d6a09286a0c99e632a46dd,walking,FOUND,walking
+65d6a09286a0c99e632a46dd,running,FOUND,running
+65d6a09286a0c99e632a46dd,working out,FOUND,working out
+65d6a09286a0c99e632a46dd,you can do,EXCLUDE,EXCLUDE
+65d6a09286a0c99e632a46dd,yeah,EXCLUDE,EXCLUDE
+65d6a09286a0c99e632a46dd,you can do,EXCLUDE,EXCLUDE
+65d6a09286a0c99e632a46dd,planner,FOUND,planner
+65d6a09286a0c99e632a46dd,phone,FOUND,phone
+65d6a09286a0c99e632a46dd,you could,EXCLUDE,EXCLUDE
+65d6a09286a0c99e632a46dd,gamble,FOUND,gamble
+65d6a09286a0c99e632a46dd,you could,EXCLUDE,EXCLUDE
+65d6a09286a0c99e632a46dd,travel,FOUND,travel
+65d6a09286a0c99e632a46dd,you can,EXCLUDE,EXCLUDE
+65d6a09286a0c99e632a46dd,hang,REPLACE,tango
+65d6a09286a0c99e632a46dd,out with,EXCLUDE,EXCLUDE
+65d6a09286a0c99e632a46dd,friends,EXCLUDE,EXCLUDE
+65d6a09286a0c99e632a46dd,you can go,EXCLUDE,EXCLUDE
+65d6a09286a0c99e632a46dd,camping,FOUND,camping
+65d6a09286a0c99e632a46dd,gomovies,REPLACE,go to movies
+65d6a09286a0c99e632a46dd,you can go,EXCLUDE,EXCLUDE
+65d6a09286a0c99e632a46dd,to,EXCLUDE,EXCLUDE
+65d6a09286a0c99e632a46dd,Mesquite,EXCLUDE,EXCLUDE
+65d6a09286a0c99e632a46dd,skating,FOUND,skating
+65d6a09286a0c99e632a46dd,rink,REPLACE,racing
+65d6a09286a0c99e632a46dd,sports,FOUND,sports
+65d6a09286a0c99e632a46dd,games,REPLACE,pc games
+65d6a09286a0c99e632a46dd,have,REPLACE,travel
+65d6a09286a0c99e632a46dd,family,EXCLUDE,EXCLUDE
+65d6a09286a0c99e632a46dd,outings,REPLACE,hunting
+65d6a09286a0c99e632a46dd,you can,EXCLUDE,EXCLUDE
+65d6a09286a0c99e632a46dd,play,EXCLUDE,EXCLUDE
+65d6a09286a0c99e632a46dd,cornhole,EXCLUDE,EXCLUDE
+65d6a09286a0c99e632a46dd,like you,EXCLUDE,EXCLUDE
+65d6a09286a0c99e632a46dd,know not,EXCLUDE,EXCLUDE
+65d6a09286a0c99e632a46dd,really,EXCLUDE,EXCLUDE
+65d6a09286a0c99e632a46dd,sports,FOUND,sports
+65d6a09286a0c99e632a46dd,but I like,EXCLUDE,EXCLUDE
+65d6a09286a0c99e632a46dd,pick up,EXCLUDE,EXCLUDE
+65d6a09286a0c99e632a46dd,game,REPLACE,gamble
+65d6a09286a0c99e632a46dd,like,EXCLUDE,EXCLUDE
+65d6a09286a0c99e632a46dd,cornhole,EXCLUDE,EXCLUDE
+65d6a09286a0c99e632a46dd,horseshoes,FOUND,horseshoes
+65d6a09286a0c99e632a46dd,you know,EXCLUDE,EXCLUDE
+65d6a09286a0c99e632a46dd,stuff,EXCLUDE,EXCLUDE
+65d6a09286a0c99e632a46dd,like that,EXCLUDE,EXCLUDE
+65d6a09286a0c99e632a46dd,you can,EXCLUDE,EXCLUDE
+65d6a09286a0c99e632a46dd,play,EXCLUDE,EXCLUDE
+65d6a09286a0c99e632a46dd,card,REPLACE,cardio
+65d6a09286a0c99e632a46dd,games,REPLACE,pc games
+65d6a09286a0c99e632a46dd,collect,REPLACE,collecting
+65d6a09286a0c99e632a46dd,collect,REPLACE,collecting
+65d6a09286a0c99e632a46dd,soft,REPLACE,softball
+65d6a09286a0c99e632a46dd,like,EXCLUDE,EXCLUDE
+65d6a09286a0c99e632a46dd,stuff,EXCLUDE,EXCLUDE
+65d6a09286a0c99e632a46dd,binge,REPLACE,boxing
+65d6a09286a0c99e632a46dd,TV,EXCLUDE,EXCLUDE
+65d6a09286a0c99e632a46dd,shows,EXCLUDE,EXCLUDE
+65d6a09286a0c99e632a46dd,try,REPLACE,poetry
+65d6a09286a0c99e632a46dd,new foods,REPLACE,try new foods
+65d6a09286a0c99e632a46dd,Chinese,EXCLUDE,EXCLUDE
+65d6a09286a0c99e632a46dd,restaurants,FOUND,restaurants
+65d6a09286a0c99e632a46dd,hobby,EXCLUDE,EXCLUDE
+65d6a09286a0c99e632a46dd,get help,EXCLUDE,EXCLUDE
+65d6a09286a0c99e632a46dd,others,REPLACE,pottery
+65d6a09286a0c99e632a46dd,volunteer,FOUND,volunteer
+65d6a09286a0c99e632a46dd,Maybe,EXCLUDE,EXCLUDE
+65d54b3b524fcafb543d1b23,crocheting,FOUND,crocheting
+65d54b3b524fcafb543d1b23,running,FOUND,running
+65d54b3b524fcafb543d1b23,cleaning,FOUND,cleaning
+65d54b3b524fcafb543d1b23,rating,REPLACE,creating
+65d54b3b524fcafb543d1b23,hang,REPLACE,tango
+65d54b3b524fcafb543d1b23,out with,EXCLUDE,EXCLUDE
+65d54b3b524fcafb543d1b23,friends,EXCLUDE,EXCLUDE
+65d54b3b524fcafb543d1b23,cooking,FOUND,cooking
+65d54b3b524fcafb543d1b23,bacon,EXCLUDE,EXCLUDE
+65d54b3b524fcafb543d1b23,eating,FOUND,eating
+65d54b3b524fcafb543d1b23,traveling,FOUND,traveling
+65d54b3b524fcafb543d1b23,collecting,FOUND,collecting
+65d54b3b524fcafb543d1b23,items,REPLACE,pilates
+65d54b3b524fcafb543d1b23,knitting,FOUND,knitting
+65d54b3b524fcafb543d1b23,playing,EXCLUDE,EXCLUDE
+65d54b3b524fcafb543d1b23,basketball,FOUND,basketball
+65d54b3b524fcafb543d1b23,playing,EXCLUDE,EXCLUDE
+65d54b3b524fcafb543d1b23,sports,FOUND,sports
+65d54b3b524fcafb543d1b23,swimming,FOUND,swimming
+65d54b3b524fcafb543d1b23,hiking,FOUND,hiking
+65d54b3b524fcafb543d1b23,walking,FOUND,walking
+65d54b3b524fcafb543d1b23,exercising,FOUND,exercising
+65c25cf77dca9d7ca7d9ebdb,reading,FOUND,reading
+65c25cf77dca9d7ca7d9ebdb,listen,REPLACE,last
+65c25cf77dca9d7ca7d9ebdb,music,FOUND,music
+65c25cf77dca9d7ca7d9ebdb,running,FOUND,running
+65c25cf77dca9d7ca7d9ebdb,knitting,FOUND,knitting
+65c25cf77dca9d7ca7d9ebdb,Corinthian,EXCLUDE,EXCLUDE
+65c25cf77dca9d7ca7d9ebdb,racing,FOUND,racing
+65c25cf77dca9d7ca7d9ebdb,watching,FOUND,watching
+65c25cf77dca9d7ca7d9ebdb,fishing,FOUND,fishing
+65c25cf77dca9d7ca7d9ebdb,2018,EXCLUDE,EXCLUDE
+65c25cf77dca9d7ca7d9ebdb,Champion,REPLACE,camping
+65c25cf77dca9d7ca7d9ebdb,fighting,REPLACE,fishing
+65c25cf77dca9d7ca7d9ebdb,exercising,FOUND,exercising
+65c25cf77dca9d7ca7d9ebdb,machine,REPLACE,watching
+65c25cf77dca9d7ca7d9ebdb,movies,EXCLUDE,EXCLUDE
+65c25cf77dca9d7ca7d9ebdb,watching,FOUND,watching
+65c25cf77dca9d7ca7d9ebdb,TV,EXCLUDE,EXCLUDE
+65c25cf77dca9d7ca7d9ebdb,shows,EXCLUDE,EXCLUDE
+65c25cf77dca9d7ca7d9ebdb,drawing,FOUND,drawing
+65c25cf77dca9d7ca7d9ebdb,carpentry,FOUND,carpentry
+65c25cf77dca9d7ca7d9ebdb,meme,EXCLUDE,EXCLUDE
+65c25cf77dca9d7ca7d9ebdb,movie,EXCLUDE,EXCLUDE
+65c25cf77dca9d7ca7d9ebdb,open,EXCLUDE,EXCLUDE
+65c25cf77dca9d7ca7d9ebdb,social,EXCLUDE,EXCLUDE
+65c25cf77dca9d7ca7d9ebdb,media,EXCLUDE,EXCLUDE
+65c25cf77dca9d7ca7d9ebdb,play,EXCLUDE,EXCLUDE
+65c25cf77dca9d7ca7d9ebdb,instruments,EXCLUDE,EXCLUDE
+65c25cf77dca9d7ca7d9ebdb,shopping,FOUND,shopping
+65c25cf77dca9d7ca7d9ebdb,scuba,EXCLUDE,EXCLUDE
+65c25cf77dca9d7ca7d9ebdb,diving,FOUND,diving
+60a48adfe091e410f4eaba34,playing,EXCLUDE,EXCLUDE
+60a48adfe091e410f4eaba34,games,REPLACE,pc games
+60a48adfe091e410f4eaba34,watching,FOUND,watching
+60a48adfe091e410f4eaba34,movies,EXCLUDE,EXCLUDE
+60a48adfe091e410f4eaba34,sewing,FOUND,sewing
+60a48adfe091e410f4eaba34,woodworking,FOUND,woodworking
+60a48adfe091e410f4eaba34,knitting,FOUND,knitting
+60a48adfe091e410f4eaba34,playing an,REPLACE,playing games
+60a48adfe091e410f4eaba34,instrument,EXCLUDE,EXCLUDE
+60a48adfe091e410f4eaba34,making,REPLACE,baking
+60a48adfe091e410f4eaba34,clothes,EXCLUDE,EXCLUDE
+60a48adfe091e410f4eaba34,taking care of,EXCLUDE,EXCLUDE
+60a48adfe091e410f4eaba34,animals,REPLACE,animation
+60a48adfe091e410f4eaba34,playing,EXCLUDE,EXCLUDE
+60a48adfe091e410f4eaba34,sports,FOUND,sports
+60a48adfe091e410f4eaba34,taxidermy,FOUND,taxidermy
+60a48adfe091e410f4eaba34,listen to,EXCLUDE,EXCLUDE
+60a48adfe091e410f4eaba34,music,FOUND,music
+60a48adfe091e410f4eaba34,writing,FOUND,writing
+60a48adfe091e410f4eaba34,screenplays,EXCLUDE,EXCLUDE
+60a48adfe091e410f4eaba34,baking,FOUND,baking
+60a48adfe091e410f4eaba34,tools,EXCLUDE,EXCLUDE

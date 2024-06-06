@@ -1,11 +1,11 @@
 SID,entry,evaluation,replacement
 65cb63e160bb47fbf9349269,dogs,FOUND,dogs
-65cb63e160bb47fbf9349269,hunts,EXCLUDE,EXCLUDE
+65cb63e160bb47fbf9349269,hunts,REPLACE,huntsman
 65cb63e160bb47fbf9349269,rabbits,REPLACE,rabbit
 65cb63e160bb47fbf9349269,turtles,REPLACE,turtle
 65cb63e160bb47fbf9349269,squirrels,REPLACE,squirrel
 65cb63e160bb47fbf9349269,Fortis,REPLACE,loris
-65cb63e160bb47fbf9349269,has,EXCLUDE,EXCLUDE
+65cb63e160bb47fbf9349269,has,REPLACE,hyenas
 65cb63e160bb47fbf9349269,rats,REPLACE,rat
 65cb63e160bb47fbf9349269,opossums,REPLACE,opossum
 65cb63e160bb47fbf9349269,Birds,REPLACE,bird
@@ -17,7 +17,7 @@ SID,entry,evaluation,replacement
 65cb63e160bb47fbf9349269,tigers,REPLACE,tiger
 65cb63e160bb47fbf9349269,elephants,REPLACE,elephant
 65cb63e160bb47fbf9349269,giraffes,REPLACE,giraffe
-65cb63e160bb47fbf9349269,rhinosaurus,EXCLUDE,EXCLUDE
+65cb63e160bb47fbf9349269,rhinosaurus,REPLACE,brachiosaurus
 65cb63e160bb47fbf9349269,snakes,REPLACE,snake
 65cb63e160bb47fbf9349269,Buffalo,REPLACE,buffalo
 65cb63e160bb47fbf9349269,lb,REPLACE,lab
@@ -30,7 +30,7 @@ SID,entry,evaluation,replacement
 65cb63e160bb47fbf9349269,penguins,REPLACE,penguin
 65cb63e160bb47fbf9349269,polar,FOUND,polar
 65cb63e160bb47fbf9349269,bears,REPLACE,bear
-65cb63e160bb47fbf9349269,black,EXCLUDE,EXCLUDE
+65cb63e160bb47fbf9349269,black,REPLACE,blackfly
 65cb63e160bb47fbf9349269,bears,REPLACE,bear
 65cb63e160bb47fbf9349269,brown,REPLACE,bronc
 65cb63e160bb47fbf9349269,bears,REPLACE,bear
@@ -41,7 +41,7 @@ SID,entry,evaluation,replacement
 65cb63e160bb47fbf9349269,crowns,REPLACE,crow
 65cb63e160bb47fbf9349269,seahorses,REPLACE,seahorse
 65cb63e160bb47fbf9349269,dolphins,REPLACE,dolphin
-65cb63e160bb47fbf9349269,memories,EXCLUDE,EXCLUDE
+65cb63e160bb47fbf9349269,memories,REPLACE,loris
 65cb63e160bb47fbf9349269,jellyfish,FOUND,jellyfish
 65d6a09286a0c99e632a46dd,Birds,REPLACE,bird
 65d6a09286a0c99e632a46dd,cats,REPLACE,cat
@@ -83,14 +83,14 @@ SID,entry,evaluation,replacement
 600f9342e7bc5518fa9ca92a,dog,FOUND,dog
 600f9342e7bc5518fa9ca92a,cat,FOUND,cat
 600f9342e7bc5518fa9ca92a,horse,FOUND,horse
-600f9342e7bc5518fa9ca92a,Bayer,EXCLUDE,EXCLUDE
+600f9342e7bc5518fa9ca92a,Bayer,REPLACE,adder
 600f9342e7bc5518fa9ca92a,hiring,REPLACE,whiting
 600f9342e7bc5518fa9ca92a,lion,FOUND,lion
 600f9342e7bc5518fa9ca92a,Snake,REPLACE,snake
 600f9342e7bc5518fa9ca92a,Bird,REPLACE,bird
 600f9342e7bc5518fa9ca92a,betta,FOUND,betta
 600f9342e7bc5518fa9ca92a,fish,FOUND,fish
-600f9342e7bc5518fa9ca92a,drop,EXCLUDE,EXCLUDE
+600f9342e7bc5518fa9ca92a,drop,REPLACE,dragon
 600f9342e7bc5518fa9ca92a,rod,REPLACE,scrod
 600f9342e7bc5518fa9ca92a,turtle,FOUND,turtle
 600f9342e7bc5518fa9ca92a,jellyfish,FOUND,jellyfish
@@ -109,8 +109,8 @@ SID,entry,evaluation,replacement
 65e1f75ab3efd22e847cfbf0,coyote,FOUND,coyote
 65e1f75ab3efd22e847cfbf0,go,REPLACE,goby
 65e1f75ab3efd22e847cfbf0,chicken,FOUND,chicken
-65e1f75ab3efd22e847cfbf0,there,EXCLUDE,EXCLUDE
-65e1f75ab3efd22e847cfbf0,guinea,EXCLUDE,EXCLUDE
+65e1f75ab3efd22e847cfbf0,there,REPLACE,towhee
+65e1f75ab3efd22e847cfbf0,guinea,REPLACE,guineafowl
 65e1f75ab3efd22e847cfbf0,pig,FOUND,pig
 65e1f75ab3efd22e847cfbf0,penguin,FOUND,penguin
 65e1f75ab3efd22e847cfbf0,made,REPLACE,mare
@@ -118,7 +118,7 @@ SID,entry,evaluation,replacement
 65e1f75ab3efd22e847cfbf0,hear it,REPLACE,hermit
 65e1f75ab3efd22e847cfbf0,wizard,REPLACE,lizard
 65e1f75ab3efd22e847cfbf0,Akita,REPLACE,akita
-65e1f75ab3efd22e847cfbf0,Molly,EXCLUDE,EXCLUDE
+65e1f75ab3efd22e847cfbf0,Molly,REPLACE,pollywog
 65e1f75ab3efd22e847cfbf0,moon,REPLACE,loon
 65e1f75ab3efd22e847cfbf0,box,REPLACE,ox
 65e1f75ab3efd22e847cfbf0,hair,REPLACE,hart
@@ -136,10 +136,10 @@ SID,entry,evaluation,replacement
 65e1f75ab3efd22e847cfbf0,that,REPLACE,hart
 65e1f75ab3efd22e847cfbf0,beagle,FOUND,beagle
 65e1f75ab3efd22e847cfbf0,beaver,FOUND,beaver
-65e1f75ab3efd22e847cfbf0,trestique,EXCLUDE,EXCLUDE
-65e1f75ab3efd22e847cfbf0,what else,EXCLUDE,EXCLUDE
-65e1f75ab3efd22e847cfbf0,what else,EXCLUDE,EXCLUDE
-65e1f75ab3efd22e847cfbf0,what else,EXCLUDE,EXCLUDE
+65e1f75ab3efd22e847cfbf0,trestique,REPLACE,westie
+65e1f75ab3efd22e847cfbf0,what else,REPLACE,whale
+65e1f75ab3efd22e847cfbf0,what else,REPLACE,whale
+65e1f75ab3efd22e847cfbf0,what else,REPLACE,whale
 65e1f75ab3efd22e847cfbf0,Panda,REPLACE,panda
 65e1f75ab3efd22e847cfbf0,Cobra,REPLACE,cobra
 65e1f75ab3efd22e847cfbf0,camel,FOUND,camel
@@ -156,13 +156,13 @@ SID,entry,evaluation,replacement
 65e1f75ab3efd22e847cfbf0,zebra,FOUND,zebra
 65e1f75ab3efd22e847cfbf0,Mouse,REPLACE,mouse
 65e862f844f1b7a803bb3c5a,gorilla,FOUND,gorilla
-65e862f844f1b7a803bb3c5a,Warriors,EXCLUDE,EXCLUDE
+65e862f844f1b7a803bb3c5a,Warriors,REPLACE,harrier
 65e862f844f1b7a803bb3c5a,alligator,FOUND,alligator
 65e862f844f1b7a803bb3c5a,bald,EXCLUDE,EXCLUDE
 65e862f844f1b7a803bb3c5a,eagle,FOUND,eagle
 65e862f844f1b7a803bb3c5a,wolf,FOUND,wolf
 65e862f844f1b7a803bb3c5a,dear,FOUND,dear
-65e862f844f1b7a803bb3c5a,Hearts,EXCLUDE,EXCLUDE
+65e862f844f1b7a803bb3c5a,Hearts,REPLACE,bearcat
 65e862f844f1b7a803bb3c5a,monkey,FOUND,monkey
 65e862f844f1b7a803bb3c5a,giraffe,FOUND,giraffe
 65e862f844f1b7a803bb3c5a,kangaroo,FOUND,kangaroo
@@ -172,9 +172,9 @@ SID,entry,evaluation,replacement
 65e862f844f1b7a803bb3c5a,hippopotamus,FOUND,hippopotamus
 65e862f844f1b7a803bb3c5a,Benjamin,EXCLUDE,EXCLUDE
 65e862f844f1b7a803bb3c5a,shop,REPLACE,sheep
-65e862f844f1b7a803bb3c5a,where,EXCLUDE,EXCLUDE
+65e862f844f1b7a803bb3c5a,where,REPLACE,towhee
 65e862f844f1b7a803bb3c5a,tiger,FOUND,tiger
-65e862f844f1b7a803bb3c5a,Tamil,EXCLUDE,EXCLUDE
+65e862f844f1b7a803bb3c5a,Tamil,REPLACE,snail
 65e862f844f1b7a803bb3c5a,dolphin,FOUND,dolphin
 65e862f844f1b7a803bb3c5a,elephants,REPLACE,elephant
 65e862f844f1b7a803bb3c5a,Fox,REPLACE,ox
@@ -189,7 +189,7 @@ SID,entry,evaluation,replacement
 65e862f844f1b7a803bb3c5a,stop,REPLACE,stork
 65e862f844f1b7a803bb3c5a,toys,REPLACE,tody
 65e862f844f1b7a803bb3c5a,m,EXCLUDE,EXCLUDE
-65e862f844f1b7a803bb3c5a,occupying,EXCLUDE,EXCLUDE
+65e862f844f1b7a803bb3c5a,occupying,REPLACE,porcupine
 65e862f844f1b7a803bb3c5a,rabbits,REPLACE,rabbit
 65e862f844f1b7a803bb3c5a,pigeon,FOUND,pigeon
 65e862f844f1b7a803bb3c5a,fish,FOUND,fish
@@ -208,8 +208,8 @@ SID,entry,evaluation,replacement
 65e862f844f1b7a803bb3c5a,Doc,EXCLUDE,EXCLUDE
 65e862f844f1b7a803bb3c5a,raccoon,FOUND,raccoon
 65e862f844f1b7a803bb3c5a,baboon,FOUND,baboon
-65e862f844f1b7a803bb3c5a,rocks,EXCLUDE,EXCLUDE
-65e862f844f1b7a803bb3c5a,blue,EXCLUDE,EXCLUDE
+65e862f844f1b7a803bb3c5a,rocks,REPLACE,rockfish
+65e862f844f1b7a803bb3c5a,blue,REPLACE,bluefin
 65e862f844f1b7a803bb3c5a,whale,FOUND,whale
 65e862f844f1b7a803bb3c5a,cock,FOUND,cock
 6081806ab383aa89f6c61940,dog,FOUND,dog
@@ -234,7 +234,7 @@ SID,entry,evaluation,replacement
 6081806ab383aa89f6c61940,jaguar,FOUND,jaguar
 6081806ab383aa89f6c61940,cheetah,FOUND,cheetah
 6081806ab383aa89f6c61940,Panther,REPLACE,panther
-6081806ab383aa89f6c61940,mountain,EXCLUDE,EXCLUDE
+6081806ab383aa89f6c61940,mountain,REPLACE,mountain cat
 6081806ab383aa89f6c61940,lion,FOUND,lion
 6081806ab383aa89f6c61940,ostrich,FOUND,ostrich
 6081806ab383aa89f6c61940,flamingo,FOUND,flamingo
@@ -259,7 +259,7 @@ SID,entry,evaluation,replacement
 6081806ab383aa89f6c61940,sheep,FOUND,sheep
 6081806ab383aa89f6c61940,dinosaur,FOUND,dinosaur
 6081806ab383aa89f6c61940,you know,EXCLUDE,EXCLUDE
-63619eb02e5bd8f4f7bd138a,CatDog,EXCLUDE,EXCLUDE
+63619eb02e5bd8f4f7bd138a,CatDog,REPLACE,warthog
 63619eb02e5bd8f4f7bd138a,horse,FOUND,horse
 63619eb02e5bd8f4f7bd138a,sheep,FOUND,sheep
 63619eb02e5bd8f4f7bd138a,duck,FOUND,duck
@@ -340,7 +340,7 @@ SID,entry,evaluation,replacement
 65b15afd94153c1f50c92493,wolf,FOUND,wolf
 65b15afd94153c1f50c92493,octopus,FOUND,octopus
 65b15afd94153c1f50c92493,lizard,FOUND,lizard
-65b15afd94153c1f50c92493,strong,EXCLUDE,EXCLUDE
+65b15afd94153c1f50c92493,strong,REPLACE,sturgeon
 65b15afd94153c1f50c92493,Pig,REPLACE,pig
 65b15afd94153c1f50c92493,raccoon,FOUND,raccoon
 65b15afd94153c1f50c92493,order,REPLACE,ormer
@@ -357,7 +357,7 @@ SID,entry,evaluation,replacement
 65b15afd94153c1f50c92493,online,EXCLUDE,EXCLUDE
 65b15afd94153c1f50c92493,cow,FOUND,cow
 65b15afd94153c1f50c92493,fast,EXCLUDE,EXCLUDE
-65b15afd94153c1f50c92493,food,EXCLUDE,EXCLUDE
+65b15afd94153c1f50c92493,food,REPLACE,foxhound
 65b15afd94153c1f50c92493,camel,FOUND,camel
 65b15afd94153c1f50c92493,kangaroo,FOUND,kangaroo
 65b15afd94153c1f50c92493,cheetah,FOUND,cheetah
@@ -396,7 +396,7 @@ SID,entry,evaluation,replacement
 65d54b3b524fcafb543d1b23,panda,FOUND,panda
 65d54b3b524fcafb543d1b23,Kappa Kappa,EXCLUDE,EXCLUDE
 65d54b3b524fcafb543d1b23,Kappa Kappa,EXCLUDE,EXCLUDE
-65d54b3b524fcafb543d1b23,Berra,EXCLUDE,EXCLUDE
+65d54b3b524fcafb543d1b23,Berra,REPLACE,terrapin
 6073e0d481953bbd2cd61145,Jaguar,REPLACE,jaguar
 6073e0d481953bbd2cd61145,tiger,FOUND,tiger
 6073e0d481953bbd2cd61145,alligator,FOUND,alligator
@@ -410,13 +410,13 @@ SID,entry,evaluation,replacement
 6073e0d481953bbd2cd61145,mice,FOUND,mice
 6073e0d481953bbd2cd61145,Birds,REPLACE,bird
 6073e0d481953bbd2cd61145,snake,FOUND,snake
-6073e0d481953bbd2cd61145,kingroot,EXCLUDE,EXCLUDE
+6073e0d481953bbd2cd61145,kingroot,REPLACE,kangaroo
 6073e0d481953bbd2cd61145,zebra,FOUND,zebra
 6073e0d481953bbd2cd61145,donkey,FOUND,donkey
 6073e0d481953bbd2cd61145,bear,FOUND,bear
 6073e0d481953bbd2cd61145,polar,FOUND,polar
 6073e0d481953bbd2cd61145,bear,FOUND,bear
-6073e0d481953bbd2cd61145,black,EXCLUDE,EXCLUDE
+6073e0d481953bbd2cd61145,black,REPLACE,blackfly
 6073e0d481953bbd2cd61145,bear,FOUND,bear
 6073e0d481953bbd2cd61145,panda,FOUND,panda
 6073e0d481953bbd2cd61145,bear,FOUND,bear
@@ -433,9 +433,9 @@ SID,entry,evaluation,replacement
 654108d38225e168af4b1fa0,bear,FOUND,bear
 654108d38225e168af4b1fa0,chinchilla,FOUND,chinchilla
 654108d38225e168af4b1fa0,hamster,FOUND,hamster
-654108d38225e168af4b1fa0,guinea,EXCLUDE,EXCLUDE
+654108d38225e168af4b1fa0,guinea,REPLACE,guineafowl
 654108d38225e168af4b1fa0,pig,FOUND,pig
-654108d38225e168af4b1fa0,wrapped,EXCLUDE,EXCLUDE
+654108d38225e168af4b1fa0,wrapped,REPLACE,crappie
 654108d38225e168af4b1fa0,Mouse,REPLACE,mouse
 654108d38225e168af4b1fa0,bird,FOUND,bird
 654108d38225e168af4b1fa0,alligator,FOUND,alligator
@@ -455,7 +455,7 @@ SID,entry,evaluation,replacement
 654108d38225e168af4b1fa0,chicken,FOUND,chicken
 654108d38225e168af4b1fa0,lamb,FOUND,lamb
 654108d38225e168af4b1fa0,penguin,FOUND,penguin
-63e802622f8052bd67d6c5f0,at dog,EXCLUDE,EXCLUDE
+63e802622f8052bd67d6c5f0,at dog,REPLACE,lapdog
 63e802622f8052bd67d6c5f0,giraffe,FOUND,giraffe
 63e802622f8052bd67d6c5f0,zebra,FOUND,zebra
 63e802622f8052bd67d6c5f0,monkey,FOUND,monkey
@@ -491,7 +491,7 @@ SID,entry,evaluation,replacement
 65e358d9c5e3ee026268b2a7,zebra,FOUND,zebra
 65e358d9c5e3ee026268b2a7,elephant,FOUND,elephant
 65e358d9c5e3ee026268b2a7,giraffe,FOUND,giraffe
-65e358d9c5e3ee026268b2a7,prairie,EXCLUDE,EXCLUDE
+65e358d9c5e3ee026268b2a7,prairie,REPLACE,prairie dog
 65e358d9c5e3ee026268b2a7,dog,FOUND,dog
 65e358d9c5e3ee026268b2a7,lizards,REPLACE,lizard
 65e358d9c5e3ee026268b2a7,eat,REPLACE,rat
@@ -524,7 +524,7 @@ SID,entry,evaluation,replacement
 65e358d9c5e3ee026268b2a7,bears,REPLACE,bear
 65e358d9c5e3ee026268b2a7,brown,REPLACE,bronc
 65e358d9c5e3ee026268b2a7,bears,REPLACE,bear
-65e358d9c5e3ee026268b2a7,black,EXCLUDE,EXCLUDE
+65e358d9c5e3ee026268b2a7,black,REPLACE,blackfly
 65e358d9c5e3ee026268b2a7,bears,REPLACE,bear
 65e358d9c5e3ee026268b2a7,ferrets,REPLACE,ferret
 65e358d9c5e3ee026268b2a7,kangaroos,REPLACE,kangaroo
@@ -548,7 +548,7 @@ SID,entry,evaluation,replacement
 5f5aa60bef062519ff711fe6,bear,FOUND,bear
 5f5aa60bef062519ff711fe6,brown,REPLACE,bronc
 5f5aa60bef062519ff711fe6,bear,FOUND,bear
-5f5aa60bef062519ff711fe6,black,EXCLUDE,EXCLUDE
+5f5aa60bef062519ff711fe6,black,REPLACE,blackfly
 5f5aa60bef062519ff711fe6,bear,FOUND,bear
 5f5aa60bef062519ff711fe6,squirrel,FOUND,squirrel
 5f5aa60bef062519ff711fe6,meerkat,FOUND,meerkat
@@ -573,7 +573,7 @@ SID,entry,evaluation,replacement
 5885f97f41da4500014d3645,cat,FOUND,cat
 5885f97f41da4500014d3645,lion,FOUND,lion
 5885f97f41da4500014d3645,higher,REPLACE,chigger
-5885f97f41da4500014d3645,Spanx,EXCLUDE,EXCLUDE
+5885f97f41da4500014d3645,Spanx,REPLACE,prawn
 5885f97f41da4500014d3645,cheetah,FOUND,cheetah
 5885f97f41da4500014d3645,zebra,FOUND,zebra
 5885f97f41da4500014d3645,elephant,FOUND,elephant
@@ -633,9 +633,9 @@ SID,entry,evaluation,replacement
 5d7ff4aa50fda7001a863736,bear,FOUND,bear
 5d7ff4aa50fda7001a863736,porcupine,FOUND,porcupine
 5d7ff4aa50fda7001a863736,are,REPLACE,mare
-5d7ff4aa50fda7001a863736,noceros,EXCLUDE,EXCLUDE
+5d7ff4aa50fda7001a863736,noceros,REPLACE,rhinoceros
 5d7ff4aa50fda7001a863736,hippo,FOUND,hippo
-5d7ff4aa50fda7001a863736,mountain,EXCLUDE,EXCLUDE
+5d7ff4aa50fda7001a863736,mountain,REPLACE,mountain cat
 5d7ff4aa50fda7001a863736,lion,FOUND,lion
 5d7ff4aa50fda7001a863736,Panther,REPLACE,panther
 5d7ff4aa50fda7001a863736,leopard,FOUND,leopard
@@ -644,7 +644,7 @@ SID,entry,evaluation,replacement
 5d7ff4aa50fda7001a863736,sea,REPLACE,seal
 5d7ff4aa50fda7001a863736,lion,FOUND,lion
 5d7ff4aa50fda7001a863736,walrus,FOUND,walrus
-5d7ff4aa50fda7001a863736,a well,EXCLUDE,EXCLUDE
+5d7ff4aa50fda7001a863736,a well,REPLACE,gazelle
 5d7ff4aa50fda7001a863736,shark,FOUND,shark
 5d7ff4aa50fda7001a863736,mouse,FOUND,mouse
 5d7ff4aa50fda7001a863736,rat,FOUND,rat
@@ -665,7 +665,7 @@ SID,entry,evaluation,replacement
 610c59ee34cc312d7ca55e45,hippo,FOUND,hippo
 610c59ee34cc312d7ca55e45,rhinoceros,FOUND,rhinoceros
 610c59ee34cc312d7ca55e45,giraffe,FOUND,giraffe
-610c59ee34cc312d7ca55e45,address,EXCLUDE,EXCLUDE
+610c59ee34cc312d7ca55e45,address,REPLACE,adder
 610c59ee34cc312d7ca55e45,zebra,FOUND,zebra
 610c59ee34cc312d7ca55e45,beaver,FOUND,beaver
 610c59ee34cc312d7ca55e45,platypus,FOUND,platypus
@@ -677,7 +677,7 @@ SID,entry,evaluation,replacement
 610c59ee34cc312d7ca55e45,bear,FOUND,bear
 610c59ee34cc312d7ca55e45,brown,REPLACE,bronc
 610c59ee34cc312d7ca55e45,bear,FOUND,bear
-610c59ee34cc312d7ca55e45,black,EXCLUDE,EXCLUDE
+610c59ee34cc312d7ca55e45,black,REPLACE,blackfly
 610c59ee34cc312d7ca55e45,bear,FOUND,bear
 610c59ee34cc312d7ca55e45,well,REPLACE,whelp
 610c59ee34cc312d7ca55e45,dolphin,FOUND,dolphin
@@ -685,14 +685,14 @@ SID,entry,evaluation,replacement
 610c59ee34cc312d7ca55e45,salmon,FOUND,salmon
 610c59ee34cc312d7ca55e45,turkey,FOUND,turkey
 610c59ee34cc312d7ca55e45,iguana,FOUND,iguana
-6596a5cad60ef105b6c18897,German,EXCLUDE,EXCLUDE
+6596a5cad60ef105b6c18897,German,REPLACE,doberman
 6596a5cad60ef105b6c18897,Shepherd,REPLACE,shepherd
-6596a5cad60ef105b6c18897,Golden,EXCLUDE,EXCLUDE
+6596a5cad60ef105b6c18897,Golden,REPLACE,rodent
 6596a5cad60ef105b6c18897,Retriever,REPLACE,retriever
 6596a5cad60ef105b6c18897,Shiba,EXCLUDE,EXCLUDE
 6596a5cad60ef105b6c18897,Inu,REPLACE,gnu
 6596a5cad60ef105b6c18897,Mastiff,REPLACE,mastiff
-6596a5cad60ef105b6c18897,Yorkshire,EXCLUDE,EXCLUDE
+6596a5cad60ef105b6c18897,Yorkshire,REPLACE,yorkie
 6596a5cad60ef105b6c18897,Terrier,REPLACE,terrier
 6596a5cad60ef105b6c18897,Saint,REPLACE,ant
 6596a5cad60ef105b6c18897,Bernard,REPLACE,gurnard
@@ -701,13 +701,13 @@ SID,entry,evaluation,replacement
 6596a5cad60ef105b6c18897,cheetah,FOUND,cheetah
 6596a5cad60ef105b6c18897,tiger,FOUND,tiger
 6596a5cad60ef105b6c18897,lion,FOUND,lion
-6596a5cad60ef105b6c18897,arctic,EXCLUDE,EXCLUDE
+6596a5cad60ef105b6c18897,arctic,REPLACE,arctic fox
 6596a5cad60ef105b6c18897,fox,FOUND,fox
 6596a5cad60ef105b6c18897,polar,FOUND,polar
 6596a5cad60ef105b6c18897,bear,FOUND,bear
 6596a5cad60ef105b6c18897,brown,REPLACE,bronc
 6596a5cad60ef105b6c18897,bear,FOUND,bear
-6596a5cad60ef105b6c18897,black,EXCLUDE,EXCLUDE
+6596a5cad60ef105b6c18897,black,REPLACE,blackfly
 6596a5cad60ef105b6c18897,bears,REPLACE,bear
 6596a5cad60ef105b6c18897,giraffes,REPLACE,giraffe
 6596a5cad60ef105b6c18897,elephant,FOUND,elephant
@@ -715,12 +715,12 @@ SID,entry,evaluation,replacement
 6596a5cad60ef105b6c18897,I don't know if,EXCLUDE,EXCLUDE
 6596a5cad60ef105b6c18897,they're,EXCLUDE,EXCLUDE
 6596a5cad60ef105b6c18897,considered,EXCLUDE,EXCLUDE
-6596a5cad60ef105b6c18897,animals,EXCLUDE,EXCLUDE
+6596a5cad60ef105b6c18897,animals,REPLACE,mammal
 6596a5cad60ef105b6c18897,squirrels,REPLACE,squirrel
 6596a5cad60ef105b6c18897,Eagles,REPLACE,eagle
 6596a5cad60ef105b6c18897,parrots,REPLACE,parrot
 6596a5cad60ef105b6c18897,geese,FOUND,geese
-6596a5cad60ef105b6c18897,Docs,EXCLUDE,EXCLUDE
+6596a5cad60ef105b6c18897,Docs,REPLACE,locust
 6596a5cad60ef105b6c18897,dear,FOUND,dear
 6596a5cad60ef105b6c18897,moose,FOUND,moose
 6596a5cad60ef105b6c18897,elk,FOUND,elk
@@ -729,7 +729,7 @@ SID,entry,evaluation,replacement
 6596a5cad60ef105b6c18897,antelope,FOUND,antelope
 6596a5cad60ef105b6c18897,Ragdoll,EXCLUDE,EXCLUDE
 6596a5cad60ef105b6c18897,cats,REPLACE,cat
-6596a5cad60ef105b6c18897,Jindo,EXCLUDE,EXCLUDE
+6596a5cad60ef105b6c18897,Jindo,REPLACE,rhino
 6596a5cad60ef105b6c18897,dogs,FOUND,dogs
 6596a5cad60ef105b6c18897,chameleon,FOUND,chameleon
 6596a5cad60ef105b6c18897,dragons,REPLACE,dragon
@@ -746,17 +746,17 @@ SID,entry,evaluation,replacement
 65cc19b4b3d48a22dfc6756d,flamingo,FOUND,flamingo
 65cc19b4b3d48a22dfc6756d,dolphin,FOUND,dolphin
 65cc19b4b3d48a22dfc6756d,shark,FOUND,shark
-65cc19b4b3d48a22dfc6756d,Allison,EXCLUDE,EXCLUDE
-65cc19b4b3d48a22dfc6756d,maker,EXCLUDE,EXCLUDE
+65cc19b4b3d48a22dfc6756d,Allison,REPLACE,lion
+65cc19b4b3d48a22dfc6756d,maker,REPLACE,mackerel
 65cc19b4b3d48a22dfc6756d,you,EXCLUDE,EXCLUDE
 65cc19b4b3d48a22dfc6756d,win,REPLACE,swine
-65cc19b4b3d48a22dfc6756d,weather,EXCLUDE,EXCLUDE
+65cc19b4b3d48a22dfc6756d,weather,REPLACE,wheatear
 65cc19b4b3d48a22dfc6756d,panda,FOUND,panda
 65cc19b4b3d48a22dfc6756d,panda,FOUND,panda
 65cc19b4b3d48a22dfc6756d,meerkat,FOUND,meerkat
-65cc19b4b3d48a22dfc6756d,Howell,EXCLUDE,EXCLUDE
+65cc19b4b3d48a22dfc6756d,Howell,REPLACE,owl
 65cc19b4b3d48a22dfc6756d,Virginia,EXCLUDE,EXCLUDE
-65cc19b4b3d48a22dfc6756d,Chrome,EXCLUDE,EXCLUDE
+65cc19b4b3d48a22dfc6756d,Chrome,REPLACE,roe
 65cc19b4b3d48a22dfc6756d,Raven,REPLACE,raven
 65cc19b4b3d48a22dfc6756d,eagle,FOUND,eagle
 65cc19b4b3d48a22dfc6756d,Squirrel,REPLACE,squirrel
@@ -782,7 +782,7 @@ SID,entry,evaluation,replacement
 63ea4ab1ce4168cbe9f63775,order,REPLACE,ormer
 63ea4ab1ce4168cbe9f63775,groundhog,FOUND,groundhog
 63ea4ab1ce4168cbe9f63775,raccoon,FOUND,raccoon
-63ea4ab1ce4168cbe9f63775,your,EXCLUDE,EXCLUDE
+63ea4ab1ce4168cbe9f63775,your,REPLACE,yorkie
 63ea4ab1ce4168cbe9f63775,boots,REPLACE,coot
 63ea4ab1ce4168cbe9f63775,lion,FOUND,lion
 63ea4ab1ce4168cbe9f63775,zebra,FOUND,zebra
@@ -828,7 +828,7 @@ SID,entry,evaluation,replacement
 6001487015e5f62961639e7d,jaguar,FOUND,jaguar
 6001487015e5f62961639e7d,cheetah,FOUND,cheetah
 6001487015e5f62961639e7d,Panther,REPLACE,panther
-6001487015e5f62961639e7d,mountain,EXCLUDE,EXCLUDE
+6001487015e5f62961639e7d,mountain,REPLACE,mountain cat
 6001487015e5f62961639e7d,lion,FOUND,lion
 6001487015e5f62961639e7d,capybara,FOUND,capybara
 6001487015e5f62961639e7d,anteater,FOUND,anteater
@@ -847,7 +847,7 @@ SID,entry,evaluation,replacement
 6554de7d91c1b1bf51104fda,octopus,FOUND,octopus
 6554de7d91c1b1bf51104fda,Birds,REPLACE,bird
 6554de7d91c1b1bf51104fda,monkeys,FOUND,monkeys
-6554de7d91c1b1bf51104fda,Wolf's,EXCLUDE,EXCLUDE
+6554de7d91c1b1bf51104fda,Wolf's,REPLACE,wolf
 6554de7d91c1b1bf51104fda,tigers,REPLACE,tiger
 6554de7d91c1b1bf51104fda,go,REPLACE,goby
 6554de7d91c1b1bf51104fda,chickens,REPLACE,chicken
@@ -855,34 +855,34 @@ SID,entry,evaluation,replacement
 6554de7d91c1b1bf51104fda,herbivores,EXCLUDE,EXCLUDE
 6554de7d91c1b1bf51104fda,alligators,REPLACE,alligator
 6554de7d91c1b1bf51104fda,fish,FOUND,fish
-6554de7d91c1b1bf51104fda,Kingdom,EXCLUDE,EXCLUDE
-6554de7d91c1b1bf51104fda,Forest,EXCLUDE,EXCLUDE
+6554de7d91c1b1bf51104fda,Kingdom,REPLACE,dingo
+6554de7d91c1b1bf51104fda,Forest,REPLACE,tortes
 6554de7d91c1b1bf51104fda,Wild,EXCLUDE,EXCLUDE
 6554de7d91c1b1bf51104fda,Zeus,REPLACE,xerus
 6554de7d91c1b1bf51104fda,nocturnal,EXCLUDE,EXCLUDE
 6554de7d91c1b1bf51104fda,predator-prey,EXCLUDE,EXCLUDE
 6554de7d91c1b1bf51104fda,hibernation,EXCLUDE,EXCLUDE
-6554de7d91c1b1bf51104fda,carnivore,EXCLUDE,EXCLUDE
+6554de7d91c1b1bf51104fda,carnivore,REPLACE,omnivore
 6554de7d91c1b1bf51104fda,zoology,EXCLUDE,EXCLUDE
 6554de7d91c1b1bf51104fda,extinct,EXCLUDE,EXCLUDE
 6554de7d91c1b1bf51104fda,cold,REPLACE,cod
-6554de7d91c1b1bf51104fda,blooded,EXCLUDE,EXCLUDE
+6554de7d91c1b1bf51104fda,blooded,REPLACE,bloodhound
 6554de7d91c1b1bf51104fda,penguin,FOUND,penguin
-6554de7d91c1b1bf51104fda,aquatic,EXCLUDE,EXCLUDE
+6554de7d91c1b1bf51104fda,aquatic,REPLACE,quail
 6554de7d91c1b1bf51104fda,gorillas,REPLACE,gorilla
 6554de7d91c1b1bf51104fda,kangaroos,REPLACE,kangaroo
 6554de7d91c1b1bf51104fda,flamingos,REPLACE,flamingo
 6554de7d91c1b1bf51104fda,squids,REPLACE,squid
 6554de7d91c1b1bf51104fda,starfish,FOUND,starfish
 6554de7d91c1b1bf51104fda,invertebrates,REPLACE,invertebrate
-6554de7d91c1b1bf51104fda,ecosystem,EXCLUDE,EXCLUDE
-6554de7d91c1b1bf51104fda,wilderness,EXCLUDE,EXCLUDE
-6554de7d91c1b1bf51104fda,food,EXCLUDE,EXCLUDE
-6554de7d91c1b1bf51104fda,chain,EXCLUDE,EXCLUDE
-6554de7d91c1b1bf51104fda,Alpha,EXCLUDE,EXCLUDE
+6554de7d91c1b1bf51104fda,ecosystem,REPLACE,oyster
+6554de7d91c1b1bf51104fda,wilderness,REPLACE,wildebeest
+6554de7d91c1b1bf51104fda,food,REPLACE,foxhound
+6554de7d91c1b1bf51104fda,chain,REPLACE,urchin
+6554de7d91c1b1bf51104fda,Alpha,REPLACE,elephant
 6554de7d91c1b1bf51104fda,Omega,EXCLUDE,EXCLUDE
 6554de7d91c1b1bf51104fda,Run,EXCLUDE,EXCLUDE
-6554de7d91c1b1bf51104fda,instinct,EXCLUDE,EXCLUDE
+6554de7d91c1b1bf51104fda,instinct,REPLACE,insect
 60a48adfe091e410f4eaba34,cats,REPLACE,cat
 60a48adfe091e410f4eaba34,dogs,FOUND,dogs
 60a48adfe091e410f4eaba34,lions,FOUND,lions
@@ -915,21 +915,21 @@ SID,entry,evaluation,replacement
 65c25cf77dca9d7ca7d9ebdb,chimpanzees,REPLACE,chimpanzee
 65c25cf77dca9d7ca7d9ebdb,orangutans,REPLACE,orangutan
 65c25cf77dca9d7ca7d9ebdb,frog,FOUND,frog
-65c25cf77dca9d7ca7d9ebdb,Apes,EXCLUDE,EXCLUDE
-65c25cf77dca9d7ca7d9ebdb,carbs,EXCLUDE,EXCLUDE
+65c25cf77dca9d7ca7d9ebdb,Apes,REPLACE,person
+65c25cf77dca9d7ca7d9ebdb,carbs,REPLACE,scarab
 65c25cf77dca9d7ca7d9ebdb,catfish,FOUND,catfish
-65c25cf77dca9d7ca7d9ebdb,Gracie,EXCLUDE,EXCLUDE
+65c25cf77dca9d7ca7d9ebdb,Gracie,REPLACE,ratite
 65c25cf77dca9d7ca7d9ebdb,Parrish,REPLACE,oarfish
 65c25cf77dca9d7ca7d9ebdb,polar,FOUND,polar
 65c25cf77dca9d7ca7d9ebdb,bears,REPLACE,bear
-65c25cf77dca9d7ca7d9ebdb,black,EXCLUDE,EXCLUDE
+65c25cf77dca9d7ca7d9ebdb,black,REPLACE,blackfly
 65c25cf77dca9d7ca7d9ebdb,bears,REPLACE,bear
 65c25cf77dca9d7ca7d9ebdb,Brown,REPLACE,crow
 65c25cf77dca9d7ca7d9ebdb,Bearing,REPLACE,yearling
 65c25cf77dca9d7ca7d9ebdb,kangaroo,FOUND,kangaroo
 65c25cf77dca9d7ca7d9ebdb,rats,REPLACE,rat
 65c25cf77dca9d7ca7d9ebdb,soaring,REPLACE,starling
-65c25cf77dca9d7ca7d9ebdb,right on,EXCLUDE,EXCLUDE
+65c25cf77dca9d7ca7d9ebdb,right on,REPLACE,bighorn
 65c25cf77dca9d7ca7d9ebdb,cobras,REPLACE,cobra
 65c25cf77dca9d7ca7d9ebdb,cottonmouth,FOUND,cottonmouth
 65c25cf77dca9d7ca7d9ebdb,groundhogs,REPLACE,groundhog
@@ -943,11 +943,11 @@ SID,entry,evaluation,replacement
 65c25cf77dca9d7ca7d9ebdb,jaguars,REPLACE,jaguar
 65c25cf77dca9d7ca7d9ebdb,cheetahs,REPLACE,cheetah
 65c25cf77dca9d7ca7d9ebdb,Lions,REPLACE,lions
-65c25cf77dca9d7ca7d9ebdb,has,EXCLUDE,EXCLUDE
+65c25cf77dca9d7ca7d9ebdb,has,REPLACE,hyenas
 65c25cf77dca9d7ca7d9ebdb,elephants,REPLACE,elephant
-65c25cf77dca9d7ca7d9ebdb,seabras,EXCLUDE,EXCLUDE
+65c25cf77dca9d7ca7d9ebdb,seabras,REPLACE,sea bass
 65c25cf77dca9d7ca7d9ebdb,horses,REPLACE,horse
-65c25cf77dca9d7ca7d9ebdb,drafts,EXCLUDE,EXCLUDE
+65c25cf77dca9d7ca7d9ebdb,drafts,REPLACE,rat
 65c25cf77dca9d7ca7d9ebdb,seals,REPLACE,seal
 65c25cf77dca9d7ca7d9ebdb,lionfish,FOUND,lionfish
 65c25cf77dca9d7ca7d9ebdb,orcas,REPLACE,orca
@@ -982,7 +982,7 @@ SID,entry,evaluation,replacement
 629e241d171ec6698e05f149,groundhog,FOUND,groundhog
 629e241d171ec6698e05f149,mole,FOUND,mole
 629e241d171ec6698e05f149,monkey,FOUND,monkey
-629e241d171ec6698e05f149,CatDog,EXCLUDE,EXCLUDE
+629e241d171ec6698e05f149,CatDog,REPLACE,warthog
 629e241d171ec6698e05f149,lizard,FOUND,lizard
 629e241d171ec6698e05f149,crocodile,FOUND,crocodile
 629e241d171ec6698e05f149,gecko,FOUND,gecko
@@ -995,28 +995,28 @@ SID,entry,evaluation,replacement
 629e241d171ec6698e05f149,mackerel,FOUND,mackerel
 629e241d171ec6698e05f149,shrimp,FOUND,shrimp
 629e241d171ec6698e05f149,Lobster,REPLACE,lobster
-629e241d171ec6698e05f149,king,EXCLUDE,EXCLUDE
+629e241d171ec6698e05f149,king,REPLACE,takin
 629e241d171ec6698e05f149,crab,FOUND,crab
-629e241d171ec6698e05f149,blue,EXCLUDE,EXCLUDE
+629e241d171ec6698e05f149,blue,REPLACE,bluefin
 629e241d171ec6698e05f149,crab,FOUND,crab
 629e241d171ec6698e05f149,spider,FOUND,spider
 629e241d171ec6698e05f149,crab,FOUND,crab
 629e241d171ec6698e05f149,spider,FOUND,spider
 629e241d171ec6698e05f149,stag,FOUND,stag
 629e241d171ec6698e05f149,beetle,FOUND,beetle
-629e241d171ec6698e05f149,black,EXCLUDE,EXCLUDE
+629e241d171ec6698e05f149,black,REPLACE,blackfly
 629e241d171ec6698e05f149,beetle,FOUND,beetle
 629e241d171ec6698e05f149,ladybug,FOUND,ladybug
 629e241d171ec6698e05f149,silverfish,FOUND,silverfish
 629e241d171ec6698e05f149,butterfly,FOUND,butterfly
 60d731567049e5132e3cc4d4,dog,FOUND,dog
 60d731567049e5132e3cc4d4,cat,FOUND,cat
-60d731567049e5132e3cc4d4,turtle and,EXCLUDE,EXCLUDE
+60d731567049e5132e3cc4d4,turtle and,REPLACE,turtle dove
 60d731567049e5132e3cc4d4,iguana,FOUND,iguana
 60d731567049e5132e3cc4d4,lion,FOUND,lion
 60d731567049e5132e3cc4d4,tiger,FOUND,tiger
 60d731567049e5132e3cc4d4,cheetah,FOUND,cheetah
-60d731567049e5132e3cc4d4,mountain,EXCLUDE,EXCLUDE
+60d731567049e5132e3cc4d4,mountain,REPLACE,mountain cat
 60d731567049e5132e3cc4d4,lion,FOUND,lion
 60d731567049e5132e3cc4d4,Lynx,REPLACE,lynx
 60d731567049e5132e3cc4d4,bobcat,FOUND,bobcat
@@ -1048,7 +1048,7 @@ SID,entry,evaluation,replacement
 60d731567049e5132e3cc4d4,bear,FOUND,bear
 60d731567049e5132e3cc4d4,grizzly,FOUND,grizzly
 60d731567049e5132e3cc4d4,bear,FOUND,bear
-60d731567049e5132e3cc4d4,black,EXCLUDE,EXCLUDE
+60d731567049e5132e3cc4d4,black,REPLACE,blackfly
 60d731567049e5132e3cc4d4,bear,FOUND,bear
 60d731567049e5132e3cc4d4,llama,FOUND,llama
 60d731567049e5132e3cc4d4,alpaca,FOUND,alpaca
@@ -1056,7 +1056,7 @@ SID,entry,evaluation,replacement
 60d731567049e5132e3cc4d4,boa constrictor,FOUND,boa constrictor
 60d731567049e5132e3cc4d4,wolf,FOUND,wolf
 60d731567049e5132e3cc4d4,coyote,FOUND,coyote
-60d731567049e5132e3cc4d4,socks,EXCLUDE,EXCLUDE
+60d731567049e5132e3cc4d4,socks,REPLACE,sockeye
 60d731567049e5132e3cc4d4,towel,REPLACE,owl
 60d731567049e5132e3cc4d4,Pelican,REPLACE,pelican
 60d731567049e5132e3cc4d4,Flamingo,REPLACE,flamingo
@@ -1084,11 +1084,11 @@ SID,entry,evaluation,replacement
 656e3caa43f1f7f0615252ff,giraffe,FOUND,giraffe
 656e3caa43f1f7f0615252ff,brown,REPLACE,bronc
 656e3caa43f1f7f0615252ff,bear,FOUND,bear
-656e3caa43f1f7f0615252ff,black,EXCLUDE,EXCLUDE
+656e3caa43f1f7f0615252ff,black,REPLACE,blackfly
 656e3caa43f1f7f0615252ff,bear,FOUND,bear
 656e3caa43f1f7f0615252ff,polar,FOUND,polar
 656e3caa43f1f7f0615252ff,bear,FOUND,bear
-656e3caa43f1f7f0615252ff,grey,EXCLUDE,EXCLUDE
+656e3caa43f1f7f0615252ff,grey,REPLACE,greenfly
 656e3caa43f1f7f0615252ff,wolf,FOUND,wolf
 656e3caa43f1f7f0615252ff,Greyhound,REPLACE,greyhound
 656e3caa43f1f7f0615252ff,whale,FOUND,whale
@@ -1098,24 +1098,24 @@ SID,entry,evaluation,replacement
 656e3caa43f1f7f0615252ff,whale,FOUND,whale
 656e3caa43f1f7f0615252ff,shark,FOUND,shark
 656e3caa43f1f7f0615252ff,crab,FOUND,crab
-656e3caa43f1f7f0615252ff,king,EXCLUDE,EXCLUDE
+656e3caa43f1f7f0615252ff,king,REPLACE,takin
 656e3caa43f1f7f0615252ff,crab,FOUND,crab
 656e3caa43f1f7f0615252ff,Lobster,REPLACE,lobster
 656e3caa43f1f7f0615252ff,hermit,FOUND,hermit
 656e3caa43f1f7f0615252ff,crab,FOUND,crab
 656e3caa43f1f7f0615252ff,goldfish,FOUND,goldfish
-656e3caa43f1f7f0615252ff,Komodo,EXCLUDE,EXCLUDE
+656e3caa43f1f7f0615252ff,Komodo,REPLACE,dodo
 656e3caa43f1f7f0615252ff,dragon,FOUND,dragon
 656e3caa43f1f7f0615252ff,chameleons,REPLACE,chameleon
 656e3caa43f1f7f0615252ff,giant,FOUND,giant
-656e3caa43f1f7f0615252ff,weather,EXCLUDE,EXCLUDE
+656e3caa43f1f7f0615252ff,weather,REPLACE,wheatear
 656e3caa43f1f7f0615252ff,Mouse,REPLACE,mouse
 656e3caa43f1f7f0615252ff,Siamese,EXCLUDE,EXCLUDE
 656e3caa43f1f7f0615252ff,cat,FOUND,cat
-656e3caa43f1f7f0615252ff,Bengal,EXCLUDE,EXCLUDE
+656e3caa43f1f7f0615252ff,Bengal,REPLACE,gal
 656e3caa43f1f7f0615252ff,tiger,FOUND,tiger
 656e3caa43f1f7f0615252ff,funky,REPLACE,tunny
-656e3caa43f1f7f0615252ff,Paul,EXCLUDE,EXCLUDE
+656e3caa43f1f7f0615252ff,Paul,REPLACE,auklet
 656e3caa43f1f7f0615252ff,monkey,FOUND,monkey
 656e3caa43f1f7f0615252ff,gorilla,FOUND,gorilla
 656e3caa43f1f7f0615252ff,chimpanzee,FOUND,chimpanzee
@@ -1123,10 +1123,10 @@ SID,entry,evaluation,replacement
 656e3caa43f1f7f0615252ff,tortoise,FOUND,tortoise
 656e3caa43f1f7f0615252ff,turtle,FOUND,turtle
 656e3caa43f1f7f0615252ff,penguin,FOUND,penguin
-656e3caa43f1f7f0615252ff,Emperor,EXCLUDE,EXCLUDE
+656e3caa43f1f7f0615252ff,Emperor,REPLACE,perro
 656e3caa43f1f7f0615252ff,penguin,FOUND,penguin
 61363ce02e6022a741d63a6e,a dog,REPLACE,dog
-61363ce02e6022a741d63a6e,a cat,EXCLUDE,EXCLUDE
+61363ce02e6022a741d63a6e,a cat,REPLACE,sand cat
 61363ce02e6022a741d63a6e,a mouse,REPLACE,mouse
 61363ce02e6022a741d63a6e,a,EXCLUDE,EXCLUDE
 61363ce02e6022a741d63a6e,hamster,FOUND,hamster
@@ -1169,11 +1169,11 @@ SID,entry,evaluation,replacement
 61363ce02e6022a741d63a6e,a,EXCLUDE,EXCLUDE
 61363ce02e6022a741d63a6e,hamster,FOUND,hamster
 61363ce02e6022a741d63a6e,shrimp,FOUND,shrimp
-5f1f3581b5cf3e103cc545c9,girl,EXCLUDE,EXCLUDE
+5f1f3581b5cf3e103cc545c9,girl,REPLACE,gerbil
 5f1f3581b5cf3e103cc545c9,dolphin,FOUND,dolphin
 5f1f3581b5cf3e103cc545c9,Roach,REPLACE,roach
 5f1f3581b5cf3e103cc545c9,a,EXCLUDE,EXCLUDE
 5f1f3581b5cf3e103cc545c9,spider,FOUND,spider
 5f1f3581b5cf3e103cc545c9,a bear,REPLACE,sea bear
-5f1f3581b5cf3e103cc545c9,the,EXCLUDE,EXCLUDE
+5f1f3581b5cf3e103cc545c9,the,REPLACE,towhee
 5f1f3581b5cf3e103cc545c9,jackal,FOUND,jackal

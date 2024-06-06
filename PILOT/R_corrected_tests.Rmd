@@ -1,0 +1,129 @@
+---
+title: "R_test_check"
+output: html_document
+date: "2024-04-02"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+# set the directory (need to make it more general)
+# setwd('Documents/Postdoc/Semantic_Fluency/Semantic_Data_Analysis/PILOT')
+
+data_dir_corr = 'DATA/Corrected/Grouped_corrected'
+data_dir_uncorr = 'DATA/Corrected/Grouped_uncorrected'
+forager_suffix = "_outputs_forager_results"
+library(ggplot2)
+library(dplyr)
+```
+
+## R Markdown
+
+Across all categories, find the average number of words uttered 
+
+```{r}
+
+# Group A Categories
+
+categories = c('ANIMALS','BODY PARTS', 'FRUITS', 'HOBBIES', 'HOLIDAYS', 'HOME APPLIANCES', 'LIQUIDS', 'MEANS OF TRANSPORT', 'MEDICAL CONDITIONS', 'MUSICAL INSTRUMENTS', 'OCCUPATIONS', 'TOOLS', 'VEGETABLES')
+
+categoriesB = c('ACCOMODATIONS', 'CLOTHING', 'COUNTRIES', 'FLOWERS', 'FOODS', 'FURNITURE', 'NATURAL ENVIRONMENT', 'NON-FOOD ITEMS FOUND IN SUPERMARKET', 'OFFICE SUPPLIES', 'SPORTS', 'TECHNOLOGY GADGETS & DEVICES', 'THINGS FOUND IN KITCHENS', 'TOYS')
+
+# categories = c(categoriesA, categoriesB)
+# print(categories)
+desc_stats_fn = "individual_descriptive_stats.csv"
+
+num_items_df = data.frame()
+for (category in categories){
+  category_dir = file.path(data_dir_corr, paste0(category, forager_suffix))
+  desc_stats_file = file.path(category_dir, desc_stats_fn)
+  desc_df = read.csv(desc_stats_file)
+  desc_df = desc_df %>% mutate(Category = category, Group = ifelse(category %in% categoriesA, 'A', 'B') )
+  if (ncol(desc_df) == 9){
+    desc_df = desc_df %>% select(-c(Phonological_Similarity_mean, Phonological_Similarity_std))
+  }
+  num_items_df = rbind(num_items_df, desc_df)
+}
+print(num_items_df)
+num_items_cat = num_items_df %>% group_by(Category) %>% summarise( mean_num_items = mean(X._of_Items, na.rm = TRUE), sd_num_items = sd(X._of_Items, na.rm = TRUE))
+num_items_cat = num_items_cat%>% mutate(num_items_min = mean_num_items - sd_num_items, num_items_max = mean_num_items + sd_num_items)
+
+num_items_cat = num_items_cat %>% mutate(data = "corrected")
+num_items_df = num_items_df %>% mutate(data = "corrected")
+
+plt_category_words = ggplot(data= num_items_cat) + geom_bar(aes(x= reorder(Category, -mean_num_items),  y = mean_num_items, fill = Category), stat='identity')+
+  geom_errorbar(aes(x= Category, ymin = num_items_min, ymax= num_items_max), width = 0)+
+  xlab('Category')+
+  theme(legend.position="none", axis.text.x = element_text(angle = 45, vjust =1, hjust=1))
+plt_category_words
+# ggsave(file.path('Plots','plt_category_words_avg.png'), plt_category_words, units = "in", width = 12, height = 6)
+
+
+# num_items_subj = num_items_df %>% group_by(Subject) %>% summarise( mean_num_items = mean(X._of_Items), sd_num_items = sd(X._of_Items))
+```
+
+
+
+Uncorrected stats
+
+```{r}
+
+desc_stats_fn = "individual_descriptive_stats.csv"
+
+num_items_df_uncorr = data.frame()
+for (category in categories){
+  category_dir = file.path(data_dir_uncorr, paste0(category, forager_suffix))
+  desc_stats_file = file.path(category_dir, desc_stats_fn)
+  desc_df = read.csv(desc_stats_file)
+  desc_df = desc_df %>% mutate(Category = category, Group = ifelse(category %in% categoriesA, 'A', 'B') )
+  if (ncol(desc_df) == 9){
+    desc_df = desc_df %>% select(-c(Phonological_Similarity_mean, Phonological_Similarity_std))
+  }
+  num_items_df_uncorr = rbind(num_items_df_uncorr, desc_df)
+}
+print(num_items_df_uncorr)
+num_items_cat_uncorr = num_items_df_uncorr %>% group_by(Category) %>% summarise( mean_num_items = mean(X._of_Items, na.rm = TRUE), sd_num_items = sd(X._of_Items, na.rm = TRUE))
+num_items_cat_uncorr = num_items_cat_uncorr%>% mutate(num_items_min = mean_num_items - sd_num_items, num_items_max = mean_num_items + sd_num_items)
+num_items_cat_uncorr = num_items_cat_uncorr %>% mutate(data = "uncorrected")
+num_items_df_uncorr = num_items_df_uncorr %>% mutate(data = "uncorrected")
+
+
+plt_category_words = ggplot(data= num_items_cat_uncorr) + geom_bar(aes(x= reorder(Category, -mean_num_items),  y = mean_num_items, fill = Category), stat='identity')+
+  geom_errorbar(aes(x= Category, ymin = num_items_min, ymax= num_items_max), width = 0)+
+  xlab('Category')+
+  theme(legend.position="none", axis.text.x = element_text(angle = 45, vjust =1, hjust=1))
+plt_category_words
+
+num_items_cat_comb = rbind(num_items_cat, num_items_cat_uncorr)
+```
+grouped bar averages
+
+```{r}
+
+plt_category_words = ggplot(data= num_items_cat_comb, aes(x= reorder(Category, -mean_num_items),  y = mean_num_items, ymin = num_items_min, ymax= num_items_max, fill = data)) + 
+  geom_bar(stat='identity', position=position_dodge(0.9))+
+  geom_errorbar(, width = 0, position=position_dodge(0.9))+
+  xlab('Category')+
+  theme( axis.text.x = element_text(angle = 45, vjust =1, hjust=1))
+plt_category_words
+ggsave(file.path(plots_dir, 'avg_compare.png'), plt_category_words, units = "in", width = 8, height = 5)
+
+```
+
+
+
+facet wrap by subject
+
+```{r}
+
+num_items_total = rbind(num_items_df, num_items_df_uncorr)
+
+num_items_dfB = num_items_total[num_items_total$Group=='A',]
+
+plt_improv = ggplot(data= num_items_dfB) + geom_bar(aes(x= Category,  y = X._of_Items, fill = data), stat='identity', position="dodge")+
+  facet_wrap(~Subject, nrow= 6)+
+  scale_x_discrete(label=function(x) stringr::str_trunc(x, 12))+
+  theme( axis.text.x = element_text(angle = 45, vjust =1, hjust=1))
+plt_improv
+ggsave(file.path(plots_dir, 'sub_compare.png'), plt_improv, units = "in", width = 8, height = 5)
+
+```

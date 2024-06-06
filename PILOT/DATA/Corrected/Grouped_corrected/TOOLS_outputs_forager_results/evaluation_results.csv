@@ -1,0 +1,284 @@
+SID,entry,timepoint,evaluation,replacement
+65e862f844f1b7a803bb3c5a,scissors,0.0,FOUND,scissors
+65e862f844f1b7a803bb3c5a,axe,1.6,FOUND,axe
+65e862f844f1b7a803bb3c5a,thermometer,0.0,FOUND,thermometer
+65e862f844f1b7a803bb3c5a,cutting board,2.7,FOUND,cutting board
+65e862f844f1b7a803bb3c5a,can opener,3.3,FOUND,can opener
+65e862f844f1b7a803bb3c5a,armor,1.5,FOUND,armor
+65e862f844f1b7a803bb3c5a,screwdriver,1.5,FOUND,screwdriver
+65e862f844f1b7a803bb3c5a,chisel,0.0,FOUND,chisel
+65e862f844f1b7a803bb3c5a,measuring cups,1.1,FOUND,measuring cups
+65e862f844f1b7a803bb3c5a,colander,1.3,FOUND,colander
+65e862f844f1b7a803bb3c5a,driller,2.8,FOUND,driller
+65e862f844f1b7a803bb3c5a,forks,1.1,FOUND,forks
+65e862f844f1b7a803bb3c5a,gloves,1.0,FOUND,gloves
+65e862f844f1b7a803bb3c5a,knives,0.0,FOUND,knives
+65e862f844f1b7a803bb3c5a,baking dish,0.0,FOUND,baking dish
+65e862f844f1b7a803bb3c5a,mixing bowl,1.0,FOUND,mixing bowl
+65e862f844f1b7a803bb3c5a,peeler,0.299999999999997,FOUND,peeler
+65e862f844f1b7a803bb3c5a,shovel,1.4,FOUND,shovel
+65e862f844f1b7a803bb3c5a,tongues,0.0,FOUND,tongues
+65e862f844f1b7a803bb3c5a,trowel,0.0,FOUND,trowel
+65e862f844f1b7a803bb3c5a,flashlight,2.8,FOUND,flashlight
+65e862f844f1b7a803bb3c5a,measuring tape,1.90000000000001,FOUND,measuring tape
+65e862f844f1b7a803bb3c5a,saw,3.4,FOUND,saw
+65e862f844f1b7a803bb3c5a,soldering iron,5.50000000000001,FOUND,soldering iron
+65e862f844f1b7a803bb3c5a,chainsaw,3.60000000000001,FOUND,chainsaw
+65e862f844f1b7a803bb3c5a,nail gun,0.0,FOUND,nail gun
+65e862f844f1b7a803bb3c5a,wrench,1.2,FOUND,wrench
+65e862f844f1b7a803bb3c5a,pliers,1.40000000000001,FOUND,pliers
+65e862f844f1b7a803bb3c5a,mallet,2.2,FOUND,mallet
+65e862f844f1b7a803bb3c5a,scraper,1.5,FOUND,scraper
+65e862f844f1b7a803bb3c5a,hatchet,2.8,FOUND,hatchet
+65e862f844f1b7a803bb3c5a,bolt,1.40000000000001,FOUND,bolt
+65e862f844f1b7a803bb3c5a,screw,0.0,FOUND,screw
+65e862f844f1b7a803bb3c5a,knot,1.59999999999999,FOUND,knot
+65e862f844f1b7a803bb3c5a,nail,1.7,FOUND,nail
+65e862f844f1b7a803bb3c5a,spade,2.7,FOUND,spade
+65e862f844f1b7a803bb3c5a,shovel,1.10000000000001,FOUND,shovel
+65e862f844f1b7a803bb3c5a,lawn mower,4.0,FOUND,lawn mower
+65e862f844f1b7a803bb3c5a,pruning shears,0.0,FOUND,pruning shears
+65e862f844f1b7a803bb3c5a,step ladder,8.09999999999999,FOUND,step ladder
+63ea4ab1ce4168cbe9f63775,hammer,0.0,FOUND,hammer
+63ea4ab1ce4168cbe9f63775,hand saw,1.7,FOUND,hand saw
+63ea4ab1ce4168cbe9f63775,Zaza,1.1,REPLACE,zaza
+63ea4ab1ce4168cbe9f63775,wrench,2.0,FOUND,wrench
+63ea4ab1ce4168cbe9f63775,ratchet,1.3,FOUND,ratchet
+63ea4ab1ce4168cbe9f63775,allen wrench,2.1,FOUND,allen wrench
+63ea4ab1ce4168cbe9f63775,screwdriver,2.1,FOUND,screwdriver
+63ea4ab1ce4168cbe9f63775,Phillips head screwdriver,1.4,REPLACE,phillips head screwdriver
+63ea4ab1ce4168cbe9f63775,drill,5.1,FOUND,drill
+63ea4ab1ce4168cbe9f63775,hole punch,2.1,FOUND,hole punch
+63ea4ab1ce4168cbe9f63775,nail gun,2.8,FOUND,nail gun
+63ea4ab1ce4168cbe9f63775,pressurized hammer,3.5,FOUND,pressurized hammer
+63ea4ab1ce4168cbe9f63775,automatic wrench,10.7,FOUND,automatic wrench
+63ea4ab1ce4168cbe9f63775,Vise grip,3.0,REPLACE,vise grip
+63ea4ab1ce4168cbe9f63775,table saw,2.0,FOUND,table saw
+63ea4ab1ce4168cbe9f63775,jigsaw,1.59999999999999,FOUND,jigsaw
+63ea4ab1ce4168cbe9f63775,circular saw,1.7,FOUND,circular saw
+63ea4ab1ce4168cbe9f63775,pliers,7.5,FOUND,pliers
+63ea4ab1ce4168cbe9f63775,wire cutters,1.5,FOUND,wire cutters
+63ea4ab1ce4168cbe9f63775,Swiss Army knife,4.10000000000001,REPLACE,swiss army knife
+63ea4ab1ce4168cbe9f63775,pocket knife,1.8,FOUND,pocket knife
+63ea4ab1ce4168cbe9f63775,box cutter,5.2,FOUND,box cutter
+63ea4ab1ce4168cbe9f63775,stud finder,4.19999999999999,FOUND,stud finder
+63ea4ab1ce4168cbe9f63775,level,5.3,FOUND,level
+63ea4ab1ce4168cbe9f63775,laser level,2.40000000000001,FOUND,laser level
+63ea4ab1ce4168cbe9f63775,putty knife,1.8,FOUND,putty knife
+63ea4ab1ce4168cbe9f63775,sand block,2.2,FOUND,sand block
+65d6a09286a0c99e632a46dd,wrench,0.0,FOUND,wrench
+65d6a09286a0c99e632a46dd,an automatic wrench,4.0,FOUND,an automatic wrench
+65d6a09286a0c99e632a46dd,screwdriver,0.299999999999999,FOUND,screwdriver
+65d6a09286a0c99e632a46dd,saw,3.8,FOUND,saw
+65d6a09286a0c99e632a46dd,a,1.8,FOUND,a
+65d6a09286a0c99e632a46dd,lawn mower,0.0,FOUND,lawn mower
+65d6a09286a0c99e632a46dd,blade,2.1,FOUND,blade
+65d6a09286a0c99e632a46dd,WD-40,4.1,REPLACE,wd-40
+65d6a09286a0c99e632a46dd,lubricant,0.0,FOUND,lubricant
+65d6a09286a0c99e632a46dd,WD-40,0.0,REPLACE,wd-40
+65d6a09286a0c99e632a46dd,nuts,2.4,FOUND,nuts
+65d6a09286a0c99e632a46dd,bolts,0.0,FOUND,bolts
+65d6a09286a0c99e632a46dd,hammer,23.1,FOUND,hammer
+65d6a09286a0c99e632a46dd,tape measure,2.9,FOUND,tape measure
+65d6a09286a0c99e632a46dd,ladder,4.9,FOUND,ladder
+65d6a09286a0c99e632a46dd,flashlight,3.8,FOUND,flashlight
+65d6a09286a0c99e632a46dd,knife,5.59999999999999,FOUND,knife
+65d6a09286a0c99e632a46dd,mallet,14.2,FOUND,mallet
+65d6a09286a0c99e632a46dd,paintbrush,0.900000000000006,FOUND,paintbrush
+65d6a09286a0c99e632a46dd,hatchet,12.8,FOUND,hatchet
+65d6a09286a0c99e632a46dd,pliers,5.0,FOUND,pliers
+60a48adfe091e410f4eaba34,hammer,0.0,FOUND,hammer
+60a48adfe091e410f4eaba34,drill,0.9,FOUND,drill
+60a48adfe091e410f4eaba34,chisel,3.9,FOUND,chisel
+60a48adfe091e410f4eaba34,screwdriver,7.5,FOUND,screwdriver
+60a48adfe091e410f4eaba34,drill bit,4.1,FOUND,drill bit
+60a48adfe091e410f4eaba34,Mallet,3.6,REPLACE,mallet
+60a48adfe091e410f4eaba34,shovel,0.0,FOUND,shovel
+60a48adfe091e410f4eaba34,rifle,13.7,FOUND,rifle
+60a48adfe091e410f4eaba34,chainsaw,5.7,FOUND,chainsaw
+60a48adfe091e410f4eaba34,axe,2.4,FOUND,axe
+60a48adfe091e410f4eaba34,air compressor,5.6,FOUND,air compressor
+60a48adfe091e410f4eaba34,trimmer,14.8,FOUND,trimmer
+60a48adfe091e410f4eaba34,edger,0.0,FOUND,edger
+60a48adfe091e410f4eaba34,hedge cutters,7.59999999999999,FOUND,hedge cutters
+60a48adfe091e410f4eaba34,lawn mower,2.09999999999999,FOUND,lawn mower
+63e802622f8052bd67d6c5f0,Hammer,0.0,REPLACE,hammer
+63e802622f8052bd67d6c5f0,screwdriver,0.0,FOUND,screwdriver
+63e802622f8052bd67d6c5f0,drill,0.0,FOUND,drill
+63e802622f8052bd67d6c5f0,Tire wrench,8.8,REPLACE,tire wrench
+63e802622f8052bd67d6c5f0,tape measure,13.4,FOUND,tape measure
+63e802622f8052bd67d6c5f0,hard hat,20.9,FOUND,hard hat
+63e802622f8052bd67d6c5f0,knee pads,8.8,FOUND,knee pads
+63e802622f8052bd67d6c5f0,ladder,16.5,FOUND,ladder
+63e802622f8052bd67d6c5f0,scaffolding,0.0,FOUND,scaffolding
+63e802622f8052bd67d6c5f0,concrete,12.8,FOUND,concrete
+63e802622f8052bd67d6c5f0,mixer,0.0,FOUND,mixer
+60d731567049e5132e3cc4d4,Hammer,0.0,REPLACE,hammer
+60d731567049e5132e3cc4d4,screwdriver,0.0,FOUND,screwdriver
+60d731567049e5132e3cc4d4,wrench,0.0,FOUND,wrench
+60d731567049e5132e3cc4d4,ruler,1.3,FOUND,ruler
+60d731567049e5132e3cc4d4,Square,0.0,REPLACE,square
+60d731567049e5132e3cc4d4,clamp,0.0,FOUND,clamp
+60d731567049e5132e3cc4d4,flashlight,1.8,FOUND,flashlight
+60d731567049e5132e3cc4d4,Vice,1.3,REPLACE,vice
+60d731567049e5132e3cc4d4,saw,1.4,FOUND,saw
+60d731567049e5132e3cc4d4,file,2.7,FOUND,file
+60d731567049e5132e3cc4d4,sandpaper,1.6,FOUND,sandpaper
+60d731567049e5132e3cc4d4,ramp,2.7,FOUND,ramp
+60d731567049e5132e3cc4d4,staple gun,11.4,FOUND,staple gun
+60d731567049e5132e3cc4d4,Drill,0.0,REPLACE,drill
+60d731567049e5132e3cc4d4,level,0.0,FOUND,level
+60d731567049e5132e3cc4d4,fastener,8.7,FOUND,fastener
+60d731567049e5132e3cc4d4,nail,1.8,FOUND,nail
+60d731567049e5132e3cc4d4,screw,0.0,FOUND,screw
+60d731567049e5132e3cc4d4,nut,0.0,FOUND,nut
+60d731567049e5132e3cc4d4,Bolt,0.0,REPLACE,bolt
+60d731567049e5132e3cc4d4,shovel,2.1,FOUND,shovel
+60d731567049e5132e3cc4d4,rake,0.0,FOUND,rake
+60d731567049e5132e3cc4d4,ho,1.7,FOUND,ho
+60d731567049e5132e3cc4d4,Tiller,6.90000000000001,REPLACE,tiller
+60d731567049e5132e3cc4d4,weed wacker,5.7,FOUND,weed wacker
+60d731567049e5132e3cc4d4,shears,3.39999999999999,FOUND,shears
+60d731567049e5132e3cc4d4,Clippers,1.3,REPLACE,clippers
+60d731567049e5132e3cc4d4,owl,2.80000000000001,FOUND,owl
+60d731567049e5132e3cc4d4,hole punch,2.8,FOUND,hole punch
+60d731567049e5132e3cc4d4,stapler,0.0,FOUND,stapler
+60d731567049e5132e3cc4d4,soldering iron,16.6,FOUND,soldering iron
+65cb63e160bb47fbf9349269,hammer,0.0,FOUND,hammer
+65cb63e160bb47fbf9349269,drill,0.0,FOUND,drill
+65cb63e160bb47fbf9349269,wrench,0.0,FOUND,wrench
+65cb63e160bb47fbf9349269,shovel,0.0,FOUND,shovel
+65cb63e160bb47fbf9349269,ladder,1.0,FOUND,ladder
+65cb63e160bb47fbf9349269,skewers,0.0,FOUND,skewers
+65cb63e160bb47fbf9349269,knives,1.3,FOUND,knives
+65cb63e160bb47fbf9349269,sharpener,4.8,FOUND,sharpener
+65cb63e160bb47fbf9349269,bucket,3.3,FOUND,bucket
+65cb63e160bb47fbf9349269,power drills,4.0,FOUND,power drills
+65cb63e160bb47fbf9349269,spoons,6.7,FOUND,spoons
+65cb63e160bb47fbf9349269,forks,0.0,FOUND,forks
+65cb63e160bb47fbf9349269,can opener,11.5,FOUND,can opener
+65cb63e160bb47fbf9349269,wine opener,2.5,FOUND,wine opener
+65cb63e160bb47fbf9349269,tongs,13.0,FOUND,tongs
+65cb63e160bb47fbf9349269,brushes,19.4,FOUND,brushes
+65cb63e160bb47fbf9349269,levelers,5.3,FOUND,levelers
+65cb63e160bb47fbf9349269,tape measure,4.0,FOUND,tape measure
+65cb63e160bb47fbf9349269,pencils,3.30000000000001,FOUND,pencils
+65cb63e160bb47fbf9349269,pens,0.0,FOUND,pens
+65cb63e160bb47fbf9349269,rulers,4.3,FOUND,rulers
+5f5aa60bef062519ff711fe6,shovel,0.0,FOUND,shovel
+5f5aa60bef062519ff711fe6,rake,2.1,FOUND,rake
+5f5aa60bef062519ff711fe6,lawn mower,4.8,FOUND,lawn mower
+5f5aa60bef062519ff711fe6,weed wacker,0.0,FOUND,weed wacker
+5f5aa60bef062519ff711fe6,blower,2.3,FOUND,blower
+5f5aa60bef062519ff711fe6,broom,5.6,FOUND,broom
+5f5aa60bef062519ff711fe6,screwdriver,1.9,FOUND,screwdriver
+5f5aa60bef062519ff711fe6,Wrench,1.4,REPLACE,wrench
+5f5aa60bef062519ff711fe6,scissors,2.5,FOUND,scissors
+5f5aa60bef062519ff711fe6,knife,2.2,FOUND,knife
+5f5aa60bef062519ff711fe6,tongs,0.0,FOUND,tongs
+5f5aa60bef062519ff711fe6,switch blade,5.0,FOUND,switch blade
+5f5aa60bef062519ff711fe6,hammer,12.4,FOUND,hammer
+5f5aa60bef062519ff711fe6,mallet,2.40000000000001,FOUND,mallet
+5f5aa60bef062519ff711fe6,pickaxe,8.00000000000001,FOUND,pickaxe
+5f5aa60bef062519ff711fe6,axe,0.0,FOUND,axe
+5f5aa60bef062519ff711fe6,trimmer,29.7,FOUND,trimmer
+5f5aa60bef062519ff711fe6,Clippers,3.40000000000001,REPLACE,clippers
+5f5aa60bef062519ff711fe6,sword,12.8,FOUND,sword
+5f5aa60bef062519ff711fe6,Club,1.8,REPLACE,club
+65e358d9c5e3ee026268b2a7,Hammer,0.0,REPLACE,hammer
+65e358d9c5e3ee026268b2a7,screwdriver,0.0,FOUND,screwdriver
+65e358d9c5e3ee026268b2a7,wrench,0.0,FOUND,wrench
+65e358d9c5e3ee026268b2a7,allen wrench,0.0,FOUND,allen wrench
+65e358d9c5e3ee026268b2a7,tile saw,2.6,FOUND,tile saw
+65e358d9c5e3ee026268b2a7,drill,4.2,FOUND,drill
+65e358d9c5e3ee026268b2a7,regular saw,0.0,FOUND,regular saw
+65e358d9c5e3ee026268b2a7,Allen wrenches,0.0,REPLACE,allen wrenches
+65e358d9c5e3ee026268b2a7,wrenches,-0.299999999999997,FOUND,wrenches
+65e358d9c5e3ee026268b2a7,Allen keys,0.200000000000003,REPLACE,allen keys
+65e358d9c5e3ee026268b2a7,a,2.2,FOUND,a
+65e358d9c5e3ee026268b2a7,mallet,0.0,FOUND,mallet
+65e358d9c5e3ee026268b2a7,knacks,0.0,FOUND,knacks
+65e358d9c5e3ee026268b2a7,tape measure,4.4,FOUND,tape measure
+65e358d9c5e3ee026268b2a7,Pliers,2.6,REPLACE,pliers
+65e358d9c5e3ee026268b2a7,a table saw,10.1,FOUND,a table saw
+65e358d9c5e3ee026268b2a7,nail gun,0.0,FOUND,nail gun
+65e358d9c5e3ee026268b2a7,a hand sander,3.7,FOUND,a hand sander
+65e358d9c5e3ee026268b2a7,a level,26.8,FOUND,a level
+65e358d9c5e3ee026268b2a7,Utility knife,2.0,REPLACE,utility knife
+65c25cf77dca9d7ca7d9ebdb,hammer,0.0,FOUND,hammer
+65c25cf77dca9d7ca7d9ebdb,saw,0.0,FOUND,saw
+65c25cf77dca9d7ca7d9ebdb,chisel,0.0,FOUND,chisel
+65c25cf77dca9d7ca7d9ebdb,crowbar,1.6,FOUND,crowbar
+65c25cf77dca9d7ca7d9ebdb,axe,2.1,FOUND,axe
+65c25cf77dca9d7ca7d9ebdb,axel,1.0,FOUND,axel
+65c25cf77dca9d7ca7d9ebdb,power drill,1.4,FOUND,power drill
+65c25cf77dca9d7ca7d9ebdb,screwdriver,0.0,FOUND,screwdriver
+65c25cf77dca9d7ca7d9ebdb,Flathead,1.6,REPLACE,flathead
+65c25cf77dca9d7ca7d9ebdb,pincers,12.0,FOUND,pincers
+65c25cf77dca9d7ca7d9ebdb,scissors,2.4,FOUND,scissors
+65c25cf77dca9d7ca7d9ebdb,meter stick,4.1,FOUND,meter stick
+65c25cf77dca9d7ca7d9ebdb,yard stick,0.0,FOUND,yard stick
+65c25cf77dca9d7ca7d9ebdb,nail gun,4.59999999999999,FOUND,nail gun
+65c25cf77dca9d7ca7d9ebdb,bolts,40.0,FOUND,bolts
+65b15afd94153c1f50c92493,wrench,0.0,FOUND,wrench
+65b15afd94153c1f50c92493,screwdriver,1.6,FOUND,screwdriver
+65b15afd94153c1f50c92493,hammer,14.3,FOUND,hammer
+65b15afd94153c1f50c92493,mallet,1.2,FOUND,mallet
+65b15afd94153c1f50c92493,drill,1.3,FOUND,drill
+65b15afd94153c1f50c92493,scissors,2.1,FOUND,scissors
+65b15afd94153c1f50c92493,a,0.0,FOUND,a
+65b15afd94153c1f50c92493,axe,1.7,FOUND,axe
+65b15afd94153c1f50c92493,saw,1.6,FOUND,saw
+65b15afd94153c1f50c92493,allen key,2.8,FOUND,allen key
+65b15afd94153c1f50c92493,tape measure,3.09999999999999,FOUND,tape measure
+65b15afd94153c1f50c92493,tape,1.3,FOUND,tape
+65b15afd94153c1f50c92493,pliers,1.8,FOUND,pliers
+65b15afd94153c1f50c92493,chisel,1.2,FOUND,chisel
+65b15afd94153c1f50c92493,clamps,1.8,FOUND,clamps
+65b15afd94153c1f50c92493,file,1.7,FOUND,file
+65b15afd94153c1f50c92493,orc,6.5,FOUND,orc
+65b15afd94153c1f50c92493,pocket knife,1.4,FOUND,pocket knife
+65b15afd94153c1f50c92493,corkscrew,3.6,FOUND,corkscrew
+65b15afd94153c1f50c92493,bolt,0.0,FOUND,bolt
+65b15afd94153c1f50c92493,nut,0.0,FOUND,nut
+65b15afd94153c1f50c92493,saw,3.90000000000001,FOUND,saw
+65b15afd94153c1f50c92493,chain saw,1.7,FOUND,chain saw
+65b15afd94153c1f50c92493,ladder,3.10000000000001,FOUND,ladder
+65b15afd94153c1f50c92493,paintbrush,14.5,FOUND,paintbrush
+65b15afd94153c1f50c92493,paint roller,1.8,FOUND,paint roller
+65b15afd94153c1f50c92493,utility knife,2.2,FOUND,utility knife
+65b15afd94153c1f50c92493,leveler,3.0,FOUND,leveler
+65b15afd94153c1f50c92493,nail gun,10.5,FOUND,nail gun
+5d7ff4aa50fda7001a863736,a,0.0,FOUND,a
+5d7ff4aa50fda7001a863736,hammer,0.0,FOUND,hammer
+5d7ff4aa50fda7001a863736,screwdriver,0.0,FOUND,screwdriver
+5d7ff4aa50fda7001a863736,drill,2.9,FOUND,drill
+5d7ff4aa50fda7001a863736,saw,0.0,FOUND,saw
+5d7ff4aa50fda7001a863736,chainsaw,1.6,FOUND,chainsaw
+5d7ff4aa50fda7001a863736,axe,7.1,FOUND,axe
+5d7ff4aa50fda7001a863736,pliers,14.8,FOUND,pliers
+5d7ff4aa50fda7001a863736,nails,5.2,FOUND,nails
+5d7ff4aa50fda7001a863736,Wrench,18.6,REPLACE,wrench
+5d7ff4aa50fda7001a863736,Crowbar,29.5,REPLACE,crowbar
+65cc19b4b3d48a22dfc6756d,screwdriver,0.0,FOUND,screwdriver
+65cc19b4b3d48a22dfc6756d,wrench,1.7,FOUND,wrench
+65cc19b4b3d48a22dfc6756d,hammer,12.4,FOUND,hammer
+65cc19b4b3d48a22dfc6756d,drill,8.8,FOUND,drill
+65cc19b4b3d48a22dfc6756d,nail gun,65.5,FOUND,nail gun
+65cc19b4b3d48a22dfc6756d,saw,4.3,FOUND,saw
+65d54b3b524fcafb543d1b23,hammer,0.0,FOUND,hammer
+65d54b3b524fcafb543d1b23,wrench,0.0,FOUND,wrench
+65d54b3b524fcafb543d1b23,pipe,2.8,FOUND,pipe
+65d54b3b524fcafb543d1b23,saw,3.2,FOUND,saw
+65d54b3b524fcafb543d1b23,hand wrench,4.9,FOUND,hand wrench
+65d54b3b524fcafb543d1b23,screwdriver,1.6,FOUND,screwdriver
+65d54b3b524fcafb543d1b23,ruler,8.6,FOUND,ruler
+65d54b3b524fcafb543d1b23,scissors,35.5,FOUND,scissors
+65d54b3b524fcafb543d1b23,knife,0.0,FOUND,knife
+65e1f75ab3efd22e847cfbf0,Phillips screwdriver,0.0,REPLACE,phillips screwdriver
+65e1f75ab3efd22e847cfbf0,wrench,2.6,FOUND,wrench
+65e1f75ab3efd22e847cfbf0,socket,0.0,FOUND,socket
+65e1f75ab3efd22e847cfbf0,drill,6.0,FOUND,drill
+65e1f75ab3efd22e847cfbf0,hammer,2.1,FOUND,hammer
+65e1f75ab3efd22e847cfbf0,axe,0.0,FOUND,axe
+65e1f75ab3efd22e847cfbf0,pliers,79.2,FOUND,pliers
