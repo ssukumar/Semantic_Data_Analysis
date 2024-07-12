@@ -1,444 +1,440 @@
 SID,entry,timepoint,evaluation,replacement
-60a48adfe091e410f4eaba34,Construction,0.0,REPLACE,construction
-60a48adfe091e410f4eaba34,manager,5.3,FOUND,manager
-60a48adfe091e410f4eaba34,retail sales,2.2,FOUND,retail sales
-60a48adfe091e410f4eaba34,Tech,2.5,REPLACE,tech
-60a48adfe091e410f4eaba34,engineering,0.0,FOUND,engineering
-60a48adfe091e410f4eaba34,physical therapist,0.0,FOUND,physical therapist
-60a48adfe091e410f4eaba34,doctor,0.0,FOUND,doctor
-60a48adfe091e410f4eaba34,occupational therapist,1.4,FOUND,occupational therapist
-60a48adfe091e410f4eaba34,physician's assistant,2.1,FOUND,physician's assistant
-60a48adfe091e410f4eaba34,laborer,3.3,FOUND,laborer
-60a48adfe091e410f4eaba34,auditor,20.9,FOUND,auditor
-60a48adfe091e410f4eaba34,auctioneer,2.4,FOUND,auctioneer
-60a48adfe091e410f4eaba34,real estate agent,6.7,FOUND,real estate agent
-60a48adfe091e410f4eaba34,leasing manager,5.10000000000001,FOUND,leasing manager
-60a48adfe091e410f4eaba34,office worker,3.0,FOUND,office worker
-60a48adfe091e410f4eaba34,veterinarian,19.1,FOUND,veterinarian
-60a48adfe091e410f4eaba34,transporter,10.3,FOUND,transporter
-60a48adfe091e410f4eaba34,Rideshare worker,2.19999999999999,REPLACE,rideshare worker
-60a48adfe091e410f4eaba34,food delivery,4.60000000000001,FOUND,food delivery
-65e862f844f1b7a803bb3c5a,doctor,0.0,FOUND,doctor
-65e862f844f1b7a803bb3c5a,accountants,0.0,FOUND,accountants
-65e862f844f1b7a803bb3c5a,chef,0.199999999999999,FOUND,chef
-65e862f844f1b7a803bb3c5a,teacher,2.1,FOUND,teacher
-65e862f844f1b7a803bb3c5a,lecturer,0.0,FOUND,lecturer
-65e862f844f1b7a803bb3c5a,dentist,0.0,FOUND,dentist
-65e862f844f1b7a803bb3c5a,architect,0.0,FOUND,architect
-65e862f844f1b7a803bb3c5a,Baker,0.0,REPLACE,baker
-65e862f844f1b7a803bb3c5a,butcher,0.800000000000001,FOUND,butcher
-65e862f844f1b7a803bb3c5a,electrician,-0.600000000000001,FOUND,electrician
-65e862f844f1b7a803bb3c5a,farmer,1.2,FOUND,farmer
-65e862f844f1b7a803bb3c5a,bus driver,1.0,FOUND,bus driver
-65e862f844f1b7a803bb3c5a,Carpenter,0.0,REPLACE,carpenter
-65e862f844f1b7a803bb3c5a,astronomer,0.0,FOUND,astronomer
-65e862f844f1b7a803bb3c5a,bricklayer,1.3,FOUND,bricklayer
-65e862f844f1b7a803bb3c5a,cleaner,1.2,FOUND,cleaner
-65e862f844f1b7a803bb3c5a,Factory worker,1.2,REPLACE,factory worker
-65e862f844f1b7a803bb3c5a,designer,0.0,FOUND,designer
-65e862f844f1b7a803bb3c5a,engineer,1.2,FOUND,engineer
-65e862f844f1b7a803bb3c5a,fisherman,1.3,FOUND,fisherman
-65e862f844f1b7a803bb3c5a,lawyer,0.0,FOUND,lawyer
-65e862f844f1b7a803bb3c5a,actor,0.899999999999999,FOUND,actor
-65e862f844f1b7a803bb3c5a,firefighter,0.900000000000006,FOUND,firefighter
-65e862f844f1b7a803bb3c5a,nurse,0.0,FOUND,nurse
-65e862f844f1b7a803bb3c5a,teacher,1.3,FOUND,teacher
-65e862f844f1b7a803bb3c5a,scientist,1.4,FOUND,scientist
-65e862f844f1b7a803bb3c5a,trader,3.0,FOUND,trader
-65e862f844f1b7a803bb3c5a,analyst,1.5,FOUND,analyst
-65e862f844f1b7a803bb3c5a,software engineer,1.2,FOUND,software engineer
-65e862f844f1b7a803bb3c5a,software analyst,2.59999999999999,FOUND,software analyst
-65e862f844f1b7a803bb3c5a,train conductor,4.69999999999999,FOUND,train conductor
-65e862f844f1b7a803bb3c5a,American football player,2.09999999999999,REPLACE,american football player
-65e862f844f1b7a803bb3c5a,basketball player,0.0,FOUND,basketball player
-65e862f844f1b7a803bb3c5a,secretary,0.0,FOUND,secretary
-65e862f844f1b7a803bb3c5a,policeman,0.0,FOUND,policeman
-65e862f844f1b7a803bb3c5a,soldier,0.300000000000011,FOUND,soldier
-65e862f844f1b7a803bb3c5a,repairman,0.200000000000003,FOUND,repairman
-65e862f844f1b7a803bb3c5a,businessman,1.0,FOUND,businessman
-65e862f844f1b7a803bb3c5a,reporter,2.2,FOUND,reporter
-65e862f844f1b7a803bb3c5a,journalist,0.0,FOUND,journalist
-65e862f844f1b7a803bb3c5a,Postman,0.0,REPLACE,postman
-65e862f844f1b7a803bb3c5a,photographer,0.0,FOUND,photographer
-65e862f844f1b7a803bb3c5a,Pilots,0.0,REPLACE,pilots
-65e862f844f1b7a803bb3c5a,construction worker,0.0,FOUND,construction worker
-65e862f844f1b7a803bb3c5a,lifeguard,3.30000000000001,FOUND,lifeguard
-65e862f844f1b7a803bb3c5a,housekeeper,1.8,FOUND,housekeeper
-65e862f844f1b7a803bb3c5a,gardener,0.0,FOUND,gardener
-65e862f844f1b7a803bb3c5a,footballer,1.5,FOUND,footballer
-65e862f844f1b7a803bb3c5a,fire man,3.39999999999999,FOUND,fire man
-65e862f844f1b7a803bb3c5a,flight attendants,2.80000000000001,FOUND,flight attendants
-65d54b3b524fcafb543d1b23,nurse,0.0,FOUND,nurse
-65d54b3b524fcafb543d1b23,plumber,0.0,FOUND,plumber
-65d54b3b524fcafb543d1b23,surgeon,2.7,FOUND,surgeon
-65d54b3b524fcafb543d1b23,doctor,0.0,FOUND,doctor
-65d54b3b524fcafb543d1b23,nurse's assistant,1.9,FOUND,nurse's assistant
-65d54b3b524fcafb543d1b23,assistant,0.0,FOUND,assistant
-65d54b3b524fcafb543d1b23,CEO,3.7,EXCLUDE,EXCLUDE
-65d54b3b524fcafb543d1b23,software developer,15.7,FOUND,software developer
-65d54b3b524fcafb543d1b23,IT,1.6,EXCLUDE,EXCLUDE
-65d54b3b524fcafb543d1b23,security,4.90000000000001,FOUND,security
-65d54b3b524fcafb543d1b23,counselor,3.9,FOUND,counselor
-65d54b3b524fcafb543d1b23,office assistant,6.7,FOUND,office assistant
-65d54b3b524fcafb543d1b23,receptionist,0.0,FOUND,receptionist
-65d54b3b524fcafb543d1b23,massage therapist,3.6,FOUND,massage therapist
-65d54b3b524fcafb543d1b23,physical therapist,0.0,FOUND,physical therapist
-65d54b3b524fcafb543d1b23,occupational therapist,1.5,FOUND,occupational therapist
-65d54b3b524fcafb543d1b23,nurse anesthetist,4.8,FOUND,nurse anesthetist
-65d54b3b524fcafb543d1b23,anesthesia doctor,11.6,FOUND,anesthesia doctor
-65d54b3b524fcafb543d1b23,Foreman,10.9,REPLACE,foreman
-65d54b3b524fcafb543d1b23,general contractor,1.0,FOUND,general contractor
-65d54b3b524fcafb543d1b23,electrician,4.30000000000001,FOUND,electrician
-65d54b3b524fcafb543d1b23,welder,2.89999999999999,FOUND,welder
-60d731567049e5132e3cc4d4,surgeon,0.0,FOUND,surgeon
-60d731567049e5132e3cc4d4,pediatrician,0.0,FOUND,pediatrician
-60d731567049e5132e3cc4d4,lawyer,1.4,FOUND,lawyer
-60d731567049e5132e3cc4d4,scientist,0.0,FOUND,scientist
-60d731567049e5132e3cc4d4,plumber,0.0,FOUND,plumber
-60d731567049e5132e3cc4d4,Carpenter,0.0,REPLACE,carpenter
-60d731567049e5132e3cc4d4,electrician,0.0,FOUND,electrician
-60d731567049e5132e3cc4d4,botanist,0.0,FOUND,botanist
-60d731567049e5132e3cc4d4,Gardner,0.0,REPLACE,gardner
-60d731567049e5132e3cc4d4,construction worker,1.8,FOUND,construction worker
-60d731567049e5132e3cc4d4,teacher,1.5,FOUND,teacher
-60d731567049e5132e3cc4d4,principal,0.0,FOUND,principal
-60d731567049e5132e3cc4d4,nurse,1.4,FOUND,nurse
-60d731567049e5132e3cc4d4,accountant,1.3,FOUND,accountant
-60d731567049e5132e3cc4d4,business executive,5.59999999999999,FOUND,business executive
-60d731567049e5132e3cc4d4,financial planner,1.9,FOUND,financial planner
-60d731567049e5132e3cc4d4,tax broker,4.0,FOUND,tax broker
-60d731567049e5132e3cc4d4,insurance agent,0.0,FOUND,insurance agent
-60d731567049e5132e3cc4d4,police officer,0.0,FOUND,police officer
-60d731567049e5132e3cc4d4,firefighter,0.0,FOUND,firefighter
-60d731567049e5132e3cc4d4,EMT,1.0,EXCLUDE,EXCLUDE
-60d731567049e5132e3cc4d4,mechanic,0.0,FOUND,mechanic
-60d731567049e5132e3cc4d4,window washer,0.0,FOUND,window washer
-60d731567049e5132e3cc4d4,artist,2.5,FOUND,artist
-60d731567049e5132e3cc4d4,model,0.0,FOUND,model
-60d731567049e5132e3cc4d4,musician,0.0,FOUND,musician
-60d731567049e5132e3cc4d4,actor,0.0,FOUND,actor
-60d731567049e5132e3cc4d4,director,1.5,FOUND,director
-60d731567049e5132e3cc4d4,photographer,0.0,FOUND,photographer
-60d731567049e5132e3cc4d4,chauffeur,2.8,FOUND,chauffeur
-60d731567049e5132e3cc4d4,gymnast,2.5,FOUND,gymnast
-60d731567049e5132e3cc4d4,athlete,2.0,FOUND,athlete
-60d731567049e5132e3cc4d4,ski instructor,3.8,FOUND,ski instructor
-60d731567049e5132e3cc4d4,tutor,2.7,FOUND,tutor
-60d731567049e5132e3cc4d4,professor,1.59999999999999,FOUND,professor
-60d731567049e5132e3cc4d4,assistant,4.3,FOUND,assistant
-60d731567049e5132e3cc4d4,Advertiser,2.39999999999999,REPLACE,advertiser
-60d731567049e5132e3cc4d4,talk show host,4.7,FOUND,talk show host
-60d731567049e5132e3cc4d4,producer,2.7,FOUND,producer
-65e1f75ab3efd22e847cfbf0,doctor,0.0,FOUND,doctor
-65e1f75ab3efd22e847cfbf0,lawyer,0.0,FOUND,lawyer
-65e1f75ab3efd22e847cfbf0,construction person,1.4,FOUND,construction person
-65e1f75ab3efd22e847cfbf0,manager,0.0,FOUND,manager
-65e1f75ab3efd22e847cfbf0,assistant,0.0,FOUND,assistant
-65e1f75ab3efd22e847cfbf0,nurse,1.7,FOUND,nurse
-65e1f75ab3efd22e847cfbf0,CNA,0.0,EXCLUDE,EXCLUDE
-65e1f75ab3efd22e847cfbf0,cashier,2.2,FOUND,cashier
-65e1f75ab3efd22e847cfbf0,retail manager,2.3,FOUND,retail manager
-65e1f75ab3efd22e847cfbf0,receptionist,1.1,FOUND,receptionist
-65e1f75ab3efd22e847cfbf0,assistant,0.0,FOUND,assistant
-65e1f75ab3efd22e847cfbf0,party host,3.0,FOUND,party host
-65e1f75ab3efd22e847cfbf0,HR,3.3,EXCLUDE,EXCLUDE
-65e1f75ab3efd22e847cfbf0,Porter,2.09999999999999,REPLACE,porter
-65e1f75ab3efd22e847cfbf0,sales manager,0.0,FOUND,sales manager
-65e1f75ab3efd22e847cfbf0,accountant,0.0,FOUND,accountant
-65e1f75ab3efd22e847cfbf0,technician,25.6,FOUND,technician
-65e1f75ab3efd22e847cfbf0,surgeon,0.0,FOUND,surgeon
-65e1f75ab3efd22e847cfbf0,anesthesiologist,0.0,FOUND,anesthesiologist
-65e1f75ab3efd22e847cfbf0,social worker,13.8,FOUND,social worker
-65e1f75ab3efd22e847cfbf0,physician,1.39999999999999,FOUND,physician
-65e1f75ab3efd22e847cfbf0,dentist,0.0,FOUND,dentist
-65e1f75ab3efd22e847cfbf0,Community Health worker,1.10000000000001,REPLACE,community health worker
-65e1f75ab3efd22e847cfbf0,scientist,0.0,FOUND,scientist
-65e1f75ab3efd22e847cfbf0,mechanic,3.7,FOUND,mechanic
-65e1f75ab3efd22e847cfbf0,technician,0.0,FOUND,technician
-65e1f75ab3efd22e847cfbf0,administrator,6.60000000000001,FOUND,administrator
-65e1f75ab3efd22e847cfbf0,pilot,6.0,FOUND,pilot
-65e1f75ab3efd22e847cfbf0,flight attendant,1.09999999999999,FOUND,flight attendant
-63ea4ab1ce4168cbe9f63775,nurse,0.0,FOUND,nurse
-63ea4ab1ce4168cbe9f63775,doctor,1.5,FOUND,doctor
-63ea4ab1ce4168cbe9f63775,x-ray technician,1.5,FOUND,x-ray technician
-63ea4ab1ce4168cbe9f63775,EMT,1.5,EXCLUDE,EXCLUDE
-63ea4ab1ce4168cbe9f63775,nursing assistant,1.3,FOUND,nursing assistant
-63ea4ab1ce4168cbe9f63775,physician's assistant,0.800000000000001,FOUND,physician's assistant
-63ea4ab1ce4168cbe9f63775,fireman,3.0,FOUND,fireman
-63ea4ab1ce4168cbe9f63775,police officer,1.1,FOUND,police officer
-63ea4ab1ce4168cbe9f63775,Marketing Executives,3.1,REPLACE,marketing executives
-63ea4ab1ce4168cbe9f63775,Business Development executive,1.0,REPLACE,business development executive
-63ea4ab1ce4168cbe9f63775,event planner,2.8,FOUND,event planner
-63ea4ab1ce4168cbe9f63775,cashier,1.2,FOUND,cashier
-63ea4ab1ce4168cbe9f63775,real estate agent,1.9,FOUND,real estate agent
-63ea4ab1ce4168cbe9f63775,leasing agent,1.3,FOUND,leasing agent
-63ea4ab1ce4168cbe9f63775,salesperson,3.6,FOUND,salesperson
-63ea4ab1ce4168cbe9f63775,factory worker,2.8,FOUND,factory worker
-63ea4ab1ce4168cbe9f63775,insurance agent,2.09999999999999,FOUND,insurance agent
-63ea4ab1ce4168cbe9f63775,cook,2.0,FOUND,cook
-63ea4ab1ce4168cbe9f63775,chef,1.09999999999999,FOUND,chef
-63ea4ab1ce4168cbe9f63775,sous chef,1.2,FOUND,sous chef
-63ea4ab1ce4168cbe9f63775,server,1.60000000000001,FOUND,server
-63ea4ab1ce4168cbe9f63775,host,1.3,FOUND,host
-63ea4ab1ce4168cbe9f63775,entrepreneur,1.60000000000001,FOUND,entrepreneur
-63ea4ab1ce4168cbe9f63775,web developer,1.8,FOUND,web developer
-63ea4ab1ce4168cbe9f63775,U I Engineer,5.8,REPLACE,u i engineer
-63ea4ab1ce4168cbe9f63775,chemical engineer,2.40000000000001,FOUND,chemical engineer
-63ea4ab1ce4168cbe9f63775,architectural engineer,1.3,FOUND,architectural engineer
-63ea4ab1ce4168cbe9f63775,architect,1.8,FOUND,architect
-63ea4ab1ce4168cbe9f63775,construction worker,1.39999999999999,FOUND,construction worker
-63ea4ab1ce4168cbe9f63775,construction Foreman,1.39999999999999,REPLACE,construction foreman
-63ea4ab1ce4168cbe9f63775,professional athlete,2.2,FOUND,professional athlete
-63ea4ab1ce4168cbe9f63775,coach,1.80000000000001,FOUND,coach
-63ea4ab1ce4168cbe9f63775,trainer,1.30000000000001,FOUND,trainer
-63ea4ab1ce4168cbe9f63775,physical therapist,2.5,FOUND,physical therapist
-5d7ff4aa50fda7001a863736,doctor,0.0,FOUND,doctor
-5d7ff4aa50fda7001a863736,teacher,0.0,FOUND,teacher
-5d7ff4aa50fda7001a863736,lawyer,1.7,FOUND,lawyer
-5d7ff4aa50fda7001a863736,nurse,2.0,FOUND,nurse
-5d7ff4aa50fda7001a863736,cashier,3.1,FOUND,cashier
-5d7ff4aa50fda7001a863736,engineer,0.0,FOUND,engineer
-5d7ff4aa50fda7001a863736,Librarian,1.9,REPLACE,librarian
-5d7ff4aa50fda7001a863736,scientist,5.4,FOUND,scientist
-5d7ff4aa50fda7001a863736,dentist,1.8,FOUND,dentist
-5d7ff4aa50fda7001a863736,Chef,1.5,REPLACE,chef
-5d7ff4aa50fda7001a863736,waitress,0.0,FOUND,waitress
-5d7ff4aa50fda7001a863736,Limo Driver,8.3,REPLACE,limo driver
-5d7ff4aa50fda7001a863736,Taxi Driver,0.0,REPLACE,taxi driver
-5d7ff4aa50fda7001a863736,bus driver,1.9,FOUND,bus driver
-5d7ff4aa50fda7001a863736,airline pilot,2.1,FOUND,airline pilot
-5d7ff4aa50fda7001a863736,captain of a ship,1.6,FOUND,captain of a ship
-5d7ff4aa50fda7001a863736,actor,1.7,FOUND,actor
-5d7ff4aa50fda7001a863736,or,0.0,FOUND,or
-5d7ff4aa50fda7001a863736,actress,0.0,FOUND,actress
-5d7ff4aa50fda7001a863736,politician,1.4,FOUND,politician
-5d7ff4aa50fda7001a863736,artist,3.99999999999999,FOUND,artist
-5d7ff4aa50fda7001a863736,police officer,2.5,FOUND,police officer
-5d7ff4aa50fda7001a863736,mailman,6.2,FOUND,mailman
-5d7ff4aa50fda7001a863736,bartender,6.90000000000001,FOUND,bartender
-5d7ff4aa50fda7001a863736,accountant,2.19999999999999,FOUND,accountant
-5d7ff4aa50fda7001a863736,architect,3.59999999999999,FOUND,architect
-5d7ff4aa50fda7001a863736,firefighter,3.10000000000001,FOUND,firefighter
-5d7ff4aa50fda7001a863736,gardener,4.2,FOUND,gardener
-5d7ff4aa50fda7001a863736,farmer,2.5,FOUND,farmer
-5d7ff4aa50fda7001a863736,zookeeper,1.40000000000001,FOUND,zookeeper
-5d7ff4aa50fda7001a863736,astronaut,6.3,FOUND,astronaut
-5f5aa60bef062519ff711fe6,doctor,0.0,FOUND,doctor
-5f5aa60bef062519ff711fe6,lawyer,1.5,FOUND,lawyer
-5f5aa60bef062519ff711fe6,accountant,1.2,FOUND,accountant
-5f5aa60bef062519ff711fe6,transcriptionist,1.7,FOUND,transcriptionist
-5f5aa60bef062519ff711fe6,translator,0.0,FOUND,translator
-5f5aa60bef062519ff711fe6,engineer,1.5,FOUND,engineer
-5f5aa60bef062519ff711fe6,electrica engineerl,1.4,FOUND,electrica engineerl
-5f5aa60bef062519ff711fe6,mechanical engineer,0.0,FOUND,mechanical engineer
-5f5aa60bef062519ff711fe6,civil engineer,0.0,FOUND,civil engineer
-5f5aa60bef062519ff711fe6,attorney,4.7,FOUND,attorney
-5f5aa60bef062519ff711fe6,/,0.0,FOUND,/
-5f5aa60bef062519ff711fe6,lawyer,0.0,FOUND,lawyer
-5f5aa60bef062519ff711fe6,public defender,1.5,FOUND,public defender
-5f5aa60bef062519ff711fe6,judge,0.0,FOUND,judge
-5f5aa60bef062519ff711fe6,security guard,1.9,FOUND,security guard
-5f5aa60bef062519ff711fe6,police officer,0.0,FOUND,police officer
-5f5aa60bef062519ff711fe6,Mall Cop,2.7,REPLACE,mall cop
-5f5aa60bef062519ff711fe6,cashier,6.0,FOUND,cashier
-5f5aa60bef062519ff711fe6,Baker,1.3,REPLACE,baker
-5f5aa60bef062519ff711fe6,salesman,7.8,FOUND,salesman
-5f5aa60bef062519ff711fe6,computer scientist,12.7,FOUND,computer scientist
-5f5aa60bef062519ff711fe6,IT specialist,2.90000000000001,REPLACE,it specialist
-5f5aa60bef062519ff711fe6,Courier,3.30000000000001,REPLACE,courier
-5f5aa60bef062519ff711fe6,nurse,0.0,FOUND,nurse
-5f5aa60bef062519ff711fe6,surgeon,0.0,FOUND,surgeon
-5f5aa60bef062519ff711fe6,Lab Tech,2.7,REPLACE,lab tech
-5f5aa60bef062519ff711fe6,receptionist,2.5,FOUND,receptionist
-5f5aa60bef062519ff711fe6,general,3.40000000000001,FOUND,general
-5f5aa60bef062519ff711fe6,manager,0.0,FOUND,manager
-5f5aa60bef062519ff711fe6,CEO,0.0,EXCLUDE,EXCLUDE
-5f5aa60bef062519ff711fe6,CFO,1.40000000000001,EXCLUDE,EXCLUDE
-5f5aa60bef062519ff711fe6,COO,0.0,EXCLUDE,EXCLUDE
-5f5aa60bef062519ff711fe6,analyst,9.5,FOUND,analyst
-5f5aa60bef062519ff711fe6,content creator,1.0,FOUND,content creator
-65cb63e160bb47fbf9349269,doctor,0.0,FOUND,doctor
-65cb63e160bb47fbf9349269,lawyer,0.0,FOUND,lawyer
-65cb63e160bb47fbf9349269,police officer,1.1,FOUND,police officer
-65cb63e160bb47fbf9349269,politician,0.9,FOUND,politician
-65cb63e160bb47fbf9349269,teacher,0.300000000000001,FOUND,teacher
-65cb63e160bb47fbf9349269,firefighter,0.6,FOUND,firefighter
-65cb63e160bb47fbf9349269,accountant,1.4,FOUND,accountant
-65cb63e160bb47fbf9349269,curator,3.2,FOUND,curator
-65cb63e160bb47fbf9349269,investor,0.0,FOUND,investor
-65cb63e160bb47fbf9349269,computer scientist,0.0,FOUND,computer scientist
-65cb63e160bb47fbf9349269,software engineer,0.0,FOUND,software engineer
-65cb63e160bb47fbf9349269,mechanical engineers,1.6,FOUND,mechanical engineers
-65cb63e160bb47fbf9349269,civil engineer,0.0,FOUND,civil engineer
-65cb63e160bb47fbf9349269,technician,7.2,FOUND,technician
-65cb63e160bb47fbf9349269,operator,0.900000000000006,FOUND,operator
-65cb63e160bb47fbf9349269,professor,12.9,FOUND,professor
-65cb63e160bb47fbf9349269,tutor,5.5,FOUND,tutor
-65cb63e160bb47fbf9349269,babysitter,0.0,FOUND,babysitter
-65cb63e160bb47fbf9349269,dog walker,1.40000000000001,FOUND,dog walker
-65cb63e160bb47fbf9349269,Market,10.0,REPLACE,market
-65cb63e160bb47fbf9349269,marketing team,0.0,FOUND,marketing team
-65cb63e160bb47fbf9349269,director,1.5,FOUND,director
-65cb63e160bb47fbf9349269,program manager,2.10000000000001,FOUND,program manager
-65cb63e160bb47fbf9349269,musician,15.4,FOUND,musician
-65cb63e160bb47fbf9349269,photographer,0.0,FOUND,photographer
-65cb63e160bb47fbf9349269,Lyricist,2.3,REPLACE,lyricist
-65cb63e160bb47fbf9349269,DJ,0.0,EXCLUDE,EXCLUDE
-65cb63e160bb47fbf9349269,actor,0.0,FOUND,actor
-65cb63e160bb47fbf9349269,actress,1.19999999999999,FOUND,actress
-65cb63e160bb47fbf9349269,juicer,2.40000000000001,FOUND,juicer
-65cb63e160bb47fbf9349269,lighting coordinator,3.10000000000001,FOUND,lighting coordinator
-65cb63e160bb47fbf9349269,meeting coordinator,0.0,FOUND,meeting coordinator
-65cb63e160bb47fbf9349269,pilot,0.0,FOUND,pilot
+60a48adfe091e410f4eaba34,Construction,0.2,REPLACE,construction
+60a48adfe091e410f4eaba34,manager,8.9,FOUND,manager
+60a48adfe091e410f4eaba34,retail sales,11.9,FOUND,retail sales
+60a48adfe091e410f4eaba34,Tech,15.3,REPLACE,tech
+60a48adfe091e410f4eaba34,engineering,15.9,FOUND,engineering
+60a48adfe091e410f4eaba34,physical therapist,17.6,FOUND,physical therapist
+60a48adfe091e410f4eaba34,doctor,19.6,FOUND,doctor
+60a48adfe091e410f4eaba34,occupational therapist,21.8,FOUND,occupational therapist
+60a48adfe091e410f4eaba34,physician's assistant,25.4,FOUND,physician's assistant
+60a48adfe091e410f4eaba34,laborer,30.8,FOUND,laborer
+60a48adfe091e410f4eaba34,auditor,52.4,FOUND,auditor
+60a48adfe091e410f4eaba34,auctioneer,57.3,FOUND,auctioneer
+60a48adfe091e410f4eaba34,real estate agent,64.9,FOUND,real estate agent
+60a48adfe091e410f4eaba34,leasing manager,71.4,FOUND,leasing manager
+60a48adfe091e410f4eaba34,office worker,75.6,FOUND,office worker
+60a48adfe091e410f4eaba34,veterinarian,95.7,FOUND,veterinarian
+60a48adfe091e410f4eaba34,transporter,107.0,FOUND,transporter
+60a48adfe091e410f4eaba34,Rideshare worker,110.1,REPLACE,rideshare worker
+60a48adfe091e410f4eaba34,food delivery,116.7,FOUND,food delivery
+65e862f844f1b7a803bb3c5a,doctor,5.7,FOUND,doctor
+65e862f844f1b7a803bb3c5a,accountants,6.6,FOUND,accountants
+65e862f844f1b7a803bb3c5a,chef,8.6,FOUND,chef
+65e862f844f1b7a803bb3c5a,teacher,11.3,FOUND,teacher
+65e862f844f1b7a803bb3c5a,lecturer,12.0,FOUND,lecturer
+65e862f844f1b7a803bb3c5a,dentist,13.7,FOUND,dentist
+65e862f844f1b7a803bb3c5a,architect,15.5,FOUND,architect
+65e862f844f1b7a803bb3c5a,Baker,17.1,REPLACE,baker
+65e862f844f1b7a803bb3c5a,butcher,18.3,FOUND,butcher
+65e862f844f1b7a803bb3c5a,electrician,18.4,FOUND,electrician
+65e862f844f1b7a803bb3c5a,farmer,22.9,FOUND,farmer
+65e862f844f1b7a803bb3c5a,bus driver,24.6,FOUND,bus driver
+65e862f844f1b7a803bb3c5a,Carpenter,25.5,REPLACE,carpenter
+65e862f844f1b7a803bb3c5a,astronomer,27.1,FOUND,astronomer
+65e862f844f1b7a803bb3c5a,bricklayer,30.2,FOUND,bricklayer
+65e862f844f1b7a803bb3c5a,cleaner,32.3,FOUND,cleaner
+65e862f844f1b7a803bb3c5a,Factory worker,34.2,REPLACE,factory worker
+65e862f844f1b7a803bb3c5a,designer,35.2,FOUND,designer
+65e862f844f1b7a803bb3c5a,engineer,37.9,FOUND,engineer
+65e862f844f1b7a803bb3c5a,fisherman,40.0,FOUND,fisherman
+65e862f844f1b7a803bb3c5a,lawyer,40.7,FOUND,lawyer
+65e862f844f1b7a803bb3c5a,actor,43.4,FOUND,actor
+65e862f844f1b7a803bb3c5a,firefighter,45.2,FOUND,firefighter
+65e862f844f1b7a803bb3c5a,nurse,46.3,FOUND,nurse
+65e862f844f1b7a803bb3c5a,teacher,49.0,FOUND,teacher
+65e862f844f1b7a803bb3c5a,scientist,51.1,FOUND,scientist
+65e862f844f1b7a803bb3c5a,trader,55.1,FOUND,trader
+65e862f844f1b7a803bb3c5a,analyst,57.3,FOUND,analyst
+65e862f844f1b7a803bb3c5a,software engineer,59.4,FOUND,software engineer
+65e862f844f1b7a803bb3c5a,software analyst,63.3,FOUND,software analyst
+65e862f844f1b7a803bb3c5a,train conductor,69.6,FOUND,train conductor
+65e862f844f1b7a803bb3c5a,American football player,72.5,REPLACE,american football player
+65e862f844f1b7a803bb3c5a,basketball player,74.2,FOUND,basketball player
+65e862f844f1b7a803bb3c5a,secretary,75.9,FOUND,secretary
+65e862f844f1b7a803bb3c5a,policeman,79.4,FOUND,policeman
+65e862f844f1b7a803bb3c5a,soldier,81.4,FOUND,soldier
+65e862f844f1b7a803bb3c5a,repairman,82.4,FOUND,repairman
+65e862f844f1b7a803bb3c5a,businessman,85.7,FOUND,businessman
+65e862f844f1b7a803bb3c5a,reporter,88.7,FOUND,reporter
+65e862f844f1b7a803bb3c5a,journalist,89.6,FOUND,journalist
+65e862f844f1b7a803bb3c5a,Postman,91.4,REPLACE,postman
+65e862f844f1b7a803bb3c5a,photographer,93.1,FOUND,photographer
+65e862f844f1b7a803bb3c5a,Pilots,94.7,REPLACE,pilots
+65e862f844f1b7a803bb3c5a,construction worker,96.3,FOUND,construction worker
+65e862f844f1b7a803bb3c5a,lifeguard,101.4,FOUND,lifeguard
+65e862f844f1b7a803bb3c5a,housekeeper,104.2,FOUND,housekeeper
+65e862f844f1b7a803bb3c5a,gardener,105.1,FOUND,gardener
+65e862f844f1b7a803bb3c5a,footballer,108.2,FOUND,footballer
+65e862f844f1b7a803bb3c5a,fire man,112.3,FOUND,fire man
+65e862f844f1b7a803bb3c5a,flight attendants,115.9,FOUND,flight attendants
+65d54b3b524fcafb543d1b23,nurse,2.1,FOUND,nurse
+65d54b3b524fcafb543d1b23,plumber,3.0,FOUND,plumber
+65d54b3b524fcafb543d1b23,surgeon,6.9,FOUND,surgeon
+65d54b3b524fcafb543d1b23,doctor,7.9,FOUND,doctor
+65d54b3b524fcafb543d1b23,nurse's assistant,10.6,FOUND,nurse's assistant
+65d54b3b524fcafb543d1b23,assistant,11.7,FOUND,assistant
+65d54b3b524fcafb543d1b23,CEO,17.5,EXCLUDE,EXCLUDE
+65d54b3b524fcafb543d1b23,software developer,34.1,FOUND,software developer
+65d54b3b524fcafb543d1b23,IT,37.0,EXCLUDE,EXCLUDE
+65d54b3b524fcafb543d1b23,security,42.7,FOUND,security
+65d54b3b524fcafb543d1b23,counselor,47.5,FOUND,counselor
+65d54b3b524fcafb543d1b23,office assistant,55.1,FOUND,office assistant
+65d54b3b524fcafb543d1b23,receptionist,56.6,FOUND,receptionist
+65d54b3b524fcafb543d1b23,massage therapist,61.2,FOUND,massage therapist
+65d54b3b524fcafb543d1b23,physical therapist,62.7,FOUND,physical therapist
+65d54b3b524fcafb543d1b23,occupational therapist,66.3,FOUND,occupational therapist
+65d54b3b524fcafb543d1b23,nurse anesthetist,73.0,FOUND,nurse anesthetist
+65d54b3b524fcafb543d1b23,anesthesia doctor,85.6,FOUND,anesthesia doctor
+65d54b3b524fcafb543d1b23,Foreman,98.2,REPLACE,foreman
+65d54b3b524fcafb543d1b23,general contractor,100.2,FOUND,general contractor
+65d54b3b524fcafb543d1b23,electrician,106.4,FOUND,electrician
+65d54b3b524fcafb543d1b23,welder,110.1,FOUND,welder
+60d731567049e5132e3cc4d4,surgeon,4.1,FOUND,surgeon
+60d731567049e5132e3cc4d4,pediatrician,5.3,FOUND,pediatrician
+60d731567049e5132e3cc4d4,lawyer,9.1,FOUND,lawyer
+60d731567049e5132e3cc4d4,scientist,10.1,FOUND,scientist
+60d731567049e5132e3cc4d4,plumber,12.7,FOUND,plumber
+60d731567049e5132e3cc4d4,Carpenter,14.2,REPLACE,carpenter
+60d731567049e5132e3cc4d4,electrician,16.1,FOUND,electrician
+60d731567049e5132e3cc4d4,botanist,18.3,FOUND,botanist
+60d731567049e5132e3cc4d4,Gardner,20.2,REPLACE,gardner
+60d731567049e5132e3cc4d4,construction worker,24.1,FOUND,construction worker
+60d731567049e5132e3cc4d4,teacher,27.2,FOUND,teacher
+60d731567049e5132e3cc4d4,principal,27.9,FOUND,principal
+60d731567049e5132e3cc4d4,nurse,30.9,FOUND,nurse
+60d731567049e5132e3cc4d4,accountant,33.0,FOUND,accountant
+60d731567049e5132e3cc4d4,business executive,39.8,FOUND,business executive
+60d731567049e5132e3cc4d4,financial planner,43.6,FOUND,financial planner
+60d731567049e5132e3cc4d4,tax broker,49.0,FOUND,tax broker
+60d731567049e5132e3cc4d4,insurance agent,50.3,FOUND,insurance agent
+60d731567049e5132e3cc4d4,police officer,53.2,FOUND,police officer
+60d731567049e5132e3cc4d4,firefighter,55.2,FOUND,firefighter
+60d731567049e5132e3cc4d4,EMT,58.2,EXCLUDE,EXCLUDE
+60d731567049e5132e3cc4d4,mechanic,59.2,FOUND,mechanic
+60d731567049e5132e3cc4d4,window washer,61.6,FOUND,window washer
+60d731567049e5132e3cc4d4,artist,66.5,FOUND,artist
+60d731567049e5132e3cc4d4,model,67.5,FOUND,model
+60d731567049e5132e3cc4d4,musician,69.1,FOUND,musician
+60d731567049e5132e3cc4d4,actor,70.6,FOUND,actor
+60d731567049e5132e3cc4d4,director,73.8,FOUND,director
+60d731567049e5132e3cc4d4,photographer,74.9,FOUND,photographer
+60d731567049e5132e3cc4d4,chauffeur,80.0,FOUND,chauffeur
+60d731567049e5132e3cc4d4,gymnast,83.4,FOUND,gymnast
+60d731567049e5132e3cc4d4,athlete,86.4,FOUND,athlete
+60d731567049e5132e3cc4d4,ski instructor,91.2,FOUND,ski instructor
+60d731567049e5132e3cc4d4,tutor,95.3,FOUND,tutor
+60d731567049e5132e3cc4d4,professor,97.6,FOUND,professor
+60d731567049e5132e3cc4d4,assistant,102.8,FOUND,assistant
+60d731567049e5132e3cc4d4,Advertiser,106.3,REPLACE,advertiser
+60d731567049e5132e3cc4d4,talk show host,112.2,FOUND,talk show host
+60d731567049e5132e3cc4d4,producer,116.7,FOUND,producer
+65e1f75ab3efd22e847cfbf0,doctor,0.9,FOUND,doctor
+65e1f75ab3efd22e847cfbf0,lawyer,2.2,FOUND,lawyer
+65e1f75ab3efd22e847cfbf0,construction person,4.4,FOUND,construction person
+65e1f75ab3efd22e847cfbf0,manager,6.3,FOUND,manager
+65e1f75ab3efd22e847cfbf0,assistant,7.9,FOUND,assistant
+65e1f75ab3efd22e847cfbf0,nurse,10.6,FOUND,nurse
+65e1f75ab3efd22e847cfbf0,CNA,12.3,EXCLUDE,EXCLUDE
+65e1f75ab3efd22e847cfbf0,cashier,15.4,FOUND,cashier
+65e1f75ab3efd22e847cfbf0,retail manager,18.6,FOUND,retail manager
+65e1f75ab3efd22e847cfbf0,receptionist,21.0,FOUND,receptionist
+65e1f75ab3efd22e847cfbf0,assistant,22.0,FOUND,assistant
+65e1f75ab3efd22e847cfbf0,party host,27.1,FOUND,party host
+65e1f75ab3efd22e847cfbf0,HR,31.4,EXCLUDE,EXCLUDE
+65e1f75ab3efd22e847cfbf0,Porter,34.3,REPLACE,porter
+65e1f75ab3efd22e847cfbf0,sales manager,35.0,FOUND,sales manager
+65e1f75ab3efd22e847cfbf0,accountant,36.5,FOUND,accountant
+65e1f75ab3efd22e847cfbf0,technician,63.0,FOUND,technician
+65e1f75ab3efd22e847cfbf0,surgeon,64.0,FOUND,surgeon
+65e1f75ab3efd22e847cfbf0,anesthesiologist,65.1,FOUND,anesthesiologist
+65e1f75ab3efd22e847cfbf0,social worker,80.3,FOUND,social worker
+65e1f75ab3efd22e847cfbf0,physician,82.8,FOUND,physician
+65e1f75ab3efd22e847cfbf0,dentist,83.8,FOUND,dentist
+65e1f75ab3efd22e847cfbf0,Community Health worker,86.2,REPLACE,community health worker
+65e1f75ab3efd22e847cfbf0,scientist,87.7,FOUND,scientist
+65e1f75ab3efd22e847cfbf0,mechanic,93.8,FOUND,mechanic
+65e1f75ab3efd22e847cfbf0,technician,96.4,FOUND,technician
+65e1f75ab3efd22e847cfbf0,administrator,103.9,FOUND,administrator
+65e1f75ab3efd22e847cfbf0,pilot,110.8,FOUND,pilot
+65e1f75ab3efd22e847cfbf0,flight attendant,112.8,FOUND,flight attendant
+63ea4ab1ce4168cbe9f63775,nurse,3.9,FOUND,nurse
+63ea4ab1ce4168cbe9f63775,doctor,6.1,FOUND,doctor
+63ea4ab1ce4168cbe9f63775,x-ray technician,8.5,FOUND,x-ray technician
+63ea4ab1ce4168cbe9f63775,EMT,11.8,EXCLUDE,EXCLUDE
+63ea4ab1ce4168cbe9f63775,nursing assistant,15.5,FOUND,nursing assistant
+63ea4ab1ce4168cbe9f63775,physician's assistant,18.1,FOUND,physician's assistant
+63ea4ab1ce4168cbe9f63775,fireman,23.1,FOUND,fireman
+63ea4ab1ce4168cbe9f63775,police officer,25.0,FOUND,police officer
+63ea4ab1ce4168cbe9f63775,Marketing Executives,29.5,REPLACE,marketing executives
+63ea4ab1ce4168cbe9f63775,Business Development executive,32.6,REPLACE,business development executive
+63ea4ab1ce4168cbe9f63775,event planner,37.7,FOUND,event planner
+63ea4ab1ce4168cbe9f63775,cashier,40.1,FOUND,cashier
+63ea4ab1ce4168cbe9f63775,real estate agent,42.9,FOUND,real estate agent
+63ea4ab1ce4168cbe9f63775,leasing agent,46.3,FOUND,leasing agent
+63ea4ab1ce4168cbe9f63775,salesperson,51.7,FOUND,salesperson
+63ea4ab1ce4168cbe9f63775,factory worker,55.4,FOUND,factory worker
+63ea4ab1ce4168cbe9f63775,insurance agent,58.8,FOUND,insurance agent
+63ea4ab1ce4168cbe9f63775,cook,62.6,FOUND,cook
+63ea4ab1ce4168cbe9f63775,chef,64.3,FOUND,chef
+63ea4ab1ce4168cbe9f63775,sous chef,66.2,FOUND,sous chef
+63ea4ab1ce4168cbe9f63775,server,68.7,FOUND,server
+63ea4ab1ce4168cbe9f63775,host,70.8,FOUND,host
+63ea4ab1ce4168cbe9f63775,entrepreneur,73.4,FOUND,entrepreneur
+63ea4ab1ce4168cbe9f63775,web developer,76.2,FOUND,web developer
+63ea4ab1ce4168cbe9f63775,U I Engineer,83.8,REPLACE,u i engineer
+63ea4ab1ce4168cbe9f63775,chemical engineer,88.9,FOUND,chemical engineer
+63ea4ab1ce4168cbe9f63775,architectural engineer,92.0,FOUND,architectural engineer
+63ea4ab1ce4168cbe9f63775,architect,96.3,FOUND,architect
+63ea4ab1ce4168cbe9f63775,construction worker,98.8,FOUND,construction worker
+63ea4ab1ce4168cbe9f63775,construction Foreman,101.8,REPLACE,construction foreman
+63ea4ab1ce4168cbe9f63775,professional athlete,105.8,FOUND,professional athlete
+63ea4ab1ce4168cbe9f63775,coach,109.4,FOUND,coach
+63ea4ab1ce4168cbe9f63775,trainer,111.4,FOUND,trainer
+63ea4ab1ce4168cbe9f63775,physical therapist,114.7,FOUND,physical therapist
+5d7ff4aa50fda7001a863736,doctor,2.2,FOUND,doctor
+5d7ff4aa50fda7001a863736,teacher,3.0,FOUND,teacher
+5d7ff4aa50fda7001a863736,lawyer,6.2,FOUND,lawyer
+5d7ff4aa50fda7001a863736,nurse,9.0,FOUND,nurse
+5d7ff4aa50fda7001a863736,cashier,13.0,FOUND,cashier
+5d7ff4aa50fda7001a863736,engineer,14.4,FOUND,engineer
+5d7ff4aa50fda7001a863736,Librarian,17.5,REPLACE,librarian
+5d7ff4aa50fda7001a863736,scientist,24.0,FOUND,scientist
+5d7ff4aa50fda7001a863736,dentist,27.1,FOUND,dentist
+5d7ff4aa50fda7001a863736,Chef,29.8,REPLACE,chef
+5d7ff4aa50fda7001a863736,waitress,30.5,FOUND,waitress
+5d7ff4aa50fda7001a863736,Limo Driver,40.4,REPLACE,limo driver
+5d7ff4aa50fda7001a863736,Taxi Driver,41.6,REPLACE,taxi driver
+5d7ff4aa50fda7001a863736,bus driver,45.1,FOUND,bus driver
+5d7ff4aa50fda7001a863736,airline pilot,48.2,FOUND,airline pilot
+5d7ff4aa50fda7001a863736,captain of a ship,52.5,FOUND,captain of a ship
+5d7ff4aa50fda7001a863736,actor,55.7,FOUND,actor
+5d7ff4aa50fda7001a863736,actress,58.3,FOUND,actress
+5d7ff4aa50fda7001a863736,politician,60.3,FOUND,politician
+5d7ff4aa50fda7001a863736,artist,65.6,FOUND,artist
+5d7ff4aa50fda7001a863736,police officer,70.1,FOUND,police officer
+5d7ff4aa50fda7001a863736,mailman,77.5,FOUND,mailman
+5d7ff4aa50fda7001a863736,bartender,85.5,FOUND,bartender
+5d7ff4aa50fda7001a863736,accountant,88.6,FOUND,accountant
+5d7ff4aa50fda7001a863736,architect,93.5,FOUND,architect
+5d7ff4aa50fda7001a863736,firefighter,97.7,FOUND,firefighter
+5d7ff4aa50fda7001a863736,gardener,103.5,FOUND,gardener
+5d7ff4aa50fda7001a863736,farmer,106.8,FOUND,farmer
+5d7ff4aa50fda7001a863736,zookeeper,108.9,FOUND,zookeeper
+5d7ff4aa50fda7001a863736,astronaut,117.7,FOUND,astronaut
+5f5aa60bef062519ff711fe6,doctor,3.7,FOUND,doctor
+5f5aa60bef062519ff711fe6,lawyer,6.0,FOUND,lawyer
+5f5aa60bef062519ff711fe6,accountant,8.0,FOUND,accountant
+5f5aa60bef062519ff711fe6,transcriptionist,11.0,FOUND,transcriptionist
+5f5aa60bef062519ff711fe6,translator,12.3,FOUND,translator
+5f5aa60bef062519ff711fe6,engineer,15.7,FOUND,engineer
+5f5aa60bef062519ff711fe6,electrica engineerl,18.0,FOUND,electrica engineerl
+5f5aa60bef062519ff711fe6,mechanical engineer,19.5,FOUND,mechanical engineer
+5f5aa60bef062519ff711fe6,civil engineer,21.2,FOUND,civil engineer
+5f5aa60bef062519ff711fe6,attorney,27.4,FOUND,attorney
+5f5aa60bef062519ff711fe6,lawyer,28.8,FOUND,lawyer
+5f5aa60bef062519ff711fe6,public defender,30.6,FOUND,public defender
+5f5aa60bef062519ff711fe6,judge,31.7,FOUND,judge
+5f5aa60bef062519ff711fe6,security guard,35.0,FOUND,security guard
+5f5aa60bef062519ff711fe6,police officer,36.3,FOUND,police officer
+5f5aa60bef062519ff711fe6,Mall Cop,40.7,REPLACE,mall cop
+5f5aa60bef062519ff711fe6,cashier,47.6,FOUND,cashier
+5f5aa60bef062519ff711fe6,Baker,49.8,REPLACE,baker
+5f5aa60bef062519ff711fe6,salesman,58.2,FOUND,salesman
+5f5aa60bef062519ff711fe6,computer scientist,71.8,FOUND,computer scientist
+5f5aa60bef062519ff711fe6,IT specialist,76.5,REPLACE,it specialist
+5f5aa60bef062519ff711fe6,Courier,81.4,REPLACE,courier
+5f5aa60bef062519ff711fe6,nurse,82.2,FOUND,nurse
+5f5aa60bef062519ff711fe6,surgeon,83.8,FOUND,surgeon
+5f5aa60bef062519ff711fe6,Lab Tech,88.4,REPLACE,lab tech
+5f5aa60bef062519ff711fe6,receptionist,92.0,FOUND,receptionist
+5f5aa60bef062519ff711fe6,general manager,96.4,EXCLUDE,EXCLUDE
+5f5aa60bef062519ff711fe6,CEO,97.7,EXCLUDE,EXCLUDE
+5f5aa60bef062519ff711fe6,CFO,100.2,EXCLUDE,EXCLUDE
+5f5aa60bef062519ff711fe6,COO,101.1,EXCLUDE,EXCLUDE
+5f5aa60bef062519ff711fe6,analyst,112.0,FOUND,analyst
+5f5aa60bef062519ff711fe6,content creator,114.0,FOUND,content creator
+65cb63e160bb47fbf9349269,doctor,1.4,FOUND,doctor
+65cb63e160bb47fbf9349269,lawyer,2.3,FOUND,lawyer
+65cb63e160bb47fbf9349269,police officer,4.7,FOUND,police officer
+65cb63e160bb47fbf9349269,politician,7.9,FOUND,politician
+65cb63e160bb47fbf9349269,teacher,9.5,FOUND,teacher
+65cb63e160bb47fbf9349269,firefighter,10.9,FOUND,firefighter
+65cb63e160bb47fbf9349269,accountant,13.3,FOUND,accountant
+65cb63e160bb47fbf9349269,curator,17.5,FOUND,curator
+65cb63e160bb47fbf9349269,investor,18.4,FOUND,investor
+65cb63e160bb47fbf9349269,computer scientist,20.1,FOUND,computer scientist
+65cb63e160bb47fbf9349269,software engineer,22.3,FOUND,software engineer
+65cb63e160bb47fbf9349269,mechanical engineers,25.9,FOUND,mechanical engineers
+65cb63e160bb47fbf9349269,civil engineer,27.5,FOUND,civil engineer
+65cb63e160bb47fbf9349269,technician,35.3,FOUND,technician
+65cb63e160bb47fbf9349269,operator,37.2,FOUND,operator
+65cb63e160bb47fbf9349269,professor,51.1,FOUND,professor
+65cb63e160bb47fbf9349269,tutor,57.5,FOUND,tutor
+65cb63e160bb47fbf9349269,babysitter,58.2,FOUND,babysitter
+65cb63e160bb47fbf9349269,dog walker,61.7,FOUND,dog walker
+65cb63e160bb47fbf9349269,Market,72.7,REPLACE,market
+65cb63e160bb47fbf9349269,marketing team,73.5,FOUND,marketing team
+65cb63e160bb47fbf9349269,director,76.2,FOUND,director
+65cb63e160bb47fbf9349269,program manager,79.2,FOUND,program manager
+65cb63e160bb47fbf9349269,musician,95.9,FOUND,musician
+65cb63e160bb47fbf9349269,photographer,97.0,FOUND,photographer
+65cb63e160bb47fbf9349269,Lyricist,100.6,REPLACE,lyricist
+65cb63e160bb47fbf9349269,DJ,101.9,EXCLUDE,EXCLUDE
+65cb63e160bb47fbf9349269,actor,102.9,FOUND,actor
+65cb63e160bb47fbf9349269,actress,105.6,FOUND,actress
+65cb63e160bb47fbf9349269,juicer,108.9,FOUND,juicer
+65cb63e160bb47fbf9349269,lighting coordinator,112.9,FOUND,lighting coordinator
+65cb63e160bb47fbf9349269,meeting coordinator,114.4,FOUND,meeting coordinator
+65cb63e160bb47fbf9349269,pilot,115.4,FOUND,pilot
 63e802622f8052bd67d6c5f0,Barber,0.0,REPLACE,barber
-63e802622f8052bd67d6c5f0,firefighter,0.0,FOUND,firefighter
-63e802622f8052bd67d6c5f0,policeman,0.0,FOUND,policeman
-63e802622f8052bd67d6c5f0,teacher,1.5,FOUND,teacher
-63e802622f8052bd67d6c5f0,bus driver,0.0,FOUND,bus driver
-63e802622f8052bd67d6c5f0,contruction worker,1.8,FOUND,contruction worker
-63e802622f8052bd67d6c5f0,fast food worker,2.0,FOUND,fast food worker
-63e802622f8052bd67d6c5f0,retail salesman,2.5,FOUND,retail salesman
-63e802622f8052bd67d6c5f0,car salesman,1.6,FOUND,car salesman
-63e802622f8052bd67d6c5f0,doctor,4.6,FOUND,doctor
-63e802622f8052bd67d6c5f0,veterinarian,1.5,FOUND,veterinarian
-63e802622f8052bd67d6c5f0,firefighter,4.1,FOUND,firefighter
-63e802622f8052bd67d6c5f0,delivery driver,2.8,FOUND,delivery driver
-63e802622f8052bd67d6c5f0,lawyer,5.3,FOUND,lawyer
-63e802622f8052bd67d6c5f0,judge,1.5,FOUND,judge
-63e802622f8052bd67d6c5f0,security guard,3.4,FOUND,security guard
-63e802622f8052bd67d6c5f0,engineer,2.2,FOUND,engineer
-63e802622f8052bd67d6c5f0,electrician,0.0,FOUND,electrician
-63e802622f8052bd67d6c5f0,fashion designer,60.1,FOUND,fashion designer
-65d6a09286a0c99e632a46dd,teacher,0.0,FOUND,teacher
-65d6a09286a0c99e632a46dd,lawyer,1.2,FOUND,lawyer
-65d6a09286a0c99e632a46dd,Game host,0.0,REPLACE,game host
-65d6a09286a0c99e632a46dd,football player,2.2,FOUND,football player
-65d6a09286a0c99e632a46dd,professional sports player,0.0,FOUND,professional sports player
-65d6a09286a0c99e632a46dd,model,0.0,FOUND,model
-65d6a09286a0c99e632a46dd,accountant,0.0,FOUND,accountant
-65d6a09286a0c99e632a46dd,data analyst,1.8,FOUND,data analyst
-65d6a09286a0c99e632a46dd,investment banker,1.2,FOUND,investment banker
-65d6a09286a0c99e632a46dd,car salesman,4.6,FOUND,car salesman
-65d6a09286a0c99e632a46dd,grocery store worker,4.2,FOUND,grocery store worker
-65d6a09286a0c99e632a46dd,pharmacist,11.5,FOUND,pharmacist
-65d6a09286a0c99e632a46dd,doctor,0.0,FOUND,doctor
-65d6a09286a0c99e632a46dd,coal miner,8.8,FOUND,coal miner
-65d6a09286a0c99e632a46dd,Captain,6.6,REPLACE,captain
-65d6a09286a0c99e632a46dd,Airline captain,0.0,REPLACE,airline captain
-65d6a09286a0c99e632a46dd,professor,6.80000000000001,FOUND,professor
-65d6a09286a0c99e632a46dd,dentist,8.39999999999999,FOUND,dentist
-65d6a09286a0c99e632a46dd,police officer,5.0,FOUND,police officer
-65d6a09286a0c99e632a46dd,firefighter,0.0,FOUND,firefighter
-65d6a09286a0c99e632a46dd,EMT,0.0,EXCLUDE,EXCLUDE
-65d6a09286a0c99e632a46dd,loan officers,5.90000000000001,FOUND,loan officers
-65d6a09286a0c99e632a46dd,Hotel receptionist,8.3,REPLACE,hotel receptionist
-65d6a09286a0c99e632a46dd,Hotel cleaners,0.0,REPLACE,hotel cleaners
-65d6a09286a0c99e632a46dd,garbage man,3.80000000000001,FOUND,garbage man
-65cc19b4b3d48a22dfc6756d,plumber,0.0,FOUND,plumber
-65cc19b4b3d48a22dfc6756d,electrician,0.0,FOUND,electrician
-65cc19b4b3d48a22dfc6756d,nurse,0.0,FOUND,nurse
-65cc19b4b3d48a22dfc6756d,doctor,0.0,FOUND,doctor
-65cc19b4b3d48a22dfc6756d,chef,0.0,FOUND,chef
-65cc19b4b3d48a22dfc6756d,receptionist,1.8,FOUND,receptionist
-65cc19b4b3d48a22dfc6756d,secretary,0.0,FOUND,secretary
-65cc19b4b3d48a22dfc6756d,CEO,2.9,EXCLUDE,EXCLUDE
-65cc19b4b3d48a22dfc6756d,sales associate,2.5,FOUND,sales associate
-65cc19b4b3d48a22dfc6756d,janitor,3.3,FOUND,janitor
-65cc19b4b3d48a22dfc6756d,engineer,4.7,FOUND,engineer
-65cc19b4b3d48a22dfc6756d,scientist,0.0,FOUND,scientist
-65cc19b4b3d48a22dfc6756d,astronaut,2.5,FOUND,astronaut
-65cc19b4b3d48a22dfc6756d,physicist,1.4,FOUND,physicist
-65cc19b4b3d48a22dfc6756d,actress,5.0,FOUND,actress
-65cc19b4b3d48a22dfc6756d,singer,2.5,FOUND,singer
-65cc19b4b3d48a22dfc6756d,baker,8.4,FOUND,baker
-65cc19b4b3d48a22dfc6756d,maid,5.7,FOUND,maid
-65cc19b4b3d48a22dfc6756d,chauffeur,2.7,FOUND,chauffeur
-65cc19b4b3d48a22dfc6756d,butler,1.2,FOUND,butler
-65cc19b4b3d48a22dfc6756d,manicurist,4.2,FOUND,manicurist
-65cc19b4b3d48a22dfc6756d,seamstress,6.40000000000001,FOUND,seamstress
-65cc19b4b3d48a22dfc6756d,car mechanic,4.3,FOUND,car mechanic
-65cc19b4b3d48a22dfc6756d,anchor,3.60000000000001,FOUND,anchor
-65cc19b4b3d48a22dfc6756d,designer,10.2,FOUND,designer
-65cc19b4b3d48a22dfc6756d,construction worker,10.6,FOUND,construction worker
-65cc19b4b3d48a22dfc6756d,weatherman,4.89999999999999,FOUND,weatherman
-65c25cf77dca9d7ca7d9ebdb,doctors,0.0,FOUND,doctors
-65c25cf77dca9d7ca7d9ebdb,nurses,0.0,FOUND,nurses
-65c25cf77dca9d7ca7d9ebdb,lawyers,0.0,FOUND,lawyers
-65c25cf77dca9d7ca7d9ebdb,attorneys,1.0,FOUND,attorneys
-65c25cf77dca9d7ca7d9ebdb,convenience store clerk,3.4,FOUND,convenience store clerk
-65c25cf77dca9d7ca7d9ebdb,cashier,0.0,FOUND,cashier
-65c25cf77dca9d7ca7d9ebdb,manager,0.0,FOUND,manager
-65c25cf77dca9d7ca7d9ebdb,engineer,6.2,FOUND,engineer
-65c25cf77dca9d7ca7d9ebdb,electrical engineering,0.699999999999999,FOUND,electrical engineering
-65c25cf77dca9d7ca7d9ebdb,materials engineering,0.0,FOUND,materials engineering
-65c25cf77dca9d7ca7d9ebdb,nuclear engineer,0.0,FOUND,nuclear engineer
-65c25cf77dca9d7ca7d9ebdb,teachers,0.0,FOUND,teachers
-65c25cf77dca9d7ca7d9ebdb,professors,0.0,FOUND,professors
-65c25cf77dca9d7ca7d9ebdb,Bank Clerks,10.1,REPLACE,bank clerks
-65c25cf77dca9d7ca7d9ebdb,inspector,6.8,FOUND,inspector
-65c25cf77dca9d7ca7d9ebdb,architect,0.0,FOUND,architect
-65c25cf77dca9d7ca7d9ebdb,psychologist,1.4,FOUND,psychologist
-65c25cf77dca9d7ca7d9ebdb,psychiatrist,4.4,FOUND,psychiatrist
-65c25cf77dca9d7ca7d9ebdb,dentist,0.0,FOUND,dentist
-65c25cf77dca9d7ca7d9ebdb,train driver,19.1,FOUND,train driver
-65c25cf77dca9d7ca7d9ebdb,pilot,2.39999999999999,FOUND,pilot
-65c25cf77dca9d7ca7d9ebdb,border patrol,11.9,FOUND,border patrol
-65c25cf77dca9d7ca7d9ebdb,police officer,1.7,FOUND,police officer
-65c25cf77dca9d7ca7d9ebdb,sheriff,1.40000000000001,FOUND,sheriff
-65c25cf77dca9d7ca7d9ebdb,highway patrol,0.0,FOUND,highway patrol
-65c25cf77dca9d7ca7d9ebdb,news anchor,5.09999999999999,FOUND,news anchor
-65c25cf77dca9d7ca7d9ebdb,actor,3.19999999999999,FOUND,actor
-65b15afd94153c1f50c92493,singer,0.0,FOUND,singer
-65b15afd94153c1f50c92493,writer,0.0,FOUND,writer
-65b15afd94153c1f50c92493,teacher,1.6,FOUND,teacher
-65b15afd94153c1f50c92493,therapist,0.0,FOUND,therapist
-65b15afd94153c1f50c92493,nurse,0.0,FOUND,nurse
-65b15afd94153c1f50c92493,entrepreneur,1.1,FOUND,entrepreneur
-65b15afd94153c1f50c92493,fast food worker,2.4,FOUND,fast food worker
-65b15afd94153c1f50c92493,architect,1.3,FOUND,architect
-65b15afd94153c1f50c92493,dentist,3.9,FOUND,dentist
-65b15afd94153c1f50c92493,therapist,1.3,FOUND,therapist
-65b15afd94153c1f50c92493,mortician,1.4,FOUND,mortician
-65b15afd94153c1f50c92493,barber,2.2,FOUND,barber
-65b15afd94153c1f50c92493,makeup artist,1.8,FOUND,makeup artist
-65b15afd94153c1f50c92493,musician,1.5,FOUND,musician
-65b15afd94153c1f50c92493,artist,2.0,FOUND,artist
-65b15afd94153c1f50c92493,designer,4.4,FOUND,designer
-65b15afd94153c1f50c92493,mechanic,9.0,FOUND,mechanic
-65b15afd94153c1f50c92493,vet,42.7,FOUND,vet
-65b15afd94153c1f50c92493,doctor,0.0,FOUND,doctor
-65e358d9c5e3ee026268b2a7,nurse,0.0,FOUND,nurse
-65e358d9c5e3ee026268b2a7,doctor,0.0,FOUND,doctor
-65e358d9c5e3ee026268b2a7,exercise physiologist,1.3,FOUND,exercise physiologist
-65e358d9c5e3ee026268b2a7,nutritionist,0.0,FOUND,nutritionist
-65e358d9c5e3ee026268b2a7,personal trainer,0.9,FOUND,personal trainer
-65e358d9c5e3ee026268b2a7,physical therapist,-1.6,FOUND,physical therapist
-65e358d9c5e3ee026268b2a7,cook,3.7,FOUND,cook
-65e358d9c5e3ee026268b2a7,custodian,0.0,FOUND,custodian
-65e358d9c5e3ee026268b2a7,shelf stocker,2.4,FOUND,shelf stocker
-65e358d9c5e3ee026268b2a7,Finance,0.0,REPLACE,finance
-65e358d9c5e3ee026268b2a7,broker,0.900000000000002,FOUND,broker
-65e358d9c5e3ee026268b2a7,banker,0.600000000000001,FOUND,banker
-65e358d9c5e3ee026268b2a7,manager positions,3.3,FOUND,manager positions
-65e358d9c5e3ee026268b2a7,assistant manager,0.199999999999996,FOUND,assistant manager
-65e358d9c5e3ee026268b2a7,manager,0.0,FOUND,manager
-65e358d9c5e3ee026268b2a7,sanitation workers,3.9,FOUND,sanitation workers
-65e358d9c5e3ee026268b2a7,retail employees,5.2,FOUND,retail employees
-65e358d9c5e3ee026268b2a7,there is,3.7,FOUND,there is
-65e358d9c5e3ee026268b2a7,Engineers,1.9,REPLACE,engineers
-65e358d9c5e3ee026268b2a7,civil engineer,0.0,FOUND,civil engineer
-65e358d9c5e3ee026268b2a7,mechanical,0.0,FOUND,mechanical
-65e358d9c5e3ee026268b2a7,electrical,0.0,FOUND,electrical
-65e358d9c5e3ee026268b2a7,computer engineer,1.90000000000001,FOUND,computer engineer
-65e358d9c5e3ee026268b2a7,IT positions,2.09999999999999,REPLACE,it positions
-65e358d9c5e3ee026268b2a7,web designers,0.0,FOUND,web designers
-65e358d9c5e3ee026268b2a7,web Developers,0.0,REPLACE,web developers
-65e358d9c5e3ee026268b2a7,customer service,2.40000000000001,FOUND,customer service
-65e358d9c5e3ee026268b2a7,call center employees,0.0,FOUND,call center employees
-65e358d9c5e3ee026268b2a7,construction workers,4.5,FOUND,construction workers
-65e358d9c5e3ee026268b2a7,electricians,2.09999999999999,FOUND,electricians
-65e358d9c5e3ee026268b2a7,lawyers,1.40000000000001,FOUND,lawyers
-65e358d9c5e3ee026268b2a7,security guards,7.89999999999999,FOUND,security guards
-65e358d9c5e3ee026268b2a7,cleaners,5.0,FOUND,cleaners
-65e358d9c5e3ee026268b2a7,housekeepers,0.0,FOUND,housekeepers
-65e358d9c5e3ee026268b2a7,translators,5.40000000000001,FOUND,translators
+63e802622f8052bd67d6c5f0,firefighter,4.0,FOUND,firefighter
+63e802622f8052bd67d6c5f0,policeman,5.0,FOUND,policeman
+63e802622f8052bd67d6c5f0,teacher,7.7,FOUND,teacher
+63e802622f8052bd67d6c5f0,bus driver,8.3,FOUND,bus driver
+63e802622f8052bd67d6c5f0,contruction worker,12.6,FOUND,contruction worker
+63e802622f8052bd67d6c5f0,fast food worker,15.8,FOUND,fast food worker
+63e802622f8052bd67d6c5f0,retail salesman,19.5,FOUND,retail salesman
+63e802622f8052bd67d6c5f0,car salesman,22.5,FOUND,car salesman
+63e802622f8052bd67d6c5f0,doctor,28.0,FOUND,doctor
+63e802622f8052bd67d6c5f0,veterinarian,30.3,FOUND,veterinarian
+63e802622f8052bd67d6c5f0,firefighter,35.1,FOUND,firefighter
+63e802622f8052bd67d6c5f0,delivery driver,38.7,FOUND,delivery driver
+63e802622f8052bd67d6c5f0,lawyer,45.1,FOUND,lawyer
+63e802622f8052bd67d6c5f0,judge,47.3,FOUND,judge
+63e802622f8052bd67d6c5f0,security guard,51.3,FOUND,security guard
+63e802622f8052bd67d6c5f0,engineer,54.6,FOUND,engineer
+63e802622f8052bd67d6c5f0,electrician,56.0,FOUND,electrician
+63e802622f8052bd67d6c5f0,fashion designer,117.5,FOUND,fashion designer
+65d6a09286a0c99e632a46dd,teacher,1.3,FOUND,teacher
+65d6a09286a0c99e632a46dd,lawyer,4.3,FOUND,lawyer
+65d6a09286a0c99e632a46dd,Game host,5.1,REPLACE,game host
+65d6a09286a0c99e632a46dd,football player,9.1,FOUND,football player
+65d6a09286a0c99e632a46dd,professional sports player,10.2,FOUND,professional sports player
+65d6a09286a0c99e632a46dd,model,12.3,FOUND,model
+65d6a09286a0c99e632a46dd,accountant,14.8,FOUND,accountant
+65d6a09286a0c99e632a46dd,data analyst,17.9,FOUND,data analyst
+65d6a09286a0c99e632a46dd,investment banker,20.4,FOUND,investment banker
+65d6a09286a0c99e632a46dd,car salesman,26.2,FOUND,car salesman
+65d6a09286a0c99e632a46dd,grocery store worker,31.5,FOUND,grocery store worker
+65d6a09286a0c99e632a46dd,pharmacist,44.4,FOUND,pharmacist
+65d6a09286a0c99e632a46dd,doctor,45.7,FOUND,doctor
+65d6a09286a0c99e632a46dd,coal miner,56.1,FOUND,coal miner
+65d6a09286a0c99e632a46dd,Captain,63.6,REPLACE,captain
+65d6a09286a0c99e632a46dd,Airline captain,64.7,REPLACE,airline captain
+65d6a09286a0c99e632a46dd,professor,72.4,FOUND,professor
+65d6a09286a0c99e632a46dd,dentist,83.1,FOUND,dentist
+65d6a09286a0c99e632a46dd,police officer,89.4,FOUND,police officer
+65d6a09286a0c99e632a46dd,firefighter,90.5,FOUND,firefighter
+65d6a09286a0c99e632a46dd,EMT,91.7,EXCLUDE,EXCLUDE
+65d6a09286a0c99e632a46dd,loan officers,98.4,FOUND,loan officers
+65d6a09286a0c99e632a46dd,Hotel receptionist,108.6,REPLACE,hotel receptionist
+65d6a09286a0c99e632a46dd,Hotel cleaners,111.6,REPLACE,hotel cleaners
+65d6a09286a0c99e632a46dd,garbage man,117.9,FOUND,garbage man
+65cc19b4b3d48a22dfc6756d,plumber,2.8,FOUND,plumber
+65cc19b4b3d48a22dfc6756d,electrician,3.5,FOUND,electrician
+65cc19b4b3d48a22dfc6756d,nurse,5.1,FOUND,nurse
+65cc19b4b3d48a22dfc6756d,doctor,6.4,FOUND,doctor
+65cc19b4b3d48a22dfc6756d,chef,7.6,FOUND,chef
+65cc19b4b3d48a22dfc6756d,receptionist,10.6,FOUND,receptionist
+65cc19b4b3d48a22dfc6756d,secretary,12.0,FOUND,secretary
+65cc19b4b3d48a22dfc6756d,CEO,16.3,EXCLUDE,EXCLUDE
+65cc19b4b3d48a22dfc6756d,sales associate,19.6,FOUND,sales associate
+65cc19b4b3d48a22dfc6756d,janitor,23.8,FOUND,janitor
+65cc19b4b3d48a22dfc6756d,engineer,29.3,FOUND,engineer
+65cc19b4b3d48a22dfc6756d,scientist,30.2,FOUND,scientist
+65cc19b4b3d48a22dfc6756d,astronaut,33.8,FOUND,astronaut
+65cc19b4b3d48a22dfc6756d,physicist,36.1,FOUND,physicist
+65cc19b4b3d48a22dfc6756d,actress,42.0,FOUND,actress
+65cc19b4b3d48a22dfc6756d,singer,45.3,FOUND,singer
+65cc19b4b3d48a22dfc6756d,baker,54.3,FOUND,baker
+65cc19b4b3d48a22dfc6756d,maid,60.7,FOUND,maid
+65cc19b4b3d48a22dfc6756d,chauffeur,64.2,FOUND,chauffeur
+65cc19b4b3d48a22dfc6756d,butler,66.2,FOUND,butler
+65cc19b4b3d48a22dfc6756d,manicurist,70.8,FOUND,manicurist
+65cc19b4b3d48a22dfc6756d,seamstress,78.2,FOUND,seamstress
+65cc19b4b3d48a22dfc6756d,car mechanic,83.6,FOUND,car mechanic
+65cc19b4b3d48a22dfc6756d,anchor,88.4,FOUND,anchor
+65cc19b4b3d48a22dfc6756d,designer,99.3,FOUND,designer
+65cc19b4b3d48a22dfc6756d,construction worker,110.7,FOUND,construction worker
+65cc19b4b3d48a22dfc6756d,weatherman,117.3,FOUND,weatherman
+65c25cf77dca9d7ca7d9ebdb,doctors,1.3,FOUND,doctors
+65c25cf77dca9d7ca7d9ebdb,nurses,3.4,FOUND,nurses
+65c25cf77dca9d7ca7d9ebdb,lawyers,4.0,FOUND,lawyers
+65c25cf77dca9d7ca7d9ebdb,attorneys,6.2,FOUND,attorneys
+65c25cf77dca9d7ca7d9ebdb,convenience store clerk,11.1,FOUND,convenience store clerk
+65c25cf77dca9d7ca7d9ebdb,cashier,12.8,FOUND,cashier
+65c25cf77dca9d7ca7d9ebdb,manager,13.7,FOUND,manager
+65c25cf77dca9d7ca7d9ebdb,engineer,21.2,FOUND,engineer
+65c25cf77dca9d7ca7d9ebdb,electrical engineering,22.9,FOUND,electrical engineering
+65c25cf77dca9d7ca7d9ebdb,materials engineering,24.6,FOUND,materials engineering
+65c25cf77dca9d7ca7d9ebdb,nuclear engineer,26.2,FOUND,nuclear engineer
+65c25cf77dca9d7ca7d9ebdb,teachers,29.6,FOUND,teachers
+65c25cf77dca9d7ca7d9ebdb,professors,30.9,FOUND,professors
+65c25cf77dca9d7ca7d9ebdb,Bank Clerks,41.3,REPLACE,bank clerks
+65c25cf77dca9d7ca7d9ebdb,inspector,50.0,FOUND,inspector
+65c25cf77dca9d7ca7d9ebdb,architect,51.1,FOUND,architect
+65c25cf77dca9d7ca7d9ebdb,psychologist,54.0,FOUND,psychologist
+65c25cf77dca9d7ca7d9ebdb,psychiatrist,60.0,FOUND,psychiatrist
+65c25cf77dca9d7ca7d9ebdb,dentist,61.4,FOUND,dentist
+65c25cf77dca9d7ca7d9ebdb,train driver,81.6,FOUND,train driver
+65c25cf77dca9d7ca7d9ebdb,pilot,85.3,FOUND,pilot
+65c25cf77dca9d7ca7d9ebdb,border patrol,98.0,FOUND,border patrol
+65c25cf77dca9d7ca7d9ebdb,police officer,100.9,FOUND,police officer
+65c25cf77dca9d7ca7d9ebdb,sheriff,103.5,FOUND,sheriff
+65c25cf77dca9d7ca7d9ebdb,highway patrol,104.6,FOUND,highway patrol
+65c25cf77dca9d7ca7d9ebdb,news anchor,111.3,FOUND,news anchor
+65c25cf77dca9d7ca7d9ebdb,actor,115.6,FOUND,actor
+65b15afd94153c1f50c92493,singer,2.0,FOUND,singer
+65b15afd94153c1f50c92493,writer,2.8,FOUND,writer
+65b15afd94153c1f50c92493,teacher,5.3,FOUND,teacher
+65b15afd94153c1f50c92493,therapist,6.0,FOUND,therapist
+65b15afd94153c1f50c92493,nurse,7.8,FOUND,nurse
+65b15afd94153c1f50c92493,entrepreneur,10.5,FOUND,entrepreneur
+65b15afd94153c1f50c92493,fast food worker,14.2,FOUND,fast food worker
+65b15afd94153c1f50c92493,architect,16.9,FOUND,architect
+65b15afd94153c1f50c92493,dentist,21.7,FOUND,dentist
+65b15afd94153c1f50c92493,therapist,24.0,FOUND,therapist
+65b15afd94153c1f50c92493,mortician,27.3,FOUND,mortician
+65b15afd94153c1f50c92493,barber,30.6,FOUND,barber
+65b15afd94153c1f50c92493,makeup artist,33.0,FOUND,makeup artist
+65b15afd94153c1f50c92493,musician,35.8,FOUND,musician
+65b15afd94153c1f50c92493,artist,38.8,FOUND,artist
+65b15afd94153c1f50c92493,designer,44.1,FOUND,designer
+65b15afd94153c1f50c92493,mechanic,53.9,FOUND,mechanic
+65b15afd94153c1f50c92493,vet,98.3,FOUND,vet
+65b15afd94153c1f50c92493,doctor,99.1,FOUND,doctor
+65e358d9c5e3ee026268b2a7,nurse,4.0,FOUND,nurse
+65e358d9c5e3ee026268b2a7,doctor,4.6,FOUND,doctor
+65e358d9c5e3ee026268b2a7,exercise physiologist,7.1,FOUND,exercise physiologist
+65e358d9c5e3ee026268b2a7,nutritionist,8.6,FOUND,nutritionist
+65e358d9c5e3ee026268b2a7,personal trainer,10.9,FOUND,personal trainer
+65e358d9c5e3ee026268b2a7,physical therapist,10.0,FOUND,physical therapist
+65e358d9c5e3ee026268b2a7,cook,17.1,FOUND,cook
+65e358d9c5e3ee026268b2a7,custodian,18.5,FOUND,custodian
+65e358d9c5e3ee026268b2a7,shelf stocker,24.3,FOUND,shelf stocker
+65e358d9c5e3ee026268b2a7,Finance,25.9,REPLACE,finance
+65e358d9c5e3ee026268b2a7,broker,29.6,FOUND,broker
+65e358d9c5e3ee026268b2a7,banker,31.5,FOUND,banker
+65e358d9c5e3ee026268b2a7,manager positions,35.6,FOUND,manager positions
+65e358d9c5e3ee026268b2a7,assistant manager,37.3,FOUND,assistant manager
+65e358d9c5e3ee026268b2a7,manager,38.4,FOUND,manager
+65e358d9c5e3ee026268b2a7,sanitation workers,42.9,FOUND,sanitation workers
+65e358d9c5e3ee026268b2a7,retail employees,50.4,FOUND,retail employees
+65e358d9c5e3ee026268b2a7,Engineers,57.9,REPLACE,engineers
+65e358d9c5e3ee026268b2a7,civil engineer,59.7,FOUND,civil engineer
+65e358d9c5e3ee026268b2a7,mechanical,61.1,FOUND,mechanical
+65e358d9c5e3ee026268b2a7,electrical,62.3,FOUND,electrical
+65e358d9c5e3ee026268b2a7,computer engineer,64.9,FOUND,computer engineer
+65e358d9c5e3ee026268b2a7,IT positions,68.3,REPLACE,it positions
+65e358d9c5e3ee026268b2a7,web designers,68.9,FOUND,web designers
+65e358d9c5e3ee026268b2a7,web Developers,70.1,REPLACE,web developers
+65e358d9c5e3ee026268b2a7,customer service,73.2,FOUND,customer service
+65e358d9c5e3ee026268b2a7,call center employees,75.9,FOUND,call center employees
+65e358d9c5e3ee026268b2a7,construction workers,81.7,FOUND,construction workers
+65e358d9c5e3ee026268b2a7,electricians,85.6,FOUND,electricians
+65e358d9c5e3ee026268b2a7,lawyers,87.7,FOUND,lawyers
+65e358d9c5e3ee026268b2a7,security guards,97.6,FOUND,security guards
+65e358d9c5e3ee026268b2a7,cleaners,105.0,FOUND,cleaners
+65e358d9c5e3ee026268b2a7,housekeepers,107.0,FOUND,housekeepers
+65e358d9c5e3ee026268b2a7,translators,114.4,FOUND,translators

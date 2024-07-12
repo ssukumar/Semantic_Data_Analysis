@@ -46,6 +46,14 @@ lexical_data = lexical_data %>% group_by(Subject) %>% mutate(Item = row_number()
 lexical_data$IRT[lexical_data$IRT<0] = 0
 lexical_data$IRT[lexical_data$Item == 1] = NA
 
+
+# normalize and plot interitem time
+
+lexical_data = lexical_data %>% group_by(Subject) %>% mutate(norm_IRT = IRT/ mean(IRT, na.rm = TRUE))
+
+lexical_data = lexical_data %>% group_by(Subject) %>% mutate(frequency = 10^(Frequency_Value), norm_freq = frequency/ mean(frequency, na.rm = TRUE), norm_IRT = IRT/ mean(IRT,na.rm=TRUE))
+
+
 switch_file = file.path(category_dir, switch_fn)
 
 switch_data = read.csv(switch_file)
@@ -82,7 +90,25 @@ ggplot(data = lex_switch_data) + geom_line(aes( x = Item, y = IRT, color = Subje
 
 ```
 Correlating subject efficiency (number of words) with mean cluster size
+```{r}
 
+category_dir = file.path(model_dir, paste0(category, forager_suffix))
+switch_df = read.csv(file.path(category_dir, switch_file))
+clust_size = 0
+for(i in 1:nrow(switch_df)){
+  subj = switch_df[i, "Subject"]
+  if (switch_df[i, 'Switch_Value']==0 || switch_df[i, 'Switch_Value']==2){
+    clust_size = clust_size + 1
+  } else {
+    switch_counts = rbind(switch_counts, c(subj, clust_size, category))
+    clust_size = 0
+  }
+  
+}
+
+colnames(switch_counts) = c('Subject', 'cluster_size', 'Category')
+switch_counts$cluster_size = as.numeric(switch_counts$cluster_size)
+```
 ```{r}
 
 stats_fn = "individual_descriptive_stats.csv"
@@ -131,12 +157,6 @@ ggplot(data = lexical_data) + geom_line(aes( x = Item, y = IRT, color = Subject,
   facet_wrap(~Subject, nrow = 5, scales = "free")+ 
   ggtitle(category)+
   theme(legend.position="none",plot.title = element_text(size=22, hjust = 0.5))
-
-# normalize and plot interitem time
-
-lexical_data = lexical_data %>% group_by(Subject) %>% mutate(norm_IRT = IRT/ mean(IRT, na.rm = TRUE))
-
-lexical_data = lexical_data %>% group_by(Subject) %>% mutate(frequency = 10^(Frequency_Value), norm_freq = frequency/ mean(frequency, na.rm = TRUE), norm_IRT = IRT/ mean(IRT,na.rm=TRUE))
 
 ```
 
@@ -259,9 +279,9 @@ ggplot(lex_switch_bar) + geom_bar(aes(x = switch_status, y = mean_ss),stat="iden
 Averaging across subjects
 
 ```{r}
-lex_switch_bar_all = lex_switch_bar %>% group_by(switch_status) %>% summarise(mean_norm_IRT_all = mean(mean_norm_IRT), sd_norm_IRT_all = sd(mean_norm_IRT), mean_ss_all = mean(mean_ss), sd_ss_all = sd(mean_ss), mean_norm_freq_all = mean(mean_norm_freq), sd_mean_norm_freq_all = sd(mean_norm_freq))
+lex_switch_bar_all = lex_switch_bar %>% group_by(switch_status) %>% summarise(mean_norm_IRT_all = mean(mean_norm_IRT), sd_norm_IRT_all = sd(mean_norm_IRT), mean_ss_all = mean(mean_ss), sd_ss_all = sd(mean_ss), mean_norm_freq_all = mean(mean_norm_freq), sd_norm_freq_all = sd(mean_norm_freq))
 
-lex_switch_bar_all = lex_switch_bar_all %>% mutate(norm_IRT_all_min = mean_norm_IRT_all - sd_norm_IRT_all, norm_IRT_all_max = mean_norm_IRT_all + sd_norm_IRT_all, ss_all_min = mean_ss_all - sd_ss_all, ss_all_max = mean_ss_all + sd_ss_all, norm_IRT_all_min = mean_norm_freq_all - sd_norm_freq_all, norm_freq_all_max = mean_norm_freq_all + sd_norm_freq_all)
+lex_switch_bar_all = lex_switch_bar_all %>% mutate(norm_IRT_all_min = mean_norm_IRT_all - sd_norm_IRT_all, norm_IRT_all_max = mean_norm_IRT_all + sd_norm_IRT_all, ss_all_min = mean_ss_all - sd_ss_all, ss_all_max = mean_ss_all + sd_ss_all, norm_freq_all_min = mean_norm_freq_all - sd_norm_freq_all, norm_freq_all_max = mean_norm_freq_all + sd_norm_freq_all)
 
 
 ggplot(lex_switch_bar_all) + geom_bar(aes(x = switch_status, y = mean_norm_IRT_all),stat="identity")+
@@ -271,6 +291,10 @@ ggplot(lex_switch_bar_all) + geom_bar(aes(x = switch_status, y = mean_norm_IRT_a
 
 ggplot(lex_switch_bar_all) + geom_bar(aes(x = switch_status, y = mean_ss_all),stat="identity")+
   geom_errorbar(aes(x = switch_status, ymax = ss_all_max, ymin = ss_all_min))+
+  theme_classic()
+
+ggplot(lex_switch_bar_all) + geom_bar(aes(x = switch_status, y = mean_norm_freq_all),stat="identity")+
+  geom_errorbar(aes(x = switch_status, ymax = norm_freq_all_max, ymin = norm_freq_all_min))+
   theme_classic()
 ```
 
@@ -295,6 +319,10 @@ Melt data frame to superimpose plots
 ```{r}
 library("reshape2")
 lexical_melt = melt(lexical_data, id = c("Subject","Fluency_Item","Item", "Semantic_Similarity","Frequency_Value","frequency","norm_IRT"))
+
+mdl_switch_data = lex_switch_data
+mdl_switch_data$Switch_Value[mdl_switch_data$Switch_Value == 2,]= 0
+
 
 ggplot(data=lexical_melt) + geom_line(aes(x= Item, y= value, linetype= variable, group=variable))+
   facet_wrap(~Subject, nrow =5, scales = "free")+
@@ -323,4 +351,18 @@ ggplot(data = lex_switch_data) + geom_line(aes( x = Item, y = Semantic_Similarit
 
 ```
 
+Modelling switch points using mixed effects models
 
+```{r}
+library(lme4)
+library(sjPlot)
+mdl_switch = glmer( Switch_Value ~ Item + IRT*Semantic_Similarity * norm_freq + (1| Subject), data = lex_switch_data, family = binomial(link="logit"), control = glmerControl(optimizer = "bobyqa"))
+
+summary(mdl_switch)
+
+plot_model(mdl_switch, type="pred")
+# plot_model(mdl_switch)
+
+```
+
+# plotting the effects wrt predictor variables 

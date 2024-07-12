@@ -15,9 +15,8 @@ Subject,Fluency_Item,Switch_Value,Switch_Method
 5d7ff4aa50fda7001a863736,bus driver,0,simdrop
 5d7ff4aa50fda7001a863736,airline pilot,0,simdrop
 5d7ff4aa50fda7001a863736,captain of a ship,0,simdrop
-5d7ff4aa50fda7001a863736,actor,0,simdrop
-5d7ff4aa50fda7001a863736,or,0,simdrop
-5d7ff4aa50fda7001a863736,actress,1,simdrop
+5d7ff4aa50fda7001a863736,actor,1,simdrop
+5d7ff4aa50fda7001a863736,actress,0,simdrop
 5d7ff4aa50fda7001a863736,politician,0,simdrop
 5d7ff4aa50fda7001a863736,artist,0,simdrop
 5d7ff4aa50fda7001a863736,police officer,1,simdrop
@@ -39,9 +38,8 @@ Subject,Fluency_Item,Switch_Value,Switch_Method
 5f5aa60bef062519ff711fe6,electrica engineerl,1,simdrop
 5f5aa60bef062519ff711fe6,mechanical engineer,0,simdrop
 5f5aa60bef062519ff711fe6,civil engineer,0,simdrop
-5f5aa60bef062519ff711fe6,attorney,0,simdrop
-5f5aa60bef062519ff711fe6,/,0,simdrop
-5f5aa60bef062519ff711fe6,lawyer,1,simdrop
+5f5aa60bef062519ff711fe6,attorney,1,simdrop
+5f5aa60bef062519ff711fe6,lawyer,0,simdrop
 5f5aa60bef062519ff711fe6,public defender,0,simdrop
 5f5aa60bef062519ff711fe6,judge,0,simdrop
 5f5aa60bef062519ff711fe6,security guard,1,simdrop
@@ -57,8 +55,6 @@ Subject,Fluency_Item,Switch_Value,Switch_Method
 5f5aa60bef062519ff711fe6,surgeon,0,simdrop
 5f5aa60bef062519ff711fe6,lab tech,1,simdrop
 5f5aa60bef062519ff711fe6,receptionist,0,simdrop
-5f5aa60bef062519ff711fe6,general,1,simdrop
-5f5aa60bef062519ff711fe6,manager,0,simdrop
 5f5aa60bef062519ff711fe6,analyst,0,simdrop
 5f5aa60bef062519ff711fe6,content creator,2,simdrop
 60a48adfe091e410f4eaba34,construction,2,simdrop
@@ -362,8 +358,7 @@ Subject,Fluency_Item,Switch_Value,Switch_Method
 65e358d9c5e3ee026268b2a7,manager,0,simdrop
 65e358d9c5e3ee026268b2a7,sanitation workers,1,simdrop
 65e358d9c5e3ee026268b2a7,retail employees,0,simdrop
-65e358d9c5e3ee026268b2a7,there is,1,simdrop
-65e358d9c5e3ee026268b2a7,engineers,0,simdrop
+65e358d9c5e3ee026268b2a7,engineers,1,simdrop
 65e358d9c5e3ee026268b2a7,civil engineer,0,simdrop
 65e358d9c5e3ee026268b2a7,mechanical,1,simdrop
 65e358d9c5e3ee026268b2a7,electrical,0,simdrop
